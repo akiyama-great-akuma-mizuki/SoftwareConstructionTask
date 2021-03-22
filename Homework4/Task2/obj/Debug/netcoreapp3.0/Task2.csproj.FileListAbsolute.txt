@@ -1,0 +1,11 @@
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.exe
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.deps.json
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.runtimeconfig.json
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.runtimeconfig.dev.json
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.dll
+D:\C#练习\HomeWork4\Task2\bin\Debug\netcoreapp3.0\Task2.pdb
+D:\C#练习\HomeWork4\Task2\obj\Debug\netcoreapp3.0\Task2.csprojAssemblyReference.cache
+D:\C#练习\HomeWork4\Task2\obj\Debug\netcoreapp3.0\Task2.AssemblyInfoInputs.cache
+D:\C#练习\HomeWork4\Task2\obj\Debug\netcoreapp3.0\Task2.AssemblyInfo.cs
+D:\C#练习\HomeWork4\Task2\obj\Debug\netcoreapp3.0\Task2.dll
+D:\C#练习\HomeWork4\Task2\obj\Debug\netcoreapp3.0\Task2.pdb
