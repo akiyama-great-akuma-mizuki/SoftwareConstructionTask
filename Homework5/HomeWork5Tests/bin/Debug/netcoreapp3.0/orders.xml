@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfOrderdetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Orderdetails>
+    <product>
+      <info>生产时间:2021/4/2 0:00:00</info>
+    </product>
+    <count>2</count>
+  </Orderdetails>
+</ArrayOfOrderdetails>
