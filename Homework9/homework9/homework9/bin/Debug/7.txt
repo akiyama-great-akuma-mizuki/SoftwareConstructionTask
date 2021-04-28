@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta
+	content="近期发售理财产品"
+	name="keywords" />
+<meta
+	content="近期发售理财产品"
+	name="description" />
+<link href="/resources/css/2015/licaipage.css" type="text/css" rel="stylesheet">
+<!--[if IE 6.0]>
+	<link href="/resources/css/2015/ie.css" type="text/css" rel="stylesheet">
+	<style>
+        a {
+            blr: expression(this.onFocus=this.blur());
+        }
+    </style>
+<![endif]-->
+<script src="/resources/js/2015/jquery.min.js" type="text/javascript"></script>
+<script src="/resources/js/2015/util.js" type="text/javascript"></script><title>兴业银行欢迎您</title>
+<script src="/resources/js/2015/CibWealthBaidu.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="header">
+   <!-- 顶部导航菜单由js脚本填入 -->
+</div>
+<script src="/WealthHeader.js" type="text/javascript" deffer=true></script><div id="wrapper">
+	<div id="content">
+    <div class="left-menu" id="leftmenu">       
+</div>
+<script src="/retail/leftmenu.js" type="text/javascript" deffer=true></script>
+	<div class="detail-box">
+        <div class="top">
+            <p>当前位置：<a href="/">理财产品信息</a>&nbsp;&gt;&gt;<a href="/retail/">零售理财</a>&nbsp;&gt;&gt;<a href="/retail/onsale/">发售产品信息</a>
+</p>
+        </div>
+        <div class="middle">
+			<h1>近期发售理财产品</h1><p>网银购买理财产品限于最近一年已在本行柜面进行了风险评估的客户。具体产品信息请以实际发行文件和产品公告为准，详情请咨询兴业银行统一客户服务热线95561或营业网点。</p>
+<table id="finTable" style="table-layout: fixed;" align="center" border="1" cellpadding="0" cellspacing="0">
+<thead>
+<tr bgcolor="#d0e0ff">
+<td style="text-align: center; word-wrap: break-word;"><strong>产品名称</strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong><a href="#">募集起始日</a> </strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong><a href="#">募集截止日</a> </strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong>币种</strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong><a href="#">期限（天）/投资周期</a> </strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong><a href="#">起购 金额(元)</a> </strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong><a href="#">客户年化参考净收益率</a> </strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong>大额客户参考净收益率</strong></td>
+<td style="text-align: center; word-wrap: break-word;"><strong>在线购买<br />(请使用手机银行客户端左上角“扫一扫”功能购买) </strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">兴合【汇景1】号</td>
+<td align="center">2021/4/13</td>
+<td align="center">2021/4/21</td>
+<td align="center">人民币</td>
+<td align="center">1年</td>
+<td align="center">1</td>
+<td align="center">4.2%+中证500指数收益率*15%</td>
+<td>&nbsp;</td>
+<td align="center"><img alt="" src="/images/onsale/9K212803_20210420.jpg" height="93" /><br /><a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank" rel="noopener">购买</a></td>
+</tr>
+<tr>
+<td align="center">睿盈年年升8号（A类）</td>
+<td align="center">2021/4/14</td>
+<td align="center">2021/4/19</td>
+<td align="center">人民币</td>
+<td align="center">364</td>
+<td align="center">1</td>
+<td align="center">4.2%+中证500指数收益率*15%</td>
+<td>&nbsp;</td>
+<td align="center"><img alt="" src="/images/onsale/9K220128_20210420.jpg" height="93" /><br /><a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank" rel="noopener">购买</a></td>
+</tr>
+<tr>
+<td align="center">睿盈年年升8号（B类）</td>
+<td align="center">2021/4/14</td>
+<td align="center">2021/4/19</td>
+<td align="center">人民币</td>
+<td align="center">364</td>
+<td align="center">100万</td>
+<td align="center">3.00%-6.00%</td>
+<td>&nbsp;</td>
+<td align="center"><img alt="" src="/images/onsale/9K220228_20210420.jpg" height="93" /><br /><a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank" rel="noopener">购买</a></td>
+</tr>
+<tr>
+<td align="center">睿盈优选平衡2号</td>
+<td align="center">2021/4/14</td>
+<td align="center">2021/4/19</td>
+<td align="center">人民币</td>
+<td align="center">359</td>
+<td align="center">1</td>
+<td align="center">3.00%-6.00%</td>
+<td>&nbsp;</td>
+<td align="center"><img alt="" src="/images/onsale/9K212017_20210420.jpg" height="93" /><br /><a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank" rel="noopener">购买</a></td>
+</tr>
+</tbody>
+</table>
+<p>天天万利宝、天天万汇通和部分万利宝的募集截止时间为最后一个募集日<strong>15:45。</strong></p>
+<p>
+<script type="text/javascript" src="http://168.1.44.82:8090/opencms/wealth/images/itable/itable.js"></script>
+<script type="text/javascript">
+		window.onload = function(){
+			var finTable = iTable("finTable");
+			if(!finTable.itv){
+				return;
+			}
+			finTable.order(1,"date","desc");
+			finTable.order(2,"date","desc");
+			finTable.userOptions.choice.column3 = ["人民币","美元","全部"];
+			finTable.filter(3);
+			finTable.order(4,"number","desc");
+
+
+			//finTable.options.c6 = ["保本","非保本"];
+
+			// finTable.userOptions.choice.column5 = ["保本","非保本","全部"];
+			//  finTable.filter(5);
+
+
+			finTable.order(5,"number","desc");
+			finTable.order(6,"number","desc");
+		};
+	</script>
+</p><a id="to-top" class="to-top" href="#header">回到顶部</a>
+        </div>
+    </div>
+	</div>
+    
+<div id="footer">
+	<!-- 页脚由js脚本填入 -->
+</div>
+<script src="/WealthFooter.js" type="text/javascript" deffer=true></script></div>
+</body>
+</html>

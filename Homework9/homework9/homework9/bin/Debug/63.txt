@@ -1,0 +1,417 @@
+﻿<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes">
+<meta name="misapplication-tap-highlight" content="no"/>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="320"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<meta name="applicable-device" content="pc,mobile"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>经贸_中国台湾网</title>
+
+
+<meta name="filetype" content="1">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="2">
+<meta name="catalogs" content="S109">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<meta content="all" name="robots" />
+<meta name="googlebot" content="all" />
+<meta name="baiduspider" content="all" />
+<meta name="yahoobot" content="all" />
+
+<link rel="stylesheet" rev="stylesheet" href="http://ats.taiwan.cn/homepage2021/css/global.css" type="text/css" media="all" />
+<link rel="stylesheet" rev="stylesheet" href="http://ats.taiwan.cn/homepage2021/css/list.css" type="text/css" media="all" />
+</head>
+
+<body>
+<!-- header&nav_begin -->
+<div class="header">
+  <div class="wrap clearfix">
+    <!-- funcs_begin -->
+    <div class="funcs">
+      <!-- languages_begin -->
+      <div class="languages">
+        <ul class="list clearfix">
+          <li class="list-item alt"><a href="http://eng.taiwan.cn/" target="_blank">英</a></li>
+          <li class="list-item"><a href="http://big5.taiwan.cn/" target="_blank">繁</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/" target="_blank">简</a></li>  
+          <li class="list-item mobile"><a href="http://big5.taiwan.cn/" target="_blank">繁</a></li>      
+        </ul>
+      </div>
+      <!-- language_end -->
+      <!-- sub-nav_begin -->
+      <div class="sub-nav">
+        <h3 class="zone-desc">地方站点</h3>
+        <ul class="list clearfix">
+          <li class="list-item"><a href="http://www.taiwan.cn/local/beijing/" target="_blank">京</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/tianjin/" target="_blank">津</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hebei/" target="_blank">冀</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanxi2/" target="_blank">晋</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/neimenggu/" target="_blank">蒙</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/liaoning/" target="_blank">辽</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/jilin/" target="_blank">吉</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/heilongjiang/" target="_blank">黑</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanghai/" target="_blank">沪</a></li>
+          <li class="list-item"><a href="http://www.jsstb.gov.cn/" target="_blank">苏</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/zhejiang/" target="_blank">浙</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/anhui/" target="_blank">皖</a></li>
+          <li class="list-item"><a href="http://www.fjtb.gov.cn/" target="_blank">闽</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/jiangxi/" target="_blank">赣</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shandong/" target="_blank">鲁</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/henan/" target="_blank">豫</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hubei/" target="_blank">鄂</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hunan/" target="_blank">湘</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangdong/" target="_blank">粤</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangxi/" target="_blank">桂</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hainan/" target="_blank">琼</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/chongqing/" target="_blank">渝</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/sichuan/" target="_blank">川</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guizhou/" target="_blank">黔</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/yunnan/" target="_blank">滇</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/xizang/" target="_blank">藏</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanxi/" target="_blank">陕</a></li>
+          <li class="list-item"><a href="http://www.gstb.gov.cn/" target="_blank">甘</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/qinghai/" target="_blank">青</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/ningxia/" target="_blank">宁</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/xinjiang/" target="_blank">新</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangdong_33203/" target="_blank">兵团</a></li>
+          <li class="list-item"><a href="http://www.qd.taiwan.cn" target="_blank">青岛</a></li>
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/2019/styjq/" target="_blank">苏州</a></li>
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/2018/liangan/" target="_blank">昆山</a></li>  
+        </ul>
+      </div>
+      <!-- sub-nav_end -->
+      <!-- pc-entrance_begin -->
+      <!-- <div class="pc-entrance">
+        <a href="http://www.taiwan.cn/" target="_blank">电脑版</a>
+      </div> -->
+      <!-- pc-entrance_end -->
+    </div>
+    <!-- funcs_end -->
+    <!-- site-logo_begin -->
+    <div class="site-logo">
+      <a class="logo" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo.png" alt="中国台湾网" /></a>
+      <a class="logo-alt" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo_alt.png" alt="中国台湾网" /></a>
+    </div>
+    <!-- site-logo_end -->
+    <!-- search_begin -->
+    <div class="searchPanel">
+      <form target="_blank" class="clearfix" id="baiduSearchContainer" action="http://zhannei.baidu.com/cse/search">
+        <input type="text" id="bdcsMain" class="input" name="q" placeholder="请输入关键字搜索" />
+        <span class="input-group-btn ">
+          <input type="submit" title="搜索" value="搜索" class="button" />
+        </span>
+        <div>
+          <input type="hidden" value="12472666198958497854" name="s" /><input type="hidden" value="1" name="entry" />
+        </div>
+      </form>
+    </div>
+    <!-- search_end -->
+    <!-- qrcodes_begin -->
+    <div class="qrcodes">
+      <ul class="list clearfix">
+        <li class="list-item">
+          <h2 class="list-item-title">中国台湾网移动版</h2>
+          <img src="http://ats.taiwan.cn/homepage2021/images/qrcode1.png" alt="中国台湾网移动版" />
+        </li>
+        <!-- <li class="list-item">
+          <h2 class="list-item-title">31条APP</h2>
+          <img src="http://ats.taiwan.cn/homepage2021/images/qrcode1.png" alt="31条APP" />
+        </li> -->
+      </ul>
+    </div>
+    <!-- qrcodes_end -->
+  </div>
+</div>
+<div class="nav stTop">
+  <div class="wrap">
+    <ul class="list clearfix">
+      <li class="list-item logo"><a class="logo-alt" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo_alt.png" alt="中国台湾网" /></a></li>
+      <li class="list-item homepage"><a href="http://www.taiwan.cn/" target="_blank">首页</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/xwzx/" target="_blank">时事</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/plzhx/" target="_blank">评论</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/lilunpindao/" target="_blank">理论</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/taiwan/" target="_blank">台湾</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/xwzx/la/" target="_blank">两岸</a></li>
+      <li class="list-item"><a href="http://depts.taiwan.cn/" target="_blank">部委</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/31t/" target="_blank">31条</a></li>
+      <li class="list-item"><a href="http://econ.taiwan.cn/" target="_blank">经贸</a></li>
+      <li class="list-item"><a href="http://culture.taiwan.cn/" target="_blank">文化</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/zhinan/" target="_blank">指南</a></li>
+      <li class="list-item"><a href="http://lib.taiwan.cn/" target="_blank">百科</a></li>
+      <li class="list-item mobile"><a href="http://special.taiwan.cn/2021zhuanti/" target="_blank">专题</a></li>
+    </ul>
+  </div>
+</div>
+<!-- header&nav_end -->
+<!--main_begin-->
+<div class="main">
+  <!-- bread-crumbs_begin -->
+  <div class="bread-crumbs">
+    <div class="wrap">
+      <a href="http://www.taiwan.cn/" target="_blank" title="中国台湾网" class="CurrChnlCls">中国台湾网</a>&nbsp;&gt;&nbsp;<a href="http://econ.taiwan.cn/" target="_blank" title="经贸" class="CurrChnlCls">经贸</a>
+    </div>
+  </div>
+  <!-- bread-crumbs_end -->
+  <!-- part1_begin -->
+  <div class="part1 wrap">
+    <ul class="list column-type1 clearfix">
+     
+        
+      <li class="list-item pic">
+        <a href="./econ/202104/t20210424_12347717.htm" target="_blank"><img src="http://econ.taiwan.cn/econ/202104/W020210424326382462622.png" alt="12.png"/></a>
+        <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347717.htm" target="_blank" title="“直播带货”怎么管？新规来了">“直播带货”怎么管？新规来了</a></h2>
+      </li>
+      
+      
+      
+      
+      <li class="list-item">
+        <h2 class="list-item-title double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347754.htm" target="_blank" title="五一长假将近，出游人数大增——旅游市场复苏态势明显">五一长假将近，出游人数大增——旅游市场复苏态势明显</a></h2>
+        <p class="list-item-desc double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347754.htm" target="_blank">五一长假红色旅游出行热度高涨，江西井冈山、贵州遵义等红色旅游景区受到消费者欢迎，相关景区、博物馆游览热度继清明小长假后持续攀升。文旅部发布信息显示，从2004年到2019年，每年参加红色旅游的人次从1.4亿增长到了14.1亿，许多红色景点成为年轻人聆听红色故事、致敬英雄模范的“打卡地”。</a></p>
+      </li>
+      
+      <li class="list-item">
+        <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347720.htm" target="_blank" title="保险业乱象调查：“五虚”问题不鲜见 “代理退保”套路深">保险业乱象调查：“五虚”问题不鲜见 “代理退保”套路深</a></h2>
+        <p class="list-item-desc double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347720.htm" target="_blank">虚假增员、虚增保费、虚列费用套取资金……此前，多名保险公司员工实名举报领导造假并登上微博热搜。在湖南大学风险管理与保险精算研究所所长张琳看来，虚列费用、虚假承保、虚假增员等并不是新出现的问题。</a></p>
+      </li>
+      
+      
+    </ul>
+  </div>
+  <!-- part1_end -->
+  <!-- part2_begin -->
+  <div class="part2 wrap clearfix">
+    <!-- left-side_begin -->
+    <div class="column-wrap">
+      <div class="left-side column left">
+        <div class="column-item">
+          <ul class="list">
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347719.htm" target="_blank" title="数字人民币加速推进 “花”样翻新">数字人民币加速推进 “花”样翻新</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347719.htm" target="_blank">试点地区“扩容”、“白名单”人群扩大、试点之间尝试联动……近期数字人民币测试活动频频，引人关注。近日，数字人民币试点又传来新的活动消息：在苏州、上海携手举办的“五五购物节”系列活动中，数字人民币红包将实现跨区域支付。</a></p>
+              <p class="date">2021-04-24</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347718.htm" target="_blank" title="直播间里买东西如何维权？规定来了">直播间里买东西如何维权？规定来了</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347718.htm" target="_blank">针对社会广泛关切的消费者权益保护问题，办法要求，直播营销平台应当及时处理公众对于违法违规信息内容、营销行为投诉举报。直播间运营者、直播营销人员应当依法依规履行消费者权益保护责任和义务，不得故意拖延或者无正当理由拒绝消费者提出的合法合理要求。</a></p>
+              <p class="date">2021-04-24</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347716.htm" target="_blank" title="央行:大部分银行业金融机构评级结果在安全边界内">央行:大部分银行业金融机构评级结果在安全边界内</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347716.htm" target="_blank">中国人民银行23日发布对4399家银行业金融机构的评级结果显示，2020年四季度，大部分机构评级结果在安全边界内，高风险机构数量显著下降。人民银行表示，已采取“一对一”通报、约谈高管、下发风险提示函和评级意见书等多种早期纠正措施，增强金融机构风险防控的自觉性和主动性。</a></p>
+              <p class="date">2021-04-24</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347715.htm" target="_blank" title="税收大数据折射一季度经济形势稳中向好">税收大数据折射一季度经济形势稳中向好</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347715.htm" target="_blank">国家税务总局23日发布的最新税收数据显示，一季度我国经济运行呈现稳中加固、稳中向好态势。海外需求复苏继续拉动我国出口快速增长，一季度全国出口企业国内采购金额同比增长46.5%，比2019年同期增长34.5%，两年平均增长16%。</a></p>
+              <p class="date">2021-04-24</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              <a href="./econ/202104/t20210424_12347717.htm" target="_blank"><img src="http://econ.taiwan.cn/econ/202104/W020210424326382462622.png" alt="12.png" class="pic"/></a>
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347717.htm" target="_blank" title="“直播带货”怎么管？新规来了">“直播带货”怎么管？新规来了</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347717.htm" target="_blank">办法明确，直播营销平台应当建立健全账号及直播营销功能注册注销、信息安全管理、营销行为规范、未成年人保护、消费者权益保护、个人信息保护、网络和数据安全管理等机制、措施。</a></p>
+              <p class="date">2021-04-24</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347524.htm" target="_blank" title="一季度经济的高“含金量”彰显人民力量">一季度经济的高“含金量”彰显人民力量</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347524.htm" target="_blank">蔡晓陈 中国人民大学长江经济带研究院高级研究员、西南财经大学经济学院教授　　4月16日，国家统计局发布国内生产总值(GDP)这一最重要的季度数据：今年第一季度，我国GDP为249310亿元，按可比价格计算，同比增长18.3%,比2020年四季度环比增长0.6%；比2019年一季度增长10.3%，两年平均增长5.0%。能源、水利等重大工程项目和信息网络等新型基础设施建设不断推进，基础设施投资同比增长29.7% 　　第二，持续推进“双循环”新发展格局。</a></p>
+              <p class="date">2021-04-23</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347520.htm" target="_blank" title="中国外贸“开门红”为全球市场注入复苏信心">中国外贸“开门红”为全球市场注入复苏信心</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347520.htm" target="_blank">“十四五”的第一个春天，中国外贸稳健开局。外贸数据实现“开门红”，除了有稳定的产业链和供应链，也离不开以中欧班列为代表的国际物流作支撑。外贸数据实现“开门红”，除了国内经济韧性持续凸显、活力持续增强，更离不开党中央的运筹帷幄科学决策。</a></p>
+              <p class="date">2021-04-23</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347418.htm" target="_blank" title="北京设立智能网联汽车政策先行区">北京设立智能网联汽车政策先行区</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347418.htm" target="_blank">4月10日，北京市政府正式批复《北京市智能网联汽车政策先行区总体实施方案》（以下简称《实施方案》），同意依托高级别自动驾驶示范区设立北京市智能网联汽车政策先行区（简称“政策先行区”），发挥政策叠加效应，为企业在京发展营造良好的“自动驾驶营商环境”。孔磊介绍，政策先行区针对自动驾驶汽车高速公路管理难题，将就高速公路运行的能力评估方法、开放道路选取条件、运行管理的手段等内容开展研究。</a></p>
+              <p class="date">2021-04-23</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347411.htm" target="_blank" title="一季度居民收入榜公布！你的收入是多少？">一季度居民收入榜公布！你的收入是多少？</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347411.htm" target="_blank">近日，国家统计局更新公布了31省份一季度居民人均可支配收入数据，上海、北京、浙江位居前三。数据显示，上海一季度居民人均可支配收入达到21548元，位居第一，是全国唯一突破2万元大关的地区。</a></p>
+              <p class="date">2021-04-23</p>
+            </li>
+            
+            <li class="list-item clearfix">
+              
+              <h2 class="list-item-title double-lines"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347412.htm" target="_blank" title="莫用二元思维看待“制造业工人送外卖”">莫用二元思维看待“制造业工人送外卖”</a></h2>
+              <p class="list-item-desc double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210423_12347412.htm" target="_blank">近日，一组疫情期间的就业数据引发热议。某平台公布数据，疫情期间两个月内新增骑手58万人，其中40%来自制造业工人。近年来，快递员、网约车司机、外卖配送员等从事互联网相关业务的劳动者人数逐年增加。</a></p>
+              <p class="date">2021-04-23</p>
+            </li>
+            
+          </ul>
+          <div class="more"><a href="http://econ.taiwan.cn/econ/" target="_blank">点击查看更多></a></div>
+        </div>
+      </div>
+    </div>
+    <!-- left-side_end -->
+    <!-- right-side_begin -->
+    <div class="right-side clearfix">      
+  <div class="item">
+    <div class="type4 alt">
+      <h3 class="zone-desc2 alt"><a class="format" href="http://www.taiwan.cn/plzhx/plyzl/" target="_blank">两岸快评</a><a class="more right" href="http://www.taiwan.cn/plzhx/plyzl/" target="_blank">更多</a></h3>
+      <ul class="list">
+        
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/plyzl/202104/t20210423_12347596.htm" target="_blank" title="一声“我爱你”，融合两岸情">一声“我爱你”，融合两岸情</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/plyzl/202104/t20210415_12345656.htm" target="_blank" title="鼓吹这么久“美台关系”突破，民进党这点倒是学美国学的最像">鼓吹这么久“美台关系”突破，民进党这点倒是学美国学的最像</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/plyzl/202104/t20210413_12345076.htm" target="_blank" title="民进党当局套路搞得深，岛内民众被坑得愈发惨">民进党当局套路搞得深，岛内民众被坑得愈发惨</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/plyzl/202103/t20210325_12340808.htm" target="_blank" title="“农林22条”被抹黑咋办？好办！民进党越骂，证明它越怕">“农林22条”被抹黑咋办？好办！民进党越骂，证明它越怕</a></li>
+        
+        
+        
+        
+        <li class="list-item pic">
+          <a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210421_12346946.htm" target="_blank"><img src="http://www.taiwan.cn/plzhx/kuaipingpic/202104/W020210421555639281151.jpg" title='逢日必软，民进党“反核”立场实为双标' alt='逢日必软，民进党“反核”立场实为双标' /></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210421_12346946.htm" target="_blank" title="逢日必软，民进党“反核”立场实为双标">逢日必软，民进党“反核”立场实为双标</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+  </div>
+  <div class="item">
+    <div class="type4 alt">
+      <h3 class="zone-desc2 alt"><a class="format" href="http://depts.taiwan.cn/news/" target="_blank">部委快讯</a><a class="more right" href="http://depts.taiwan.cn/news/" target="_blank">更多</a></h3>
+      <ul class="list">
+        
+        
+        <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210424_12347702.htm" target="_blank" title="外交部：中国必须统一也必然统一，日方不要有非分之想">外交部：中国必须统一也必然统一，日方不要有非分之想</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210424_12347701.htm" target="_blank" title="王毅：打“台湾牌”是在“玩火”">王毅：打“台湾牌”是在“玩火”</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank" title="美日联合声明提“台湾海峡和平稳定重要性” 外交部回应">美日联合声明提“台湾海峡和平稳定重要性” 外交部回应</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210418_12346128.htm" target="_blank" title="针对拜登派遣“低级别代表团”访问台湾 外交部副部长：我们绝不允许“越线”行为">针对拜登派遣“低级别代表团”访问台湾 外交部副部长：我们绝不允许“越线”行为</a></li>
+        
+        
+        
+        
+        <li class="list-item pic">
+          <a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank"><img src="http://depts.taiwan.cn/tj/202104/W020210420400029190366.jpg" title='美日联合声明提“台湾海峡和平稳定重要性” 外交部回应' alt='美日联合声明提“台湾海峡和平稳定重要性” 外交部回应' /></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank" title="美日联合声明提“台湾海峡和平稳定重要性” 外交部回应">美日联合声明提“台湾海峡和平稳定重要性” 外交部回应</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+  </div>
+  <div class="item">
+    <div class="type4 alt">
+      <h3 class="zone-desc2 alt"><a class="format" href="http://www.taiwan.cn/local/dfkx/" target="_blank">地方快讯</a><a class="more right" href="http://www.taiwan.cn/local/dfkx/" target="_blank">更多</a></h3>
+      <ul class="list">
+        
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210423_12347672.htm" target="_blank" title="两岸青年文化交流创作大赛火热开启">两岸青年文化交流创作大赛火热开启</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210423_12347591.htm" target="_blank" title="苏州开启民企台企融合发展新篇章">苏州开启民企台企融合发展新篇章</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210423_12347588.htm" target="_blank" title="上海市台办主任钟晓敏一行走访调研南侨食品和金山青创基地">上海市台办主任钟晓敏一行走访调研南侨食品和金山青创基地</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210423_12347540.htm" target="_blank" title="两岸学子同台共编中国结 首届两岸青少年成渝双城研学营22日在渝开幕">两岸学子同台共编中国结 首届两岸青少年成渝双城研学营22日在渝开幕</a></li>
+        
+       
+        
+        
+        <li class="list-item pic">
+          <a href="http://www.taiwan.cn/local/dfkx/202104/t20210421_12347015.htm" target="_blank"><img src="http://www.taiwan.cn/31t/31tiaopic/202104/W020210421537603841080.jpg" title='台湾青年联合会一行到汕尾考察 助力两岸乡村融合发展' alt='台湾青年联合会一行到汕尾考察 助力两岸乡村融合发展' /></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210421_12347015.htm" target="_blank" title="台湾青年联合会一行到汕尾考察 助力两岸乡村融合发展">台湾青年联合会一行到汕尾考察 助力两岸乡村融合发展</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    <!-- right-side_end -->
+  </div>
+  <!-- part2_end -->
+</div>
+<!--main_end-->
+<!-- funcs_begin -->
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/globalLib_min.js"></script>
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/globalLib_extend_min.js"></script>
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/headerFunc.js"></script>
+<!-- funcs_end -->
+<!-- footer_begin -->
+<div class="footer">
+  <div class="wrap clearfix">
+    <div class="left clearfix">
+      <img class="gshIcon" src="http://ats.taiwan.cn/homepage2021/images/gshicon.png" />
+      <p class="left clearfix">
+        <a class="format" href="https://beian.miit.gov.cn/" target="_blank">京ICP备13026587号-3</a>
+        <a class="format" href="https://beian.miit.gov.cn/" target="_blank">京ICP证130248号</a>
+        <span class="format">京公网安备110102003391 网络传播视听节目许可证0107219号</span>
+      </p>
+      <p class="left clearfix">
+        <a class="format2" href="http://www.taiwan.cn/gywm/200905/t20090505_886770.htm" target="_blank">关于我们</a>
+        <a class="format2" href="http://www.taiwan.cn/zzsq/200708/t20070803_438962.htm" target="_blank">转载申请</a>
+        <a class="format2" href="http://www.taiwan.cn/2021/sywhq_62090/2021gonggao/" target="_blank">公告栏</a>
+        <a class="format2" href="http://www.taiwan.cn/lx/200709/t20070905_449642.htm" target="_blank">联系我们</a>
+        <a class="format2" href="http://www.taiwan.cn/zzsq/201811/t20181121_12114577.htm" target="_blank">版权声明</a>
+        <a class="format2" href="http://www.taiwan.cn/lx/201801/t20180119_11909120.htm" target="_blank">违法和不良信息举报电话：86-10-53610172</a>
+      </p>
+    </div>
+    <div class="left">
+      <a class="jbtel" href="http://www.12377.cn/" target="_blank">违法和不良信息举报电话</a>
+    </div>
+  </div>
+</div>
+<!-- footer_end -->
+<!--footer-mobile_begin-->
+<div class="footer-mobile">
+  <div class="wrap clearfix">
+    <p class="line1">
+      <a class="format" href="http://www.taiwan.cn/gywm/200905/t20090505_886770.htm" target="_self">关于我们</a>
+      <a class="format" href="http://www.taiwan.cn/lx/200709/t20070905_449642.htm" target="_self">联系我们</a>
+      <a class="format" href="http://www.taiwan.cn/zzsq/201811/t20181121_12114577.htm" target="_self">版权声明</a>
+      <a class="backToPC" href="http://www.taiwan.cn/?" target="_self"><img src="http://ats.taiwan.cn/homepage2021/images/backToPC.jpg" alt="PC端" /></a>
+    </p>
+    <p class="line2 clearfix">
+      <img class="gshIcon" src="http://ats.taiwan.cn/homepage2021/images/gshicon.png" />
+      <a class="format" href="https://beian.miit.gov.cn" target="_blank">京ICP备13026587号-3</a>
+      <span class="format">京公网安备110102003391</span>
+      <span class="format">网络传播视听节目许可证0107219号</span>
+    </p>
+  </div>
+</div>
+<!-- 统计代码_begin -->
+<div style="display:none">
+<!--百度_begin-->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ca9d4832677566b69c3e115b744cdbc' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--百度_end-->
+</div>
+<!-- 统计代码_end -->
+<!--footer-mobile_end-->
+</body>
+</html>

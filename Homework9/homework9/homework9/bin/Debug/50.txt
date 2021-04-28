@@ -1,0 +1,1288 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>中共中央网络安全和信息化委员会办公室</title>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<META NAME="Keywords" CONTENT="中共中央网络安全和信息化委员会办公室、国家互联网信息办公室">
+<META NAME="Abstract" CONTENT="">
+<META NAME="Description" CONTENT="">
+<link rel="stylesheet" type="text/css" href="http://www.cac.gov.cn/lib/template/scheme/css/newindex2.css" />
+<link rel="stylesheet" type="text/css" href="http://www.cac.gov.cn/lib/template/scheme/css/newcss.css" />
+<script src="http://www.cac.gov.cn/lib/template/scheme/js/require.js"></script>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/jq.js"></script>
+<SCRIPT type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/xh_roll.js"></script>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/load.js"></script>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/jquery.SuperSlide.2.1.js"></script>
+<script type="text/javascript">
+var userAgent = navigator.userAgent.toLowerCase(),l=window.location;
+var platform;
+if(userAgent == null || userAgent == '' || (l.href.indexOf('f=pc') != -1) ){
+    platform = 'web';
+	//location.href = "http://www.cac.gov.cn/index.htm?f=pc";
+}else if (userAgent.match(/iphone/i)||userAgent.match( /iphone os/i)||userAgent.match( /android/i)||userAgent.match(/windows mobile/i)||userAgent.match( /ucweb/i)||userAgent.match(/iPad/i)){
+        platform = 'phone'
+        location.href = "http://wap.cac.gov.cn/";
+}
+</script>
+
+</head>
+<body >
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/appvar.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/appfunction.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/pub.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/date/WdatePicker.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/flv.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/tree.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/tree_tpl.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/jquery.min.js"></script><style type="text/css">
+html,body{
+min-width:1300px;
+}
+@media only screen and (max-width:1300px) {
+html,body{
+    overflow-x: hidden;
+}
+}
+.main{
+  padding:0 11px;
+ }
+.foot{
+  padding:0 11px;
+ }
+
+.new-say{
+   width:106px;
+   height:180px;
+   left: 50%;
+    margin-left: 536px;
+    top: 562px;
+    position: fixed;
+}
+
+.zhuanti-lianjie{
+width: 106px;
+    left: 50%;
+    margin-left: 536px;
+    top: 565px;
+    position: fixed;
+    /* background: #fff; */
+    border: solid 1px #dcdcdc;
+    -moz-box-shadow: 0 0px 2px 2px rgba(51,59,85,.15);
+    -webkit-box-shadow: 0 0px 2px 2px rgba(51,59,85,.15);
+    box-shadow: 0px 0px 2px 2px rgba(51,59,85,.15);
+    /* padding-top: 3px; */
+
+}
+.zhuanti-lianjie a{
+   display:block;
+}
+.zhuanti-lianjie img{
+   width:106px;
+   height:106px;
+}</style>
+<div class="rightnav">
+<ul class="msfw_ul">
+    <li><a target="_blank" href="http://www.cac.gov.cn/zrxx/A0918index_1.htm">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic00.png" /></div>
+    <div class="ttalb_r">
+    <p>主任信箱</p>
+    </div>
+    </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/jjjcjb/A0919index_1.htm">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic01.png" /></div>
+    <div class="ttalb_r">
+    <p>纪检监察<br />
+    举报信箱</p>
+    </div>
+    </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/dhgc/A0915index_1.htm">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic02.png" /></div>
+    <div class="ttalb_r">
+    <p>导航广场</p>
+    </div>
+    </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/hlwxwxxfw/hlwxxfw/A09170101index_1.htm">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic03.png" /></div>
+    <div class="ttalb_r">
+    <p>互联网新闻 信息服务</p>
+    </div>
+    </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/jrxxfw/jwjrxxfw/A09170201index_1.htm">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic04.png" /></div>
+    <div class="ttalb_r">
+    <p>金融信息<br />
+    服务</p>
+    </div>
+    </a></li>
+    <li><a target="_blank" href="http://press.gapp.gov.cn/">
+    <div class="ttalb_l"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/jaic05.png" /></div>
+    <div class="ttalb_r">
+    <p>新闻记者证 查询</p>
+    </div>
+    </a></li>
+</ul>
+</div>
+<!--<div class="loadLayout">正在加载信息……</div>-->
+<div id="spAdd" style="display: none">
+<span>/vmsfile/videoori/181e653eed2d1607cd5fe5ceb2235aa8a38d03c3.mp4</span><span>/vmsfile/videoori/248c44ed78.mp4</span><span>/vmsfile/videoori/25c2251370.mp4</span><span>/vmsfile/videoori/b6f274ee4c.mp4</span><span>/vmsfile/videoori/57a8b36d38.mp4</span><span>/vmsfile/videoori/b9201b21ec.mp4</span><span>/vmsfile/videoori/26b7c773c1.mp4</span><span>/vmsfile/videoori/8b3c25051b.mp4</span><span>/vmsfile/videoori/abc0a28a3b.mp4</span>
+</div>
+<div id="spAdd2" style="display: none">#/titlepic/112272/1122720178_1524730806429_title0h.jpg</div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/crToken.js"></script>
+<div class="head-bg">
+<div class="head-line">
+<div class="head">
+<div class="top">
+<div id="time" class="fl"> </div>
+<div class="fr"><a class="t1" onclick="SetHome(this,window.location)" href="###">设为首页 </a><a class="t2" onclick="AddFavorite(window.location,document.title)" href="###">加入收藏 </a><a id="rwk_btn_ss" class="ydb" data-reveal-id="myModal" href="#">手机版 </a><a id="StranLink" class="t3" href="/###">繁体 </a></div>
+</div>
+</div>
+</div>
+<script language=JavaScript src="http://www.cac.gov.cn/inc/stran.js"></script>
+<div class="logoarea">
+<div id="logo_gd">
+<div id="rolldiv">
+<ul id="mycarousel" class="jcarousel jcarousel-skin-tango">
+    <li><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/logo04141.png" /> </li>
+    <li><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/logo04142.png" /></li>
+</ul>
+</div>
+</div>
+<div class="cagweb"><a href="/">www.cac.gov.cn</a></div>
+<div class="search">
+<div class="con"><input id="sw" class="input1" onKeyDown="KeyDown();" name="huopro" value="请输入检索关键词" type="text" /> <a class="btn_ss" onClick="searchsearch()" href="javascript:">搜索 </a>
+<form id="zlb" method="get" action="http://search.cac.gov.cn/cms/cmsadmin/infopub/gjjs.jsp" target="_blank" name="frm">
+    <input id="searchword" type="hidden" name="huopro" /> <input type="hidden" name="pubtype" value="S" /><input type="hidden" name="pubpath" value="portal" /><input type="hidden" name="templetid" value="1563339473064626" /><input type="hidden" name="startDate" /><input type="hidden" name="endDate" /><input type="hidden" name="searchfield" /><input type="hidden" name="sort" value="1" /><input type="hidden" name="webappcode" value="A09" /><input type="hidden" name="searchdir" value="A09" />
+</form>
+<script> function searchOnsubmit() {  if(frm.huopro.value==''){alert('请输入检索关键字！');frm.huopro.focus(); return false; }} function search() {          if(frm.huopro.value=='')          {           alert('请输入检索关键字！');           frm.huopro.focus();       return false;        }frm.submit(); } </script>
+<div class="clear"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="main">
+<div class="main_con">
+<div class="clear"> </div>
+<!-- jadebai20190920add-->
+<div class="jade_wrap">
+<div class="jade_toutiao">
+<h1><a href="http://www.cac.gov.cn/2021-04/23/c_1620756019785798.htm" target="_blank">习近平出席领导人气候峰会并发表重要讲话</a></h1><div class="jade_hot"> <a href="http://www.cac.gov.cn/2021-04/23/c_1620756019785798.htm" target="_blank">习近平：要坚持绿色发展，坚持多边主义，坚持共同但有区别的责任原则，共同构建人与自然生命共同体</a> <a href="http://www.cac.gov.cn/2021-04/23/c_1620756020418240.htm" target="_blank">全文</a></div>
+<div class="more_tt"><a target="_blank" href="http://www.cac.gov.cn/yaowen/gdtt/A090104index_1.htm">更多头条</a></div>
+</div>
+<div class="jade">
+<div class="jade_l">
+<div id="slideBox" class="slideBox">
+<div class="hd"> </div>
+<div class="bd">
+<ul>
+     <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/2021-04/23/c_1620756019785798.htm target="_blank">习近平出席领导人气候峰会并发表重要讲话</a></div>    <a target="_blank" href=http://www.cac.gov.cn/2021-04/23/c_1620756019785798.htm><img alt="" src="http://www.cac.gov.cn/rootimages/2021/04/23/1620756022574154.jpg" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li> <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/2021-04/20/c_1620498640610939.htm target="_blank">习近平在博鳌亚洲论坛2021年年会开幕式上发表主旨演讲</a></div>    <a target="_blank" href=http://www.cac.gov.cn/2021-04/20/c_1620498640610939.htm><img alt="" src="http://www.cac.gov.cn/rootimages/2021/04/20/1620497307471871.jpg" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li> <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/wzqh/A0920010228index_1.htm target="_blank">《网信系统学习宣传贯彻党的十九届五中全会精神》专题</a></div>    <a target="_blank" href=http://www.cac.gov.cn/gzzt/ztzl/zt/wzqh/A0920010228index_1.htm><img alt="" src="http://www.cac.gov.cn/rootimages/scroll/2021/02/24/1615763698243946.jpg" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li> <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm target="_blank">网信系统学习宣传贯彻《习近平关于网络强国论述摘编》专题</a></div>    <a target="_blank" href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm><img alt="" src="http://www.cac.gov.cn/rootimages/scroll/2021/02/24/1615763698524754.jpg" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li> <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm target="_blank">《知史爱党守初心 继往开来新征程》专题</a></div>    <a target="_blank" href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm><img alt="" src="http://www.cac.gov.cn/rootimages/scroll/2021/03/15/1617384132542570.png" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li> <li>    <div id="bd_a"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xjpxxh/A0920010209index_1.htm target="_blank">专题：习近平关于网络安全和信息化的重要论述</a></div>    <a target="_blank" href=http://www.cac.gov.cn/gzzt/ztzl/zt/xjpxxh/A0920010209index_1.htm><img alt="" src="http://www.cac.gov.cn/rootimages/scroll/2020/04/04/1587546934574846.jpg" /></a>    <div class="moresp"><a href="http://www.cac.gov.cn/yaowen/tupian/A090102index_1.htm" target="_blank">更多图片</a></div>    </li>
+</ul>
+</div>
+<!-- 下面是前/后按钮代码，如果不需要删除即可 --><a class="prev" href="javascript:void(0)"> </a> <a class="next" href="javascript:void(0)"> </a> <span class="pageState"> </span></div>
+<script type="text/javascript">
+		jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true,interTime:8000,delayTime:400,effect:"fold",trigger:"click",});
+		</script><!--视频弹框-->
+<div class="video_pop">
+<div class="close_btn"> </div>
+<iframe id="video" class="video-frame" height="416" frameborder="no" width="600"></iframe></div>
+<script>
+var vdo = document.getElementById("video")
+$('.videosrc').click(function(){
+    var data=$(this).attr('data');
+    $('#video').attr('src',data);
+    $(".video_pop").fadeIn(300)
+})
+$('.close_btn').click(function(){
+    var data=$(this).attr('data');
+    $('#video').attr('src','');
+    $(".video_pop").fadeOut(0)
+})
+
+vdo.addEventListener("ended", function() {
+    $(".video_pop").fadeOut(0)
+
+})
+</script></div>
+<div class="jade_r">
+<ul class="news_listsy">
+    <li><p><a href="http://www.cac.gov.cn/2021-04/20/c_1620498640610939.htm" target="_blank">习近平在博鳌亚洲论坛2021年年会开幕式上发表主旨演讲</a> <a href="http://www.cac.gov.cn/2021-04/20/c_1620498641519010.htm" target="_blank">全文</a></p></li><li><p><a href="http://www.cac.gov.cn/2021-04/19/c_1620411765175993.htm" target="_blank">习近平在清华大学考察：坚持中国特色世界一流大学建设目标方向 为服务国家富强民族复兴人民幸福贡献力量</a></p></li>
+</ul>
+<div class="jade_zhuanti"><a target="_blank" href="http://www.cac.gov.cn/gzzt/ztzl/yjzt/xjpsx/A0920010105index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/imagesnew/zt11.jpg" /></a></div>
+<ul class="news_listsy01">
+    <li><p><a href="http://www.cac.gov.cn/2021-04/19/c_1620411767926998.htm" target="_blank">中央网信办召开学习宣传贯彻习近平总书记关于网络强国的重要思想理论研讨会</a> <a href="http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm" target="_blank">专题</a> <a href="http://www.cac.gov.cn/2021-04/21/c_1620581585758090.htm" target="_blank">发言摘编</a></p></li><li><p><a href="http://www.cac.gov.cn/2021-04/22/c_1620670982951092.htm" target="_blank">国家七部门联合发布《网络直播营销管理办法（试行）》</a> <a href="http://www.cac.gov.cn/2021-04/22/c_1620670982794847.htm" target="_blank">全文</a> <a href="http://www.cac.gov.cn/2021-04/22/c_1620670982981264.htm" target="_blank">答记者问</a></p></li><li><p><a href="http://www.cac.gov.cn/2021-04/22/c_1620670986204915.htm" target="_blank">中央网信办关于十九届中央第五轮巡视整改进展情况的通报</a></p></li>
+</ul>
+<div class="yaowen_more"><a target="_blank" href="http://www.cac.gov.cn/yaowen/toutiao/A090101index_1.htm">更多要闻</a></div>
+</div>
+</div>
+</div>
+<!--jadebai20190920add-->
+<div id="player_container" style="display: none"> </div>
+<div class="roll-wrap roll_col" id="ztFocus">
+<ul class="roll__list">
+    <li class="li-1"><a target="_blank" href="http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm"><img alt="知史爱党守初心 继往开来新征程&mdash;&mdash;全国网信系统深入开展党史学习教育" src="http://www.cac.gov.cn/lib/zhuanti/2021zhuanti/2021history/scheme/images/2021history.jpg" /></a></li>
+    <li class="li-2"><a target="_blank" href="http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm"><img alt="网信系统学习宣传贯彻《习近平关于网络强国论述摘编》" src="http://www.cac.gov.cn/lib/zhuanti/2021zhuanti/2021wlqgls/scheme/images/2021xxwlqgls.jpg" /></a></li>
+    <li class="li-3"><a target="_blank" href="http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm"><img alt="凝心聚力推进新时代网络强国建设" src="http://www.cac.gov.cn/lib/zhuanti/2021zhuanti/xsdwlqgjs/scheme/images/2021xsdwlqg.png" /></a></li>
+</ul>
+</div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/rollSlide.js"></script>
+<div id="tabN" class="part part2">
+<div class="tab">
+<div class="tab_title">
+<ul>
+    <li class="active1"><a target="_blank" href="http://www.cac.gov.cn/qwfb/A0903index_1.htm"><span>权威发布</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/bgs/A0902index_1.htm"><span>办公室</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/gzzc/gzzc/A090401index_1.htm"><span>工作之窗</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/wlaq/A0905index_1.htm"><span>网络安全</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/xxh/A0906index_1.htm"><span>信息化</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/wlcb/A0907index_1.htm"><span>网络传播</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/jypx/A0908index_1.htm"><span>教育培训</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/zcfg/xzfg/A090902index_1.htm"><span>政策法规</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/gjjl/A0910index_1.htm"><span>国际交流</span> </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/hdzx/hdzx/A091101index_1.htm"><span>互动中心</span> </a></li>
+</ul>
+</div>
+<div class="tab_box"><!--权威发布-->
+<div class="tab_box_content ntab4" style="display: block">
+<div class="wlaq_fl_2 qwfb">
+<div class="con clearfix Nline">
+<div class="qwfb-left">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/qwfb/zyjs/A090301index_1.htm">中央精神 </a></div>
+<ul>
+    <li><a  href="http://www.cac.gov.cn/2021-04/23/c_1620756019785798.htm" target="_blank">习近平出席领导人气候峰会并发表重要讲话</a></li><li><a  href="http://www.cac.gov.cn/2021-04/20/c_1620498640610939.htm" target="_blank">习近平在博鳌亚洲论坛2021年年会开幕式上发表主旨演讲</a></li><li><a  href="http://www.cac.gov.cn/2021-04/19/c_1620411765175993.htm" target="_blank">习近平在清华大学考察时强调 坚持中国特色世界一流大学建设目标方向 为服务国家富强民...</a></li><li><a  href="http://www.cac.gov.cn/2021-04/16/c_1620180048224536.htm" target="_blank">习近平同法国德国领导人举行视频峰会</a></li>
+</ul>
+</div>
+<div class="list"><br />
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/qwfb/xgbmfb/A090303index_1.htm">相关部门发布 </a></div>
+<ul>
+    <li><a  href="http://www.cac.gov.cn/2021-04/16/c_1620179540250633.htm" target="_blank">互联网平台企业向社会公开《依法合规经营承诺》（第三批）</a></li><li><a  href="http://www.cac.gov.cn/2021-04/16/c_1620179180102903.htm" target="_blank">互联网平台企业向社会公开《依法合规经营承诺》（第二批）</a></li><li><a  href="http://www.cac.gov.cn/2021-04/16/c_1620152752013857.htm" target="_blank">互联网平台企业向社会公开《依法合规经营承诺》（第一批）</a></li>
+</ul>
+</div>
+</div>
+<div class="list qwfb-right" style="margin-left: 20px; display: inline">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/qwfb/bgsfb/A090302index_1.htm">办公室发布 </a></div>
+<ul>
+    <li><a  href="http://www.cac.gov.cn/2021-04/22/c_1620670982951092.htm" target="_blank">国家七部门联合发布《网络直播营销管理办法（试行）》</a></li><li><a  href="http://www.cac.gov.cn/2021-04/22/c_1620670982794847.htm" target="_blank">网络直播营销管理办法（试行）</a></li><li><a  href="http://www.cac.gov.cn/2021-04/22/c_1620670982981264.htm" target="_blank">国家互联网信息办公室负责人就《网络直播营销管理办法（试行）》答记者问</a></li><li><a  href="http://www.cac.gov.cn/2021-03/22/c_1617990996835955.htm" target="_blank">​国家四部门联合发布《常见类型移动互联网应用程序必要个人信息范围规定》</a></li><li><a  href="http://www.cac.gov.cn/2021-03/22/c_1617990997054277.htm" target="_blank">关于印发《常见类型移动互联网应用程序必要个人信息范围规定》的通知</a></li><li><a  href="http://www.cac.gov.cn/2021-02/09/c_1614442843810295.htm" target="_blank">国家七部门联合发布《关于加强网络直播规范管理工作的指导意见》</a></li><li><a  href="http://www.cac.gov.cn/2021-02/09/c_1614442843753738.htm" target="_blank">关于印发《关于加强网络直播规范管理工作的指导意见》的通知</a></li><li><a  href="http://www.cac.gov.cn/2021-01/22/c_1612887880107681.htm" target="_blank">国家网信办修订《互联网用户公众账号信息服务管理规定》发布施行</a></li><li><a  href="http://www.cac.gov.cn/2021-01/22/c_1612887880656609.htm" target="_blank">互联网用户公众账号信息服务管理规定</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--办公室-->
+<div id="partBgs" class="tab_box_content ntab2">
+<div class="fl_1 Nline">
+<div class="con">
+<div class="tit"><a target="_blank" href="http://www.cac.gov.cn/bgs/A0902index_1.htm">办公室领导 </a></div>
+<table cellspacing="0" cellpadding="0" width="100%" align="left" border="0" style="margin-top: 35px">
+    <tbody>
+        <tr>
+            <td valign="top" width="45%" align="right" style="padding-left: 10px"><strong style="font-size: 16px">主　任:</strong></td>
+            <td valign="top" align="left" style="font-size: 16px; padding-left: 20px"><a class="showdiv" target="_blank" href="http://www.cac.gov.cn/bgs/ldhd/bgs_zrw/bgs_zrw1/A0902010104index_1.htm"><strong>庄荣文</strong> </a></td>
+        </tr>
+        <tr>
+            <td height="20"> </td>
+            <td align="left"> </td>
+        </tr>
+        <tr>
+            <td valign="top" width="45%" align="right" style="padding-top: 5px; padding-left: 10px"><strong style="font-size: 16px">副主任:</strong></td>
+            <td valign="top" align="left" style="font-size: 16px; padding-left: 20px; line-height: 35px"><a class="showdiv" target="_blank" href="http://www.cac.gov.cn/bgs/ldhd/bgs_yxw/bgs_yxw1/A0902010204index_1.htm"><strong>杨小伟</strong> </a><br />
+            <a class="showdiv" target="_blank" href="http://www.cac.gov.cn/bgs/ldhd/bgs_srh/bgs_srh1/A0902010304index_1.htm"><strong>盛荣华</strong> </a><br />
+            <a class="showdiv" target="_blank" href="http://www.cac.gov.cn/bgs/ldhd/nyb/jl/A0902010602index_1.htm"><strong>牛一兵</strong> </a><br />
+            <a class="showdiv" target="_blank" href="http://www.cac.gov.cn/bgs/ldhd/xzr/jl/A0902010504index_1.htm"><strong>赵泽良</strong> </a><br />
+             </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<div class="fl_2 bgsgz">
+<div class="con">
+<div class="tit"><a target="_blank" href="http://www.cac.gov.cn/bgs/bgsldhd/A090203index_1.htm">领导活动 </a></div>
+<div class="list">
+<ul>
+    <li><a  href="http://www.cac.gov.cn/2021-04/21/c_1620581583568723.htm" target="_blank">中央网信办召开全国网络生态治理工作座谈会 总结成效 研究问题 部署工作</a></li><li><a  href="http://www.cac.gov.cn/2021-04/19/c_1620411767926998.htm" target="_blank">中央网信办召开学习宣传贯彻习近平总书记关于网络强国的重要思想理论研讨会</a></li><li><a  href="http://www.cac.gov.cn/2021-04/15/c_1620065433321068.htm" target="_blank">“脱贫攻坚巡礼——网络名人宁夏行”活动启动</a></li><li><a  href="http://www.cac.gov.cn/2021-04/14/c_1619978770999597.htm" target="_blank">中央网信办召开党史学习教育网上宣传工作推进会</a></li><li><a  href="http://www.cac.gov.cn/2021-04/02/c_1618940795682699.htm" target="_blank">中央网信办与司法部联合召开全国网络普法工作电视电话会议</a></li><li><a  href="http://www.cac.gov.cn/2021-03/30/c_1618682340795836.htm" target="_blank">“铿锵奋进的脚步 续写春天的故事”网络主题宣传启动</a></li><li><a  href="http://www.cac.gov.cn/2021-03/19/c_1617732480724550.htm" target="_blank">中央网信办理论学习中心组专题学习习近平总书记在党史学习教育动员大会上的重要讲话精...</a></li><li><a  href="http://www.cac.gov.cn/2021-03/19/c_1617732476084008.htm" target="_blank">中国网络社会组织联合会在线教育专委会在京成立</a></li><li><a  href="http://www.cac.gov.cn/2021-03/17/c_1617559388629686.htm" target="_blank">中央网信办部署进一步学习宣传贯彻2021年全国两会精神</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fl_3">
+<div id="partLdjh" class="con">
+<div class="tit"><a target="_blank" href="http://www.cac.gov.cn/bgs/bgszz/A090202index_1.htm">领导讲话 </a></div>
+<div class="list">
+<ul>
+    <li><a  href="http://www.cac.gov.cn/2021-03/30/c_1618682338602619.htm" target="_blank">​庄荣文：在“铿锵奋进的脚步 续写春天的故事”网络主题宣传启动仪式上的致辞</a></li><li><a  href="http://www.cac.gov.cn/2021-03/01/c_1616173708850937.htm" target="_blank">人民日报：加强政治机关建设 推动机关党建高质量发展——中央和国家机关党的工作暨纪...</a></li><li><a  href="http://www.cac.gov.cn/2021-02/01/c_1613753152020388.htm" target="_blank">网络强国建设的思想武器和行动指南——学习《习近平关于网络强国论述摘编》</a></li><li><a  href="http://www.cac.gov.cn/2020-12/25/c_1610463978470520.htm" target="_blank">庄荣文：牢固树立政治机关意识 确保网信事业始终沿着正确政治方向前进</a></li><li><a  href="http://www.cac.gov.cn/2020-09/27/c_1602769358594640.htm" target="_blank">庄荣文在2020中国网络媒体论坛开幕式上的致辞全文</a></li><li><a  href="http://www.cac.gov.cn/2019-11/25/c_1576215492825202.htm" target="_blank">庄荣文：努力开创网络安全和信息化工作新局面</a></li><li><a  href="http://www.cac.gov.cn/2019-07/29/c_1124813299.htm" target="_blank">庄荣文在2019中国网络媒体论坛开幕式上的致辞</a></li><li><a  href="http://www.cac.gov.cn/2020-12/24/c_1610403946977698.htm" target="_blank">杨小伟在“我家的故事——脱贫攻坚奔小康”短视频征集展示活动上致辞</a></li><li><a  href="http://www.cac.gov.cn/2019-11/18/c_1575610742087882.htm" target="_blank">杨小伟在第三届中俄网络媒体论坛上致辞</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--办公室弹出层隐藏，注意！！--></div>
+<!--工作之窗-->
+<div class="tab_box_content ntab3">
+<div class="sjsz">
+<div class="con">
+<div class="list">
+<div class="tit active" name="d"><a target="_blank" href="http://www.cac.gov.cn/gzzc/gzzc/A090401index_1.htm">办内动态 </a></div>
+<div class="tit" name="b"><a target="_blank" href="http://www.cac.gov.cn/gzzc/df0/A090402index_1.htm">地方网信 </a></div>
+<div class="tit" name="c"><a target="_blank" href="http://www.cac.gov.cn/gzzc/xgbm/A090403index_1.htm">相关部门 </a></div>
+<div class="clear"> </div>
+<div class="sj_name_b" style="display: none"><span class="sj_name_b" style="display: none">  </span>
+<div id="Map" name="Map"><span name="bj" onFocus="this.blur()">北京市</span> <span name="tj" onFocus="this.blur()">天津市</span> <span name="hb" onFocus="this.blur()">河北省</span> <span name="sx" onFocus="this.blur()">山西省</span> <span name="nmg" onFocus="this.blur()">内蒙古自治区</span> <span name="ln" onFocus="this.blur()">辽宁省</span> <span name="jl" onFocus="this.blur()">吉林省</span> <span name="hlj" onFocus="this.blur()">黑龙江省</span> <span name="sh" onFocus="this.blur()">上海市</span> <span name="js" onFocus="this.blur()">江苏省</span> <span name="zj" onFocus="this.blur()">浙江省</span> <span name="ah" onFocus="this.blur()">安徽省</span> <span name="fj" onFocus="this.blur()">福建省</span> <span name="jx" onFocus="this.blur()">江西省</span> <span name="sd" onFocus="this.blur()">山东省</span> <span name="hn" onFocus="this.blur()">河南省</span> <span name="hb" onFocus="this.blur()">湖北省</span> <span name="hun" onFocus="this.blur()">湖南省</span> <span name="gd" onFocus="this.blur()">广东省</span> <span name="gx" onFocus="this.blur()">广西壮族自治区</span> <span name="hn" onFocus="this.blur()">海南省</span> <span name="cq" onFocus="this.blur()">重庆市</span> <span name="sc" onFocus="this.blur()">四川省</span> <span name="gz" onFocus="this.blur()">贵州省</span> <span name="yn" onFocus="this.blur()">云南省</span> <span name="xz" onFocus="this.blur()">西藏自治区</span> <span name="sx" onFocus="this.blur()">陕西省</span> <span name="gs" onFocus="this.blur()">甘肃省</span> <span name="qh" onFocus="this.blur()">青海省</span> <span name="nx" onFocus="this.blur()">宁夏回族自治区</span> <span name="xj" onFocus="this.blur()">新疆维吾尔自治区</span> <span name="bt" onFocus="this.blur()">新疆生产建设兵团</span></div>
+</div>
+</div>
+<div id="sjsz_info_b" class="info infob" style="display: none">
+<div class="info_con">
+<h3>北京市</h3>
+<div class="info3">
+<div class="desInfo"><!--北京leader--><b>主任：</b>蔡奇　<b>副主任：</b>陈吉宁、杜飞进<br />
+<b>办公室主任：</b>韩昱</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/13/c_1619894538001647.htm" target="_blank">网络名人走进12345市民热线</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503643024.htm" target="_blank">瓣瓣同心·网信同行｜北京篇：展现首都网信作为 同心共谱京津冀协同发展新篇章</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619372896262012.htm" target="_blank">北京民生卡“多卡合一”征求意见 社保卡将实现“一卡通用”</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619035726997053.htm" target="_blank">首都百万师生云端同上党史课</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618767469378231.htm" target="_blank">北京首家互联网医院正式获批</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618338136837034.htm" target="_blank">百姓关心的大事小情一网汇总到社区</a></li><li><a href="http://www.cac.gov.cn/2021-03/25/c_1618248016551457.htm" target="_blank">北京超前布局通用人工智能 我国首个超大规模智能模型系统发布</a></li><li><a href="http://www.cac.gov.cn/2021-03/22/c_1617990998762704.htm" target="_blank">北京市文化市场综合执法总队召开在京主要视频平台“儿童邪典视频”专项治理和防范工作会</a></li><li><a href="http://www.cac.gov.cn/2021-03/21/c_1617904582861821.htm" target="_blank">北京5个公积金网点年内可自助办理</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>天津市</h3>
+<div class="info3">
+<div class="desInfo"><!--天津leader--><b>主任：</b>李鸿忠　<b>副主任：</b>廖国勋、阴和俊<br />
+<b>办公室主任：</b>王芸</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152751119749.htm" target="_blank">天津坚持多元共治推动网络综合治理体系建设取得实效</a></li><li><a href="http://www.cac.gov.cn/2021-04/11/c_1619718771521225.htm" target="_blank">“津心办”“津治通”联动应用又上新 市民“随手拍”共建共治共享“我的城”</a></li><li><a href="http://www.cac.gov.cn/2021-04/10/c_1619634704483074.htm" target="_blank">天津市蓟州区委网信办突出“四个坚持” 学史力行重实干</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503178705.htm" target="_blank">天津市委网信办、市大数据管理中心党史故事大讲堂——弘扬长征精神 走好新时代的长征路</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619458776296774.htm" target="_blank">天津市委网信办、市大数据管理中心举办网信系统提升“政治三力”专题辅导班</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619374528396555.htm" target="_blank">天津市津南区开展新一届村居网信队伍培训工作</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619286947642641.htm" target="_blank">“津治通”正式上线“市民随手拍”功能 随手拍一拍 社会治理更现代</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199925561111.htm" target="_blank">天津市红桥区委网信办开展“清明祭英烈”活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619079282874345.htm" target="_blank">天津市委网信办大数据处党支部、市大数据协会党支部举办党建共建活动</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>河北省</h3>
+<div class="info3">
+<div class="desInfo"><!--河北省leader--><b>主任：</b>王东峰　<b>副主任：</b>许勤、焦彦龙<br />
+<b>办公室主任：</b>张砚平</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592189634.htm" target="_blank">河北省委网信办召开全省网信系统“学史明理促工作”推进会</a></li><li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498634879727.htm" target="_blank">河北省委网信办召开“清朗·燕赵净网2021”网络生态治理专项行动部署会议</a></li><li><a href="http://www.cac.gov.cn/2021-04/19/c_1620410468356949.htm" target="_blank">河北省举办大学生国家安全知识竞赛 52万学子网上答题</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065431523121.htm" target="_blank">“冀信2020”网络安全技能竞赛河北省总决赛拉开序幕</a></li><li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152751844468.htm" target="_blank">河北网信办以“五个坚持”切实当好网上首都政治“护城河”</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619891630025130.htm" target="_blank">河北省委网信办举行党史学习教育宣讲动员会</a></li><li><a href="http://www.cac.gov.cn/2021-04/11/c_1619718772080349.htm" target="_blank">2021“知网信 筑同心”网信公益宣传精品创作征集活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/10/c_1619634704356596.htm" target="_blank">廊坊市县两级网信部门联合开展网络辟谣主题公益宣传活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619546069659572.htm" target="_blank">缅怀致敬先烈 传承家国情怀——河北各地开展“网络中国节·清明”系列主题活动</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>山西省</h3>
+<div class="info3">
+<div class="desInfo"><!--山西省leader--><b>主任：</b>楼阳生　<b>副主任：</b>林武<br />
+<b>办公室主任：</b>董晓林</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/02/c_1618941020301927.htm" target="_blank">山西省委网信办召开党史学习教育部署会</a></li><li><a href="http://www.cac.gov.cn/2021-02/21/c_1615479850969067.htm" target="_blank">山西网信办依法处置3款违规自媒体账号</a></li><li><a href="http://www.cac.gov.cn/2021-02/14/c_1614879340101851.htm" target="_blank">山西省委网信办印发《全省网信系统学习宣传贯彻<习近平关于网络强国论述摘编>实施方案》</a></li><li><a href="http://www.cac.gov.cn/2021-02/02/c_1613837336474487.htm" target="_blank">山西网信办主任会议在太原召开</a></li><li><a href="http://www.cac.gov.cn/2021-02/02/c_1613837587237842.htm" target="_blank">2021年1月，山西网信办依法查处92家违法违规网站</a></li><li><a href="http://www.cac.gov.cn/2021-01/25/c_1613143860086070.htm" target="_blank">​山西网信办：紧抓网信重点工作，全力推动“十四五”起好步</a></li><li><a href="http://www.cac.gov.cn/2020-04/02/c_1587373074705330.htm" target="_blank">脱贫路上网信人在行动——山西省武乡县故县乡十里坡村脱贫故事</a></li><li><a href="http://www.cac.gov.cn/2019-09/19/c_1570421803216384.htm" target="_blank">山西公安“一网通一次办”平台注册人数超过2000万</a></li><li><a href="http://www.cac.gov.cn/2019-09/15/c_1570079191578480.htm" target="_blank">山西：到2022年将建成5G基站3万个</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>内蒙古自治区</h3>
+<div class="info3">
+<div class="desInfo"><!--内蒙古自治区leader--><b>主任：</b>石泰峰　<b>副主任：</b>布小林、林少春<br />
+<b>办公室主任：</b>符雷</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/08/c_1619459319966792.htm" target="_blank">赤峰市委网信办举办赤峰市网络社会组织铸牢中华民族共同体意识培训班</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619372896446653.htm" target="_blank">内蒙古鄂尔多斯市委网络安全和信息化委员会第三次会议暨数字经济发展工作领导小组会议召开</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619292665609524.htm" target="_blank">包头市互联网行业党委成功选举</a></li><li><a href="http://www.cac.gov.cn/2021-04/04/c_1619112847645376.htm" target="_blank">​阿拉善​盟委网信办召开党史学习教育动员会议</a></li><li><a href="http://www.cac.gov.cn/2021-03/20/c_1617834831073401.htm" target="_blank">内蒙古自治区党委网信办正式启动党史学习教育活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/05/c_1616522948169938.htm" target="_blank">内蒙古自治区党委网络安全和信息化委员会召开第四次会议</a></li><li><a href="http://www.cac.gov.cn/2021-03/02/c_1616258635269892.htm" target="_blank">内蒙古自治区党委网信办就做好全国两会网上宣传召开媒体座谈会</a></li><li><a href="http://www.cac.gov.cn/2021-01/28/c_1613405740011123.htm" target="_blank">“十四五”奋进新征程 努力开启内蒙古网信工作新局面</a></li><li><a href="http://www.cac.gov.cn/2020-08/12/c_1598792802560095.htm" target="_blank">内蒙古举办建设智慧内蒙古2020年数字经济系列讲座</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>辽宁省</h3>
+<div class="info3">
+<div class="desInfo"><!--辽宁省leader--><b>主任：</b>张国清　<b>副主任：</b>刘宁、周波<br />
+<b>办公室主任：</b>刘慧晏</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/25/c_1618248011259115.htm" target="_blank">​辽宁省委网信办召开党史学习教育动员大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/17/c_1617556542730727.htm" target="_blank">辽宁省电子居民健康卡与辽事通码实现融合</a></li><li><a href="http://www.cac.gov.cn/2021-03/04/c_1616435882672014.htm" target="_blank">沈阳以数字赋能壮大新增长极 加快数据资源共享开放</a></li><li><a href="http://www.cac.gov.cn/2021-03/02/c_1616261235846374.htm" target="_blank">辽宁锦州“政务云”覆盖全市 提供数据过亿条</a></li><li><a href="http://www.cac.gov.cn/2021-02/23/c_1615652697690915.htm" target="_blank">辽宁省统一工程建设项目审批管理体系初步建成</a></li><li><a href="http://www.cac.gov.cn/2021-02/21/c_1615479850681418.htm" target="_blank">沈阳市创新形式开展“网络中国节·春节”活动</a></li><li><a href="http://www.cac.gov.cn/2021-02/10/c_1614543880896952.htm" target="_blank">辽宁省启动“清朗·春节网络环境”专项行动</a></li><li><a href="http://www.cac.gov.cn/2021-02/09/c_1614443424096415.htm" target="_blank">辽宁省政务服务数字化取得重大突破</a></li><li><a href="http://www.cac.gov.cn/2021-02/05/c_1614099360490934.htm" target="_blank">2021年辽宁网信阔步迈向新征程</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>吉林省</h3>
+<div class="info3">
+<div class="desInfo"><!--吉林省leader--><b>主任：</b>景俊海　<b>副主任：</b>高广滨、吴靖平、石玉钢<br />
+<b>办公室主任：</b>崔萍</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669551613374.htm" target="_blank">吉林：党旗高扬“网”更红</a></li><li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330060304439.htm" target="_blank">吉林省委网信办积极推进网络社会工作 共筑网上网下“同心圆”</a></li><li><a href="http://www.cac.gov.cn/2021-04/17/c_1620246062695993.htm" target="_blank">吉林省委网信办召开2021年全面从严治党暨党风廉政建设工作会议</a></li><li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152749591348.htm" target="_blank">吉林省委网信办召开党史学习教育动员部署会</a></li><li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806240629907.htm" target="_blank">“云端”缅怀英烈故人 网络倡导祭扫新风 吉林网信办开展“网络中国节·清明”主题系列活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619547415385707.htm" target="_blank">吉林省长春市委网信办召开“全媒体新故事长春计划”工作推进会</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619376487151004.htm" target="_blank">长春市委网信办开展“学党史、强党性、提素质”青年干部大讲堂活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199924004177.htm" target="_blank">吉林省磐石市委网信办全面开展“春季网络安全”专项行动</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619035725966763.htm" target="_blank">吉林市委网信办召开党史学习教育动员部署会</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>黑龙江省</h3>
+<div class="info3">
+<div class="desInfo"><!--黑龙江省leader--><b>主任：</b>张庆伟　<b>第一副主任：</b>胡昌升<br />
+<b>副主任：</b>陈海波、张安顺、李海涛、张雨浦、贾玉梅、程志明、杨杰<br />
+<b>办公室主任：</b>谭宇宏</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498641595682.htm" target="_blank">黑龙江省委网信办召开学习宣传贯彻《习近平关于网络强国论述摘编》专题讲座</a></li><li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330062260557.htm" target="_blank">黑龙江省委网信办多措并举打造网络综合治理新格局</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620064843912478.htm" target="_blank">黑龙江积极推动数字乡村建设 着力破解乡村振兴发展难题</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619461706461752.htm" target="_blank">黑龙江召开《黑龙江省促进大数据发展应用条例（草案）》立法协调会 促进大数据发展应用</a></li><li><a href="http://www.cac.gov.cn/2021-04/01/c_1618854128992345.htm" target="_blank">“铿锵奋进的脚步 续写春天的故事”网络主题宣传启动 黑龙江分会场同步启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/30/c_1618684936365369.htm" target="_blank">黑龙江省网络安全协调机制工作暨跨境数据流动安全管理试点工作会议在哈尔滨召开</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618335096681334.htm" target="_blank">黑龙江省委网信办启动“为个人信息加把‘锁’”实践活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618338137198314.htm" target="_blank">黑龙江省委网信办开展“我为群众办实事”主题志愿服务活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/24/c_1618163479544325.htm" target="_blank">中共黑龙江省委网络安全和信息化委员会办公室召开党史学习教育动员大会</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>上海市</h3>
+<div class="info3">
+<div class="desInfo"><!--上海leader--><b>主任：</b>李强　<b>副主任：</b>龚正、于绍良<br />
+<b>办公室主任：</b>姜迅</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152751479617.htm" target="_blank">缅怀革命英烈 传承红色基因 上海开展形式多样的“清明祭英烈”活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619891631179843.htm" target="_blank">上海市委网信办举办首场党史学习教育活动暨“网信讲堂”</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619546069077046.htm" target="_blank">“迎中国共产党华诞·展上海互联网风采”系列活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619376486509143.htm" target="_blank">上海市第九届优秀网站评选活动正式启动网上报名</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619286947352065.htm" target="_blank">一朵“健康云”是怎样助力申城新冠疫苗预约接种的？</a></li><li><a href="http://www.cac.gov.cn/2021-04/02/c_1618940767790854.htm" target="_blank">弘扬红色文化 提升青少年素养——上海打造精品红色网络直播课程</a></li><li><a href="http://www.cac.gov.cn/2021-03/20/c_1617834832020072.htm" target="_blank">贴近青年需求 创新传播方式 直面网民关切 上海“好网民看两会”气氛浓烈</a></li><li><a href="http://www.cac.gov.cn/2021-03/09/c_1616864906626777.htm" target="_blank">“红色印迹”主题教育活动在沪举行 纪念建党100周年系列网络课程正式发布</a></li><li><a href="http://www.cac.gov.cn/2021-03/04/c_1616435886725223.htm" target="_blank">改变从一栋楼开始！上海“一网统管”探索城市最小管理单元数字治理</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>江苏省</h3>
+<div class="info3">
+<div class="desInfo"><!--江苏省leader--><b>主任：</b>娄勤俭　<b>副主任：</b>吴政隆 王燕文<br />
+<b>办公室主任：</b>徐缨</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592508188.htm" target="_blank">江苏扎实推动区块链创新发展</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065430962324.htm" target="_blank">“德美江苏”全国网络媒体江苏行在南通启程</a></li><li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979214311685.htm" target="_blank">江苏省南通市互联网行业党委举办“寻访百年历史 传承红色印记”专题培训</a></li><li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806239676356.htm" target="_blank">江苏省南京市举办互联网企业党史学习教育暨知识竞赛</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619459320144462.htm" target="_blank">江苏徐州市互联网行业党委举行“缅怀革命先烈 E路砥砺前行”主题党日活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/01/c_1618857921614319.htm" target="_blank">千帆竞发红色寻根 学史爱党初心如磐 江苏常州举行“百城百网百馆红色寻根行”活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/24/c_1618163770238754.htm" target="_blank">​江苏宿迁宿豫依托网络用好“红色资源” 扎实开展党史教育</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617732452016315.htm" target="_blank">江苏着力从三个方面做好《习近平关于网络强国论述摘编》学习宣贯工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/17/c_1617559342817750.htm" target="_blank">​江苏徐州新沂走好网上群众路线 畅通民意诉求渠道</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>浙江省</h3>
+<div class="info3">
+<div class="desInfo"><!--浙江省leader--><b>主任：</b>袁家军　<b>副主任：</b>郑栅洁<br />
+<b>办公室主任：</b>朱重烈</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592492420.htm" target="_blank">开展党史学习教育，浙江互联网行业这样做！（下篇）</a></li><li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498641875751.htm" target="_blank">开展党史学习教育，浙江互联网行业这样做！（上篇）</a></li><li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152684409187.htm" target="_blank">浙江省网络综合治理体系建设专题会议召开</a></li><li><a href="http://www.cac.gov.cn/2021-04/11/c_1619718771294027.htm" target="_blank">为全球数字化改革中的“浙江方案”献计献策 2021西湖论剑·网络安全大会4月24-25日举行</a></li><li><a href="http://www.cac.gov.cn/2021-04/10/c_1619634703931202.htm" target="_blank">聚焦数字化改革，筑牢网络安全屏障——浙江召开全省网络安全工作推进会</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503122093.htm" target="_blank">浙江省庆祝建党百年网上主题宣传系列活动暨“从南湖出发 红船领航现代化”大型新闻行动正式启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619461707050489.htm" target="_blank">浙江3部作品入选！“讲述我们的扶贫故事”优秀作品名单公布</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618767800661946.htm" target="_blank">浙江省互联网行业党委召开会议 学习传达贯彻省委网络安全和信息化委员会第三次全体会议精神</a></li><li><a href="http://www.cac.gov.cn/2021-03/30/c_1618684940706828.htm" target="_blank">浙江省委网信办召开全办机关党风廉政建设工作会议</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>安徽省</h3>
+<div class="info3">
+<div class="desInfo"><!--安徽省leader--><b>主任：</b>李锦斌　<b>副主任：</b>王清宪、程丽华、陶明伦<br />
+<b>办公室主任：</b>方晓利</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/02/c_1618940766931814.htm" target="_blank">安徽3月份依法处置一批违法违规网站和账号</a></li><li><a href="http://www.cac.gov.cn/2021-03/20/c_1617834830846093.htm" target="_blank">安徽省委非公经济和社会组织工委扩大会议召开 安徽省互联网行业党委参加会议并作经验交流</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617736233895691.htm" target="_blank">安徽省委网信办举办党史学习教育专题报告会</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125821819492.htm" target="_blank">安徽省委网信办召开党建、党风廉政建设暨新一轮深化“三个以案”警示教育工作会议</a></li><li><a href="http://www.cac.gov.cn/2021-03/09/c_1616864906508894.htm" target="_blank">安徽省委网信办党史学习教育动员部署大会召开</a></li><li><a href="http://www.cac.gov.cn/2021-03/04/c_1616435882790315.htm" target="_blank">安徽网信办召开2020年度民主生活会暨中央巡视整改专题民主生活会</a></li><li><a href="http://www.cac.gov.cn/2021-03/02/c_1616258635058662.htm" target="_blank">安徽2月份依法处置一批违法违规网站账号</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615920493612971.htm" target="_blank">安徽省2020年度网信普法及网络辟谣作品征集活动评选结果揭晓</a></li><li><a href="http://www.cac.gov.cn/2021-02/22/c_1615569484366031.htm" target="_blank">留“皖”过大年 “云”上共团圆</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>福建省</h3>
+<div class="info3">
+<div class="desInfo"><!--福建省leader--><b>主任：</b>尹力　<b>副主任：</b>王宁<br />
+<b>办公室主任：</b>张远</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330062653552.htm" target="_blank">一图看懂第四届数字中国建设峰会！</a></li><li><a href="http://www.cac.gov.cn/2021-04/17/c_1620246064486609.htm" target="_blank">全面贯彻落实总体国家安全观 为全方位推进高质量发展超越筑牢安全屏障</a></li><li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152751628104.htm" target="_blank">福建省委网信办召开专题现场会 对数字峰会筹备工作再部署再落实</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618769945730275.htm" target="_blank">福建省委网信办召开室务（扩大）会议 传达学习贯彻习近平总书记来闽考察重要讲话精神</a></li><li><a href="http://www.cac.gov.cn/2021-03/16/c_1617469510129481.htm" target="_blank">福建省“四有”积极做好两会网上舆论引导工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125795887494.htm" target="_blank">福建“三个一”积极做好网络名人工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/07/c_1616692640390202.htm" target="_blank">福建省委网信办召开党史学习教育动员会</a></li><li><a href="http://www.cac.gov.cn/2021-03/05/c_1616518914370488.htm" target="_blank">福建省委网信办组织学习《习近平关于网络强国论述摘编》</a></li><li><a href="http://www.cac.gov.cn/2021-02/25/c_1615826241127675.htm" target="_blank">福建网信办参加第二届省直机关理论学习主题征文活动取得佳绩</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>江西省</h3>
+<div class="info3">
+<div class="desInfo"><!--江西省leader--><b>组长：</b>刘奇　<b>副组长：</b>易炼红、李炳军<br />
+<b>办公室主任：</b>梅毅</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152749709335.htm" target="_blank">江西：画好网上网下同心圆 为经济社会发展加油鼓劲</a></li><li><a href="http://www.cac.gov.cn/2021-04/02/c_1618941019380888.htm" target="_blank">江西省委网信办召开党史学习教育动员大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/18/c_1617646901295809.htm" target="_blank">共同维护网络清朗空间｜江西：落实主体责任 加强协同共治 多向发力打造清朗安全有序网络空间</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125822453778.htm" target="_blank">永葆初心 稳步前行 努力开拓江西网信事业新局面</a></li><li><a href="http://www.cac.gov.cn/2020-07/06/c_1595589718336019.htm" target="_blank">江西“五个坚持”加快打造“世界级VR中心”</a></li><li><a href="http://www.cac.gov.cn/2020-03/16/c_1585902346361776.htm" target="_blank">“互联网+”为江西省赣州市决战脱贫攻坚赋能</a></li><li><a href="http://www.cac.gov.cn/2020-02/28/c_1584431785063338.htm" target="_blank">江西全面联动打响疫情谣言网络阻击战</a></li><li><a href="http://www.cac.gov.cn/2019-10/29/c_1573880678280746.htm" target="_blank">江西：物联网形成新的经济增长点</a></li><li><a href="http://www.cac.gov.cn/2019-10/21/c_1573188932930919.htm" target="_blank">“世界VR”南昌时间：江西拿什么让VR更出彩？</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>山东省</h3>
+<div class="info3">
+<div class="desInfo"><!--山东省leader--><b>主任：</b>刘家义　<b>副主任：</b>李干杰、于杰、刘强<br />
+<b>办公室主任：</b>卢岚</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979215470766.htm" target="_blank">山东网信办根据网民举报坚决查处网络赌博类违法违规网站24家</a></li><li><a href="http://www.cac.gov.cn/2021-03/25/c_1618248011844772.htm" target="_blank">山东省委网信办举办网络举报宣传日活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/23/c_1618075676257233.htm" target="_blank">山东青年网络正能量人士代表座谈会召开</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617729402018813.htm" target="_blank">集结网络正能量 传递青岛好声音 青岛2020年度网络盛典引发热烈反响</a></li><li><a href="http://www.cac.gov.cn/2021-03/18/c_1617644879013061.htm" target="_blank">共同维护网络清朗空间｜山东枣庄扎实推进“平安网络”建设</a></li><li><a href="http://www.cac.gov.cn/2021-03/16/c_1617474091402072.htm" target="_blank">山东省委网信办召开党史学习教育动员部署会议</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617126630212990.htm" target="_blank">山东开展《习近平关于网络强国论述摘编》学习宣传贯彻工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/10/c_1616951415980771.htm" target="_blank">山东省召开互联网新闻信息服务单位内容管理考核工作视频会议</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615920472668137.htm" target="_blank">2020年山东网信办认真做好网络举报工作 依法处置违法违规网站373家</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>河南省</h3>
+<div class="info3">
+<div class="desInfo"><!--河南省leader--><b>主任：</b>王国生　<b>副主任：</b>尹弘<br />
+<b>办公室主任：</b>郭岩松</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/26/c_1618336694208611.htm" target="_blank">重温党的历史 感悟党的精神！河南省委网信办召开党史学习教育动员部署大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/16/c_1617469509901052.htm" target="_blank">​1-2月 河南网信办根据网民举报线索依法处置一批违法违规网站</a></li><li><a href="http://www.cac.gov.cn/2021-03/15/c_1617384977279477.htm" target="_blank">中原网络安全创新论坛成功举办</a></li><li><a href="http://www.cac.gov.cn/2021-02/19/c_1615312435894378.htm" target="_blank">河南网信办组织开展“深化爱国卫生运动 建设美丽庭院”志愿服务活动</a></li><li><a href="http://www.cac.gov.cn/2021-02/12/c_1614704931533643.htm" target="_blank">河南网信办开展春节走访慰问活动</a></li><li><a href="http://www.cac.gov.cn/2021-02/05/c_1614095088208609.htm" target="_blank">​2020年河南网信办根据网民举报线索依法处置352家违法违规网站</a></li><li><a href="http://www.cac.gov.cn/2021-01/21/c_1612799369439710.htm" target="_blank">河南网信办以“五个更加”喜迎建党百年华诞</a></li><li><a href="http://www.cac.gov.cn/2020-12/29/c_1610810419722031.htm" target="_blank">多维统筹 多向发力 河南构建网络综合治理大格局</a></li><li><a href="http://www.cac.gov.cn/2020-12/18/c_1609858711299311.htm" target="_blank">河南网信办与河南省社会科学院签订战略合作协议共推网信智库建设</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>湖北省</h3>
+<div class="info3">
+<div class="desInfo"><!--湖北省leader--><b>主任：</b>应勇　<b>副主任：</b>王晓东、王艳玲、梁伟年、曹广晶、曾欣<br />
+<b>办公室主任：</b>姚德新</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806543244101.htm" target="_blank">2021年“湖北十佳政务新媒体”评选活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619461707167426.htm" target="_blank">湖北省委网信办扎实推进党史学习教育</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199924353572.htm" target="_blank">营造良好网络环境大力发展“数字经济” 以信息化赋能助推湖北高质量发展</a></li><li><a href="http://www.cac.gov.cn/2021-04/02/c_1618941019702274.htm" target="_blank">一图读懂湖北省互联网违法与不良信息举报指南</a></li><li><a href="http://www.cac.gov.cn/2021-04/01/c_1618857925220895.htm" target="_blank">“樱花又开放——疫后重振看湖北”网络主题宣传活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/25/c_1618248014697625.htm" target="_blank">“樱”你而美 感恩奋进——湖北“相约春天赏樱花”网上宣传活动亮点纷呈</a></li><li><a href="http://www.cac.gov.cn/2021-03/23/c_1618075676626187.htm" target="_blank">网络素养社区课堂帮助老年人适应网络新生活</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615920472367019.htm" target="_blank">湖北省提速数字新基建步伐 今年将再建5G基站超3.5万个</a></li><li><a href="http://www.cac.gov.cn/2021-02/20/c_1615390917355994.htm" target="_blank">湖北网信系统“八个强化” 努力绘就2021年网信事业新篇章</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>湖南省</h3>
+<div class="info3">
+<div class="desInfo"><!--湖南省leader--><b>主任：</b>许达哲　<b>副主任：</b>毛伟明、乌兰<br />
+<b>办公室主任：</b>周湘</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498634755850.htm" target="_blank">湖南推动视频文创产业各项工作稳健向前</a></li><li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330063305069.htm" target="_blank">湖南党史学习教育官网官微上线</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618338137468819.htm" target="_blank">湖南省委网信办理论学习中心组开展党史学习教育第一次专题学习</a></li><li><a href="http://www.cac.gov.cn/2021-03/17/c_1617558907439452.htm" target="_blank">湖南省委网信办召开机关党的工作会议暨党史学习教育动员部署大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125795694497.htm" target="_blank">湖南省网信系统“解读三湘红色密码 推动湖南网信事业”专题调研工作启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/11/c_1617042015116858.htm" target="_blank">致敬女性！长沙“粉红行动”引发全网聚焦</a></li><li><a href="http://www.cac.gov.cn/2021-03/10/c_1616951417876069.htm" target="_blank">湖南新添十八个省级工业互联网平台</a></li><li><a href="http://www.cac.gov.cn/2021-03/09/c_1616865077304129.htm" target="_blank">湖南2月份依法查处一批违法违规网站和账号</a></li><li><a href="http://www.cac.gov.cn/2021-03/05/c_1616522946980323.htm" target="_blank">超燃！“小康天心的幸福密码”火爆全网</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>广东省</h3>
+<div class="info3">
+<div class="desInfo"><!--广东省leader--><b>主任：</b>李希　<b>副主任：</b>马兴瑞、王伟中<br />
+<b>办公室主任：</b>黄斌</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581591737632.htm" target="_blank">广东突出抓好网络生态治理 营造清朗网络空间</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065430331932.htm" target="_blank">广东加快数字化发展 打造数字经济新优势</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619894537655204.htm" target="_blank">广州出台工作方案解决老年人运用手机支付技术困难</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503740790.htm" target="_blank">广州5G智慧法院实验室发布首批创新成果</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619458775936363.htm" target="_blank">广东：3月谣言盘点出炉，这些“热点新闻”别信！</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619372895284153.htm" target="_blank">广州实施全国首个科创领域新基建政策 力争国家级科技创新平台达170个</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619289068829648.htm" target="_blank">坚持守正创新 牢记初心使命 广东深入推进党史学习教育网上宣传</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199944123245.htm" target="_blank">“穗好办”APP上线一周年，上线服务事项近1500项</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619035726214599.htm" target="_blank">续写更多春天的故事 走进经济特区国家级新区丨这个春天，见圳迎风起舞</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>广西壮族自治区</h3>
+<div class="info3">
+<div class="desInfo"><!--广西壮族自治区leader--><b>主任：</b>鹿心社　<b>副主任：</b>陈武、孙大伟、范晓莉<br />
+<b>办公室主任：</b>金化伦</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330057237271.htm" target="_blank">广西：创新网上宣传 弘扬主旋律 激发正能量</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065431283001.htm" target="_blank">2021年广西网络安全攻防技术交流活动在南宁举行</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618767806033915.htm" target="_blank">广西钦州“互联网+党校”共建活动正式启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125821139504.htm" target="_blank">广西2月处置一批违法违规网站和账号</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617130347918420.htm" target="_blank">广西壮族自治区党委网信办召开党史学习教育动员部署会</a></li><li><a href="http://www.cac.gov.cn/2021-02/15/c_1614967263948058.htm" target="_blank">广西1月依法查处一批违法违规网站</a></li><li><a href="http://www.cac.gov.cn/2021-02/07/c_1614269992893379.htm" target="_blank">同心防疫，文明过年倡议书</a></li><li><a href="http://www.cac.gov.cn/2021-02/05/c_1614099246594140.htm" target="_blank">广西网信办建立互联网联合辟谣工作机制</a></li><li><a href="http://www.cac.gov.cn/2021-01/25/c_1613143859802613.htm" target="_blank">以新担当新作为推动广西网信事业迈向新征程</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>海南省</h3>
+<div class="info3">
+<div class="desInfo"><!--海南省leader--><b>主任：</b>沈晓明　<b>副主任：</b>冯飞、李军<br />
+<b>办公室主任：</b>陈军</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806238327073.htm" target="_blank">海南省委网信办召开2021年度党风廉政建设工作会议</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199926223892.htm" target="_blank">海南省委网信办开展党史教育专题学习活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/25/c_1618248014670889.htm" target="_blank">海南省委网信办深入开展党史学习教育工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/15/c_1617384132855084.htm" target="_blank">海南网信办组织开展义务植树主题党日活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/10/c_1616955092025582.htm" target="_blank">海南网信办组织“巾帼心向党 奋斗新征程”国际妇女节活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/02/c_1616258634811971.htm" target="_blank">海南网信办召开专题会议动员部署 学习贯彻《习近平关于网络强国论述摘编》</a></li><li><a href="http://www.cac.gov.cn/2021-02/25/c_1615826241020499.htm" target="_blank">这个新春有心意，海南网络主题宣传特色满满年味足！</a></li><li><a href="http://www.cac.gov.cn/2021-02/12/c_1614704933218258.htm" target="_blank">海南网信办开展脱贫攻坚和乡村振兴驻点村节前慰问</a></li><li><a href="http://www.cac.gov.cn/2021-01/27/c_1613319827940021.htm" target="_blank">构建六个体系 为海南自贸港建设提供重要网信支撑</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>重庆市</h3>
+<div class="info3">
+<div class="desInfo"><!--重庆市leader--><b>主任：</b>陈敏尔　<b>副主任：</b>唐良智、吴存荣<br />
+<b>办公室主任：</b>文天平</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/06/c_1619289065539523.htm" target="_blank">开展党史学习教育 重庆各区县网信办这样做</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619079283084166.htm" target="_blank">新增10家，重庆网络新闻舆论主阵地不断壮大</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618767800183010.htm" target="_blank">重庆首批两家“学习强国”县级融媒号正式上线</a></li><li><a href="http://www.cac.gov.cn/2021-03/30/c_1618684936449924.htm" target="_blank">首届重庆优秀网络公益项目展示活动颁奖仪式举行</a></li><li><a href="http://www.cac.gov.cn/2021-03/29/c_1618593859426199.htm" target="_blank">成渝地区启动工业互联网一体化发展示范区建设</a></li><li><a href="http://www.cac.gov.cn/2021-03/28/c_1618519637606097.htm" target="_blank">重庆两江新区工业互联网产业联盟成立</a></li><li><a href="http://www.cac.gov.cn/2021-03/18/c_1617644880064965.htm" target="_blank">重庆市工业互联网大数据产业发展联盟成立</a></li><li><a href="http://www.cac.gov.cn/2021-03/17/c_1617558907261969.htm" target="_blank">新业态新模式引领消费升级 重庆去年直播带货带动销售额破百亿元</a></li><li><a href="http://www.cac.gov.cn/2021-03/15/c_1617384134388196.htm" target="_blank">“十四五”重庆科技创新锚定这些目标</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>四川省</h3>
+<div class="info3">
+<div class="desInfo"><!--四川省leader--><b>主任：</b>彭清华　<b>副主任：</b>尹力、邓小刚、甘霖<br />
+<b>办公室主任：</b>房方</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/13/c_1619894538390317.htm" target="_blank">四川多地开展党史学习教育网上宣传活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619547415974239.htm" target="_blank">四川省成都市委网信办出台工作指南指导全市网络安全工作规范化开展</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619461708230453.htm" target="_blank">四川省委网信办在党史学习教育中扎实开展调查研究工作</a></li><li><a href="http://www.cac.gov.cn/2021-04/02/c_1618941019779129.htm" target="_blank">弘扬“09”精神 坚守初心使命——四川省委网信办开展“党史学习教育”主题党日活动</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618337965960848.htm" target="_blank">扎实开展党史学习教育 为推进治蜀兴川再上新台阶贡献网信力量</a></li><li><a href="http://www.cac.gov.cn/2021-03/21/c_1617904583296238.htm" target="_blank">四川加快形成新型智慧城市建设新格局</a></li><li><a href="http://www.cac.gov.cn/2021-03/20/c_1617834831476502.htm" target="_blank">四川省委网信办举办第一期理论学习中心组党史学习教育专题学习</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617729400104522.htm" target="_blank">四川省委网信办迅速启动扎实推进党史学习教育</a></li><li><a href="http://www.cac.gov.cn/2021-03/14/c_1617300484319035.htm" target="_blank">四川省重点互联网企业党建指导工作推进会在成都召开</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>贵州省</h3>
+<div class="info3">
+<div class="desInfo"><!--贵州省leader--><b>组长：</b>孙志刚　<b>副组长：</b>谌贻琴、慕德贵<br />
+<b>办公室主任：</b>谢念</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498643190734.htm" target="_blank">贵州加快推进数字政府建设 全面提升政府治理数字化水平</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619891631068942.htm" target="_blank">​贵州省起草大数据战略行动工作要点</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503659784.htm" target="_blank">“5G+智慧机场”落地贵州毕节</a></li><li><a href="http://www.cac.gov.cn/2021-04/07/c_1619376486482993.htm" target="_blank">贵阳贵安：数字经济赋能城市高质量发展</a></li><li><a href="http://www.cac.gov.cn/2021-04/05/c_1619199924607451.htm" target="_blank">“黔归人才服务云”正式运行</a></li><li><a href="http://www.cac.gov.cn/2021-04/01/c_1618854129025657.htm" target="_blank">“铿锵奋进的脚步 续写春天的故事”网络主题宣传启动 贵州为西南唯一分会场</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618769945882369.htm" target="_blank">国家大数据（贵州）综合试验区展示中心——“数据之眼”见证大数据产业发展“黔”景</a></li><li><a href="http://www.cac.gov.cn/2021-03/28/c_1618519637697304.htm" target="_blank">贵阳贵安今年打造200个大数据典型应用场景</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618338136453992.htm" target="_blank">贵州省贵阳高新区形成70项大数据技术标准</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>云南省</h3>
+<div class="info3">
+<div class="desInfo"><!--云南省leader--><b>主任：</b>陈豪　<b>副主任：</b>阮成发、王予波<br />
+<b>办公室主任：</b>梁宗华</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669551993035.htm" target="_blank">红河州组织网络人士开展“情暖红河 网络助农”主题活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620064843076040.htm" target="_blank">云南曲靖利用VR技术再现党史历程</a></li><li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979215908221.htm" target="_blank">云南网信办以亮点工作评选为抓手 推动网信工作出思想、出精品、出作风</a></li><li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806543885624.htm" target="_blank">​云南省迪庆州召开网信办主任会议</a></li><li><a href="http://www.cac.gov.cn/2021-04/02/c_1618940768164322.htm" target="_blank">云南省西双版纳州召开网信办主任会议 深入实施“五项重点任务”</a></li><li><a href="http://www.cac.gov.cn/2021-04/01/c_1618857925293194.htm" target="_blank">学习百年党史 感悟使命初心 云南省委网信办开展党史学习教育专题辅导</a></li><li><a href="http://www.cac.gov.cn/2021-03/31/c_1618769946776035.htm" target="_blank">云南省启动全民反电信网络诈骗集中宣传行动</a></li><li><a href="http://www.cac.gov.cn/2021-03/30/c_1618681377036734.htm" target="_blank">云南省委理论学习中心组集中学习时强调：拥抱数字化 应用数字化</a></li><li><a href="http://www.cac.gov.cn/2021-03/26/c_1618338136512172.htm" target="_blank">云南全面完成县级融媒体中心省级验收</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>西藏自治区</h3>
+<div class="info3">
+<div class="desInfo"><!--西藏自治区leader--><b>组长：</b>吴英杰　<b>副组长：</b>齐扎拉、丁业现<br />
+<b>办公室主任：</b>欧阳方兴</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/23/c_1618078601427468.htm" target="_blank">西藏自治区党委网信办积极组织开展党史学习教育</a></li><li><a href="http://www.cac.gov.cn/2021-03/01/c_1616173711487426.htm" target="_blank">2020年西藏扎实推进网络安全和信息化工作综述：服务长治久安 助力高质量发展</a></li><li><a href="http://www.cac.gov.cn/2021-01/27/c_1613319821074419.htm" target="_blank">深入贯彻落实中央第七次西藏工作座谈会精神 不断推动网信工作迈上新台阶</a></li><li><a href="http://www.cac.gov.cn/2020-12/18/c_1609861398841554.htm" target="_blank">西藏网信办召开2020年网络新闻阅评工作座谈会</a></li><li><a href="http://www.cac.gov.cn/2020-10/20/c_1604757286970075.htm" target="_blank">天上西藏·首届中国西藏网络影像节正式启动</a></li><li><a href="http://www.cac.gov.cn/2020-09/24/c_1602509121707424.htm" target="_blank">2020年西藏自治区网信干部综合素质能力提升培训班在拉萨开班</a></li><li><a href="http://www.cac.gov.cn/2020-07/28/c_1597491572116067.htm" target="_blank">西藏网信办全力推进高校毕业生就业创业网上宣传引导工作</a></li><li><a href="http://www.cac.gov.cn/2020-05/13/c_1590919070689392.htm" target="_blank">2020年西藏第一期互联网新闻信息服务从业人员培训班开班</a></li><li><a href="http://www.cac.gov.cn/2020-03/11/c_1585473196004340.htm" target="_blank">西藏：疫情防控，我们的战场在雪域高原</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>陕西省</h3>
+<div class="info3">
+<div class="desInfo"><!--陕西省leader--><b>主任：</b>刘国中　<b>副主任：</b>赵一德、胡衡华<br />
+<b>办公室主任：</b>鲍永能</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669550669401.htm" target="_blank">“中国有约 A Date with China”2021年国际媒体主题采访活动陕西站启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581591922303.htm" target="_blank">修好陕西信息时代“高速路” 跑出数字经济发展“加速度”</a></li><li><a href="http://www.cac.gov.cn/2021-04/18/c_1620330073185906.htm" target="_blank">听党课 观展览 铸党魂 延安市委网信办党支部开展党史学习教育现场教学</a></li><li><a href="http://www.cac.gov.cn/2021-04/17/c_1620246062892353.htm" target="_blank">陕西省咸阳市委网信办、咸阳市大数据管理局“三坚持三深化”推动党史学习教育走深走实</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619891630376146.htm" target="_blank">陕西省网络社会组织联合会第一届理事会第三次会议召开</a></li><li><a href="http://www.cac.gov.cn/2021-04/10/c_1619634704090403.htm" target="_blank">陕西省首届乡村振兴互联网公益助农直播大赛启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/08/c_1619461707362555.htm" target="_blank">在这里读懂初心使命——网络媒体革命老区行 | 图解陕西延安宝塔区、安塞区、子长市发展成就</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619286946899792.htm" target="_blank">“在这里读懂初心使命——网络媒体革命老区行”网络主题采访活动在延安启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619079283583703.htm" target="_blank">西安市网信办依法协调关闭假冒“西安市人民政府”网站</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>甘肃省</h3>
+<div class="info3">
+<div class="desInfo"><!--甘肃省leader--><b>组长：</b>林铎　<b>副组长：</b>唐仁健、孙伟<br />
+<b>办公室主任：</b>梁洪涛</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/17/c_1617559343887412.htm" target="_blank">甘肃网信办召开党史学习教育动员大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/08/c_1616781275375830.htm" target="_blank">甘肃网信办把握网信发展新机遇 开创网信事业新局面</a></li><li><a href="http://www.cac.gov.cn/2021-03/06/c_1616606364319815.htm" target="_blank">甘肃网信办理论中心组专题学习《习近平关于网络强国论述摘编》</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615920472462790.htm" target="_blank">甘肃省全省网信工作会议在兰州召开</a></li><li><a href="http://www.cac.gov.cn/2020-11/24/c_1607783540007411.htm" target="_blank">坚持导向强化价值引领 聚焦主题增强传播实效 甘肃迅速掀起学习宣传贯彻五中全会精神热潮</a></li><li><a href="http://www.cac.gov.cn/2020-11/05/c_1606140439297812.htm" target="_blank">甘肃网信办召开理论学习中心组（扩大）会议传达学习贯彻党的十九届五中全会精神</a></li><li><a href="http://www.cac.gov.cn/2020-10/22/c_1604930339333116.htm" target="_blank">全国网络社会组织党建案例｜中共兰州市电子商务协会联合支部委员会：红色引擎驱动 打造本土电商人才摇篮</a></li><li><a href="http://www.cac.gov.cn/2020-10/12/c_1604068389811620.htm" target="_blank">携手打造“数字中国”甘肃样本——甘肃省“上云用数赋智”行动启动会侧记</a></li><li><a href="http://www.cac.gov.cn/2020-10/10/c_1603914386713065.htm" target="_blank">甘肃“县长直播天团”，小直播带动大改变</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>青海省</h3>
+<div class="info3">
+<div class="desInfo"><!--青海省leader--><b>主任：</b>王建军　<b>副主任：</b>刘宁、张西明<br />
+<b>办公室主任：</b>赵学章</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979219036568.htm" target="_blank">​“净网·青海2021”网络生态治理专项行动启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/09/c_1619548503054952.htm" target="_blank">青海省委网信办推动党史学习教育走深走实</a></li><li><a href="http://www.cac.gov.cn/2021-02/04/c_1614005399310770.htm" target="_blank">强化政治责任、增强使命担当 奋力推进青海网信事业新发展</a></li><li><a href="http://www.cac.gov.cn/2021-01/22/c_1612889935214460.htm" target="_blank">青海从三方面抓好全国网信办主任会议精神学习贯彻</a></li><li><a href="http://www.cac.gov.cn/2020-11/11/c_1606658953495369.htm" target="_blank">青海网信办从四方面抓好党的十九届五中全会精神的学习贯彻</a></li><li><a href="http://www.cac.gov.cn/2020-10/31/c_1605710003560984.htm" target="_blank">青海重拳出击整治网络传播乱象</a></li><li><a href="http://www.cac.gov.cn/2020-10/15/c_1604324233224769.htm" target="_blank">立足高原特色 打响青字品牌</a></li><li><a href="http://www.cac.gov.cn/2020-09/18/c_1601988121730457.htm" target="_blank">【动漫】大家注意啦！警惕短信“钓鱼”诈骗！</a></li><li><a href="http://www.cac.gov.cn/2020-07/13/c_1596175858688161.htm" target="_blank">青海云端扶贫助力脱贫攻坚</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>宁夏回族自治区</h3>
+<div class="info3">
+<div class="desInfo"><!--宁夏回族自治区leader--><b>主任：</b>陈润儿　<b>副主任：</b>咸辉、姜志刚<br />
+<b>办公室主任：</b>王玮</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979216625165.htm" target="_blank">履行使命任务 做好网络传播——宁夏党委网信办网络传播工作有声有色</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617736234122816.htm" target="_blank">宁夏数字政府建设三年行动计划出炉</a></li><li><a href="http://www.cac.gov.cn/2021-03/06/c_1616606364710214.htm" target="_blank">宁夏回族自治区党委网信办召开党史学习教育动员大会</a></li><li><a href="http://www.cac.gov.cn/2021-03/05/c_1616522427102614.htm" target="_blank">宁夏网信系统深入学习宣传贯彻《习近平关于网络强国论述摘编》</a></li><li><a href="http://www.cac.gov.cn/2021-02/20/c_1615396224112816.htm" target="_blank">宁夏“网络中国节·春节”系列主题活动网上传播量超过1亿次</a></li><li><a href="http://www.cac.gov.cn/2021-02/03/c_1613923429390547.htm" target="_blank">落实主体责任 激发工作活力 夯实互联网企业党建工作基础</a></li><li><a href="http://www.cac.gov.cn/2021-01/29/c_1613491051873730.htm" target="_blank">​宁夏党委网信办安排部署贯彻落实全国宣传部长会议和全国网信办主任会议精神相关工作</a></li><li><a href="http://www.cac.gov.cn/2021-01/22/c_1612887675981211.htm" target="_blank">宁夏网信办公布2020年度网络生态治理成果</a></li><li><a href="http://www.cac.gov.cn/2021-01/21/c_1612801210104740.htm" target="_blank">永葆初心 稳步前行 努力绘就宁夏网信事业新篇章</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>新疆维吾尔自治区</h3>
+<div class="info3">
+<div class="desInfo"><!--新疆维吾尔自治区leader--><b>主任：</b>陈全国　<b>副主任：</b>雪克来提&middot;扎克尔 <br />
+<b>办公室主任：</b>张军</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/23/c_1620756922744371.htm" target="_blank">《扶贫扶智 温暖同行》被评为“讲述我们的扶贫故事”征集展示活动全国优秀作品</a></li><li><a href="http://www.cac.gov.cn/2021-04/12/c_1619806543179255.htm" target="_blank">新疆推进公共资源向5G网络建设无偿开放工作</a></li><li><a href="http://www.cac.gov.cn/2021-03/24/c_1618163769161574.htm" target="_blank">​学习百年党史 汲取奋进力量 新疆网信办扎实深入开展党史学习教育</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615920491868529.htm" target="_blank">强化使命担当 忠诚履职尽责 努力开创新时代新疆网信事业发展新局面</a></li><li><a href="http://www.cac.gov.cn/2021-01/28/c_1613405740443312.htm" target="_blank">新疆促进5G网络建设发展的新规2月1日起实施</a></li><li><a href="http://www.cac.gov.cn/2020-12/31/c_1610986047273316.htm" target="_blank">新疆网信办着力提升“四力” 推动“三项整治”向纵深发展</a></li><li><a href="http://www.cac.gov.cn/2020-12/03/c_1608562072729706.htm" target="_blank">信息高速路跑起“致富车”</a></li><li><a href="http://www.cac.gov.cn/2020-12/02/c_1608475386889831.htm" target="_blank">决战决胜脱贫攻坚｜新疆网信办在丝路村落上的扶贫记述</a></li><li><a href="http://www.cac.gov.cn/2020-12/02/c_1608475377716080.htm" target="_blank">云上文博会，边忙边“充电”</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con">
+<h3>新疆生产建设兵团</h3>
+<div class="info3">
+<div class="desInfo"><!--新疆生产建设兵团leader--><b>主任：</b>王君正　<b>副主任：</b>彭家瑞、李新明、张文全<br />
+<b>办公室主任：</b>杨佳伟</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/19/c_1617736234460014.htm" target="_blank">积极动员部署 有力有序推进 扎实开展兵团网信系统党史学习教育</a></li><li><a href="http://www.cac.gov.cn/2021-02/25/c_1615826242426351.htm" target="_blank">深入学习贯彻第三次中央新疆工作座谈会精神 奋力开创“十四五”兵团网信事业新篇章</a></li><li><a href="http://www.cac.gov.cn/2021-02/24/c_1615741068916205.htm" target="_blank">​兵团党委网信办召开干部大会 动员部署深入学习宣传贯彻《习近平关于网络强国重要论述摘编》</a></li><li><a href="http://www.cac.gov.cn/2021-01/26/c_1613231309416710.htm" target="_blank">兵团党委网信办传达学习全国网信办主任会议精神</a></li><li><a href="http://www.cac.gov.cn/2020-09/29/c_1602953359427776.htm" target="_blank">兵团网信办多措并举，积极开展“厉行节约 反对浪费”网络主题宣传</a></li><li><a href="http://www.cac.gov.cn/2020-10/01/c_1603111885540838.htm" target="_blank">“军垦娃娃”网络安全系列表情包来啦！你爱了吗？</a></li><li><a href="http://www.cac.gov.cn/2020-09/25/c_1602595057642511.htm" target="_blank">西部开发新脉动｜从沙漠边城到“四宜”城市，阿拉尔市如何做到？</a></li><li><a href="http://www.cac.gov.cn/2020-09/17/c_1601904311710269.htm" target="_blank">关于坚决制止餐饮浪费行为的倡议书</a></li><li><a href="http://www.cac.gov.cn/2020-09/13/c_1601560605131536.htm" target="_blank">新疆生产建设兵团网安周优秀微课作品《警惕网络诈骗常见套路》</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="info_con" style="display: block">
+<h3><a class="df_name" target="_blank" href="http://www.cac.gov.cn/gzzc/df0/A090402index_1.htm">更多&gt;&gt; </a>地方网信</h3>
+<div class="info3">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/23/c_1620756922744371.htm" target="_blank">《扶贫扶智 温暖同行》被评为“讲述我们的扶贫故事”征集展示活动全国优秀作品</a></li><li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669550669401.htm" target="_blank">“中国有约 A Date with China”2021年国际媒体主题采访活动陕西站启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669551993035.htm" target="_blank">红河州组织网络人士开展“情暖红河 网络助农”主题活动</a></li><li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669551613374.htm" target="_blank">吉林：党旗高扬“网”更红</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592492420.htm" target="_blank">开展党史学习教育，浙江互联网行业这样做！（下篇）</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592508188.htm" target="_blank">江苏扎实推动区块链创新发展</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581592189634.htm" target="_blank">河北省委网信办召开全省网信系统“学史明理促工作”推进会</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581591922303.htm" target="_blank">修好陕西信息时代“高速路” 跑出数字经济发展“加速度”</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581591737632.htm" target="_blank">广东突出抓好网络生态治理 营造清朗网络空间</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div class="clear"> </div>
+<div class="sj_name_c" style="display: none">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979234504033.htm" target="_blank">民政部会同中央网信办依法关停2021年第二批10家非法社会组织网站</a></li><li><a href="http://www.cac.gov.cn/2021-04/13/c_1619894556494868.htm" target="_blank">市场监管总局、中央网信办、税务总局联合召开互联网平台企业行政指导会</a></li><li><a href="http://www.cac.gov.cn/2021-02/08/c_1614355732930891.htm" target="_blank">市场监管总局与中央网信办等五部门约谈特斯拉公司</a></li><li><a href="http://www.cac.gov.cn/2020-08/28/c_1600174435065425.htm" target="_blank">2020年“金融知识普及月 金融知识进万家 争做理性投资者 争做金融好网民”活动启动...</a></li><li><a href="http://www.cac.gov.cn/2020-08/26/c_1600000556277369.htm" target="_blank">教育部等六部门下发通知联合开展未成年人网络环境专项治理行动</a></li><li><a href="http://www.cac.gov.cn/2020-08/25/c_1599914103939444.htm" target="_blank">涉及10方面内容！中小学网课平台违法有害信息清理专项整治进行中</a></li><li><a href="http://www.cac.gov.cn/2020-08/14/c_1598962640136344.htm" target="_blank">打击治理跨境赌博社会宣传教育活动启动</a></li><li><a href="http://www.cac.gov.cn/2020-08/03/c_1598010259854424.htm" target="_blank">27部门联合打击野生动植物非法贸易</a></li><li><a href="http://www.cac.gov.cn/2020-07/31/c_1597760151391787.htm" target="_blank">2020年上半年互联网和相关服务业运行情况</a></li>
+</ul>
+</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2020-07/28/c_1597492913528687.htm" target="_blank">公安部集中打击治理电信网络诈骗犯罪取得阶段性成效</a></li><li><a href="http://www.cac.gov.cn/2020-07/28/c_1597492913060262.htm" target="_blank">工业和信息化部关于开展纵深推进APP侵害用户权益专项整治行动的通知</a></li><li><a href="http://www.cac.gov.cn/2020-07/20/c_1596802504312116.htm" target="_blank">全国“扫黄打非”办公布一批典型“护苗”案件</a></li><li><a href="http://www.cac.gov.cn/2020-07/17/c_1596539951619923.htm" target="_blank">工业和信息化部要求严厉查处“3·15”晚会曝光的信息通信领域违规行为</a></li><li><a href="http://www.cac.gov.cn/2020-07/14/c_1596282375324305.htm" target="_blank">上半年全国“扫黄打非”办受理举报14万件、发放举报奖金103万元</a></li><li><a href="http://www.cac.gov.cn/2020-07/14/c_1596282354741213.htm" target="_blank">中宣部等八部门联合印发通知部署学习宣传民法典</a></li><li><a href="http://www.cac.gov.cn/2020-07/13/c_1596175867911399.htm" target="_blank">教育部公布2020年高考网上咨询周时间安排</a></li><li><a href="http://www.cac.gov.cn/2020-07/10/c_1595921841687845.htm" target="_blank">“净网2020”行动上半年共查办网络“扫黄打非”案件1800余起</a></li><li><a href="http://www.cac.gov.cn/2020-07/08/c_1595760454987622.htm" target="_blank">全国“扫黄打非”办公室通报一批网络直播专项整治典型案件</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"> </div>
+<!--办公室-->
+<div class="sj_name_d bgsgz2">
+<div class="wlaq_fl_1 Nline">
+<div class="picarea">
+<div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2018-12/03/c_1123800679.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/2019/08/31/1568784376803156.jpg width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2018-12/03/c_1123800679.htm" target="_blank">网络扶贫论坛暨创新优秀案例发布会</a></p>    </div><div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2018-12/02/c_1123795548.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/2019/08/31/1568784376875767.png width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2018-12/02/c_1123795548.htm" target="_blank">全国网站平台知识技能竞赛决赛</a></p>    </div>
+</div>
+</div>
+<div class="wlaq_fl_2">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/22/c_1620669580338369.htm" target="_blank">中央网信办理论学习中心组专题学习社会主义革命和建设时期历史</a></li><li><a href="http://www.cac.gov.cn/2021-04/22/c_1620670986204915.htm" target="_blank">中央网信办关于十九届中央第五轮巡视整改进展情况的通报</a></li><li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581583568723.htm" target="_blank">中央网信办召开全国网络生态治理工作座谈会 总结成效 研究问题 部署工作</a></li><li><a href="http://www.cac.gov.cn/2021-04/19/c_1620411767926998.htm" target="_blank">中央网信办召开学习宣传贯彻习近平总书记关于网络强国的重要思想理论研讨会</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065433321068.htm" target="_blank">“脱贫攻坚巡礼——网络名人宁夏行”活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/14/c_1619978770999597.htm" target="_blank">中央网信办召开党史学习教育网上宣传工作推进会</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619289086923973.htm" target="_blank">中央网信办第三轮内部巡视整改取得阶段性成效</a></li><li><a href="http://www.cac.gov.cn/2021-04/06/c_1619292661829558.htm" target="_blank">网络公益联盟数字乡村聚力行动主题活动在京举行</a></li><li><a href="http://www.cac.gov.cn/2021-04/03/c_1619035736379752.htm" target="_blank">2021年3月全国受理网络违法和不良信息举报1080.4万件</a></li>
+</ul>
+</div>
+<div class="list listRight">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/02/c_1618940795682699.htm" target="_blank">中央网信办与司法部联合召开全国网络普法工作电视电话会议</a></li><li><a href="http://www.cac.gov.cn/2021-03/30/c_1618682340795836.htm" target="_blank">“铿锵奋进的脚步 续写春天的故事”网络主题宣传启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/24/c_1618162064235626.htm" target="_blank">国家网信办深入推进“清朗·春节网络环境”专项行动<br>依法查处一批违法违规网站平台</a></li><li><a href="http://www.cac.gov.cn/2021-03/21/c_1617904610573085.htm" target="_blank">中央网信办召开争做中国好网民工程总结部署视频会</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617732480724550.htm" target="_blank">中央网信办理论学习中心组专题学习习近平总书记在党史学习教育动员大会上的重要讲话精...</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617732476084008.htm" target="_blank">中国网络社会组织联合会在线教育专委会在京成立</a></li><li><a href="http://www.cac.gov.cn/2021-03/19/c_1617729402094146.htm" target="_blank">定了！第四届数字中国建设峰会将于4月25日至26日在福州举办</a></li><li><a href="http://www.cac.gov.cn/2021-03/18/c_1617648089558637.htm" target="_blank">国家互联网信息办公室、公安部加强对语音社交软件和涉深度伪造技术的互联网新技术新应...</a></li><li><a href="http://www.cac.gov.cn/2021-03/17/c_1617559388629686.htm" target="_blank">中央网信办部署进一步学习宣传贯彻2021年全国两会精神</a></li>
+</ul>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div class="clear"> </div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--网络安全-->
+<div class="tab_box_content ntab5">
+<div class="xinxihua">
+<div class="con Nline clearfix">
+<div class="xinxihua-left">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlaq/wlaqzljg/A090501index_1.htm">治理监管 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/07/c_1619372898054768.htm" target="_blank">App能提取哪些个人信息？一张图明了</a></li><li><a href="http://www.cac.gov.cn/2020-11/17/c_1607178245870454.htm" target="_blank">关于35款App存在个人信息收集使用问题的通告</a></li>
+</ul>
+<br />
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlaq/yjtb/A090502index_1.htm">预警通报 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2020-11/02/c_1605881245030874.htm" target="_blank">原创图解｜速读2020年上半年我国互联网网络安全监测数据分析报告（下）</a></li><li><a href="http://www.cac.gov.cn/2020-11/02/c_1605881102253619.htm" target="_blank">原创图解｜速读2020年上半年我国互联网网络安全监测数据分析报告（上）</a></li>
+</ul>
+<br />
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlsc/zc/A093401index_1.htm">网络安全审查 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2020-04/27/c_1589535450769077.htm" target="_blank">网络安全审查办法</a></li>
+</ul>
+</div>
+</div>
+<div class="xinxihua-right">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlaq/wlaqaqdt/A090503index_1.htm">安全动态 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/26/c_1618337966871727.htm" target="_blank">“网络安全万人培训资助计划”启动仪式在武汉举行</a></li><li><a href="http://www.cac.gov.cn/2020-11/05/c_1606140426793664.htm" target="_blank">中国网络空间安全协会等联合发起成立智能网安研究中心</a></li>
+</ul>
+<br />
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlaq/djwlkb/A090504index_1.htm">打击网络恐怖 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2017-03/24/c_1120684929.htm" target="_blank">英国外交大臣说应努力消除网络传播极端主义信息</a></li><li><a href="http://www.cac.gov.cn/2016-10/21/c_1119764953.htm" target="_blank">“全球反恐论坛”框架下第二次打击网络恐怖主义研讨会在京举行</a></li>
+</ul>
+<br />
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/aqpg/xwdt/A093201index_1.htm">云计算服务安全评估 </a></div>
+<ul>
+    <li><a target="_blank" href="http://www.cac.gov.cn/2019-07/22/c_1124781475.htm">云计算服务安全评估办法</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--信息化-->
+<div class="tab_box_content ntab5">
+<div class="xinxihua">
+<div class="con Nline clearfix">
+<div class="xinxihua-left">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/xxh/ghzc/A090601index_1.htm">规划政策 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2019-07/04/c_1124709872.htm" target="_blank">工业和信息化部关于电信服务质量的通告（2019年第2号）</a></li><li><a href="http://www.cac.gov.cn/2018-04/23/c_1122728917.htm" target="_blank">《数字中国建设发展报告（2017年）》发布</a></li><li><a href="http://www.cac.gov.cn/2017-08/31/c_1121575524.htm" target="_blank">五部门印发通知推进落实政务信息系统整合共享方案</a></li><li><a href="http://www.cac.gov.cn/2017-08/17/c_1121496749.htm" target="_blank">关于推进国土空间基础信息平台建设的通知</a></li><li><a href="http://www.cac.gov.cn/2017-07/31/c_1121406096.htm" target="_blank">民政部关于发布《慈善组织互联网公开募捐信息平台基本技术规范》等2项行业标准的公告</a></li><li><a href="http://www.cac.gov.cn/2017-07/06/c_1121276048.htm" target="_blank">财政部关于印发《会计师事务所信息化促进工作方案》的通知</a></li><li><a href="http://www.cac.gov.cn/2017-06/30/c_1121239236.htm" target="_blank">中国人民银行印发《中国金融业信息技术“十三五”发展规划》</a></li><li><a href="http://www.cac.gov.cn/2017-06/15/c_1121151476.htm" target="_blank">商务部：四方面推进软件和信息服务贸易跨越式发展</a></li><li><a href="http://www.cac.gov.cn/2017-05/19/c_1121003521.htm" target="_blank">网信办等三部门联合发文推进“十三五”信息化标准工作</a></li>
+</ul>
+</div>
+</div>
+<div class="xinxihua-right">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/xxh/xxhgzdt/A090602index_1.htm">信息化工作动态 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619978785307802.htm" target="_blank">人工智能企业典型应用案例拟入选名单公示</a></li><li><a href="http://www.cac.gov.cn/2020-11/28/c_1608138320808839.htm" target="_blank">《中国数字乡村发展报告（2020年）》《数字乡村建设典型案例汇编（2020）》发布...</a></li><li><a href="http://www.cac.gov.cn/2020-11/28/c_1608138320729907.htm" target="_blank">数字乡村发展论坛在重庆召开</a></li><li><a href="http://www.cac.gov.cn/2020-10/23/c_1605022250461079.htm" target="_blank">​国家数字乡村试点地区名单公布</a></li><li><a href="http://www.cac.gov.cn/2020-09/28/c_1602854216274374.htm" target="_blank">我为“十四五”国家信息化规划建言献策</a></li><li><a href="http://www.cac.gov.cn/2020-07/17/c_1596539938841028.htm" target="_blank">中央网信办等七部门联合印发《关于开展国家数字乡村试点工作的通知》</a></li><li><a href="http://www.cac.gov.cn/2020-05/08/c_1590485983517518.htm" target="_blank">中央网信办等四部门联合印发《2020年数字乡村发展工作要点》</a></li><li><a href="http://www.cac.gov.cn/2020-03/24/c_1586598816015742.htm" target="_blank">电子商务发展2025年愿景调查</a></li><li><a href="http://www.cac.gov.cn/2020-03/18/c_1586073208099659.htm" target="_blank">2020年网络扶贫工作要点印发实施</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--网上舆论-->
+<div class="tab_box_content ntab6">
+<div class="wsyl">
+<div class="con Nline clearfix">
+<div class="wsyl-left">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlcb/cbgz/A090701index_1.htm">传播工作 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/23/c_1620756920947054.htm" target="_blank">庆祝建党百年，发现最美铁路再出发！</a></li><li><a href="http://www.cac.gov.cn/2021-04/19/c_1620411747892699.htm" target="_blank">全国革命文物百佳讲述人候选人作品展播全面启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/19/c_1620411720973249.htm" target="_blank">开始啦！全国革命文物百佳讲述人候选人作品展播①</a></li><li><a href="http://www.cac.gov.cn/2021-04/16/c_1620152684674791.htm" target="_blank">第二届“追寻先烈足迹”短视频征集展示活动正式启动</a></li><li><a href="http://www.cac.gov.cn/2021-04/15/c_1620065433321068.htm" target="_blank">“脱贫攻坚巡礼——网络名人宁夏行”活动启动</a></li><li><a href="http://www.cac.gov.cn/2021-03/12/c_1617125797632893.htm" target="_blank">“学习强国”“辟谣平台”今日上线</a></li><li><a href="http://www.cac.gov.cn/2021-02/07/c_1614272712777203.htm" target="_blank">中国网络社会组织联合会启动“领航新征程——庆祝建党100周年”系列征集活动</a></li><li><a href="http://www.cac.gov.cn/2021-02/07/c_1614269972017524.htm" target="_blank">中国互联网发展基金会联手国家卫健部门举办公益演讲《生命的微光》</a></li><li><a href="http://www.cac.gov.cn/2021-01/29/c_1613491052207294.htm" target="_blank">“2020年度中国互联网辟谣优秀作品”揭晓</a></li>
+</ul>
+</div>
+</div>
+<div class="wsyl-right">
+<div class="list">
+<div class="jahx">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlcb/wwtj/A090704index_1.htm">网文推荐 </a><!--<span><a href="#/wwtj/cygzs.htm" target="_blank">朝阳工作室</a></span>--></div>
+</div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/20/c_1620498635774040.htm" target="_blank">第四届数字中国建设峰会这些硬核亮点等你来探</a></li><li><a href="http://www.cac.gov.cn/2021-04/19/c_1620410468591041.htm" target="_blank">1分钟带你了解第四届数字中国建设成果展览会！</a></li><li><a href="http://www.cac.gov.cn/2021-02/22/c_1615569483907501.htm" target="_blank">持续增强主流媒体的传播力引导力影响力公信力</a></li><li><a href="http://www.cac.gov.cn/2021-02/18/c_1615218654252987.htm" target="_blank">学习党史 常学常新</a></li>
+</ul>
+</div>
+<br />
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/wlcb/wsznl/A090702index_1.htm">网上正能量 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-04/21/c_1620581588713767.htm" target="_blank">看一次哭一次……那些英雄故事，我想听你讲给我</a></li><li><a href="http://www.cac.gov.cn/2021-02/26/c_1615912198416251.htm" target="_blank">他们的扶贫故事｜决战脱贫攻坚路上的“网信力量”</a></li><li><a href="http://www.cac.gov.cn/2021-02/19/c_1615308749642344.htm" target="_blank">砥砺“三牛精神” 奋蹄疾驰新征程</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="wlaq_fl_2">
+<div class="con">
+<div class="list">
+<ul>
+    <li><a target="_blank" href="#/2019-05/24/c_1124538668.htm">&quot;知识网红&quot;传播正能量</a></li>
+    <li><a target="_blank" href="#/2019-05/22/c_1124525964.htm">用网络视听精品搭起文明互鉴之桥</a></li>
+    <li><a target="_blank" href="#/2019-05/20/c_1124519160.htm">献礼新中国成立70周年 2019年网络文学推优活动启动</a></li>
+    <li><a target="_blank" href="#/2019-05/20/c_1124516405.htm">网络文学：趋向经典，创造经典</a></li>
+    <li><a target="_blank" href="#/2019-05/18/c_1124511520.htm">第五届&ldquo;政法系统新媒体应用案例&rdquo;推选活动启动</a></li>
+    <li><a target="_blank" href="#/2019-05/14/c_1124492009.htm">巧借新媒体东风 推动优秀文化传播</a></li>
+    <li><a target="_blank" href="#/2019-05/01/c_1124442391.htm">网络拉歌诠释浓浓爱国情</a></li>
+    <li><a target="_blank" href="#/2019-04/29/c_1124434487.htm">2019&ldquo;讲好中国故事&rdquo;创意传播大赛在京启动</a></li>
+    <li><a target="_blank" href="#/2019-04/29/c_1124434432.htm">4月网上&ldquo;我推荐我评议身边好人&rdquo;活动推出105位中国好人</a></li>
+</ul>
+</div>
+<div class="list">
+<ul>
+    <li><a target="_blank" href="#/2019-04/22/c_1124398050.htm">&ldquo;一带一路&rdquo;5G+4K传播创新国际论坛媒体应用技术展揭幕</a></li>
+    <li><a target="_blank" href="#/2019-04/16/c_1124371977.htm">居安思危，共筑国家安全防线</a></li>
+    <li><a target="_blank" href="#/2019-03/01/c_1124178589.htm">网友热议京津冀协同发展五周年</a></li>
+    <li><a target="_blank" href="#/2019-02/26/c_1124162902.htm">作品趋向主流 现实题材崛起 2018年优秀网络文学原创作品揭晓</a></li>
+    <li><a target="_blank" href="#/2019-02/22/c_1124150529.htm">&ldquo;五个一百&rdquo;，为追梦时代激情点赞</a></li>
+    <li><a target="_blank" href="#/2019-02/22/c_1124148809.htm">用新技术弘扬传统文化 网友热议&ldquo;故宫灯会&rdquo; </a></li>
+    <li><a target="_blank" href="#/2019-02/21/c_1124145842.htm">五个一百：网聚追梦奋斗的强大正能量</a></li>
+    <li><a target="_blank" href="#/2019-02/21/c_1124143875.htm">网络正能量 新风扑面来</a></li>
+    <li><a target="_blank" href="#/2019-02/20/c_1124132735.htm">推动深度融合 加快建设新型主流媒体</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--教育培训-->
+<div class="tab_box_content ntab6">
+<div class="wlaq_fl_1 Nline">
+<div class="con">
+<div class="picarea">
+<div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2019-08/04/c_1124835153.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/2019/09/04/1569130233339617.jpg width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2019-08/04/c_1124835153.htm" target="_blank">“石油魂——大庆精神铁人精神”</a></p>    </div><div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2019-07/14/c_1566050649018854.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/2019/07/30/1566050649235072.jpg width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2019-07/14/c_1566050649018854.htm" target="_blank">中央网信办开展青年理论学习活动</a></p>    </div>
+</div>
+</div>
+</div>
+<div class="wlaq_fl_2">
+<div class="con">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2020-07/02/c_1598183420745304.htm" target="_blank">各地网信部门组织举办系列主题活动庆祝建党99周年</a></li><li><a href="http://www.cac.gov.cn/2020-06/18/c_1594033704803548.htm" target="_blank">【学习风采】认真学习习近平总书记关于网络强国的重要思想 不断提高网信综合信息工作...</a></li><li><a href="http://www.cac.gov.cn/2020-07/20/c_1596800699125363.htm" target="_blank">让青春在党和人民最需要的地方绽放绚丽之花，这个网信主题团日别具意义</a></li><li><a href="http://www.cac.gov.cn/2019-12/26/c_1578897186724371.htm" target="_blank">中央网信办举办“缘定暖冬 一网情深”青年联谊会</a></li><li><a href="http://www.cac.gov.cn/2019-12/10/c_1577513351137247.htm" target="_blank">2019年全国网信系统信息员培训班在京举办</a></li><li><a href="http://www.cac.gov.cn/2019-12/21/c_1578463631843623.htm" target="_blank">中央网信办举办第五期“网信青年课堂”活动</a></li><li><a href="http://www.cac.gov.cn/2019-09/30/c_1571398340835662.htm" target="_blank">中央网信办举办第四期“网信青年课堂”活动</a></li><li><a href="http://www.cac.gov.cn/2019-08/04/c_1124835153.htm" target="_blank">“石油魂——大庆精神铁人精神”宣讲报告会举行</a></li><li><a href="http://www.cac.gov.cn/2019-07/19/c_1124773348.htm" target="_blank">中央网信办召开“青年理论学习小组”交流推进会</a></li><li><a href="http://www.cac.gov.cn/2018-11/02/c_1123654349.htm" target="_blank">网络社会组织宣传工作培训班成功举行</a></li>
+</ul>
+</div>
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2018-09/30/c_1123510160.htm" target="_blank">全国网站平台知识技能竞赛选拔赛在京举办</a></li><li><a href="http://www.cac.gov.cn/2017-09/27/c_1121734467.htm" target="_blank">“网界青年成长计划”活动在北京举行</a></li><li><a href="http://www.cac.gov.cn/2017-09/25/c_1121720945.htm" target="_blank">第二期网络人士革命传统教育和沙龙活动举行</a></li><li><a href="http://www.cac.gov.cn/2017-08/17/c_1121500153.htm" target="_blank">第二期“党建专家@互联网企业党员”活动举行</a></li><li><a href="http://www.cac.gov.cn/2017-07/21/c_1121359505.htm" target="_blank">“党建专家@互联网企业党员”活动在京启动</a></li><li><a href="http://www.cac.gov.cn/2017-07/07/c_1121283857.htm" target="_blank">“青咖说”身心健康专场（二）活动在京举行</a></li><li><a href="http://www.cac.gov.cn/2017-06/16/c_1121156491.htm" target="_blank">互联网企业团建工作片区督导推进培训班开班</a></li><li><a href="http://www.cac.gov.cn/2017-06/12/c_1121129369.htm" target="_blank">互联网企业党建党史知识挑战赛启动</a></li><li><a href="http://www.cac.gov.cn/2017-05/26/c_1121043336.htm" target="_blank">“青咖说”身心健康专场活动在京举办</a></li><li><a href="http://www.cac.gov.cn/2016-12/30/c_1120223887.htm" target="_blank">2016年度中央网信办信息工作培训班在京举行</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--政策法规-->
+<div class="tab_box_content ntab7">
+<div class="superwoods" t="0">
+<div class="fl_1">
+<div class="con">
+<ul a="2">
+    <li><a class="a1" href="javascript:void(0);">法律 </a></li>
+    <li><a class="a2" href="javascript:void(0);">行政法规 </a></li>
+    <li><a class="a3" href="javascript:void(0);">部门规章 </a></li>
+    <li class="now"><a class="a5" href="javascript:void(0);">司法解释 </a></li>
+    <li><a class="a4" href="javascript:void(0);">规范性文件 </a></li>
+    <li><a class="a6" href="javascript:void(0);">政策文件 </a></li>
+</ul>
+<div class="clear"> </div>
+</div>
+</div>
+<div class="fl_2">
+<div class="con hide">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/fl/A090901index_1.htm">法律 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2019-10/27/c_1573711980953641.htm" target="_blank">中华人民共和国密码法（2019年10月26日第十三届全国人民代表大会常务委员会第十四次会议通过 ）</a></li><li><a href="http://www.cac.gov.cn/2016-11/07/c_1119867116.htm" target="_blank">中华人民共和国网络安全法</a></li><li><a href="http://www.cac.gov.cn/2018-09/01/c_1123362506.htm" target="_blank">中华人民共和国电子商务法</a></li><li><a href="http://www.cac.gov.cn/2004-08/28/c_126468489.htm" target="_blank">中华人民共和国电子签名法</a></li><li><a href="http://www.cac.gov.cn/2012-12/29/c_133353262.htm" target="_blank">全国人民代表大会常务委员会关于加强网络信息保护的决定</a></li><li><a href="http://www.cac.gov.cn/2000-12/29/c_133158942.htm" target="_blank">全国人民代表大会常务委员会关于维护互联网安全的决定</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="con hide">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/xzfg/A090902index_1.htm">行政法规 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2014-08/28/c_1112264158.htm" target="_blank">国务院关于授权国家互联网信息办公室负责互联网信息内容管理工作的通知</a></li><li><a href="http://www.cac.gov.cn/2013-02/18/c_126468776.htm" target="_blank">信息网络传播权保护条例</a></li><li><a href="http://www.cac.gov.cn/2016-07/06/c_1119159909.htm" target="_blank">互联网上网服务营业场所管理条例</a></li><li><a href="http://www.cac.gov.cn/2013-02/08/c_12648744.htm" target="_blank">计算机软件保护条例</a></li><li><a href="http://www.cac.gov.cn/2008-09/13/c_126468725.htm" target="_blank">外商投资电信企业管理规定</a></li><li><a href="http://www.cac.gov.cn/2000-09/30/c_126193701.htm" target="_blank">互联网信息服务管理办法</a></li><li><a href="http://www.cac.gov.cn/2000-09/30/c_133142151.htm" target="_blank">中华人民共和国电信条例</a></li><li><a href="http://www.cac.gov.cn/2014-10/08/c_1112737294.htm" target="_blank">计算机信息网络国际联网安全保护管理办法</a></li><li><a href="http://www.cac.gov.cn/1996-02/06/c_126468621.htm" target="_blank">中华人民共和国计算机信息网络国际联网管理暂行规定</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="con hide">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/bmgz/A090903index_1.htm">部门规章 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2020-04/27/c_1589535450769077.htm" target="_blank">网络安全审查办法</a></li><li><a href="http://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm" target="_blank">网络信息内容生态治理规定</a></li><li><a href="http://www.cac.gov.cn/2019-08/23/c_1124913903.htm" target="_blank">儿童个人信息网络保护规定</a></li><li><a href="http://www.cac.gov.cn/2019-01/10/c_1123971164.htm" target="_blank">区块链信息服务管理规定</a></li><li><a href="http://www.cac.gov.cn/2017-09/28/c_1121737753.htm" target="_blank">互联网域名管理办法</a></li><li><a href="http://www.cac.gov.cn/2017-05/02/c_1120902760.htm" target="_blank">互联网新闻信息服务管理规定</a></li><li><a href="http://www.cac.gov.cn/2017-05/02/c_1120902931.htm" target="_blank">互联网信息内容管理行政执法程序规定</a></li><li><a href="http://www.cac.gov.cn/2016-02/15/c_1118048596.htm" target="_blank">网络出版服务管理规定</a></li><li><a href="http://www.cac.gov.cn/2014-12/30/c_1113833007.htm" target="_blank">外国机构在中国境内提供金融信息服务管理规定</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="con">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/sfjs/A090904index_1.htm">司法解释 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list sf_li">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2019-10/25/c_1573534999086260.htm" target="_blank">最高人民法院最高人民检察院关于办理非法利用信息网络、帮助信息网络犯罪活动等刑事案件适用法律若干问题的解释</a></li><li><a href="http://www.cac.gov.cn/2014-10/11/c_1112781753.htm" target="_blank">最高人民法院关于审理利用信息网络侵害人身权益民事纠纷案件适用法律若干问题的规定</a></li><li><a href="http://www.cac.gov.cn/2013-09/07/c_133142246.htm" target="_blank">最高人民法院、最高人民检察院关于办理利用信息网络实施诽谤等刑事案件适用法律若干问题的解释</a></li><li><a href="http://www.cac.gov.cn/2014-10/11/c_1112781468.htm" target="_blank">最高人民法院关于审理侵害信息网络传播权民事纠纷案件适用法律若干问题的规定</a></li><li><a href="http://www.cac.gov.cn/2004-09/30/c_126472347.htm" target="_blank">最高人民法院、最高人民检察院关于办理利用互联网、移动通讯终端、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释</a></li><li><a href="http://www.cac.gov.cn/2010-02/03/c_126472261.htm" target="_blank">最高人民法院、最高人民检察院关于办理利用互联网、移动通讯终端、声讯台制作、复制、出版、贩卖、传播淫秽电子信息刑事案件具体应用法律若干问题的解释（二）</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="con hide">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/gfxwj/A090905index_1.htm">规范性文件 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-03/22/c_1617990997054277.htm" target="_blank">关于印发《常见类型移动互联网应用程序必要个人信息范围规定》的通知</a></li><li><a href="http://www.cac.gov.cn/2021-01/22/c_1612887880656609.htm" target="_blank">互联网用户公众账号信息服务管理规定</a></li><li><a href="http://www.cac.gov.cn/2019-11/29/c_1576561820967678.htm" target="_blank">关于印发《网络音视频信息服务管理规定》的通知</a></li><li><a href="http://www.cac.gov.cn/2019-07/22/c_1124781475.htm" target="_blank">国家互联网信息办公室 国家发展和改革委员会 工业和信息化部 财政部关于发布《云计算服务安全评估办法》的公告</a></li><li><a href="http://www.cac.gov.cn/2018-02/02/c_1122358726.htm" target="_blank">微博客信息服务管理规定</a></li><li><a href="http://www.cac.gov.cn/2017-10/30/c_1121877917.htm" target="_blank">互联网新闻信息服务单位内容管理从业人员管理办法</a></li><li><a href="http://www.cac.gov.cn/2017-10/30/c_1121878049.htm" target="_blank">互联网新闻信息服务新技术新应用安全评估管理规定</a></li><li><a href="http://www.cac.gov.cn/2017-09/07/c_1121623889.htm" target="_blank">互联网群组信息服务管理规定</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="con hide">
+<div class="tit superwoods1"><a target="_blank" href="http://www.cac.gov.cn/zcfg/zcwj/A090906index_1.htm">政策文件 </a></div>
+<div class="tab_com2">
+<div class="tab_box_com2">
+<div class="tab_box_content_com2 show">
+<div class="list">
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-02/09/c_1614442843753738.htm" target="_blank">关于印发《关于加强网络直播规范管理工作的指导意见》的通知</a></li><li><a href="http://www.cac.gov.cn/2019-12/27/c_1578986455686625.htm" target="_blank">关于印发《App违法违规收集使用个人信息行为认定方法》的通知</a></li><li><a href="http://www.cac.gov.cn/2019-07/26/c_1124802764.htm" target="_blank">关于不再指导企业主办的商业性网络安全会议、竞赛活动的通知</a></li><li><a href="http://www.cac.gov.cn/2018-04/13/c_1122676837.htm" target="_blank">关于推动资本市场服务网络强国建设的指导意见</a></li><li><a href="http://www.cac.gov.cn/2016-08/22/c_1119430337.htm" target="_blank">关于加强国家网络安全标准化工作的若干意见</a></li><li><a href="http://www.cac.gov.cn/2014-05/10/c_1115147984.htm" target="_blank">关于变更互联网新闻信息服务单位审批备案和外国机构在中国境内提供金融信息服务业务审批实施机关的通知</a></li><li><a href="http://www.cac.gov.cn/2014-05/10/c_1112142115.htm" target="_blank">关于加强党政机关网站安全管理的通知</a></li><li><a href="http://www.djbh.net/webdev/web/LevelTestOrgAction.do?p=gzdtLv3&id=402885cb35d11a540135d168e41e000c" target="_blank">全国等级保护测评机构推荐目录</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--国际交流-->
+<div class="tab_box_content ntab4">
+<div class="wlaq_fl_1 Nline">
+<div class="con">
+<div class="picarea">
+<div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2019-07/04/c_1124711891.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/scroll/2020/04/05/1587546935012276.jpg width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2019-07/04/c_1124711891.htm" target="_blank">庄荣文会见新加坡通讯及新闻部部长</a></p>    </div><div class="picTitle" style="margin-bottom: 10px">    <p class="img"><a href="http://www.cac.gov.cn/2019-04/26/c_1124418988.htm" target="_blank"><img src=http://www.cac.gov.cn/rootimages/scroll/2020/04/05/1587546935035999.jpg width=200 height=135></a></p>    <p class="bg"></p>    <p class="name"><a href="http://www.cac.gov.cn/2019-04/26/c_1124418988.htm" target="_blank">庄荣文会见弗朗西斯·高锐</a></p>    </div>
+</div>
+</div>
+</div>
+<div class="wlaq_fl_2">
+<div class="con">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/gjjl/wshd/A091001index_1.htm">外事活动 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2019-07/04/c_1124711891.htm" target="_blank">庄荣文主任会见新加坡通讯及新闻部部长易华仁</a></li><li><a href="http://www.cac.gov.cn/2019-04/26/c_1124418988.htm" target="_blank">庄荣文主任会见WIPO总干事弗朗西斯·高锐</a></li><li><a href="http://www.cac.gov.cn/2016-08/31/c_1119487602.htm" target="_blank">庄荣文会见思爱普公司全球董事会成员柯雷曼</a></li><li><a href="http://www.cac.gov.cn/2016-07/18/c_1119237439.htm" target="_blank">庄荣文出席中欧专家工作组首次会议</a></li><li><a href="http://www.cac.gov.cn/2016-07/18/c_1119237326.htm" target="_blank">庄荣文会见欧委会通信总司副总司长盖尔·肯特</a></li><li><a href="http://www.cac.gov.cn/2019-04/24/c_1124409824.htm" target="_blank">杨小伟出席2019互联网经济峰会</a></li><li><a href="http://www.cac.gov.cn/2018-07/09/c_1123098065.htm" target="_blank">杨小伟副主任会见诺基亚公司董事长李思拓</a></li><li><a href="http://www.cac.gov.cn/2018-05/24/c_1122879374.htm" target="_blank">杨小伟会见微软公司全球执行副总裁沈向洋</a></li><li><a href="http://www.cac.gov.cn/2018-05/21/c_1122862636.htm" target="_blank">杨小伟会见思科公司首席战略官兼全球执行副总裁</a></li>
+</ul>
+</div>
+<div style="width: 320px; float: left">
+<div class="list">
+<div class="tit" name="a"><a class="on" target="_blank" href="http://www.cac.gov.cn/gjjl/hzjl/A091002index_1.htm">合作交流 </a></div>
+<ul>
+    <li><a href="http://www.cac.gov.cn/2021-01/15/c_1612286687720936.htm" target="_blank">中国国家互联网信息办公室与印尼国家网络与密码局签署网络安全领域合作备忘录</a></li><li><a href="http://www.cac.gov.cn/2019-12/18/c_1578231026991236.htm" target="_blank">中国网络空间安全协会在第十四届联合国互联网治理论坛年会期间成功举办研讨会​</a></li><li><a href="http://www.cac.gov.cn/2019-12/08/c_1577343902894045.htm" target="_blank">中欧数据安全与个人信息保护研讨会在比利时布鲁塞尔举行</a></li><li><a href="http://www.cac.gov.cn/2019-11/22/c_1575956634796320.htm" target="_blank">乌镇夜话·观点荟萃</a></li><li><a href="http://www.cac.gov.cn/2019-11/18/c_1575610742087882.htm" target="_blank">第三届中俄网络媒体论坛暨中俄建交70周年新媒体交流活动在无锡举行</a></li><li><a href="http://www.cac.gov.cn/2019-11/08/c_1574745328999542.htm" target="_blank">乌镇夜 思想荟 先驱大咖话“网事”</a></li><li><a href="http://www.cac.gov.cn/2019-10/30/c_1573967285094735.htm" target="_blank">中坦网络文化交流会在坦桑尼亚举行</a></li><li><a href="http://www.cac.gov.cn/2019-10/28/c_1573794821988102.htm" target="_blank">中肯数字经济合作发展研讨会在肯尼亚举行</a></li><li><a href="http://www.cac.gov.cn/2019-10/16/c_1572757003996520.htm" target="_blank">世界互联网大会组委会发布《携手构建网络空间命运共同体》概念文件</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<!--业界动态--><!--互动中心-->
+<div class="tab_box_content ntab8">
+<div class="fl_1 Nline">
+<div class="con">
+<div class="tit"><a target="_blank" href="http://www.cac.gov.cn/hdzx/hdzx/A091101index_1.htm">热点回应 </a></div>
+<div class="rdhy1">
+<div id="scrollDiv2">
+<ul>
+     <li><span><a href="http://www.cac.gov.cn/2019-07/23/c_1124787591.htm" target="_blank">组织开展云计算服务安全评估的目的是什么？</a></span>        <p class="des">开展云计算服务安全评估，是为了提高党政机关、关键信息基础设施运营者采购使用云计算服务的安全可控水平，降低采购使用云计算服务带来的网络安全风险，增强党政机关、关键信息基础设施运营者将业务及数据向云服务平台迁移的信心。</p>        </li> <li><span><a href="http://www.cac.gov.cn/2019-07/23/c_1124787584.htm" target="_blank">云计算服务安全评估的对象是什么？</a></span>        <p class="des">云计算服务安全评估是依据云服务商申请，对面向党政机关、关键信息基础设施提供云计算服务的云平台进行的安全评估。同一云服务商运营的不同云平台，需要分别申请安全评估。</p>        </li> <li><span><a href="http://www.cac.gov.cn/2019-07/23/c_1124787574.htm" target="_blank">何时起云服务商可申请评估？需要提交哪些材料？</a></span>        <p class="des">自2019年9月1日起云服务商可以正式提交云计算服务安全评估申请。需要提交的材料包括申报书、云计算服务系统安全计划、业务连续性和供应链安全报告、客户数据可迁移性分析报告等。有关申报材料模版将在中国网信网提供下载。</p>        </li> <li><span><a href="http://www.cac.gov.cn/2019-07/23/c_1124787566.htm" target="_blank">已通过党政部门云计算服务网络安全审查的云平台，是否还需要申请云计算服务安全评估？</a></span>        <p class="des">前期已经通过党政部门云计算服务网络安全审查的云平台，视同为已通过云计算服务安全评估，不需要再重新申请。</p>        </li> <li><span><a href="http://www.cac.gov.cn/2019-07/23/c_1124787557.htm" target="_blank">云计算服务安全评估主要参照哪些标准？</a></span>        <p class="des">云计算服务安全评估主要参照国家标准《云计算服务安全能力要求》、《云计算服务安全指南》，其中《云计算服务安全能力要求》从系统开发与供应链安全、系统与通信保护、访问控制、配置管理、维护、应急响应与灾备、审计、风险评估与持续监控、安全组织与人员、物理与环境安全等方面提出要求。</p>        </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="fl_3">
+<div class="con">
+<div class="tit"><a target="_blank" href="http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm">举报中心 </a></div>
+<div class="newjbzxlist">
+<div class="jubao"><a class="a1" target="_blank" href="http://www.12377.cn">中央网信办（国家互联网信息办公室）违法和不良信息举报中心</a> <a class="a2" target="_blank" href="http://www.12377.cn">中央网信办（国家互联网信息办公室）违法和不良信息举报中心&mdash;&mdash;网上举报入口</a> <a class="a3" target="_blank" href="http://www.piyao.org.cn/xxjbrk.htm">中国互联网联合辟谣平台</a></div>
+<ul><!-- <li><a class="jbzx1" target="_blank" href="http://www.12377.cn">中央网信办（国家互联网信息办公室）违法和不良信息举报中心 </a></li> -->
+    <li><a class="jbzx2" target="_blank" href="http://www.cyberpolice.cn/wfjb/">网络违法犯 罪举报网站 </a></li>
+    <li><a class="jbzx3" target="_blank" href="http://www.shdf.gov.cn/">中国扫黄 打非网 </a></li>
+    <li><a class="jbzx4" target="_blank" href="https://yhssglxt.miit.gov.cn/">电信用户申 诉受理中心 </a></li>
+    <li><a class="jbzx5" target="_blank" href="https://www.12377.cn/allreportcentertel/zywztel.html">主要网站 举报电话 </a></li>
+    <li><a class="jbzx6" target="_blank" href="http://www.cnnic.net.cn/ggfw/fwzx/">国家域名投 诉处理中心 </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div id="newPart" class="part">
+<div class="rows01"><!-- 业界动态 -->
+<div id="industryEvs" class="borders">
+<div class="borderTitle"><a target="_blank" href="http://www.cac.gov.cn/yjdt/A0912index_1.htm">业界动态 </a>
+<div class="dataList10 clearfix"><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/jcss/A09120203index_1.htm">基础设施 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/wlw/A09120204index_1.htm">物联网 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/zhcs/A09120205index_1.htm">智慧城市 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/yjs/A09120206index_1.htm">云计算 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/yjdsj/A09120207index_1.htm">大数据 </a></div>
+</div>
+<div class="borderCont">
+<div id="yjdttab" class="dataList16 clearfix">
+<ul class="hd">
+    <li class="on"><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/wlfz/A09120101index_1.htm">互联网发展 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/jscx/A09120102index_1.htm">科技创新 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/ydhlw/A09120103index_1.htm">移动互联网 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/gjkj/A09120104index_1.htm">国际空间 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/wljj/A09120105index_1.htm">网络经济 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/hlw/mtrh/A09120106index_1.htm">媒体融合 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/xxhjs/A09120201index_1.htm">信息化建设 </a></li>
+    <li><a target="_blank" href="http://www.cac.gov.cn/yjdt/xxh/jscy/A09120202index_1.htm">技术产业 </a></li>
+</ul>
+<div class="bd">
+<ul>
+    <li>
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2021-03/15/c_1617384133893271.htm" target="_blank">“十四五”，有“数”</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/05/c_1614099216261468.htm" target="_blank">网络进村入户 产业发展提速</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/15/c_1612283173042149.htm" target="_blank">5G新基建赋能数字化营销转型 拓宽应用场景 促进产业发展</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/05/c_1611417454744874.htm" target="_blank">职业选择更多 发展前景广阔</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/28/c_1594898114098864.htm" target="_blank">电商，就业新选择</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/26/c_1594738687153815.htm" target="_blank">“云节庆”开启传情达意新模式</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/25/c_1594639187458788.htm" target="_blank">多地云上过端午！传统节日如何扎根现代社会？</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/25/c_1594639179798509.htm" target="_blank">感受“行走”起来的数字云冈石窟</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2021-01/07/c_1611588518652782.htm" target="_blank">既是工作助手，也是生活帮手——这样的人工智能更有爱</a> </dt><dt><a href="http://www.cac.gov.cn/2020-07/02/c_1595245056746738.htm" target="_blank">5G、无人机助力 “黑科技”让防汛抗洪更智慧</a> </dt><dt><a href="http://www.cac.gov.cn/2020-07/01/c_1595164310602828.htm" target="_blank">智能技术驶入“快车道” 补齐这些短板才能再提速</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/29/c_1594983567645040.htm" target="_blank">北斗全球组网后，将如何影响你我生活</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/28/c_1594897297896803.htm" target="_blank">1120公里！“墨子号”再创佳绩</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/26/c_1594738687974446.htm" target="_blank">智能“黑科技”描绘智慧生活“新图景”</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/24/c_1594560264311119.htm" target="_blank">北斗全球组网——夜空中最亮的星</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/23/c_1594459841391336.htm" target="_blank">收官之星发射升空! 全球组网十问北斗</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2020-07/03/c_1595329415495414.htm" target="_blank">未来三年6G将迎研发窗口期</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/01/c_1592561891867934.htm" target="_blank">移动支付期待“一码通用”</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/13/c_1590919158315942.htm" target="_blank">助力社会公益 社交应用派上了大用场</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/11/c_1590751834804929.htm" target="_blank">从“一卷在手”到“一屏万卷”</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/06/c_1590313166771743.htm" target="_blank">短视频为旅游“景”上添花 美丽经济火起来</a> </dt><dt><a href="http://www.cac.gov.cn/2020-04/29/c_1589707196212741.htm" target="_blank">短视频平台“实力带货”为脱贫助力</a> </dt><dt><a href="http://www.cac.gov.cn/2020-04/28/c_1589619534571925.htm" target="_blank">无接触种地：直播“播”出别样春耕图</a> </dt><dt><a href="http://www.cac.gov.cn/2020-04/28/c_1589619534560136.htm" target="_blank">5G铺设战“疫”信息高速路</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2020-07/03/c_1595329411023668.htm" target="_blank">数字技术助非洲抗疫“升级” 中国带来了这些经验</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/16/c_1593858978721174.htm" target="_blank">中非贸易共享电商发展红利</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/19/c_1591443586936022.htm" target="_blank">“云端”相会“汉语桥”</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/14/c_1591019273501938.htm" target="_blank">疫情促进人脸识别技术在日本应用</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/13/c_1590940918375970.htm" target="_blank">新AI诊断程序可预测是否感染新冠肺炎</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/09/c_1590571069479617.htm" target="_blank">巴西文创行业加快线上转型</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/08/c_1590485979364394.htm" target="_blank">外媒和外国网友：中国有效措施值得借鉴</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/08/c_1590485959130772.htm" target="_blank">数字技术助力全球疫情防控</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2021-04/08/c_1619461705249577.htm" target="_blank">一图速览中国乡村数字经济新业态</a> </dt><dt><a href="http://www.cac.gov.cn/2021-03/01/c_1616173712683256.htm" target="_blank">出口增长四成 规模创历史新高 跨境电商增长势头猛</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/25/c_1615828900558687.htm" target="_blank">就地过年 服务不打烊</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/19/c_1615307236895909.htm" target="_blank">春节消费旺 经济活力足</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/18/c_1615223592499806.htm" target="_blank">网信数据观｜今天，你上网了吗？</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/18/c_1615223592461429.htm" target="_blank">网信数据观｜99.7%！未来一手“掌”握</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/18/c_1615223592393772.htm" target="_blank">网信数据观｜扶贫上“网”，互联网带你脱贫致富</a> </dt><dt><a href="http://www.cac.gov.cn/2021-02/18/c_1615223592338349.htm" target="_blank">网信数据观｜电子政务蓬勃发展！给你满满“数字获得感”</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2020-07/03/c_1595330806788319.htm" target="_blank">视频日记——以“虚拟在场”服务引导受众</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/30/c_1595076113494318.htm" target="_blank">科技加持传媒业 推动网媒再前行</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/24/c_1594551284785529.htm" target="_blank">流媒体行业步入新的发展阶段</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/21/c_1594304151173540.htm" target="_blank">传统媒体积极探索媒体融合发展新业态新模式</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/07/c_1593081477104207.htm" target="_blank">智能报道 云端相连 创意交互——2020两会新媒体报道观察</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/28/c_1592216674678498.htm" target="_blank">两会报道5G大展身手 助力媒体融合传播</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/26/c_1592036781991813.htm" target="_blank">“云”上的两会更安全更高效</a> </dt><dt><a href="http://www.cac.gov.cn/2020-05/11/c_1590751827509211.htm" target="_blank">有声作品内容丰富、温暖人心 长音频来了，你会听吗？</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2021-02/02/c_1613837586775322.htm" target="_blank">我国建成全球最大5G网络：地级以上城市全覆盖</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/29/c_1613494532882623.htm" target="_blank">2020年电信业务量增长超两成 农村宽带用户增长较快</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/18/c_1612542216312891.htm" target="_blank">我国建成全球规模最大的通信网络</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/18/c_1612541980131045.htm" target="_blank">原创图解｜一图速览中国乡村信息基础设施发展现状</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/11/c_1611935095744020.htm" target="_blank">数字中国建设加速推进 多地聚力打造指尖上的政务服务新体验</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/24/c_1594551284551208.htm" target="_blank">来了！全国普速铁路电子客票</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/22/c_1594377236393804.htm" target="_blank">“码”上经济迸发新活力</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/21/c_1594304138496319.htm" target="_blank">6月20日起铁路电子客票覆盖全国2400多个车站</a> </dt>
+    </dl>
+    </li>
+    <li style="display: none">
+    <dl>
+        <dt><a href="http://www.cac.gov.cn/2021-01/13/c_1612110572020678.htm" target="_blank">聚焦新业态新模式｜科技添柴 “无人经济”升温</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/12/c_1612023604137651.htm" target="_blank">培育优质平台 完善产业生态 积极推动新业态新模式高质量发展</a> </dt><dt><a href="http://www.cac.gov.cn/2021-01/07/c_1611588518504674.htm" target="_blank">5G赋能的N个领域，你知道几个？</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/30/c_1595076114312437.htm" target="_blank">地理信息服务成为民生新需求</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/29/c_1595001517895458.htm" target="_blank">“北斗”组网将开启多大市场</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/24/c_1594560263254435.htm" target="_blank">工业互联网 赋能制造业</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/23/c_1594459835548203.htm" target="_blank">工业互联网 迎来落地加速期</a> </dt><dt><a href="http://www.cac.gov.cn/2020-06/22/c_1594377348311647.htm" target="_blank">未来，工业产品拼“智商”</a> </dt>
+    </dl>
+    </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- 网络研究 -->
+<div id="netResearch" class="borders">
+<div class="borderTitle"><a target="_blank" href="http://www.cac.gov.cn/llyqsy/A0913index_1.htm">网络研究 </a>
+<div class="dataList11 clearfix"><a target="_blank" href="http://www.cac.gov.cn/llyqsy/ll/A091301index_1.htm">理论 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/llyqsy/yq/A091302index_1.htm">舆情 </a><span> </span><a target="_blank" href="http://www.cac.gov.cn/llyqsy/sy/A091303index_1.htm">声音 </a></div>
+</div>
+<div class="borderCont">
+<div class="tabs tabs2">
+<div class="tabsCont">
+<ul class="tabsItem list" style="display: block">
+     <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979218996090.htm" target="_blank">经济日报：信息安全保护任重道远——建设数字中国系列述评之三</a></li> <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979218942020.htm" target="_blank">经济日报：数字普惠化还有几道坎——建设数字中国系列述评之二</a></li> <li><a href="http://www.cac.gov.cn/2021-04/14/c_1619979216813312.htm" target="_blank">经济日报：产业数字化转型难在哪——建设数字中国系列述评之一</a></li> <li><a href="http://www.cac.gov.cn/2021-03/08/c_1616778114731487.htm" target="_blank">将红色校史、党史“搬上”大学思政课</a></li> <li><a href="http://www.cac.gov.cn/2021-03/08/c_1616799458493399.htm" target="_blank">学党史 悟初心 汲力量</a></li> <li><a href="http://www.cac.gov.cn/2021-03/08/c_1616778110054173.htm" target="_blank">把对党忠诚镌刻进实干担当</a></li> <li><a href="http://www.cac.gov.cn/2021-03/02/c_1616261235597891.htm" target="_blank">在党史学习教育中“明理、增信、崇德、力行”</a></li> <li><a href="http://www.cac.gov.cn/2021-02/23/c_1615651192301627.htm" target="_blank">红色文化的理论逻辑、历史逻辑和现实逻辑</a></li> <li><a href="http://www.cac.gov.cn/2021-02/23/c_1615651192148866.htm" target="_blank">这是中华民族历史上亘古未有的伟大跨越</a></li> <li><a href="http://www.cac.gov.cn/2021-02/21/c_1615479855028825.htm" target="_blank">学习党史，构筑起共产党人的精神家园</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- 行业概览 -->
+<div id="newindustryView" class="borders">
+<div class="borderTitle borderTitle01"><a>行业概览 </a></div>
+<ul class="borderCont">
+    <li class="item item01"><a target="_blank" href="http://www.cfis.cn/"> </a></li>
+    <li class="item item02"><a target="_blank" href="http://www.cac.gov.cn/hygl/zj/A091403index_1.htm"> </a></li>
+    <li class="item item03"><a target="_blank" href="http://www.cac.gov.cn/hygl/zzwlcb/A091404index_1.htm"> </a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+<div class="borders" style="margin-bottom: 10px">
+<div class="borderTitle borderTitle02"><a class="more" target="_blank" style="color: #333" href="http://www.cac.gov.cn/gzzt/ztzl/ztxx/ztzl/A0920010502index_1.htm">更多&gt;&gt; </a><a target="_blank" href="http://www.cac.gov.cn/gzzt/ztzl/ztxx/ztzl/A0920010502index_1.htm">工作专题 </a></div>
+</div>
+<div id="lbPic" class="box03 clearfix">
+<div class="box02_h3">
+<h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm target=_blank>《凝心聚力推进新时代网络强国建设》专题</a></span><div></div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/zhuanti/A0920010806index_1.htm target=_blank>《铿锵奋进的脚步 续写春天的故事》专题</a></span><div></div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/zhuanti/A0920010806index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm target=_blank>《知史爱党守初心 继往开来新征程》专题</a></span><div>2021年，中国共产党迎来百年华诞。全国网信系统认真学习宣传贯彻习近平总书记重要讲话精神，准确领会精神实质、全面把握任务要求、切实抓好贯彻落实，确保党史学习教育取得扎实成效。</div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/lianghui/A0920010804index_1.htm target=_blank>《2021全国两会》专题</a></span><div></div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/lianghui/A0920010804index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm target=_blank>网信系统学习宣传贯彻《习近平关于网络强国论述摘编》专题</a></span><div>近日，《习近平关于网络强国论述摘编》在全国发行，各地网信部门把学习好、研究好、宣传好、运用好《习近平关于网络强国论述摘编》作为一项重要政治任务，迅速掀起学习热潮。</div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/ybcx/A0920010801index_1.htm target=_blank>《弘扬“三牛精神” 永葆初心前行 各地网信部门迈开新步伐见到新气象》专题</a></span><div></div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/ybcx/A0920010801index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/cnic/A0920010802index_1.htm target=_blank>第47次《中国互联网络发展状况统计报告》专题</a></span><div>《报告》围绕互联网基础建设、网民规模及结构、互联网应用发展、互联网政务发展、产业与技术发展、互联网安全等六个方面，综合反映2020年我国互联网发展状况。</div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/cnic/A0920010802index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3><h3 class="cWhite"><span><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/chengxin/A0920010234index_1.htm target=_blank>《2020中国网络诚信大会》专题</a></span><div></div><p style="text-align:right;"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/chengxin/A0920010234index_1.htm style="font-size:14px;" target=_blank>详细>></a></p></h3>
+</div>
+<div class="bigPic03">
+<div class="box_pos">
+<div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/19/1620411753258044.png" title="《凝心聚力推进新时代网络强国建设》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/zhuanti/A0920010806index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/15/1620065456449875.jpg" title="《铿锵奋进的脚步 续写春天的故事》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/15/1617384132390076.png" title="《知史爱党守初心 继往开来新征程》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/lianghui/A0920010804index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/06/1616606397711715.jpg" title="《2021全国两会》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/24/1615763698361653.jpg" title="网信系统学习宣传贯彻《习近平关于网络强国论述摘编》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/ybcx/A0920010801index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/20/1615390951666356.jpg" title="《弘扬“三牛精神” 永葆初心前行 各地网信部门迈开新步伐见到新气象》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/cnic/A0920010802index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/03/1613923426376884.jpg" title="第47次《中国互联网络发展状况统计报告》专题" width='475' height='280'></a></div><div class="boximg01"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/chengxin/A0920010234index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2020/12/06/1608831020331394.jpg" title="《2020中国网络诚信大会》专题" width='475' height='280'></a></div>
+</div>
+</div>
+<div class="smallPic03">
+<div class="box_pos2">
+<div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/19/1620411753258044.png" title="《凝心聚力推进新时代网络强国建设》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/zhuanti/A0920010806index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/15/1620065456449875.jpg" title="《铿锵奋进的脚步 续写春天的故事》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/15/1617384132390076.png" title="《知史爱党守初心 继往开来新征程》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/lianghui/A0920010804index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/06/1616606397711715.jpg" title="《2021全国两会》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/24/1615763698361653.jpg" title="网信系统学习宣传贯彻《习近平关于网络强国论述摘编》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/ybcx/A0920010801index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/20/1615390951666356.jpg" title="《弘扬“三牛精神” 永葆初心前行 各地网信部门迈开新步伐见到新气象》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/cnic/A0920010802index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/03/1613923426376884.jpg" title="第47次《中国互联网络发展状况统计报告》专题" width='240' height='150'></a></div><div class="boximg02"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/chengxin/A0920010234index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2020/12/06/1608831020331394.jpg" title="《2020中国网络诚信大会》专题" width='240' height='150'></a></div>
+</div>
+</div>
+<div class="smallPic03">
+<div class="box_pos3">
+<div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xsdwlqgjs/A0920010807index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/19/1620411753258044.png" title="《凝心聚力推进新时代网络强国建设》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/zhuanti/A0920010806index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/04/15/1620065456449875.jpg" title="《铿锵奋进的脚步 续写春天的故事》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/history/A0920010805index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/15/1617384132390076.png" title="《知史爱党守初心 继往开来新征程》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/lianghui/A0920010804index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/03/06/1616606397711715.jpg" title="《2021全国两会》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/xxwlqgls/A0920010803index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/24/1615763698361653.jpg" title="网信系统学习宣传贯彻《习近平关于网络强国论述摘编》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/ybcx/A0920010801index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/20/1615390951666356.jpg" title="《弘扬“三牛精神” 永葆初心前行 各地网信部门迈开新步伐见到新气象》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/cnic/A0920010802index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2021/02/03/1613923426376884.jpg" title="第47次《中国互联网络发展状况统计报告》专题" width='240' height='150'></a></div><div class="boximg0"><a href=http://www.cac.gov.cn/gzzt/ztzl/zt/chengxin/A0920010234index_1.htm target=_blank><img style="cursor:hand" border=0 src="http://www.cac.gov.cn/rootimages/2020/12/06/1608831020331394.jpg" title="《2020中国网络诚信大会》专题" width='240' height='150'></a></div>
+</div>
+</div>
+<div class="btn03"><a id="l_btn" alt="往左" href="javascript:">  </a><a id="r_btn" alt="往右" href="javascript:"> </a></div>
+<div class="clear"> </div>
+</div>
+<div class="clear"> </div>
+<div class="newpart_hysj">
+<div class="fl_1">
+<div class="con">
+<h3 class="hysj_tit"><a target="_blank" href="http://www.cac.gov.cn/sjfw/hysj/A091601index_1.htm">数据服务 </a></h3>
+<div class="content">
+<ul id="iconbar3">
+    <li class="li5"><a target="_blank" href="http://www.cac.gov.cn/sjfw/hysj/A091601index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>中国互联网络发展状况统计报告</span> </a></li>
+    <li class="li2"><a target="_blank" href="http://www.cac.gov.cn/sjfw/hybg/A091602index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>行业报告</span> </a></li>
+    <li class="li8"><a target="_blank" href="http://www.cac.gov.cn/sjfw/aqbg/zb/A09160303index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>安全报告</span> </a></li>
+    <li class="li7"><a target="_blank" href="http://www.cac.gov.cn/sjfw/bps/A091604index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>白皮书</span> </a></li>
+</ul>
+<ul id="iconbar4">
+    <li class="li1"><a target="_blank" href="http://www.cac.gov.cn/sjfw/dashiji/A091605index_1.htm"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>大事记</span> </a></li>
+    <li class="li11"><a target="_blank" href="https://www.piyao.org.cn/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /><span>联合辟谣平台</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fr">
+<div class="con">
+<div class="fwbs mb">
+<h3 class="hysj_tit"><a target="_blank" href="http://www.cac.gov.cn/fwxx/A0917index_1.htm">办事服务 </a></h3>
+<div class="content">
+<ul id="iconbar">
+    <li class="li10"><a target="_blank" href="http://www.cnnic.net.cn/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>WHOIS查询系统</span> </a></li>
+    <li class="li11"><a target="_blank" href="http://www.cnnic.net.cn/jczyfw/CNym/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>互联网基础资源服务</span> </a></li>
+    <li class="li13"><a target="_blank" href="http://cnnic.cn/gjymaqzx/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>国家域名安全中心</span> </a></li>
+</ul>
+<ul id="iconbar2">
+    <li class="li6"><a target="_blank" href="http://www.apac.cn/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>中国反钓鱼网站联盟</span> </a></li>
+    <li class="li15"><a target="_blank" href="http://www.cnvd.org.cn/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>国家信息安全漏洞共享平台</span> </a></li>
+    <li class="li19"><a target="_blank" href="http://www.cert.org.cn/"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/space.gif" /> <span>国家互联网应急中心</span> </a></li>
+</ul>
+<div class="clear"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div class="clear"> </div>
+</div>
+<div class="clear"> </div>
+</div>
+<div class="foot">
+<div class="con"><img border="0" alt="" usemap="#Mapa" src="http://www.cac.gov.cn/lib/template/scheme/images/n960.png" /> <map id="Mapa" name="Mapa">
+<area shape="rect" target="_blank" coords="687,30,741,53" onFocus="this.blur()" href="http://www.cac.gov.cn/wzxg/lxwm/A092501index_1.htm" />
+<area shape="rect" target="_blank" coords="742,30,796,53" onFocus="this.blur()" href="http://www.cac.gov.cn/wzxg/zndh/A092502index_1.htm" />
+<area shape="rect" target="_blank" coords="605,56,715,76" onFocus="this.blur()" href="http://beian.miit.gov.cn/" />
+<area shape="rect" target="_blank" coords="808,21,861,81" onFocus="this.blur()" href="http://bszs.conac.cn/sitename?method=show&amp;id=04E495BC1FB45E52E053022819AC1EB7" /></map></div>
+</div>
+<div><script>function pagestat(){var urlfrom = ''; 
+if (document.referrer.length > 0) { 
+urlfrom = document.referrer; 
+} 
+try { 
+ if (urlfrom.length == 0 && opener.location.href.length > 0) { 
+ urlfrom = opener.location.href; 
+} 
+ } catch (e) {}  
+var re=new RegExp(" ","gi");
+urlfrom = urlfrom.replace(re,"");
+if(urlfrom.indexOf("tagpre")>0||urlfrom.indexOf("result")>0)  urlfrom="";
+var title = document.title;
+$.ajax({type:'POST',url: '/cms/cmsadmin/infopub/pagestat.jsp?crToken='+crToken,data:{webappcode:"A09",code:"A09",infoId:"",title:title,urlfrom:encodeURI(urlfrom)},success:function(data){}});}pagestat();</script></div>
+<div id="myModal" class="reveal-modal">
+<div class="title">请扫描访问手机版网站：</div>
+<div class="content" style="text-align: center"><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/0605ewm.png" /></div>
+<span class="close-reveal-modal">&times;</span></div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/jquery.reveal.js"></script><script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/common16_1.js"></script>
+<div style="display: none">
+<span id='indexcounter'></span><script>function getindexcounter(){ var msg = $.ajax({	  url: '/cms/cmsadmin/infopub/counter.jsp?counterType=0&fontColor=000000&pubpath=portal&webappCode=A09&crToken='+crToken ,	  async: true	 }).responseText; $('#indexcounter').html(msg);} $(document).ready(function(){getindexcounter();});</script>
+</div>
+<div id="gtx-trans" style="position: absolute; left: 49px; top: 244px">
+<div class="gtx-trans-icon"> </div>
+</div><div style='display:none'>Produced By CMS 网站群内容管理系统 publishdate:2021/04/24 10:30:49</div></body></html>

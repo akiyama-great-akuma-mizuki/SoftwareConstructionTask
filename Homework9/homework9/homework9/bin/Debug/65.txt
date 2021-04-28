@@ -1,0 +1,1967 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--处理黑白效果-->
+<!--not found: http://www.itaiwannews.cn/blackwhite/iebug.inc-->
+<!--处理黑白效果-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>海峡飞虹中文网</title>
+<meta name="keywords" content="海峡飞虹中文网,海峡飞虹" />
+<meta name="description" content="海峡飞虹中文网致力于服务台湾同胞以及关注两岸关系发展的全球华人。网站以涉台报道为特色，通过资讯、视频、音频及其它多媒体形式，全面展现两岸交流盛况，关注两岸发展与未来。" />
+<link type="text/css" href="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAU7qjAAAAAAAAAAA6294926.bootstrap.css" rel="stylesheet" />
+<link type="text/css" href="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAU7qjAAAAAAAAAAA6294926.common.css" rel="stylesheet" />
+<link type="text/css" href="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAU7qjAAAAAAAAAAA6294926.ad-gallery.css" rel="stylesheet" />
+<link type="text/css" href="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAU7qjAAAAAAAAAAA6294926.style.css" rel="stylesheet" />
+<link type="text/css" href="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAU7qjAAAAAAAAAAA6294926.index2016.css" rel="stylesheet" />
+<!--[if IE 6]>
+  <script src="/itaiwannews/_js/png.js"></script>
+  <script>
+    DD_belatedPNG.fix('*');
+  </script>
+  <![endif]-->
+</head>
+<body class="main-index">
+<!--飘红用 开始-->
+<!--not found: http://www.itaiwannews.cn/inc/5d2fa721-feb3-465d-b96c-63d3912c0f65.inc-->
+<!--飘红用 结束-->
+<div class="top"> 
+  <!--飘红用 开始-->
+<!--not found: http://www.itaiwannews.cn/inc/5d2fa721-feb3-465d-b96c-63d3912c0f65.inc-->
+<!--飘红用 结束-->
+<div class="header">
+    <div class="logo"><a href="/"></a></div>
+    <div class="header-con">
+    <div class="header-nav">
+      <ul class="menu">
+        <li id="home" class="current"><a href="/" class="active">首页</a></li>
+        <li id="theStrait"><a href="/liangan">两岸</a></li>
+        <li id="city"><a href="/discover">发现</a></li>
+        <li id="media"><a href="/v">电台</a></li>
+        <li id="special"><a href="/special">专题</a></li>
+      </ul>
+      <div class="secondMenu">
+        <p class="home" />
+        <p class="theStrait"><a href="/news/liangan">新闻</a><a href="/observe">两岸观察</a><a href="/opinion">评论</a><a href="/video/hxla">视频</a></p>
+        <p class="city"><a href="/photo">视界</a><a href="/businessmen">人物</a><a href="/history">历史</a><a href="/travel/suggestion">旅游</a><a href="/reading">轻阅读</a></p>
+        <p class="media"><span>直播</span><span>点播</span></p>
+        <p class="special" />
+        <p class="radio" />
+      </div>
+    </div>
+    <div class="header-r">
+      <div class="weather">
+        <p class="weather-info"><span class="weather-city">北京</span><span class="weather-temperature"></span></p>
+        <p class="weather-icon"><img src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.weather-sun.png" alt="" /></p>
+      </div>
+      <div class="language"><a href="http://english.cri.cn/strait2taiwan/" style="display:none;">English</a><a href="#">繁體中文</a></div>
+      <div class="oper"><!--<a href="#" class="login"></a>--><a href="/search" class="search"></a></div>
+    </div>
+    </div>
+  </div> 
+</div>
+<div class="main">
+  <div class="content-wrap bg-2b  first-wrap">
+    <div class="content scroll">
+      <div class="ad-gallery homeAd" id="gallery">
+          <div class="ad-image-wrapper"> 
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: block"><a target="_blank" href="/2021-04-23/f28f172c-97bf-d1c1-57f9-6ffa9d76c009.html"><img src="//p2.cri.cn/M00/27/D2/rBABCWCCQymAMRumAAAAAAAAAAA887.980x490.jpg" width="980" height="490" alt="又是一年读书日 你的阅读习惯发生了哪些变化？_fororder_src=http___www.duoguan.com_d_file_dnews_xingyezixun_2019-04-24_59230df36ee000a91b66df97be1640c9.png&amp;refer=http___www.duoguan" title="又是一年读书日 你的阅读习惯发生了哪些变化？" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">又是一年读书日 你的阅读习惯发生了哪些变化？</strong><span class="brief">春暖花开，又到了&ldquo;世界读书日&rdquo;。不管时代如何发展，书籍永远是我们不可或缺的朋友。如今，大家的阅读行为有哪些新特点、新趋势呢？</span></p>
+            </div>
+            
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-23/69d2ac4a-c668-7cde-2e2b-13d4658463d1.html"><img src="//p2.cri.cn/M00/26/4E/rBABDGCCKPOAbbtVAAAAAAAAAAA724.980x490.jpg" width="980" height="490" alt="习近平出席领导人气候峰会并发表重要讲话_fororder_210423980490" title="习近平出席领导人气候峰会并发表重要讲话" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">气候峰会：习近平首提构建“人与自然生命共同体”</strong><span class="brief">
+              
+&nbsp;应美国总统拜登邀请，国家主席习近平22日晚在北京以视频方式出席领导人气候峰会，并发表重要讲话。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-21/ab495832-399a-da60-ef32-5e304d9bdf76.html"><img src="//p2.cri.cn/M00/27/6A/rBABC2B_iC-AIkMmAAAAAAAAAAA200.980x490.png" width="980" height="490" alt="要高山低头 令河水倒流" title="要高山低头 令河水倒流" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">要高山低头 令河水倒流：香港近八成淡水需求的来源</strong><span class="brief">
+              
+深圳水库大坝是东深供水工程输水入港前的最后一站，从东莞桥头镇引调的东江水流经六十多公里，经这里送入香港
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-20/dd881159-8f07-4db6-8a03-48565570a5e0.html"><img src="//p2.cri.cn/M00/27/48/rBABCmB-SB2ATuECAAAAAAAAAAA014.980x490.jpg" width="980" height="490" alt="习近平在博鳌亚洲论坛年会开幕式上发表主旨演讲_fororder_210420980490" title="习近平在博鳌亚洲论坛年会开幕式上发表主旨演讲" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">习近平在博鳌亚洲论坛年会开幕式上发表主旨演讲</strong><span class="brief">
+              
+&nbsp;博鳌亚洲论坛2021年年会开幕式20日上午在海南博鳌举行，国家主席习近平以视频方式发表主旨演讲。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-20/75b6b656-a955-4954-3f48-27fc34de9915.html"><img src="//p2.cri.cn/M00/27/46/rBABCmB-QhOAJ6REAAAAAAAAAAA838.980x490.jpg" width="980" height="490" alt="总书记考察清华，透露哪些教育“风向标”？_fororder_未标题-2" title="总书记考察清华，透露哪些教育“风向标”？" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">总书记考察清华，透露哪些教育“风向标”？</strong><span class="brief">
+              
+美育、创新、体育&hellip;&hellip;这几个关键词，从一个侧面，展现出习近平总书记对教书育人的重托，对莘莘学子的期许。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-20/aaa09ed3-9e67-5700-56ed-eb8fdcb67454.html"><img src="//p2.cri.cn/M00/27/59/rBABCmB-jEeABlzjAAAAAAAAAAA465.980x490.jpg" width="980" height="490" alt="火星车命名、月球样品离京展出……中国航天日来了！_fororder_未标题-3" title="火星车命名、月球样品离京展出……中国航天日来了！" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">火星车命名、月球样品离京展出……中国航天日来了！</strong><span class="brief">
+              
+中国航天日已成为社会公众每年一次与航天近距离接触、互动交流的嘉年华，成为公众和世界了解中国航天的一个窗口。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-16/bb4bdb62-b4f5-602c-32b4-a50d36cf70b6.html"><img src="//p2.cri.cn/M00/25/68/rBABDGB5rZiAVao2AAAAAAAAAAA003.980x490.jpg" width="980" height="490" alt="习近平同法国德国领导人举行视频峰会_fororder_210416980490" title="习近平同法国德国领导人举行视频峰会" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">习近平同法国德国领导人举行视频峰会</strong><span class="brief">
+              
+4月16日下午，国家主席习近平在北京同法国总统马克龙、德国总理默克尔举行中法德领导人视频峰会。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-16/4e332591-9284-2837-942f-a86d2bb489c0.html"><img src="//p2.cri.cn/M00/25/5E/rBABDGB5UkCAZQuoAAAAAAAAAAA085.980x490.jpg" width="980" height="490" alt="18.3%！一季度中国经济稳健开局_fororder_980" title="18.3%！一季度中国经济稳健开局" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">18.3%！一季度中国经济稳健开局</strong><span class="brief">
+              
+一季度国内生产总值249310亿元， 同比上涨18.3%， 相比2019年上涨10.3%，两年平均增长5.0%，实现稳健开局。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-14/206452b2-e849-7b0c-8b6f-6ec99fbbb65d.html"><img src="//p2.cri.cn/M00/26/82/rBABCWB2tYOAd6bAAAAAAAAAAAA691.1600x800.980x490.jpg" width="980" height="490" alt="全球华人礼拜始祖轩辕！辛丑年黄帝故里拜祖大典今日举行_fororder_1" title="全球华人礼拜始祖轩辕！辛丑年黄帝故里拜祖大典今日举行" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">全球华人礼拜始祖轩辕！辛丑年黄帝故里拜祖大典举行</strong><span class="brief">
+              
+全球华人再次汇聚于中华文明始祖轩辕黄帝故里，通过现场拜祖和网上拜祖，同拜轩辕黄帝，祈福中华民族繁荣昌盛，祝福世界人民幸福安康。
+              
+              
+              </span></p>
+            </div>
+            
+            <div class="ad-image" style="width: 980px; height: 490px; top: 0px; left:0px;display: none;"><a target="_blank" href="/2021-04-14/f6b8aa25-26ba-31ad-82db-d357a1c4d529.html"><img src="//p2.cri.cn/M00/26/73/rBABC2B2faeANsRfAAAAAAAAAAA897.980x490.jpg" width="980" height="490" alt="2021年4月14日国台办新闻发布会" title="2021年4月14日国台办新闻发布会" usemap=""/>
+              <div class="gallery-ph"></div>
+              </a>
+              <div class="infoLabel news">资 讯</div>
+              <p class="ad-image-description" style="width: 966px;"><strong class="ad-description-title">2021年4月14日国台办新闻发布会</strong><span class="brief">
+              
+2021年4月14日上午，国务院台湾事务办公室举行例行新闻发布会，发言人马晓光就近期两岸热点问题回答了记者提问。
+              
+              
+              </span></p>
+            </div>
+             <img src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.loading.gif" class="ad-loader" style="display: none;" />
+            <div class="ad-next">
+              <div class="ad-next-image" style="opacity: 0.7;"></div>
+            </div>
+            <div class="ad-prev">
+              <div class="ad-prev-image" style="opacity: 0.7;"></div>
+            </div>
+          </div>
+          <div class="ad-nav">
+            <div class="ad-back" style="opacity: 0.6;"></div>
+            <div class="ad-thumbs">
+              <ul class="ad-thumb-list" style="width: 980px;">
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/27/D2/rBABCWCCQymAMRumAAAAAAAAAAA887.980x490.80x40.jpg" width="80" height="40" alt="又是一年读书日 你的阅读习惯发生了哪些变化？_fororder_src=http___www.duoguan.com_d_file_dnews_xingyezixun_2019-04-24_59230df36ee000a91b66df97be1640c9.png&amp;refer=http___www.duoguan" title="又是一年读书日 你的阅读习惯发生了哪些变化？" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/26/4E/rBABDGCCKPOAbbtVAAAAAAAAAAA724.980x490.80x40.jpg" width="80" height="40" alt="习近平出席领导人气候峰会并发表重要讲话_fororder_210423980490" title="习近平出席领导人气候峰会并发表重要讲话" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/27/6A/rBABC2B_iC-AIkMmAAAAAAAAAAA200.980x490.80x40.png" width="80" height="40" alt="要高山低头 令河水倒流" title="要高山低头 令河水倒流" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/27/48/rBABCmB-SB2ATuECAAAAAAAAAAA014.980x490.80x40.jpg" width="80" height="40" alt="习近平在博鳌亚洲论坛年会开幕式上发表主旨演讲_fororder_210420980490" title="习近平在博鳌亚洲论坛年会开幕式上发表主旨演讲" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/27/46/rBABCmB-QhOAJ6REAAAAAAAAAAA838.980x490.80x40.jpg" width="80" height="40" alt="总书记考察清华，透露哪些教育“风向标”？_fororder_未标题-2" title="总书记考察清华，透露哪些教育“风向标”？" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/27/59/rBABCmB-jEeABlzjAAAAAAAAAAA465.980x490.80x40.jpg" width="80" height="40" alt="火星车命名、月球样品离京展出……中国航天日来了！_fororder_未标题-3" title="火星车命名、月球样品离京展出……中国航天日来了！" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/25/68/rBABDGB5rZiAVao2AAAAAAAAAAA003.980x490.80x40.jpg" width="80" height="40" alt="习近平同法国德国领导人举行视频峰会_fororder_210416980490" title="习近平同法国德国领导人举行视频峰会" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/25/5E/rBABDGB5UkCAZQuoAAAAAAAAAAA085.980x490.80x40.jpg" width="80" height="40" alt="18.3%！一季度中国经济稳健开局_fororder_980" title="18.3%！一季度中国经济稳健开局" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/26/82/rBABCWB2tYOAd6bAAAAAAAAAAAA691.1600x800.80x40.jpg" width="80" height="40" alt="全球华人礼拜始祖轩辕！辛丑年黄帝故里拜祖大典今日举行_fororder_1" title="全球华人礼拜始祖轩辕！辛丑年黄帝故里拜祖大典今日举行" usemap=""/><span class="cur-bor"></span></a></li>
+                
+                <li> <a href="javascript:void(0)"><img src="//p2.cri.cn/M00/26/73/rBABC2B2faeANsRfAAAAAAAAAAA897.980x490.80x40.jpg" width="80" height="40" alt="2021年4月14日国台办新闻发布会" title="2021年4月14日国台办新闻发布会" usemap=""/><span class="cur-bor"></span></a></li>
+                
+              </ul>
+            </div>
+            <div class="ad-forward" style="opacity: 0.6;"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+  <div class="content-wrap bg-cb">
+    <div class="content content-a">
+      <div class="block block-news">
+        <div class="block-con">
+          <div class="title">
+            <h2><a href="/news/liangan"><em class="color">新</em>闻</a></h2>
+          </div>
+          
+            <div class="carousel slide block-scroll" id="myCarousel">
+              <div class="carousel-inner"> 
+                <div class="item active"> <a target="_blank" href="/2021-04-23/41046cec-a4cc-1f1d-a2d0-152e29f4a901.html" class=""><img src="//p2.cri.cn/M00/27/CF/rBABCWCCOJKAZqZYAAAAAAAAAAA33.1080x810.300x225.jpeg" width="300" height="225" alt="时政新闻眼丨习近平出席领导人气候峰会，首次提出构建“人与自然生命共同体”" title="时政新闻眼丨习近平出席领导人气候峰会，首次提出构建“人与自然生命共同体”" usemap=""/></a>
+                  <div class="carousel-caption">
+                    <p class="name">时政新闻眼丨习近平出席领导人气候峰会，首次提出构建“人与自然生命共同体”</p>
+                  </div>
+                </div>
+                
+                
+                <div class="item"> <a target="_blank" href="/2021-04-23/866b57bf-bc2e-23d8-526b-e103fcf43ad8.html" class=""><img src="//p2.cri.cn/M00/27/C7/rBABC2CCKx6APJ69AAAAAAAAAAA466.425x318.300x225.jpg" width="300" height="225" alt="外交部就习近平主席出席领导人气候峰会举行中外媒体吹风会" title="外交部就习近平主席出席领导人气候峰会举行中外媒体吹风会" usemap=""/></a>
+                  <div class="carousel-caption">
+                    <p class="name">外交部就习近平主席出席领导人气候峰会举行中外媒体吹风会</p>
+                  </div>
+                </div>
+                
+                <div class="item"> <a target="_blank" href="/2021-04-23/6bda5c70-7a81-f1ec-470d-ab47b69943ad.html" class=""><img src="//p2.cri.cn/M00/27/D0/rBABCWCCPc-AXuT2AAAAAAAAAAA215.586x439.300x225.jpg" width="300" height="225" alt="港人港语：东深供水工程是中央心系香港缩影" title="港人港语：东深供水工程是中央心系香港缩影" usemap=""/></a>
+                  <div class="carousel-caption">
+                    <p class="name">港人港语：东深供水工程是中央心系香港缩影</p>
+                  </div>
+                </div>
+                
+                <div class="item"> <a target="_blank" href="/2021-04-23/f28f172c-97bf-d1c1-57f9-6ffa9d76c009.html" class=""><img src="//p2.cri.cn/M00/27/D6/rBABC2CCap2AXRs5AAAAAAAAAAA369.342x256.300x225.jpg" width="300" height="225" alt="世界读书日 | 又是一年读书日 你的阅读习惯发生了哪些变化？" title="世界读书日 | 又是一年读书日 你的阅读习惯发生了哪些变化？" usemap=""/></a>
+                  <div class="carousel-caption">
+                    <p class="name">世界读书日 | 又是一年读书日 你的阅读习惯发生了哪些变化？</p>
+                  </div>
+                </div>
+                
+                <div class="item"> <a target="_blank" href="/2021-04-23/138242a9-9b35-a5ba-3e36-1ce64ae0340f.html" class=""><img src="//p2.cri.cn/M00/26/5E/rBABDGCCawyATlRLAAAAAAAAAAA598.447x335.300x225.jpg" width="300" height="225" alt="大数据绘出中国人的幸福画像 影响中国人幸福感因素发生变化" title="大数据绘出中国人的幸福画像 影响中国人幸福感因素发生变化" usemap=""/></a>
+                  <div class="carousel-caption">
+                    <p class="name">大数据绘出中国人的幸福画像 影响中国人幸福感因素发生变化</p>
+                  </div>
+                </div>
+                 </div>
+              <ol class="carousel-indicators">
+              </ol>
+              <a data-slide="prev" href="" class="left carousel-control"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a data-slide="next" href="" class="right carousel-control"> <span class="glyphicon glyphicon-chevron-right"></span> </a> </div>
+          
+          
+            <ul class="news-list">
+              
+              <li><a href="/2021-04-23/3b459323-f813-a79e-2275-a411266cefde.html" target="_blank">习近平在领导人气候峰会上的讲话 全文</a></li>
+              
+              <li><a href="/2021-04-23/ee7357d4-a470-11a9-c942-5318e2a8a3cd.html" target="_blank">期待东盟领导人特别会议实现三个“有利于”</a></li>
+              
+              <li><a href="/2021-04-23/3704c3d9-2951-e38d-79be-1b5e7b46fabe.html" target="_blank">首届两岸青少年成渝双城研学营在重庆开营</a></li>
+              
+              <li><a href="/2021-04-23/e2c479bc-d78a-d0de-503e-7855cb8fe9d3.html" target="_blank">大湾区，一小时生活圈正形成</a></li>
+              
+              <li><a href="/2021-04-22/92f1e80d-452e-7a2a-8cf8-72ba88155bb1.html" target="_blank">王毅同德国外长马斯举行视频磋商</a></li>
+              
+              <li><a href="/2021-04-22/ea8cca77-966b-22f0-f3a9-d52e4aec969a.html" target="_blank">国台办：妄图为“台独”谬论背书 痴心妄想</a></li>
+              
+              <li><a href="/2021-04-22/99fc6a00-b4c7-46d7-9da9-acad90251efa.html" target="_blank">这份国家承诺清单，每一位公民都享有</a></li>
+              
+              <li><a href="/2021-04-21/a3202ea3-53de-4481-9829-42b3f4c5786c.html" target="_blank">多国人士高度评价习近平主席的主旨演讲</a></li>
+              
+              
+              <li class="last"><a href="/2021-04-21/5b277e66-42de-f631-a4e3-1374cf879079.html" target="_blank">习近平将出席领导人气候峰会</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+      <div class="block block-depth">
+        <div class="block-con">
+          <div class="title">
+            <h2><a href="/observe">两<em class="color">岸</em>观察</a></h2>
+          </div>
+          
+            <ul class="news-list">
+              
+              <li class="li_y_f"><a href="/2021-04-23/24ec91ec-6953-f853-bc8c-93c93f509b2d.html" target="_blank">日本准备跟打“台湾牌”。避免卷入大国对抗的漩涡，应是日本最好的选择。</a></li>
+              <li class="img">
+                <div class="picArea hover"><a href="/2021-04-23/24ec91ec-6953-f853-bc8c-93c93f509b2d.html" target="_blank"><img src="//p2.cri.cn/M00/27/D0/rBABCmCCL3OAc8ySAAAAAAAAAAA702.855x641.300x225.jpg" width="300" height="225" alt="确定跟牌？小心满盘皆输！_fororder_标题图" title="确定跟牌？小心满盘皆输！" usemap=""/></a><a href="/2021-04-23/24ec91ec-6953-f853-bc8c-93c93f509b2d.html" target="_blank" class="img-info-wrap"><span class="name">确定跟牌？小心满盘皆输！</span></a></div>
+              </li>
+              
+              
+              <li class="li_y"><a href="/2021-04-15/24c773d8-4946-a9cc-b3ea-829042778e1a.html" target="_blank">无水问苍天？</a></li>
+              
+              
+              <li class="li_y last"><a href="/2021-04-09/3b5cb217-d448-d879-c323-a58b3cb59cc4.html" target="_blank">中美“乒乓外交”：五十而知天命</a></li>
+              
+            </ul>
+          
+        </div>
+      </div>
+      <div class="block block-round">
+        <div class="block-con">
+          <div class="title">
+            <h2><a href="http://www.itaiwannews.cn/video/special">视<em class="color">频</em></a></h2>
+          </div>
+          
+            <div class="b-top">
+              <div class="picArea"> <a target="_blank" href="/2021-04-23/2d0469d4-562b-c745-c31d-a08726067ace.html">
+                <div class="spbiao blockPic"><img src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.spbiao.png" width="48" height="48" /></div>
+                <div><img src="//p2.cri.cn/M00/26/66/rBABDGCCgzSAJLtPAAAAAAAAAAA594.1440x1080.300x225.jpg" width="300" height="225" alt="冬奥，我来啦！坐着高铁去滑雪" title="冬奥，我来啦！坐着高铁去滑雪" usemap=""/></div>
+                <div class="img-info-wrap"><span class="name"></span>
+                  <p class="info">【两岸新发现】冬奥，我来啦！坐着高铁去滑雪</p>
+                </div>
+                </a> </div>
+            </div>
+            
+            <div class="b-bottom b-col02"> 
+              <div class="picArea"> <a target="_blank" href="/2021-04-14/8464ac5b-3085-5d9d-c014-6d62f727e243.html">
+               <div class="spbiao spbiao1 blockPic"> <img src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.spbiao.png" width="48" height="48" /></div>
+                <div><img src="//p2.cri.cn/M00/26/88/rBABCmB2srGAAT6hAAAAAAAAAAA209.1080x1080.148x148.jpg" width="148" height="148" alt="图片默认标题" title="图片默认标题" usemap=""/></div>
+                <div class="img-info-wrap"><span class="name"></span>
+                <p class="info">【两岸新发现】探访佛珠小镇：返乡创业为特色产业注入新活力</p>
+                </div>
+                </a>
+                </div>
+              
+              
+              <div class="picArea mr0">
+                <a target="_blank" href="/2021-04-09/b3b42103-e424-3a86-6f31-b9719acbe86f.html"><div class="spbiao spbiao2 blockPic"><img src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.spbiao.png" width="48" height="48" /></div>
+                <div><img src="//p2.cri.cn/M00/25/D6/rBABCWBwB_mAZjP1AAAAAAAAAAA714.1080x1080.148x148.jpg" width="148" height="148" alt="【两岸新发现】发现海南美食文昌鸡  体验乡村养鸡生活" title="【两岸新发现】发现海南美食文昌鸡  体验乡村养鸡生活" usemap=""/></div>
+                <div class="img-info-wrap"><span class="name"></span>
+                <p class="info">【两岸新发现】发现海南美食文昌鸡  体验乡村养鸡生活</p>
+                </div>
+                </a>
+                </div>
+               </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="content-wrap bg-bc">
+    <div class="content content-b">
+      <div class="block block-depth block-pinglun">
+        <div class="block-con">
+          <div class="title">
+            <h2><a href="/opinion"><em class="color">评</em>论</a></h2>
+          </div>
+          <div class="pinglun">
+            
+            	
+            	<div class="text-list">
+            		
+								<ul>
+								
+										<li>
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-23/b3d43ecb-6840-8606-141c-40afbe24f1f9.html" target="_blank">
+                                            
+                                            【人民日报】推动经济社会发展全面绿色转型
+                                            </a>
+												
+											</div></div></div>
+											
+										</li><li>
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-23/5426202f-80ee-b750-d6ae-b6efdce76b42.html" target="_blank">
+                                            
+                                            【经济观察】领导人气候峰会聚焦加强国际合作
+                                            </a>
+												
+											</div></div></div>
+											
+										</li><li>
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-22/60c8e0ea-e4be-378a-74cf-835be5438981.html" target="_blank">
+                                            
+                                            【新华评论】更多参与&#183;更多共识&#183;更多行动——盘点博鳌亚洲论坛2021年年会
+                                            </a>
+												
+											</div></div></div>
+											
+										</li><li>
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-22/fad630cf-bdfe-4672-d994-8c84a86b210f.html" target="_blank">
+                                            
+                                            【华夏经纬】重回“九二共识”推进两岸合作方是台湾发展正道
+                                            </a>
+												
+											</div></div></div>
+											
+										</li><li>
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-23/5709a28b-5dc1-102c-edcd-f3023bbf679b.html" target="_blank">
+                                            
+                                            【学者建言】澳门发展人民币证券市场与现代金融业
+                                            </a>
+												
+											</div></div></div>
+											
+										</li>
+										<li class="last">
+											<div class="textwrap"><div class="textsubwrap"><div class="textcontent">
+												<a href="/2021-04-21/ab495832-399a-da60-ef32-5e304d9bdf76.html" target="_blank">
+                                            
+                                            【焦点访谈】要高山低头 令河水倒流：香港约80%的淡水需求是哪里供应的？
+                                            </a>
+												
+											</div></div></div>
+											
+										</li>
+								</ul>
+							</div>
+            	
+           
+           
+          </div>
+        </div>
+      </div>
+      <div class="block mr0 block-radio">
+        <div id="home_jplayer" class="jp-jplayer"></div>
+        <div class="block-con">
+          <div id='WMP' height='0' style='position:absolute'></div>
+          <div class="title">
+            <h2><a href="/v"><span>电<em class="color">台</em></span></a></h2>
+          </div>
+          <div class="tab-tit">
+            <ul id="tab_ul">
+              <li class="bg-fff">华语环球</li>
+              <li>世界华声</li>
+              <li>南海之声</li>
+            </ul>
+          </div>
+          <div class="showNav">
+            
+              <dl class="current" style="display:block">
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="23"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="22"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="21"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="21"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>博雅</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>博雅</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="20"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>寻踪</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>寻踪</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="20"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>上座</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>上座</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="19"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>传承</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>传承</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="19"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="18"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="17"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>知道</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>知道</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="16"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>悦读</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>悦读</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="15"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>发现</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>发现</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="14"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="13"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="12"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="11"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="10"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="10"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>博雅</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>博雅</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="9"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>寻踪</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>寻踪</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="9"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>上座</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>上座</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="8"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>传承</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>传承</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="8"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="7"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>直播中国</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="6"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>入席</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="5"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>行者</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="5"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>听音</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="4"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>知道</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>知道</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="3"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>悦读</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>悦读</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="2"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>发现</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>发现</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="1"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>华语环球</h3>
+                    <span>环球华人</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="0"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+              </dl>
+            
+            <dl>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>无节目</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>无节目</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="19,20,21,22,23,0,1,2,3,4,5,6,7,8,9"></i><span class="person">主持人／无</span></div>
+                    <p class="txt">世界华声的播出时间为每日10：00－19：00。</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>魅力温州</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>魅力温州</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="18"></i><span class="person">主持人／无</span></div>
+                    <p class="txt">《魅力温州》力求向海外温州人及时、全面展现温州的发展变化，密切他们与故乡温州的联系和情感。精品栏目：《瓯江潮声》、《散讲温州》、《乡音乡韵》等。</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>客家之声</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>客家之声</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="16,17"></i><span class="person">主持人／黄倩 其佳</span></div>
+                    <p class="txt">客家人有句俗语“有阳光的地方就有客家人”。客家之声秉持“服务客家、推广客家、凝聚客家”的理念，着力打造全球客家资讯平台。</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>闽南之音</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>闽南之音</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="14,15"></i><span class="person">主持人／郑新民 傅娇娜 高妙红</span></div>
+                    <p class="txt">弘扬闽南文化、真诚服务海外华人华侨，传递浓浓亲情和乡情。</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>世界潮声</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>世界潮声</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="12,13"></i><span class="person">主持人／乔阳 金玉 凌宇 凤城</span></div>
+                    <p class="txt">潮响四海，声传五洲！世界潮声网络电台打造“上”频道直播节目。</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>粤语国际</span></div>
+                </dt>
+                <dd style="display: none">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>世界华声</h3>
+                    <span>粤语国际</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,1,2,3,4,5,6" time="10,11"></i><span class="person">主持人／路韦 晓婷 小勤</span></div>
+                    <p class="txt">有海水的地方就有华人，有华人的地方就有我们的声音。</p>
+                  </div>
+                </dd>
+                
+              </dl>
+            
+              <dl>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>音悦人生</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>音悦人生</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="21"></i><span class="person">主持人／</span></div>
+                    <p class="txt">故事终将老去，但歌声永远年轻</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>音悦人生</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>音悦人生</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="2,3,4,5,6" time="4"></i><span class="person">主持人／</span></div>
+                    <p class="txt">故事终将老去，但歌声永远年轻</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="4"></i><span class="person">主持人／</span></div>
+                    <p class="txt">追寻最远的漂流，迎接最近的抵达</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1" time="4"></i><span class="person">主持人／</span></div>
+                    <p class="txt">追寻最远的漂流，迎接最近的抵达</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1" time="3"></i><span class="person">主持人／</span></div>
+                    <p class="txt">听别人的故事，形成对这个时代的见解</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海轻阅读</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海轻阅读</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="5"></i><span class="person">主持人／</span></div>
+                    <p class="txt">读到之处，悦在其中</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>岛屿不寂寞</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>岛屿不寂寞</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="23"></i><span class="person">主持人／</span></div>
+                    <p class="txt">每个人都是一座岛屿，再孤单也有大海相连</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="22"></i><span class="person">主持人／</span></div>
+                    <p class="txt">在这里，听见南海真实的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>乐从海上来</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="21"></i><span class="person">主持人／</span></div>
+                    <p class="txt">追寻最远的漂流，迎接最近的抵达</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海轻阅读</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海轻阅读</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="20"></i><span class="person">主持人／</span></div>
+                    <p class="txt">读到之处，悦在其中</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海旅行家</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海旅行家</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="16"></i><span class="person">主持人／</span></div>
+                    <p class="txt">心之向往，步履不停</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海优生活</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海优生活</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="13,14,15"></i><span class="person">主持人／</span></div>
+                    <p class="txt">被音乐拥抱的生活，你值得拥有</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海优生活</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海优生活</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="9,10,11"></i><span class="person">主持人／</span></div>
+                    <p class="txt">被音乐拥抱的生活，你值得拥有</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（晚间版）</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（晚间版）</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="17"></i><span class="person">主持人／</span></div>
+                    <p class="txt">在这里，听见南海真实的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（午间版）</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（午间版）</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="12"></i><span class="person">主持人／</span></div>
+                    <p class="txt">在这里，听见南海真实的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（早间版）</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海头条（早间版）</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="7"></i><span class="person">主持人／</span></div>
+                    <p class="txt">在这里，听见南海真实的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>平常记录</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>平常记录</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,2,3,4,5,6" time="3"></i><span class="person">主持人／</span></div>
+                    <p class="txt">平常生活，亦有光芒</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1" time="3"></i><span class="person">主持人／</span></div>
+                    <p class="txt">听别人的故事，形成对这个时代的见解</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海圆桌派</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海圆桌派</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="2,3,4,5,6" time="2"></i><span class="person">主持人／</span></div>
+                    <p class="txt">聆听不同的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海圆桌派</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海圆桌派</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="18"></i><span class="person">主持人／</span></div>
+                    <p class="txt">聆听不同的声音</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="2"></i><span class="person">主持人／</span></div>
+                    <p class="txt">一本有声的南海新闻读物</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="2"></i><span class="person">主持人／</span></div>
+                    <p class="txt">一本有声的南海新闻读物</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1" time="2"></i><span class="person">主持人／</span></div>
+                    <p class="txt">一本有声的南海新闻读物</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>早安南海</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>早安南海</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="6"></i><span class="person">主持人／</span></div>
+                    <p class="txt">和海浪一起叫醒你的耳朵</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>晚安南海</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>晚安南海</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="0,1"></i><span class="person">主持人／</span></div>
+                    <p class="txt"></p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>听见</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="19"></i><span class="person">主持人／钟芳</span></div>
+                    <p class="txt">听别人的故事，形成对这个时代的见解</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>南海周刊</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="0,6" time="18"></i><span class="person">主持人／</span></div>
+                    <p class="txt">一本有声的南海新闻读物</p>
+                  </div>
+                </dd>
+                
+                <dt style="display: none;">
+                  <div class="radio-state"><span></span><a href="javascript:;" class="radio-btn"></a></div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>平常记录</span></div>
+                </dt>
+                <dd style="display: none;">
+                  <div class="radio-state clearfix"><a href="javascript:;" class="radio-btn"></a>
+                    <div class="voice-wrap">
+                      <div class="voice-slider"></div>
+                    </div>
+                  </div>
+                  <div class="radio-name">
+                    <h3>南海之声</h3>
+                    <span>平常记录</span></div>
+                  <div class="radio-info">
+                    <div class="name-time"><i class="time" week="1,2,3,4,5" time="19"></i><span class="person">主持人／弥亚牛</span></div>
+                    <p class="txt">平常生活，亦有光芒</p>
+                  </div>
+                </dd>
+                
+              </dl>
+            
+          </div>
+          <div class="dianbo">
+            <ul>
+          <li><span><a href="/2017-11-27/84eaadae-d98b-c749-5908-bb8d82a53e33.html" target="_blank">【点播】</a></span><a href="/2017-11-27/84eaadae-d98b-c749-5908-bb8d82a53e33.html" target="_blank">永远的山丹丹</a><a href="/2017-11-27/84eaadae-d98b-c749-5908-bb8d82a53e33.html" target="_blank"><img src="http://f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.dianbo.png" width="20" height="20" /></a></li><li><span><a href="/2017-11-27/4b4b1a8a-ef91-5c8a-6c48-ae5f20d9d3ae.html" target="_blank">【点播】</a></span><a href="/2017-11-27/4b4b1a8a-ef91-5c8a-6c48-ae5f20d9d3ae.html" target="_blank">让民族音乐变得高贵</a><a href="/2017-11-27/4b4b1a8a-ef91-5c8a-6c48-ae5f20d9d3ae.html" target="_blank"><img src="http://f2.cri.cn/M00/06/6F/CqgNOlT9NfmARtirAAAAAAAAAAA3585379.dianbo.png" width="20" height="20" /></a></li>
+          </ul>
+          </div>
+        </div>
+      </div>
+      <div class="block block-city">
+        <div class="block-con">
+          <div class="title">
+            <h2><a href="/photo"><em class="color">视</em>界</a></h2>
+          </div>
+          
+            <div class="b-middle"> 
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-23/738f924e-15f7-3cda-7ae6-fa6d8a5498d7.html" target="_blank"><img src="//p2.cri.cn/M00/27/DC/rBABCWCCd2uAdzOBAAAAAAAAAAA323.909x681.148x111.jpg" width="148" height="111" alt="世界读书日：探访澳大利亚历史最悠久的图书馆" title="世界读书日：探访澳大利亚历史最悠久的图书馆" usemap=""/></a><a href="/2021-04-23/738f924e-15f7-3cda-7ae6-fa6d8a5498d7.html" target="_blank" class="img-info-wrap"><span class="name">澳大利亚图书馆</span></a></div>
+              </div>
+              
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-22/59ad996c-cea2-18b4-87fe-294986ee32b2.html" target="_blank"><img src="//p2.cri.cn/M00/26/31/rBABDGCBG0eAU4vaAAAAAAAAAAA607.942x706.148x111.jpg" width="148" height="111" alt="共建地球生命共同体丨守护我们的蓝色星球" title="共建地球生命共同体丨守护我们的蓝色星球" usemap=""/></a><a href="/2021-04-22/59ad996c-cea2-18b4-87fe-294986ee32b2.html" target="_blank" class="img-info-wrap"><span class="name">我们的蓝色星球</span></a></div>
+              </div>
+              
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-21/14a37d83-2dbe-b4d8-fa05-332ae2721ee1.html" target="_blank"><img src="//p2.cri.cn/M00/27/7E/rBABC2B_1G2AKlJjAAAAAAAAAAA582.910x682.148x111.jpg" width="148" height="111" alt="走进博鳌亚洲论坛主题公园" title="走进博鳌亚洲论坛主题公园" usemap=""/></a><a href="/2021-04-21/14a37d83-2dbe-b4d8-fa05-332ae2721ee1.html" target="_blank" class="img-info-wrap"><span class="name">博鳌亚洲论坛公园</span></a></div>
+              </div>
+              
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-20/7899980c-3296-9d5d-70e7-ff3317102ce1.html" target="_blank"><img src="//p2.cri.cn/M00/25/DD/rBABDGB-lkWACbw4AAAAAAAAAAA677.710x532.148x111.jpg" width="148" height="111" alt="沉浸式印象派作品展“莫奈和他的朋友们”在悉尼展出" title="沉浸式印象派作品展“莫奈和他的朋友们”在悉尼展出" usemap=""/></a><a href="/2021-04-20/7899980c-3296-9d5d-70e7-ff3317102ce1.html" target="_blank" class="img-info-wrap"><span class="name">莫奈印象派作品展</span></a></div>
+              </div>
+              
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-20/965c380c-3e11-4006-ae45-c5f2795871f3.html" target="_blank"><img src="//p2.cri.cn/M00/25/D5/rBABDGB-feSACslnAAAAAAAAAAA902.862x646.148x111.jpg" width="148" height="111" alt="新西兰：静静的马瑟森湖" title="新西兰：静静的马瑟森湖" usemap=""/></a><a href="/2021-04-20/965c380c-3e11-4006-ae45-c5f2795871f3.html" target="_blank" class="img-info-wrap"><span class="name">新西兰马瑟森湖</span></a></div>
+              </div>
+              
+              <div class="item">
+                <div class="picArea hover"><a href="/2021-04-16/e2527fae-9db7-e93b-a1c5-b20393a7e503.html" target="_blank"><img src="//p2.cri.cn/M00/25/54/rBABDGB5O3GAaGBDAAAAAAAAAAA342.655x491.148x111.jpg" width="148" height="111" alt="春水润田园 乡村如画卷" title="春水润田园 乡村如画卷" usemap=""/></a><a href="/2021-04-16/e2527fae-9db7-e93b-a1c5-b20393a7e503.html" target="_blank" class="img-info-wrap"><span class="name">春水润田乡村如画</span></a></div>
+              </div>
+               </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="content-wrap bg-39">
+      <div class="content link-wrap">
+        <div class="title01"><h2>友情链接</h2></div>
+        <p><a href="http://www.gwytb.gov.cn/" class="first" target="_blank">国台办</a>|<a href="http://www.gqb.gov.cn/" class="first" target="_blank">国侨办</a>|<a href="http://www.chinaql.org/" class="first" target="_blank">中国侨联</a>|<a href="http://www.bjstl.org.cn/" class="first" target="_blank">北京市台湾同胞联谊会</a>|<a href="http://www.tailian.org.cn/" class="first" target="_blank">台胞之家</a>|<a href="http://www.cri.cn/" class="first" target="_blank">国际在线</a>|<a href="http://www.hellotw.com/" class="first" target="_blank">你好台湾网</a>|<a href="http://www.huaxia.com/" class="first" target="_blank">华夏经纬网</a>|<a href="http://www.taiwan.cn/" class="first" target="_blank">中国台湾网</a>|<a href="http://v.taiwan.cn/" class="first" target="_blank">中国台湾网视频</a>|<a href="http://www.vos.com.cn/" class="first" target="_blank">海峡之声</a>|<a href="http://www.people.com.cn/" class="first" target="_blank">人民网</a>|<a href="http://www.xinhuanet.com/" class="first" target="_blank">新华网</a>|<a href="http://www.china.com/" class="first" target="_blank">中华网</a>|<a href="http://www.cntv.cn/" class="first" target="_blank">央视网</a>|<a href="http://www.china.com.cn/" class="first" target="_blank">中国网</a>|<a href="http://www.ce.cn" class="first" target="_blank">中国经济网</a>|<a href="http://www.youth.cn/" class="first" target="_blank">中国青年网</a>|<a href="http://vscs.cri.cn/" class="first" target="_blank">南海之声</a>|<a href="http://www.qgtql.com/" class="first" target="_blank">全国台企联</a>|<a href="http://www.taiwan-reports.com/" class="first" target="_blank">台湾导报</a>|<a href="http://www.arats.com.cn/" class="first" target="_blank">海协会</a>|<a href="http://www.scio.gov.cn/" class="first" target="_blank">国新办</a>|<a href="http://huasons.nownews.com/" class="first" target="_blank">花生网</a>|<a href="http://www.fjsen.com/" class="first" target="_blank">东南网</a>|<a href="http://www.sebc.com.cn/" class="first" target="_blank">东南在线</a>|<a href="http://www.chbcnet.com/" class="first" target="_blank">华广网</a>|<a href="http://www.fznews.com.cn/" class="first" target="_blank">福州新闻网</a>|<a href="http://www.taihainet.com/" class="first" target="_blank">台海网</a>|<a href="http://taiwan.net.tw/welcome.aspx" class="first" target="_blank">台湾观光信息网</a>|<a href="http://www.siec.taiwan.cn/" class="first" target="_blank">海峡两岸互联网交流委员会</a>|<a href="http://www.tsta-bj.org" class="first" target="_blank">台湾海峡两岸观光旅游协会</a>|<a href="http://www.zhongguotongcuhui.org.cn/" class="first" target="_blank">中国统促会</a>|<a href="http://tyh.chinataiwan.org/" class="first" target="_blank">全国台研会</a></p>
+      </div>
+    </div>
+</div>
+<div class="footer">
+  <div class="footer-con"> <span class="copyright">海峡飞虹版权所有</span>
+    <p class="footer-nav"><a href="/about">关于</a>|<a href="/contactus">联系我们</a>|<a href="/statement">网站声明</a>|<a href="/map">网站地图</a>|<a href="https://beian.miit.gov.cn">京ICP备05064898号-47</a></p>
+  </div>
+</div>
+<div class="top-btn-wrap"><a href="#" class="top-link"></a> </div>
+<!--Baidu Analytics START-->
+<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?fc8078075d5e6cd87317565ca70954f3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+ hm.src = "https://hm.baidu.com/hm.js?4197f72f8194039b9ec82ad465695a5c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+//百度统计audio radio
+    $(function() {
+
+        var myaudios = document.getElementsByTagName('audio');
+        var myvideos = document.getElementsByTagName('video');
+        for (var i = 0; i < myaudios.length; i++) {
+            playerMonitorAudio(myaudios[i]);
+        }
+        for (var j = 0; j < myvideos.length; j++) {
+            playerMonitor(myvideos[j]);
+        }
+        function playerMonitor(element) {
+            element.addEventListener('play', myHandlerBaidu, false);
+            element.addEventListener('pause', myHandlerBaidu, false);
+        }
+        function myHandlerBaidu(e) {
+            var newTitle = e.target.title || e.target.src|| '-'
+            if(e.type=="play"){
+                _hmt.push(['_trackEvent', 'video', 'play', newTitle]);
+            }
+            if(e.type=="pause"){
+                _hmt.push(['_trackEvent', 'video', 'pause', newTitle]);
+            } 
+        }
+        function playerMonitorAudio(element) {
+            element.addEventListener('play', myHandlerBaiduAudio, false);
+            element.addEventListener('pause', myHandlerBaiduAudio, false);
+        }
+        function myHandlerBaiduAudio(e) {
+            var newTitle = e.target.title || e.target.src|| '-'
+            if(e.type=="play"){
+                _hmt.push(['_trackEvent', 'audio', 'play', newTitle]);
+            }
+            if(e.type=="pause"){
+                _hmt.push(['_trackEvent', 'audio', 'pause', newTitle]);
+            } 
+        }
+          
+    })
+</script>
+
+<div style="display:none;">
+<!-- itaiwannews.cn Baidu tongji analytics --><script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4197f72f8194039b9ec82ad465695a5c' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--Baidu Analytics END-->
+
+<!--Google Analytics START-->
+<!--<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-46262610-1', 'itaiwannews.cn');
+ga('set', 'dimension1', 'unknown');
+ga('send', 'pageview');
+</script>-->
+<!--Google Analytics END-->
+</div> 
+<script id="entryJs" type="text/javascript" src="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAa8LYAAAAAAAAAAA1112584.require.js" data-main="//f2.cri.cn/M00/06/6F/CqgNOlT9NfmAa8LYAAAAAAAAAAA1112584.index.js"></script>
+</body>
+</html>

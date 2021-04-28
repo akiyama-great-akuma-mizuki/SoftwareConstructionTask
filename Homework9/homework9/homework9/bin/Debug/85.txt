@@ -1,0 +1,881 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2">
+	<meta charset="utf-8">
+	<title>大数据解决方案_云端大数据解决方案 - 腾讯云</title>
+	<meta name="keywords" content="大数据解决方案,云端大数据解决方案,Big Data,hadoop,数据仓库,流计算,舆情分析,搜索,数据可视化">
+	<meta name="description" content="腾讯云端大数据解决方案，提供了涵盖大数据基础设施和大数据应用在内的丰富产品及服务，助力客户快速构建企业级数据架构，获取数据时代核心竞争优势。">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="dns-prefetch" href="//cloudcache.tencent-cloud.com">
+	<link rel="icon" href="/favicon.ico?t=201902181234" type="image/x-icon"/>
+	<script>document.domain = 'cloud.tencent.com';</script>
+	
+<script>
+		!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):(t=t||self).assetsRetry=e()}(this,function(){"use strict";function a(t){return t}function d(){}function r(t,e){try{return"function"==typeof t[e]}catch(t){return!1}}function y(t){return Array.isArray(t)?t.reduce(function(t,e,n,r){return t[e]=r[(n+1)%r.length],t},{}):t}function p(e,t){return Object.keys(t).filter(function(t){return-1<e.indexOf(t)}).sort(function(t,e){return e.length-t.length})[0]}var e,g="retryTimes",m="succeeded",b="failed",E="maxRetryCount",O="onRetry",f="onSuccess",s="onFail",j="domain",h="_assetsRetryScript",v="_assetsRetryOnerror",l="script",w="data-assets-retry-hooked",S="data-retry-id",A=window,k=window.document,n=A.HTMLElement,R=A.HTMLScriptElement,c=A.HTMLStyleElement,x=A.HTMLLinkElement,L=A.HTMLImageElement,o=Object.prototype.hasOwnProperty,T=function(t,e,n){var r=t.indexOf(e);return-1===r?t:t.substring(0,r)+n+t.substring(r+e.length)},_=function(t){return[].slice.call(t)},M=function(e,t,n,r){void 0===n&&(n=d),void 0===r&&(r=!1);var o,i,c,u,a,f=r||e.defer||e.async;"loading"!==k.readyState||/Edge|MSIE|rv:/i.test(navigator.userAgent)||f?(o=k.createElement(l),Object.keys(R.prototype).forEach(function(t){if("src"!==t&&e[t]&&"object"!=typeof e[t])try{o[t]=e[t]}catch(t){}}),o.src=t,o.onload=e.onload,o.onerror=e.onerror,o.setAttribute(S,P()),(i=e.getAttribute("nonce"))&&o.setAttribute("nonce",i),k.getElementsByTagName("head")[0].appendChild(o)):(c=P(),u=e.outerHTML.replace(/data-retry-id="[^"]+"/,"").replace(/src=(?:"[^"]+"|.+)([ >])/,S+"="+c+' src="'+t+'"$1'),k.write(u),(a=k.querySelector("script["+S+'="'+c+'"]'))&&(a.onload=n))},N=function(e){try{return e.rules}catch(t){try{return e.cssRules}catch(t){return null}}},H=function(e,t,n){var r=k.createElement("link");Object.keys(x.prototype).forEach(function(t){if("href"!==t&&e[t]&&"object"!=typeof e[t])try{r[t]=e[t]}catch(t){}}),r.href=t,r.onload=n,r.setAttribute(S,P()),k.getElementsByTagName("head")[0].insertBefore(r,e)},I=function(t){return t?t instanceof n?[t.nodeName,t.src,t.href,t.getAttribute(S)].join(";"):"not_supported":"null"},P=function(){return Math.random().toString(36).slice(2)},C=function(t){return t instanceof R||t instanceof L?t.src:t instanceof x?t.href:null},B={},F=function(t,e){var n,r=$(t,e),o=r[0],i=r[1];return o?(B[o]=B[o]||((n={})[g]=0,n[b]=[],n[m]=[],n),[i,B[o]]):[]},$=function(t,e){var n,r,o=p(t,e);return o?[(r=o,(n=t).substr(n.indexOf(r)+r.length,n.length)),o]:["",""]};try{e=function(t){for(var e=Object.getPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__},n=Object.keys(t);e(t);)n=n.concat(Object.keys(e(t))),t=e(t);return n.filter(function(t){return"constructor"!==t})}(R.prototype)}catch(t){}function i(a,t){var f=t[E],s=y(t[j]),l=t[O];return e.reduce(function(t,e){var n=r(R.prototype,e);return t[e]=n?{value:function(){return a[h][e].apply(a[h],arguments)}}:{set:function(o){return"onerror"===e?(a[v]=o,void(a[h].onerror=function(r){r.stopPropagation&&r.stopPropagation();function t(){return t=a[v],e=a[h],n=r,"function"!=typeof t?null:t.call(e,n);var t,e,n}var e=a[h].src,n=F(e,s),o=n[0],i=n[1];if(!o||!i)return t();var c=T(e,o,s[o]),u=l(c,e,i);if(null===u)return t();if("string"!=typeof u)throw new Error("a string should be returned in `onRetry` function");i[g]<=f?M(a[h],u,d,!0):t()})):"onload"===e?(a._assetsRetryOnload=o,void(a[h].onload=function(t){var e=a[h].src,n=F(e,s),r=(n[0],n[1]);r&&-1===r[b].indexOf(e)&&r[m].push(e),o&&!o._called&&(o._called=!0,o.call(a[h],t))})):void(a[h][e]=o)},get:function(){return a[h][e]}},t},{})}var q=function(n){var r=k.createElement;k.createElement=function(t,e){return t===l?function(t,e){var n;t.setAttribute(w,"true");var r=((n={})[h]=t,n[v]=d,n),o=i(r,e);return Object.defineProperties(r,o),r}(r.call(k,l),n):r.call(k,t,e)},k.createElement.toString=function(){return"function createElement() { [native code] }"}},z=function(n){Object.keys(n).filter(function(t){return r(n,t)}).forEach(function(t){var e=n[t];n[t]=function(){var t=[].slice.call(arguments).map(function(t){return t&&o.call(t,h)?t[h]:t});return e.apply(this,t)},/^\w+$/.test(t)&&(n[t].toString=new Function("return 'function "+t+"() { [native code] }'"))})};var Z={};function D(y){function c(t){if(t){var e=t.target||t.srcElement,n=C(e);if(n){var r=F(n,v),o=r[0],i=r[1];if(i&&o){i[g]++,i[b].push(n);var c,u=i[g]>y[E];if(u&&(c=$(n,v)[0],h(c)),v[o]&&!u){var a=v[o],f=T(n,o,a),s=p(f,n,i);if(null!==s){if("string"!=typeof s)throw new Error("a string should be returned in `onRetry` function");var l,d=I(e);Z[d]||(Z[d]=!0,l=function(){i[m].push(s)},e instanceof R&&!e.getAttribute(w)&&e.src?M(e,s,l):e instanceof x&&e.href?(e.getAttribute('crossorigin')&&e.removeAttribute('crossorigin'),H(e,s,l)):e instanceof L&&e.src&&(e.setAttribute(S,P()),e.src=s,e.onload=l))}}}}}}var p=y[O],u=y[f],h=y[s],v=y[j];k.addEventListener("error",c,!0),k.addEventListener("load",function(t){var e,n,r,o,i;t&&(e=t.target||t.srcElement,(n=C(e))&&(e.getAttribute(S)&&(r=$(n,v)[0],u(r)),e instanceof x&&k.styleSheets&&(o=_(k.styleSheets).filter(function(t){return t.href===e.href})[0],null!==(i=N(o))&&0===i.length&&c(t))))},!0)}function u(t,e,n,r,o){var i=o[j],c=o[O],u=e.style&&e.style[t];if(u&&!/^url\(["']?data:/.test(u)){var a=u.match(/^url\(["']?(.+?)["']?\)/)||[],f=a[1];if(f){var s=p(f,i);if(s&&i[s]){var l=Object.keys(i).map(function(t){var e=T(f,s,t);return'url("'+c(e,f,null)+'")'}).join(","),d=e.selectorText+("{ "+t.replace(/([a-z])([A-Z])/g,function(t,e,n){return e+"-"+n.toLowerCase()}))+": "+l+" !important; }";try{n.insertRule(d,r.length)}catch(t){n.insertRule(d,0)}}}}}var G={},J=[],K=function(t,o){var i=["backgroundImage","borderImage","listStyleImage"];t.forEach(function(n){var r,t=N(n);null!==t&&((r=_(t)).forEach(function(e){i.forEach(function(t){u(t,e,n,r,o)})}),n.href&&(G[n.href]=!0),n.ownerNode instanceof c&&J.push(n.ownerNode))})},Q=function(t,n){return _(t).filter(function(t){if(!N(t))return!1;if(t.href)return!G[t.href]&&!!p(t.href,n);var e=t.ownerNode;return!(e instanceof c&&-1<J.indexOf(e))})};return function(t){var e,n,r,o;void 0===t&&(t={});try{if("object"!=typeof t[j])throw new Error("opts.domain cannot be non-object.");var i=[E,O,f,s,j],c=Object.keys(t).filter(function(t){return-1===i.indexOf(t)});if(0<c.length)throw new Error("option name: "+c.join(", ")+" is not valid.");var u=((e={})[E]=t[E]||3,e[O]=t[O]||a,e[f]=t[f]||d,e[s]=t[s]||d,e[j]=y(t[j]),e);return q(u),"undefined"!=typeof Node&&z(Node.prototype),"undefined"!=typeof Element&&z(Element.prototype),D(u),n=u,r=k.styleSheets,o=n[j],false&&setInterval(function(){var t=Q(k.styleSheets,o);0<t.length&&K(t,n)},250),B}catch(t){A.console&&console.error("[assetsRetry] error captured",t)}}});
+		try{
+			function __parseReportUrl(url) {
+					var match = url.match(/^(https?\:)\/\/(([^:\/?#]*)(?:\:([0-9]+))?)([\/]{0,1}[^?#]*)(\?[^#]*|)(#.*|)$/);
+					return match && {
+							href: url,
+							protocol: match[1],
+							host: match[2],
+							hostname: match[3],
+							port: match[4],
+							pathname: match[5],
+							search: match[6],
+							hash: match[7]
+					}
+			}
+
+			var domainReportTag = {
+				'assets-retry-success': 0,
+				'assets-retry-fail': 0
+			};
+			var eventMaxReportTimes = 5;
+			var assetsRetryReport = function(event, originalUrl) {
+				var originalUrlObj = __parseReportUrl(originalUrl);
+
+				// 上报限制次数
+				if (domainReportTag[event] &&  domainReportTag[event] >= eventMaxReportTimes) {
+					return;
+				}
+				domainReportTag[event]++;
+
+				var reportData = {
+					url: location.href,
+					referrer: document.referrer || '',
+					event: event,
+					app: 'qcmain',
+					level: 0,
+					at: new Date().getTime(),
+					uin: '',
+					originalUrl: originalUrl,
+					originalCdnDomain: originalUrlObj.hostname
+				}
+
+				var reportUrl = 'https://insight.cloud.tencent.com/event';
+				var isSupportSendBeacon = typeof navigator.sendBeacon === 'function';
+
+				if (JSON && JSON.stringify) {
+					var reportStr = JSON.stringify(reportData);
+					if (isSupportSendBeacon) {
+						navigator.sendBeacon(reportUrl, reportStr);
+					} else {
+						reportStr = encodeURIComponent(reportStr);
+						reportStr = btoa(reportStr);
+						new Image().src = reportUrl + '?d=' + reportStr;
+					}
+				}
+			};
+
+			// information of assets
+			var assetsRetryStatistics = window.assetsRetry({
+					// domain list, only resources in the domain list will be retried.
+					domain: {
+						'cloudcache.tencentcs.com': 'cloudcache.tencent-cloud.com',
+						'cloudcache.tencent-cloud.com': 'cloudcache.tencentcs.com',
+						'main.qcloudimg.com': 'qcloudimg.tencentcs.com',
+						'qcloudimg.tencentcs.com': 'main.qcloudimg.com'
+					},
+					// maximum retry count for each asset, default is 3
+					maxRetryCount: 2,
+					// onRetry hook is how you can customize retry logic with, default is x => x
+					onRetry: function(currentUrl, originalUrl, statistics) {
+						return currentUrl;
+					},
+					onSuccess: function(currentUrl) {
+						var curStatic = assetsRetryStatistics[currentUrl];
+						if (curStatic && curStatic.failed && curStatic.failed.length) {
+							assetsRetryReport('assets-retry-success', curStatic.failed[0])
+						}
+					},
+					onFail: function(currentUrl) {
+						var curStatic = assetsRetryStatistics[currentUrl];
+						if (curStatic && curStatic.failed && curStatic.failed.length) {
+							assetsRetryReport('assets-retry-fail', curStatic.failed[0])
+						}
+					}
+			})
+		} catch (err) {}
+</script>
+
+
+
+
+
+<link rel="stylesheet"  href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/portal/css/base-20209142343.css?max_age=31536000&amp;t=20191128">
+
+
+
+
+
+
+
+<link id="qcportal-kit-style" rel="stylesheet" href="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/full.0d3595ebd55e36404654.css">
+
+<meta name="applicable-device" content="pc,mobile">
+	<link href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/platform/solution/css/solution-202104071627.css" rel="stylesheet" media="screen" />
+	<script>
+		// for picturefill
+		document.createElement( "picture" );
+	</script>
+	
+</head>
+<body>
+<input type="hidden" id="shareThumbnail" value="https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/shareicons/cloud.png">
+<div class="body hero-shadow">
+	<!--[if lt IE 9]>
+<script src="//imgcache.qq.com/qcloud/main/scripts/release/common/libs/updateTips.js?max_age=3600"></script>
+<![endif]-->
+
+
+<div id="qcportal-kit-topnav"><div role="navigation" id="navigationBar" data-type="cn_zh" data-style="air" class="plat-nav plat-nav-wrap plat-nav-air-sub "><div class="plat-nav-mod"><div class="plat-nav-top"><a class="plat-nav-all-trigger" hotrep="hp.header.trigger" role="button"><i class="plat-nav-all-trigger-icon"></i><span class="plat-nav-all-trigger-text">菜单</span></a><i class="plat-nav-top-divider logo"></i><a class="plat-nav-bg-logo" hotrep="hp.header.hp" href="https://cloud.tencent.com"><i>腾讯云</i></a><div class="plat-nav-top-operation"><span class="plat-nav-top-search search-m search-cancel" role="button" hotrep="hp.header.opensearch">云服务器CVM<i class="nav-search-icon"></i><div class="plat-nav-search-icon-wrap"></div><div class="plat-top-searchbar"><div class="plat-top-searchbar-inner"><div class="plat-top-searchbar-box" role="combobox"><div class="plat-searchbar-ctrl"><input type="search" class="search-ipt" placeholder="请输入你要搜索的关键词" aria-autocomplete="list" autoComplete="on" aria-owns="search-list" value="" tabindex="0"/><div class="nav-search-icons-wrap"><a class="search-cancel-btn" role="button" tabindex="0" aria-label="清空"><i class="nav-search-cancel-icon"></i></a><i class="nav-search-divider"></i><a class="search-btn" tabindex="0" aria-label="搜索" role="button" hotrep="hp.header.dosearch"><i class="nav-search-icon"></i></a></div></div><div class="nav-dropdown-mini"><div class="dropdown-mini-inner dropdown-mini-lang"><div class="dropdown-mini-list"><h3 class="dropdown-mini-list-tit">热门搜索</h3><ul role="listbox"><li role="option" class="dropdown-mini-item"><a tabindex="0">云数据库 MySQL</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">CDN</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">对象存储</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">语音</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">短信</a></li></ul></div></div></div></div></div></div></span><div class="plat-nav-top-ctrl"><div class="plat-nav-dropdown-btn nav-dropdown-lang"><a class="plat-nav-dropdown-btn-inner" aria-expanded="false" aria-haspopup="true" aria-owns="language_select_owns" aria-controls="language_select_owns"><span class="sr-only">语言</span><i class="plat-nav-icon-global"></i><span class="nav-dropdown-btn-txt">中国站</span><i class="plat-nav-dropdown-btn-icon"></i></a></div><div class="plat-nav-top-links"><a hotrep="hp.header.ba" class="link-item" href="https://cloud.tencent.com/product/ba">备案</a><a hotrep="hp.header.console" class="link-item" role="button" href="https://console.cloud.tencent.com">控制台</a></div></div></div></div><div class="plat-nav-bottom"></div></div></div>
+<div id="navigationBarM" class="plat-m-nav"><div class="plat-m-nav-bar"><div class="plat-m-nav-bar-main"><a class="plat-m-nav-logo" href="https://cloud.tencent.com/"></a></div><div class="plat-m-nav-bar-extra"><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon search"></i></a><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon user"></i></a><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon menu"><span></span><span></span><span></span></i></a></div></div></div></div>
+
+
+<script>
+	window.ISMOBILE = false;
+</script>
+<script>window.__language = 'zh'</script>
+	<div id="app-root" class="solution-container solution-bigdata">
+	<div class="rno-3-hero-group rno-3-hero-group-index adjust" id="banner">
+    <div class="rno-3-hero">
+        <div class="rno-3-hero-list">
+            <div class="rno-3-hero-item" data-srcset="https://main.qcloudimg.com/raw/1203e7f58bdc6de580daf1d93bd66f81.jpg pc pad, https://main.qcloudimg.com/raw/5121d30f646e69322e25f723cde72d6b.jpg m">
+                
+                <div class="rno-3-hero-bg-color"></div>
+                <div class="rno-3-hero-embellish" style="background-image: url(https://main.qcloudimg.com/raw/b68e5f1d3dacfcb3d6d734ca3f447d76/mid-img.png)"></div>
+                
+                <div class="rno-3-hero-item-inner">
+										
+										<div class="rno-3-hero-main-pic" style="background-image: url(https://main.qcloudimg.com/raw/fd28dd143124e250b7623864557349fc.png);"></div>
+										
+                    
+                    <div class="rno-3-hero-item-ctn">
+                        
+                        <h1 class="rno-3-hero-item-title">云端大数据解决方案</h1>
+                        <div class="rno-3-hero-item-desc rno-pad-hide">
+                            <p>腾讯云提供了涵盖大数据基础设施和大数据应用在内的丰富产品及服务，助力客户快速构建企业级数据架构，获取数据时代核心竞争优势。</p>
+                        </div>
+                        <div class="rno-3-hero-item-desc rno-pc-hide rno-pad-block">
+                            <p>腾讯云提供了涵盖大数据基础设施和大数据应用在内的丰富产品及服务，助力客户快速构建企业级数据架构，获取数据时代核心竞争优势。</p>
+                        </div>
+                    </div>
+                    <div class="rno-3-hero-item-btns rno-3-hero-item-list-1">
+                        
+                          <a hotrep="solution.[slug].banner.btn1" class="rno-btn rno-btn-primary rno-btn-l" href="https://cloud.tencent.com/act/event/connect-service">
+                              <span class="rno-btn-text">立即咨询</span>
+                          </a>
+                        
+                        
+                    </div>
+                </div>
+
+                
+            </div>
+        </div>
+    </div>
+</div>
+<section class="rno-section" data-type="grid" data-action="" id="fays">
+	<div class="rno-section-inner">
+			<div class="rno-section-hd">
+					<h3 class="rno-section-tit">方案优势</h3>
+			</div>
+			<div class="rno-section-bd">
+					
+					
+					<div class="rno-lattice rno-lattice-cols-4 rno-lattice-cols-m-2 rno-lattice-cols-s-1 rno-lattice-without-margin">
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-media-panel rno-scheme-section rno-1-media-panel-left rno-1-media-panel-m-horizontal">
+		<div class="rno-1-media-panel-object"><img class="rno-1-media-panel-icon" src="https://main.qcloudimg.com/raw/bcf805c28f458be126bed3609138d8d3.svg">
+		</div>
+		<div class="rno-1-media-panel-body">
+				<h4 class="rno-1-media-panel-title">雄厚技术支撑</h4>
+				<p class="rno-1-media-panel-desc ">
+					腾讯云技术专家团队稳定输出充沛的云端大数据技术能力，为客户提供持续性的支撑与服务。
+				</p>
+		</div>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-media-panel rno-scheme-section rno-1-media-panel-left rno-1-media-panel-m-horizontal">
+		<div class="rno-1-media-panel-object"><img class="rno-1-media-panel-icon" src="https://main.qcloudimg.com/raw/688e2415a29f287980dcdb613a1a61e0.svg">
+		</div>
+		<div class="rno-1-media-panel-body">
+				<h4 class="rno-1-media-panel-title">丰富领域积累</h4>
+				<p class="rno-1-media-panel-desc ">
+					涵盖大数据基础技术、算法、模型及数据方法论在内的丰富数据领域积累，为客户提供完善、成熟的解决方案。
+				</p>
+		</div>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-media-panel rno-scheme-section rno-1-media-panel-left rno-1-media-panel-m-horizontal">
+		<div class="rno-1-media-panel-object"><img class="rno-1-media-panel-icon" src="https://main.qcloudimg.com/raw/d6611f5b4f3575b440e259dd78e03d1e.svg">
+		</div>
+		<div class="rno-1-media-panel-body">
+				<h4 class="rno-1-media-panel-title">广泛场景实践</h4>
+				<p class="rno-1-media-panel-desc ">
+					腾讯社交、游戏、资讯、金融等领域多场景累积的大数据实践经验，为客户提供有效、可靠的业务保障。
+				</p>
+		</div>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-media-panel rno-scheme-section rno-1-media-panel-left rno-1-media-panel-m-horizontal">
+		<div class="rno-1-media-panel-object"><img class="rno-1-media-panel-icon" src="https://main.qcloudimg.com/raw/6c33ed493503f0e867e69b8ef2a8b060.svg">
+		</div>
+		<div class="rno-1-media-panel-body">
+				<h4 class="rno-1-media-panel-title">开放云生态</h4>
+				<p class="rno-1-media-panel-desc ">
+					涵盖运维支撑、数据服务、数据产品在内的全链路云端数据合作生态，为客户提供全方位、全覆盖的云端体验。
+				</p>
+		</div>
+</div>
+						</div>
+						
+					</div>
+					
+					
+					
+			</div>
+	</div>
+</section>
+<section class="rno-section bg-color rno-section-bg-shading" id="cpjfwjz">
+    <div class="rno-section-inner">
+        <div class="rno-section-hd">
+            <h3 class="rno-section-tit">产品及服务矩阵</h3>
+        </div>
+        <div class="rno-section-bd">
+          
+            
+<div class="rno-content-layout-1">
+    <div class="rno-content-layout-main">
+        
+        <img class="rno-tabs-simple-img-view" src="https://main.qcloudimg.com/raw/350d1863ec98b829cc7233a7f01bb0cf.svg">
+        
+    </div>
+    <div class="rno-content-layout-side">
+      <div class="rno-combo">
+        
+          
+  
+  <div class="rno-draft"><p>腾讯云提供云端大数据基础设施的支撑，助您构建云端大数据架构与解决方案。使用云端大数据服务，有着如下的优势：</p><ul class="ul-level-0"><li>快速创建、弹性扩缩容、极致性能等产品特性</li><li>云端运维等基础设施的保障</li><li>云端数据服务、云端工具服务的无缝对接</li><li>持续更新的产品功能迭代</li><li>专业、持续、完善的售后服务支持</li></ul></div>
+  
+
+        
+      </div>
+    </div>
+</div>
+          
+          
+        </div>
+    </div>
+<i class="rno-shading-1-left"></i>
+<i class="rno-shading-1-right"></i></section>
+<section class="rno-section rno-scene-tabs-section J-sectionTabs" data-type="tab" data-layout="vertical" id="dsjjcss">
+    
+    <div class="rno-section-inner">
+        <div class="rno-section-hd">
+            <h3 class="rno-section-tit">大数据基础设施</h3>
+        </div>
+        <div class="rno-section-bd rno-pad-hide">
+            <div class="rno-scene-tab-wrap">
+                <div class="rno-tabs rno-tabs-vertical rno-scene-tabs">
+                    <div class="rno-tabs-bar">
+                        <ul class="rno-tabs-list">
+                            
+                              
+                              <li class="rno-tabs-item J-menuItem rno-scene-tabs-cur" data-with-sub="0" data-panel-id="QCCtbgwhZ">
+                                <a class="rno-tabs-item-con">PB级数仓建设</a>
+                              </li>
+                              
+                            
+                              
+                              <li class="rno-tabs-item J-menuItem " data-with-sub="0" data-panel-id="uroVkqNLu">
+                                <a class="rno-tabs-item-con">实时流式计算</a>
+                              </li>
+                              
+                            
+                              
+                              <li class="rno-tabs-item J-menuItem " data-with-sub="0" data-panel-id="4ZIKvWgX6">
+                                <a class="rno-tabs-item-con">搜索与检索分析</a>
+                              </li>
+                              
+                            
+                        </ul>
+                    </div>
+                    <div class="rno-tabs-content">
+                        
+                        
+                        <div data-panel-id="QCCtbgwhZ" class="rno-scene-tabs-content J-tabPanel">
+                            <div class="rno-scene-tabs-content-title">
+                                PB级数仓建设
+                            </div>
+                            <div class="rno-scene-tabs-content-main">
+                              
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/cc38c626be9b61a500e1ad832c875d85.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>借助于云端充沛的存储计算能力和丰富的大数据产品线，帮助企业快速适应从初创、发展到成熟过程中的企业级数据仓库技术架构演进。</li><li>云端数据仓库产品线提供的高可靠、高扩展和高自运维能力，将能大幅提升企业 IT 部门的数据运维效能。</li><li>腾讯云提供的丰富数据连接器，将会让企业级数据在多基础数据设施之间无缝流转，产生源源不断的数据价值。</li><li>云端数据可视化决策产品和AI服务平台，将帮助客户实现数据综合决策的可视化和智能化。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>电商、金融、零售、游戏发行、资讯、移动应用等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/emr"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2129/32_32/blue.svg);"></i>弹性 MapReduce</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/bi"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2135/32_32/blue.svg);"></i>商业智能分析 BI</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/cdwpg"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2131/32_32/blue.svg);"></i>云数据仓库 PostgreSQL</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/cdwch"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2573/32_32/blue.svg);"></i>云数据仓库 ClickHouse</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+                            </div>
+                        </div>
+                        
+                        <div data-panel-id="uroVkqNLu" class="rno-scene-tabs-content J-tabPanel" style="display:none">
+                            <div class="rno-scene-tabs-content-title">
+                                实时流式计算
+                            </div>
+                            <div class="rno-scene-tabs-content-main">
+                              
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/d7fcc329b983bb41c5b09fbcf9abb6aa.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>云端流计算服务充沛的计算能力可帮助用户分钟级构建点击流分析、电商精准推荐、金融实时风控、物联网（IoT）监控等流计算应用。</li><li>托管流计算设施提供实时扩展或缩减计算资源的能力，让用户无需关注基础运维工作，专注于实时服务业务开发。</li><li>腾讯云提供配套完善的数据基础设施，用户可便捷地对接云上数据源，自有数据在各个基础设施协作下最大化潜在价值。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>移动应用、资讯、金融、电商、生产制造等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/oceanus"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2132/32_32/blue.svg);"></i>流计算 Oceanus</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/emr"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2129/32_32/blue.svg);"></i>弹性 MapReduce</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+                            </div>
+                        </div>
+                        
+                        <div data-panel-id="4ZIKvWgX6" class="rno-scene-tabs-content J-tabPanel" style="display:none">
+                            <div class="rno-scene-tabs-content-title">
+                                搜索与检索分析
+                            </div>
+                            <div class="rno-scene-tabs-content-main">
+                              
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/4ec762210b4be2e3bb5ba3ef904353aa.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>云端数据搜索设施高可用、易伸缩等特性可帮助企业快速搭建稳定的海量数据搜索服务，并整合到商品搜索、移动应用搜索、BI 分析等已有业务中。</li><li>全托管搜索基础设施提供数据处理、分词建立索引、检索串识别、结果排序、数据运营等一站式搜索服务，用户可按需轻松构建定制化搜索服务。</li><li>腾讯云为搜索设施集成了安全、机器学习、监控告警等高级服务，帮助用户轻松管理集群、简化运维操作，专注搜索服务的开发。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>电子商务、移动应用、广告媒体等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/es  "><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2133/32_32/blue.svg);"></i>腾讯云Elasticsearch Service</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/tcs"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2140/32_32/blue.svg);"></i>腾讯云搜 TCS</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="rno-collapse-list rno-pc-hide rno-pad-block J-mStContainer">
+        
+        <div class="rno-collapse-item J-mStListItem rno-collapse-item-active">
+            <header class="rno-collapse-item-hd J-mStItemHeader">
+                <h3 class="rno-collapse-item-title">PB级数仓建设</h3><i class="rno-i-s-2-arrow-top-blue rno-collapse-item-caret J-mStItemHeaderIcon"></i>
+            </header>
+
+            
+             <div class="rno-collapse-item-bd">
+              
+                
+                
+                
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/cc38c626be9b61a500e1ad832c875d85.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>借助于云端充沛的存储计算能力和丰富的大数据产品线，帮助企业快速适应从初创、发展到成熟过程中的企业级数据仓库技术架构演进。</li><li>云端数据仓库产品线提供的高可靠、高扩展和高自运维能力，将能大幅提升企业 IT 部门的数据运维效能。</li><li>腾讯云提供的丰富数据连接器，将会让企业级数据在多基础数据设施之间无缝流转，产生源源不断的数据价值。</li><li>云端数据可视化决策产品和AI服务平台，将帮助客户实现数据综合决策的可视化和智能化。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>电商、金融、零售、游戏发行、资讯、移动应用等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/emr"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2129/32_32/blue.svg);"></i>弹性 MapReduce</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/bi"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2135/32_32/blue.svg);"></i>商业智能分析 BI</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/cdwpg"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2131/32_32/blue.svg);"></i>云数据仓库 PostgreSQL</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/cdwch"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2573/32_32/blue.svg);"></i>云数据仓库 ClickHouse</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+             
+             </div>
+
+        </div>
+        
+        <div class="rno-collapse-item J-mStListItem">
+            <header class="rno-collapse-item-hd J-mStItemHeader">
+                <h3 class="rno-collapse-item-title">实时流式计算</h3><i class="rno-i-s-2-arrow-bottom rno-collapse-item-caret J-mStItemHeaderIcon"></i>
+            </header>
+
+            
+             <div class="rno-collapse-item-bd">
+              
+                
+                
+                
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/d7fcc329b983bb41c5b09fbcf9abb6aa.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>云端流计算服务充沛的计算能力可帮助用户分钟级构建点击流分析、电商精准推荐、金融实时风控、物联网（IoT）监控等流计算应用。</li><li>托管流计算设施提供实时扩展或缩减计算资源的能力，让用户无需关注基础运维工作，专注于实时服务业务开发。</li><li>腾讯云提供配套完善的数据基础设施，用户可便捷地对接云上数据源，自有数据在各个基础设施协作下最大化潜在价值。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>移动应用、资讯、金融、电商、生产制造等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/oceanus"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2132/32_32/blue.svg);"></i>流计算 Oceanus</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/emr"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2129/32_32/blue.svg);"></i>弹性 MapReduce</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+             
+             </div>
+
+        </div>
+        
+        <div class="rno-collapse-item J-mStListItem">
+            <header class="rno-collapse-item-hd J-mStItemHeader">
+                <h3 class="rno-collapse-item-title">搜索与检索分析</h3><i class="rno-i-s-2-arrow-bottom rno-collapse-item-caret J-mStItemHeaderIcon"></i>
+            </header>
+
+            
+             <div class="rno-collapse-item-bd">
+              
+                
+                
+                
+<div class="rno-content-layout-5">
+  <div class="rno-combo">
+  
+    
+  
+  <div class="rno-draft"><figure><div class="image-block"><img src="https://main.qcloudimg.com/raw/4ec762210b4be2e3bb5ba3ef904353aa.png"></div></figure><h3>场景描述</h3><ul class="ul-level-0"><li>云端数据搜索设施高可用、易伸缩等特性可帮助企业快速搭建稳定的海量数据搜索服务，并整合到商品搜索、移动应用搜索、BI 分析等已有业务中。</li><li>全托管搜索基础设施提供数据处理、分词建立索引、检索串识别、结果排序、数据运营等一站式搜索服务，用户可按需轻松构建定制化搜索服务。</li><li>腾讯云为搜索设施集成了安全、机器学习、监控告警等高级服务，帮助用户轻松管理集群、简化运维操作，专注搜索服务的开发。</li></ul><h3>典型行业</h3><ul class="ul-level-0"><li>电子商务、移动应用、广告媒体等。</li></ul></div>
+  
+
+  
+    
+  
+  <div class="rno-combo-products">
+      <div class="rno-combo-products-inner">
+        <div class="rno-combo-products-title">
+            相关云产品
+        </div>
+        <ul class="rno-combo-products-list ">
+          
+          <li><a href="https://cloud.tencent.com/product/es  "><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2133/32_32/blue.svg);"></i>腾讯云Elasticsearch Service</a></li>
+          
+          <li><a href="https://cloud.tencent.com/product/tcs"><i class="rno-combo-products-list-icon" style="background-image: url(https://main.qcloudimg.com/image/product/2140/32_32/blue.svg);"></i>腾讯云搜 TCS</a></li>
+          
+        </ul>
+      </div>
+  </div>
+  
+
+  
+  </div>
+</div>
+             
+             </div>
+
+        </div>
+        
+    </div>
+</section>
+<section class="rno-section bg-color rno-section-bg-shading" id="dsjyyfw">
+    <div class="rno-section-inner">
+        <div class="rno-section-hd">
+            <h3 class="rno-section-tit">大数据应用服务</h3>
+        </div>
+        <div class="rno-section-bd">
+          
+            
+<div class="rno-2-media-section">
+    <div class="rno-content-layout-2">
+      <div class="rno-content-layout-main">
+          <div class="rno-combo">
+            
+              
+  
+  <div class="rno-draft"><h2>服务介绍</h2><ul class="ul-level-0"><li>企业画像提供全方位企业信息查询服务，构建百亿级企业知识图谱，深度挖掘企业、高管、法人、品牌、产品、地域、产业间的复杂网络关系，洞察企业风险，监控企业发展趋势。</li></ul><h2>产品功能</h2><ul class="ul-level-0"><li>产业分析、企业基础信息查询、企业洞察（发展、风险、活跃评估）、企业舆情、企业关系图谱。</li></ul><h2>应用场景</h2><ul class="ul-level-0"><li>智慧城市、智慧园区、金融监管、金融机构等。</li></ul></div>
+  
+
+            
+          </div>
+      </div>
+      <div class="rno-content-layout-side">
+          <div class="rno-2-media-view">
+              <img src="https://main.qcloudimg.com/raw/35bb0eb5a7fe1ecf7de0fae3be9f900a.png" alt="" class="rno-2-media-view-img">
+          </div>
+      </div>
+    </div>
+</div>
+          
+          
+        </div>
+    </div>
+<i class="rno-shading-2-left"></i>
+<i class="rno-shading-2-right"></i></section>
+<section class="rno-section" data-type="grid" data-action="" id="wmdkh">
+	<div class="rno-section-inner">
+			<div class="rno-section-hd">
+					<h3 class="rno-section-tit">我们的客户</h3>
+			</div>
+			<div class="rno-section-bd">
+					
+					
+					<div class="rno-lattice-card rno-lattice-cols-4 rno-lattice-cols-m-3 rno-lattice-cols-s-3 rno-lattice-without-margin">
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/1f8ef9a4ed27996e85442ccf7cb1bb9d.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/f43e6bc891030053fd054eb225b0e79a.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/e20a8ba233f9f73e1ace78d20a8c4aa0.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/30d33f2b59696334b292b6279065320b.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/bb9df9d44c0992ac813e0ede42a66579.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/3b61a5f589225267d21be428dd890ae1.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/d43a2ee6b3767500bc1dd72726ee5cc9.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/7d32b3bb9715c9a331305cd4798ceb8e.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/3f242f7253b1b1b071fdc679b99bf434.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/3de83be6d4824d62daa136b8c7c4321f.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/8036f3a4633854ae315293f825e06186.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/07d76635247fca9231812411330ba748.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/95263bff85ffd4bc8cf75289ad6248d4.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/76a7fec0301ffdcede9f2e082f8be38d.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<div class="rno-1-logo-case">
+  <picture>
+      <source srcset="https://main.qcloudimg.com/raw/b1ac2aa669b33f28d096e1f014bbcbf3.png" media="(max-width: 768px)">
+      <img src="https://main.qcloudimg.com/raw/d5fcdcd5e899f5a72104e97526fbe207.png" alt="">
+  </picture>
+</div>
+						</div>
+						
+					</div>
+					
+					
+					
+			</div>
+	</div>
+</section>
+<section class="rno-section bg-color rno-section-bg-shading" data-type="grid" data-action="" id="hzhb">
+	<div class="rno-section-inner">
+			<div class="rno-section-hd">
+					<h3 class="rno-section-tit">合作伙伴</h3>
+			</div>
+			<div class="rno-section-bd">
+					
+					
+					<div class="rno-lattice-card rno-lattice-cols-4 rno-lattice-cols-m-2 rno-lattice-cols-s-1 rno-lattice-without-margin">
+						
+						<div class="rno-lattice-cell">
+							<a class="rno-11-media-panel">
+    <div class="rno-11-media-panel-object">
+        <img class="rno-11-media-panel-icon" src="https://main.qcloudimg.com/raw/3c79a8d444a3ea0d9b66960660a86738.png">
+    </div>
+    <div class="rno-11-media-panel-body">
+        <h4 class="rno-11-media-panel-title">明略科技</h4>
+        <p class="rno-11-media-panel-desc">数据中台和企业智能决策平台提供商</p>
+    </div>
+</a>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<a class="rno-11-media-panel">
+    <div class="rno-11-media-panel-object">
+        <img class="rno-11-media-panel-icon" src="https://main.qcloudimg.com/raw/3db0c282542197d212fcec1706c89c4b.png">
+    </div>
+    <div class="rno-11-media-panel-body">
+        <h4 class="rno-11-media-panel-title">东华软件</h4>
+        <p class="rno-11-media-panel-desc">计算机信息系统集成甲级资质</p>
+    </div>
+</a>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<a class="rno-11-media-panel">
+    <div class="rno-11-media-panel-object">
+        <img class="rno-11-media-panel-icon" src="https://main.qcloudimg.com/raw/7890b4b4ea24d84616001a3f058db2e7.png">
+    </div>
+    <div class="rno-11-media-panel-body">
+        <h4 class="rno-11-media-panel-title">北明软件</h4>
+        <p class="rno-11-media-panel-desc">提供综合性 IT 解决方案和云计算服务</p>
+    </div>
+</a>
+						</div>
+						
+						<div class="rno-lattice-cell">
+							<a class="rno-11-media-panel">
+    <div class="rno-11-media-panel-object">
+        <img class="rno-11-media-panel-icon" src="https://main.qcloudimg.com/raw/3d7ad0632ccfe109690c9ccea862135c.png">
+    </div>
+    <div class="rno-11-media-panel-body">
+        <h4 class="rno-11-media-panel-title">长亮科技</h4>
+        <p class="rno-11-media-panel-desc">全球金融科技解决方案服务商</p>
+    </div>
+</a>
+						</div>
+						
+					</div>
+					
+					
+					
+			</div>
+	</div>
+<i class="rno-shading-4-left"></i></section>
+<section class="rno-section rno-contact-section bg-color" id="contact">
+	<div class="rno-section-inner">
+		<div class="rno-section-bd">
+			<div class="rno-contact-panel">
+				<div class="rno-contact-inner">
+					<h4 class="rno-contact-panel-title">
+						咨询行业专业顾问
+					</h4>
+					<div class="rno-contact-panel-desc">
+						<p class="rno-contact-panel-text">
+							
+								
+								<span>关于腾讯云大数据解决方案的更多咨询， 请联系我们的销售和技术支持团队。</span>
+								
+						</p>
+						<div class="rno-contact-panel-wrap">
+							
+								<a href="https://cloud.tencent.com/act/event/connect-service" class="rno-btn rno-btn-primary rno-contact-consult rno-btn-s">
+									<span class="rno-btn-text">
+										立即咨询
+									</span>
+								</a>
+								
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="rno-contact-panel-bg"></div>
+		</div>
+	</div>
+</section>
+	</div>
+</div>
+<script>window.__CDN_DOMAIN = 'cloudcache.tencent-cloud.com'</script>
+<script>window.__wxMfaQrcodeMode = 'weapp'</script>
+
+
+
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/vendors/babel/polyfill.6.26.min.js?max-age=31536000"></script>
+<script type="text/javascript" src="//cloudcache.tencent-cloud.com/qcloud/app/qcconsole_web/dest/_imgcache_qq_com_idc.js" async></script>
+<script type="text/javascript" src="//cloud.tencent.com/qccomponent/_cloud_tencent_com_idc.js" async></script>
+<script type="text/javascript" src="//www.qcloud.com/_www_qcloud_com_idc.js" async></script>
+<script>
+	window.getCurrServerTime = (function(s, c) {return function(){return +new Date()+s-c;}})(1619231732381, +new Date());
+	window.__enableReport = true;
+	window.lifeId = "SJe2xVWWw_";
+	window.lifeStart = getCurrServerTime();
+</script>
+<script src="https://cloudcache.tencent-cloud.com/qcloud/insight/insight-client.985ac73c2.js"></script>
+<script>
+	try {
+		if (typeof window.Insight === 'object') {
+			Insight.install({
+				app: 'qcmain',
+				lid: window.lifeId,
+				born: window.lifeStart,
+				time: window.getCurrServerTime,
+				shouldReportEvent: function (payload) {
+					if (payload) {
+						//  神策上报触发 cgi-error 和 xhr-error 忽略掉
+						if (
+							(payload.event == 'xhr-error' || payload.event == 'cgi-error')
+							&& payload.hostname
+							&& payload.hostname.indexOf('sensors.cloud.tencent.com') == 0
+						) {
+							return false;
+						}
+					}
+					return window.__enableReport && document.cookie.search('disableInsight=1') === -1;
+				}
+			});
+		}
+	} catch(e) {
+		console.warn('官网监控初始化失败');
+	}
+</script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/base.865b240c467acf1167cf.js?max_age=31536000"></script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/deps.bc8b72d73c6b52a7b226.js?max_age=31536000"></script>
+
+		<script>
+			window.__QCPortalContext__ = {
+				version: "0.2.2",
+
+				resource: {},
+
+				$getCurrServerTime: (function(s, c) {return function(){return +new Date()+s-c;}})(1619231732380, +new Date()),
+			}
+		</script>
+		<script src="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/full.ec94f328f.js"></script>
+		<script>
+			if (window.QCPortalKit) {
+				window.QCPortalKit.init({"topNav":{"theme":"air"},"footer":{"disable":false},"floatBar":{"disable":false}})
+			}
+		</script>
+	
+
+<script>
+	window['__CONTEXT__'] = {"slug":"bigdata"}
+</script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/solution/index.v3.42d4a8cc0e3989d67ee6.js?max_age=31536000"></script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/vendors/picturefill.3.0.2.js" async></script>
+
+</body>
+</html>

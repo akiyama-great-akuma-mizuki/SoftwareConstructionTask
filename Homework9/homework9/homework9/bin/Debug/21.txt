@@ -1,0 +1,421 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>王毅：中国历史智慧是&quot;国霸必衰&quot; 不是&quot;国强必霸&quot;_中华头条_中华网</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no"/>
+    <meta name="keywords" content="王毅：中国历史智慧是国霸必衰">
+    <meta name="description" content="原标题：王毅：中国的历史智慧是“国霸必衰”，而不是“国强必霸”2021年4月23日晚，王毅国务委员兼外长在北京同美国对外关系委员会视频交流。">
+    <!-- /etc/endpage/ep_htmlhead.shtml Start -->
+<link rel="stylesheet" href="//www.china.com/zh_cn/plugin/videojs/video-js.min.css" media="all" />
+<link rel="stylesheet" href="/css/style.css"/>
+<script src="/js/t.min.js"></script>
+<script src="//dup.baidustatic.com/js/ds.js"></script>
+<!-- /etc/endpage/ep_htmlhead.shtml End -->
+    <meta name="author" content="wb 4147" />
+</head>
+<body class="body-article">
+    <!-- /et/endpagec/ep_header.shtml Start -->
+<!-- /etc/header.shtml Start -->
+<div class="global-top">
+    <div id="header">
+        <a href="/" id="global-top-logo" title="今日热点"></a>
+        <ul class="global-top-nav">
+            <li><a href="/">推荐</a></li>
+            <li><a href="/shehui/">社会</a></li>
+            <li><a href="/redian/">热点</a></li>
+            <li><a href="/junshi/">军事</a></li>
+            <li><a href="/yule/">娱乐</a></li>
+            <li><a href="/caijing/">财经</a></li>
+            <li><a href="/lishi/">历史</a></li>
+            <li><a href="//history.china.com/xh/index.html" target="_blank">野史</a></li>
+            <li><a href="/qiche/">汽车</a></li>
+            <li><a href="//health.china.com/" target="_blank">健康</a></li>
+            <li><a href="//jiemeng.china.com/" target="_blank">解梦</a></li>
+            <li><a href="//law.china.com/" target="_blank">法制</a></li>
+            <li><a href="/gundong/">滚动</a></li>
+        </ul>
+        <ul class="global-top-aside">
+            <li><a href="javascript:void(0);" class="js-addfav" onclick="javascript:addFavorite()">收藏本站</a></li>
+        </ul>
+    </div>
+</div>
+<!-- /etc/header.shtml End -->
+<div id="top-fixed">
+    <a href="/" id="top-fixed-logo" title="今日热点"></a>
+    <div id="top-fixed-bd"><script type="text/javascript" src="https://bd1-china.xsfaya.com/production/je/d/resource/t/static/awgf/common/n.js"></script></div>
+    <ul id="top-fixed-qh"><!-- 13004008 -->
+
+<li><a href="https://mini.china.com/tuijian/toutu/13003346/20210422/39505527.html" class="item-img" title="厅官不断换老婆，贪污被抓&quot;甩锅&quot;妻子们" target="_blank">厅官不断换老婆，贪污被抓&quot;甩锅&quot;妻子们</a></li>
+
+
+<li><a href="https://mini.china.com/tuijian/toutu/13003346/20210422/39501706.html" class="item-img" title="警方直播扫黄现场，&quot;成功人士&quot;招嫖揭秘" target="_blank">警方直播扫黄现场，&quot;成功人士&quot;招嫖揭秘</a></li>
+
+
+<li><a href="https://mini.china.com/mht/13004051/20210421/39497127.html" class="item-img" title="台湾将军撂出一句狠话，我们竟无法反驳……" target="_blank">台湾将军撂出一句狠话，我们竟无法反驳……</a></li>
+
+</ul>
+</div>
+<script src="https://sssvd.china.com/js/4n3j9p.js" charset="utf-8">//AdSame</script>
+<!-- 广告位：头条内页超通1 -->
+<div class="med-loading"></div>
+<!-- /etc/endpage/ep_header.shtml End -->
+    <div class="wrap-article clearfix" id="js-info-flow">
+        <!-- 边栏 -->
+        <div class="wrap-article-side">
+            <!-- /etc/endpage/ep_articlesidedata287.shtml Start -->
+<div id="js-side-data" data-classify="287" data-cycle="day" data-med="article"></div>
+<!-- /etc/endpage/ep_articlesidedata287.shtml End -->
+            <!-- /etc/endpage/ep_articleside.shtml Start -->
+
+<!--<div id="js-side-data" data-classify="293"></div>-->
+<div class="followright" id="js-follow-right">
+    <div class="med-loading" data-medid="" id="">
+        <!-- 广告位：mini内页画中画0 -->
+        <script>
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('<div id="' + s + '"></div>');
+            (window.slotbydup=window.slotbydup || []).push({
+                id: '7153095',
+                container: s,
+                size: '336,280',
+                display: 'inlay-fix'
+            });
+        })();
+        </script>
+    </div>
+    <div class="med-loading" data-medid="" id="">
+        <!-- 广告位：mini内页画中画1 -->
+        <script type="text/javascript" src="//bd1-china.xsfaya.com/production/c_x/wdu_gt/openjs/gy.js"></script>
+    </div>
+
+    <h2 class="wp-title">24小时热点</h2>
+    <ul class="newslist-imgtxt" id="js-med-today" data-med="article"></ul>
+
+    <div class="med-loading" data-medid="" id="">
+        <!-- 广告位：mini内页画中画2 -->
+        <script type="text/javascript" src="//bd1-china.xsfaya.com/source/e/common/zy/production/fwiv-i/h.js"></script>
+    </div>
+
+    <h2 class="wp-title">精彩图片</h2>
+    <ul class="newslist-imgonly clearfix" id="js-med-hotimg" data-med="article"></ul>
+
+    <div class="med-loading" data-medid="" id="360hzh">
+        <!-- 广告位：mini内页画中画3 -->
+    </div>
+
+    <h2 class="wp-title">频道热点</h2>
+    <ul class="newslist-txtonly" id="js-med-pingdao"></ul>
+
+    <div class="med-loading" data-medid="" id="">
+        <!-- 广告位：mini内页画中画4 -->
+        <script type="text/javascript" src="//bd1-china.xsfaya.com/source/a_v_ub/s/source/erkr.js"></script>
+    </div>
+    
+    <ul class="newslist-imgtxt" id="js-med-morenews"></ul>
+    
+    <div class="med-loading" data-medid="" id="">
+        <!-- 广告位：mini内页画中画5 -->
+        <script type="text/javascript" src="//bd1-china.xsfaya.com/source/b/wvct-fs/openjs/lt.js"></script>
+    </div>
+</div>
+<!-- /etc/endpage/ep_articleside.shtml End -->
+        </div>
+        <!-- 主体 -->
+        <!-SSE TITLEINFOSTART SSE->
+        <div class="wrap-article-main">
+            <!-- /etc/endpage/ep_med1.shtml Start -->
+
+<!-- /etc/endpage/ep_med1.shtml End -->
+            <h1 class="article-title">王毅：中国历史智慧是&quot;国霸必衰&quot; 不是&quot;国强必霸&quot;</h1>
+            <div class="article-info">
+                <div class="article-info-time">2021-04-24 03:27:13</div>
+                <div class="article-info-source"><a href='http://m.news.cctv.com/2021/04/24/ARTIPG5k1aDaEJyewz0brK75210424.shtml' target='_blank'>央视</a></div>
+                <div class="article-info-right">
+                    <div class="article-info-key"><div id="IndiKeyword" class="IndiKeyword">关键词：<a href="//mini.china.com/baike/t_546L5q-F77ya5Lit5Zu95Y6G5Y-y5pm65oWn5piv5Zu96Zy45b-F6KGw.html" target="_blank">王毅：中国历史智慧是国霸必衰</a></div></div>
+                    <div class="article-info-share">
+                        <span class="weixin"></span>
+                        <div class="weixin-main">
+                            <div class="weixin-main-box">
+                                <div class="weixin-main-box-int"><img src="https://img01-utuku.china.com/barcode/39509/39509401.png" id="js-share-qrcode"><p>用微信扫描二维码<br>分享至好友和朋友圈</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /etc/endpage/ep_newsinfo.shtml Start -->
+<div class="article-info-font">
+    <a href="#" class="article-info-font-small" onclick="doZoom('chan_newsDetail',-1); return false;">小</a>
+    <a href="#" class="article-info-font-big" onclick="doZoom('chan_newsDetail',1); return false;">大</a>
+</div>
+<!-- /etc/endpage/ep_newsinfo.shtml End -->
+                </div>
+            </div>
+            <!-- /etc/endpage/ep_med2.shtml Start -->
+<!-- 广告位：mini内页标题下信息流 -->
+<div class="med-area">
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '7153094',
+        container: s,
+        size: '780,120',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+<!-- /etc/endpage/ep_med2.shtml End -->
+            <!-- 内容 -->
+            <div class="article-content">
+                <!-- /etc/endpage/ep_med3.shtml Start -->
+<!-- 广告位：mini内页文章区摩天楼 -->
+<div id="CH_MTL_10002" style="float:right; margin:0 0 15px 15px;">
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '7153093',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+<!-- /etc/endpage/ep_med3.shtml End -->
+                <p>原标题：王毅：中国的历史智慧是“国霸必衰”，而不是“国强必霸”</p><p>2021年4月23日晚，王毅国务委员兼外长在北京同美国对外关系委员会视频交流。王毅表示，希望美国客观认识和理性对待中国的发展。</p><p>王毅说，中国坚持走和平发展道路，坚持同世界各国和平相处、合作共赢，从不谋求世界霸权，我们将走出一条与传统大国轨迹不同的和平崛起之路。中国数千年积累的历史智慧是“国霸必衰”，而不是“国强必霸”。中国发展振兴靠的是自身努力，而非侵略扩张。中国所做的一切都是为了本国人民过上更加幸福的生活，而不是要取代谁、打败谁。</p>
+            </div>
+            <!-- /etc/endpage/ep_med4.shtml Start -->
+<!-- mini内页翻页上方文字链组1 -->
+<div id="CH_WZL_3331860">
+<script>
+(function(){
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '7153089',
+        container: s,
+        size: '780,90',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+<!-- /etc/endpage/ep_med4.shtml End -->
+            <!-SSE PAGELINKSTART SSE->
+            <div class="pageStyle5"><div id="chan_multipageNumN"><span class="curPage">1</span><a href="39509401_1.html" target="_self">2</a><a href="/skip.html?weiye" target="_self">3</a><a class="nextPage" href="39509401_all.html#page_2" target="_self">全文</a><span class="sumPage">共<cite> 3 </cite>页</span><a href="39509401_1.html" class="allPage" title="下一页" target="_self">下一页</a></div></div>
+            <!-SSE PAGELINKEND SSE->
+            <!-- /etc/endpage/ep_med5.shtml Start -->
+<!-- mini内页翻页下通栏-780*300 -->
+<div class="med-area">
+    <script type="text/javascript" src="//bd1-china.xsfaya.com/source/yt/openjs/szqc/source/pl_i.js"></script>
+</div>
+<!-- /etc/endpage/ep_med5.shtml End -->
+            <!-- /etc/endpage/ep_med6.shtml Start -->
+<!-- 信息流 -->
+<ul class="item-list-news article-item-list-news" id="js-article-data" data-classify="287" data-cycle="day"></ul>
+<!-- /etc/no_more_txt.shtml Start -->
+
+<a href="//mini.china.com/?db" class="item-list-news-more" target="_blank">加载更多...</a>
+<!-- /etc/no_more_txt.shtml End -->
+<!-- /etc/endpage/ep_med6.shtml End -->
+        </div>
+        <!-SSE TITLEINFOEND SSE->
+    </div>
+    <!-- /etc/endpage/ep_footer.shtml Start -->
+<!-- /etc/footer_txt.shtml Start -->
+<ul class="side-nav" id="js-side-nav" >
+    <li class="refresh" id="js-side-refresh">刷新</li>
+    <li class="top" id="js-side-top">顶部</li>
+</ul>
+<div class="footer">
+    <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#122;&#104;&#97;&#110;&#103;&#108;&#101;&#105;&#64;&#122;&#104;&#105;&#120;&#117;&#110;&#46;&#99;&#104;&#105;&#110;&#97;&#46;&#99;&#111;&#109;">主编邮箱</a> 执行主编：张蕾<br />
+    网上不良信息举报电话：17610228316<br />
+    <img src="https://www.china.com/zh_cn/img1311/logo-cdc.png" width="20" height="17"> <a href="//www.china.com/zh_cn/general/about.html" target="_blank">关于中华网</a> | <a href="//www.china.com/zh_cn/general/advert.html" target="_blank">广告服务</a> | <a href="//www.china.com/zh_cn/general/contact.html" target="_blank">联系我们</a> | <a href="//www.china.com/zh_cn/general/job.html" target="_blank">招聘信息</a> | <a href="//www.china.com/zh_cn/general/bqsm.html" target="_blank">版权声明</a> | <a href="//www.china.com/zh_cn/general/legal.html" target="_blank">豁免条款</a> | <a href="//www.china.com/zh_cn/general/links.html" target="_blank">友情链接</a> | <a href="//www.china.com/zh_cn/general/news.html" target="_blank">中华网动态</a><br />
+    版权所有 中华网
+</div>
+<!-- /etc/footer_txt.shtml End -->
+<!-- /etc/publicfooter.shtml Start -->
+<!-- /etc/popup.min.shtml Start -->
+<style>#popup-news{color:#fff;width:480px;height:44px;border-radius:4px;overflow:hidden;position:fixed;left:50%;margin-left:-250px;bottom:-44px;-webkit-transition:bottom .2s linear;-o-transition:bottom .2s linear;transition:bottom .2s linear;z-index:999}#popup-news.show{bottom:50px}#popup-news .popup-mask{position:absolute;top:0;left:0;width:100%;height:100%;background:#000;opacity:.7;filter:alpha(opacity=70)}#popup-news .popup-content{overflow:hidden;font-size:16px;color:#fff;width:100%;height:44px;line-height:44px;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}#popup-news .popup-label{width:77px;height:44px;position:absolute;left:0;top:0;background:#ff2f2f;line-height:46px;padding-left:8px;font-size:18px}#popup-news .popup-label:after{content:'';position:absolute;left:100%;top:0;width:0;height:0;border-top:22px solid transparent;border-right:0 solid transparent;border-bottom:22px solid transparent;border-left:12px solid #ff2f2f}#popup-news .popup-close{height:100%;width:40px;position:absolute;top:0;right:0;text-align:center;line-height:44px;opacity:.7;filter:alpha(opacity=70);font-size:18px;font-family:serif;font-weight:bold;cursor:pointer}#popup-news .popup-close:hover{opacity:1;filter:alpha(opacity=100)}#popup-news .popup-content a{position:relative;color:#fff;display:block;height:44px;width:330px;margin:0 10px 0 0;padding-left:107px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:center}#popup-news .popup-content a:hover{text-decoration:underline}#popup-news .popup-content a.mediav{width:300px;padding-right:28px;visibility:hidden;display:none}#popup-news .popup-content a.mediav span{width:22px;display:block;height:13px;background-position:-413px -639px;position:absolute;top:16px;right:0}#popup-news .tempWrap{overflow:hidden;position:relative;height:44px}</style><div id="popup-news"class="show"><div class="popup-mask"></div><div class="popup-label">今日快讯</div><div class="tempWrap"><div class="popup-content"id="js-popup-content"><!-- 13003870 -->
+
+<a href="/shehui/?push&aid=39506047" title="现场！女生真人秀中被迫服药遭性侵！" target="_blank">现场！女生真人秀中被迫服药遭性侵！</a>
+
+
+<a href="/shehui/?push&aid=39505505" title="官员在办公室性侵女下属：她勾引我的" target="_blank">官员在办公室性侵女下属：她勾引我的</a>
+
+
+<a href="/shehui/?push&aid=39501158" title="男子麻醉老婆后让多人到家中轮流性侵！" target="_blank">男子麻醉老婆后让多人到家中轮流性侵！</a>
+
+
+<a href="/shehui/?push&aid=39501152" title="14岁女生被数名同学性侵逼拍裸照！" target="_blank">14岁女生被数名同学性侵逼拍裸照！</a>
+
+
+<a href="/shehui/?push&aid=39501154" title="女星出轨小鲜肉＂香艳照＂ 流出！" target="_blank">女星出轨小鲜肉＂香艳照＂ 流出！</a>
+
+</div></div><span id="js-popup-close"class="popup-close">×</span></div><script type="text/javascript">function popUp(){var popUpClose=function(){var close=document.getElementById('js-popup-close');close.onclick=function(){var dom=document.getElementById('popup-news');if(dom!=null)dom.parentNode.removeChild(dom)}};var popUpScroll=function(ID,c,t,n){var element=document.getElementById(ID),flag=true,c=c||20,t=t||1500,n=n==-1?-1:1;element.innerHTML+=element.innerHTML;element.onmouseover=function(){flag=false};element.onmouseout=function(){flag=true};var max=parseInt(element.scrollHeight/2);function myMove(){var stop=element.scrollTop%c==0&&!flag;if(!stop){var set=n>0?[max,0]:[0,max];element.scrollTop==set[0]?element.scrollTop=set[1]:element.scrollTop+=n};setTimeout(myMove,element.scrollTop%c||element.scrollTop==max?15:t)};setTimeout(myMove,t)};popUpScroll('js-popup-content',44,3000);popUpClose()};popUp();</script>
+<!-- /etc/popup.min.shtml End -->
+<script src="/js/jquery-3.4.1.min.js"></script>
+<script src="//static.mediav.com/js/feed_ts.js"></script>
+<script src="/js/jquery.SuperSlide.2.1.3.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
+<script src="/js/adsTrack.js"></script>
+<script src="/js/main.js"></script>
+<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?32c165b28d1e38af0eb802eb8f8a0ab5";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm, s);})();</script>
+<div style="display:none;"><script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1279051109&web_id=1279051109"></script></div>
+<!-- /etc/publicfooter.shtml End -->
+<!-- /freetimeshow/index.html #13003867 闲置弹出Start -->
+<style>.free-time{position:fixed;z-index:999;left:0;top:0;width:100%;height:100%;background-color:rgba(0,0,0,.7);display:none;}.free-time ul,.free-time li{margin:0;padding:0;list-style:none;list-style-image:none;}.free-time.show{display:block;}.freetime-con{position:absolute;left:50%;top:50%;width:742px;height:500px;margin-left:-366px;margin-top:-250px;border-radius:10px;background-color:#fff;zoom:1;overflow:hidden;box-shadow:0 0 20px 2px #e9e9e9;}.freetime-con:after{content:".";display:block;height:0;clear:both;visibility:hidden;}.freetime-header{background-color:#af080f;color:#fff;height:40px;line-height:40px;font-size:16px;text-align:center;}.freetime-close{position:absolute;width:20px;height:20px;line-height:20px;right:10px;top:10px;background-color:rgba(255,255,255,.5);border-radius:50%;text-align:center;color:#fff;cursor:pointer;}.freetime-body{width:720px;height:450px;margin:0 auto;overflow:hidden;overflow-y:scroll;}.freetime-news-list{position:relative;}.freetime-news-list li{position:relative;padding:6px 0;border-bottom:solid 1px #ccc;overflow:hidden;}.freetime-news-list li a.f-href{display:block;height:100px;padding:4px;}.freetime-news-list li img.f-img{display:block;float:left;width:180px;height:100px;margin-right:10px;}.freetime-news-list li span.f-txt{font-size:20px;line-height:24px;font-weight:bold;color:#333;}.freetime-news-list li.media-item{height:auto;}.freetime-news-list li.focal span.f-txt{color:#333;}</style>
+<div class="free-time" id="js-free-time-show">
+    <div class="freetime-con" id="js-freetime-con">
+        <div class="freetime-close" id="js-freetime-close">X</div>
+        <div class="freetime-header">本网页已闲置超过1分钟，点击关闭或空白处，即可回到网页</div>
+        <div class="freetime-body" id="js-freetime-body">
+            <ul class="freetime-news-list" id="js-freetime-news">
+                 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210416/39486360.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210416/6d808ac2-03a4-4a66-a984-7102fa6738ad.jpg" class="f-img" alt=""><span class="f-txt">北京一变电室起火浓烟滚滚 35辆消防车出动</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210410/39465289.html" class="f-href" target="_blank"><img data-photo="https://img2.utuku.imgcdc.com/180x100/news/20210410/26d0c4d8-2fbb-4ac8-91f5-d8cf9fdcc2a2.jpg" class="f-img" alt=""><span class="f-txt">阿里巴巴回应被罚：诚恳接受，坚决服从</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210409/39463408.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/news/20210409/91fd8121-7bd3-4768-b7d8-e99de538a14f.jpg" class="f-img" alt=""><span class="f-txt">女毕业生实名举报老师性骚扰，佛山警方已介入调查</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210314/39377652.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210314/bd5e1d7f-8348-4f8f-bafa-5de1fa13df8f.jpg" class="f-img" alt=""><span class="f-txt">女子接受全麻隆胸手术 术后20天不到查出自己怀孕</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210313/39376648.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210313/655fe3df-f826-43e3-8166-d0296367c3f6.png" class="f-img" alt=""><span class="f-txt">长沙一夜宵店取名“无饿不坐”，执法人员上门了</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/junshi/redian8/13003385/20210424/39509700.html" class="f-href" target="_blank"><img data-photo="https://junshi-pic.china.com/handcover/202104/24/1619225338_86488400.jpg" class="f-img" alt=""><span class="f-txt">关键时刻！中国向印度发出最友善的信号！</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509484.html" class="f-href" target="_blank"><img data-photo="https://img2.utuku.imgcdc.com/180x100/news/20210424/401755d4-386c-48cf-af2a-25b44fd2b1d9.png" class="f-img" alt=""><span class="f-txt">蒙古国首次发现变异新冠病毒感染病例</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509473.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/news/20210424/66e6c34f-e3d0-4c07-b5cc-07ecc789cd1f.jpg" class="f-img" alt=""><span class="f-txt">拜登上任以来首次与土耳其总统通电话 将于6月会面</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509467.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/news/20210424/fc775638-1703-4174-be0b-a8715f0ce97e.jpg" class="f-img" alt=""><span class="f-txt">德国将印度列为疫情高风险地区</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509456.html" class="f-href" target="_blank"><img data-photo="https://img2.utuku.imgcdc.com/180x100/news/20210424/411f100b-5ca8-4b09-9567-2fa48b9ed1a3.jpg" class="f-img" alt=""><span class="f-txt">日本政府再次宣布东京等地进入紧急状态</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509426.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/news/20210424/24b7a67d-3dc6-42cc-a73f-75b2ba2383ea.png" class="f-img" alt=""><span class="f-txt">德国奥委会：德国体育界正遭受数十亿欧元的损失</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509413.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/1423a822-1818-4178-8bb1-d8ffe92b7448.png" class="f-img" alt=""><span class="f-txt">俄罗斯提议近期举行乌克兰问题多方会谈</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509407.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210424/1c50e0cb-5aee-431c-966c-5c16c080f96c.jpg" class="f-img" alt=""><span class="f-txt">王毅：美方应尊重中国为落实好&quot;一国两制&quot;所做努力</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509401.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/af25605a-6416-42cb-b222-7ac408d7fb22.jpg" class="f-img" alt=""><span class="f-txt">王毅：中国历史智慧是&quot;国霸必衰&quot; 不是&quot;国强必霸&quot;</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509395.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/73210e48-adc2-4355-8792-a152ba3eb617.jpg" class="f-img" alt=""><span class="f-txt">王毅：民主不是可口可乐，全世界一个味道</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509389.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210424/5edfb1c6-452f-4001-9971-813574f20bd8.jpg" class="f-img" alt=""><span class="f-txt">王毅就如何从战略层面看待中美关系对美提五点希望</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509383.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/d37c9abf-f93a-450d-8591-a822ef053598.jpg" class="f-img" alt=""><span class="f-txt">提出&quot;全面对抗中国法案&quot; 这些美国议员想干什么？</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509377.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210424/9308dfba-4fa5-4d70-a311-10e01880ace6.jpg" class="f-img" alt=""><span class="f-txt">王毅：希望美国践行真正的多边主义</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509371.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/39b2c390-93ed-4a97-938b-079813debd17.png" class="f-img" alt=""><span class="f-txt">聚焦热点话题 中亚五国与美国&quot;C5+1&quot;会晤在线举行</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509365.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210424/d772cca6-8e48-4e86-8a98-7d6c61b9676f.jpg" class="f-img" alt=""><span class="f-txt">王毅：中国从来不搞胁迫，也反对其他国家搞胁迫</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509359.html" class="f-href" target="_blank"><img data-photo="https://img3.utuku.imgcdc.com/180x100/news/20210424/7a18c053-bf04-4026-8c24-243a44a51c2d.jpg" class="f-img" alt=""><span class="f-txt">希腊一家养老院被指虐待老人 一年内死亡68人</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509353.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/news/20210424/41b6d838-4044-474f-bf10-909b916a8344.jpg" class="f-img" alt=""><span class="f-txt">王毅：打“台湾牌”是在“玩火”</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509179.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/news/20210424/5a7a8db5-2552-43fa-9622-24d88a8470f2.png" class="f-img" alt=""><span class="f-txt">常被用于贩毒活动 沙特将禁止黎巴嫩水果蔬菜入境</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210424/39509171.html" class="f-href" target="_blank"><img data-photo="https://img2.utuku.imgcdc.com/180x100/news/20210424/ab1f721f-946f-44a9-b937-acad6fe37b07.jpg" class="f-img" alt=""><span class="f-txt">白宫：拜登将于6月访问英国和比利时</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/tuijian/13003388/20210424/39509006.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/toutiao/20210423/56dca84b-1ec2-4165-80e1-29b0ace3e0a1.jpg" class="f-img" alt=""><span class="f-txt">“只要您喜欢，我都能满足”空姐自愿被潜？官方发声</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/tuijian/13003388/20210423/39509144.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/toutiao/20210423/4fdf6005-8cc2-46e2-aee6-57f96f0dfe58.jpg" class="f-img" alt=""><span class="f-txt">年薪百万之后 她嫁不出去了</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/redian/hot/13003369/20210423/39509142.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/toutiao/20210423/4661afa1-e158-43d1-be7b-7001266acb63.jpg" class="f-img" alt=""><span class="f-txt">台军宣称以＂最严苛＂状况模拟＂共军犯台＂ 台网友回复</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/redian/hot/13003369/20210423/39509143.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/toutiao/20210423/382708f8-7256-41a8-b0ea-e165ff6d3da4.jpg" class="f-img" alt=""><span class="f-txt">《纽约时报》说漏嘴 攻击新疆先进产业的隐藏势力现身</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/shehui/redian1/13003370/20210423/39509137.html" class="f-href" target="_blank"><img data-photo="https://img1.utuku.imgcdc.com/180x100/toutiao/20210423/4046b7a5-c3d6-4851-9c77-3e78d0569543.jpg" class="f-img" alt=""><span class="f-txt">字节跳动：公司暂不具备上市条件 目前无上市计划</span></a></li>
+                
+ 
+                <li class="freetime-news"><a href="https://mini.china.com/redian/hot/13003369/20210423/39509141.html" class="f-href" target="_blank"><img data-photo="https://img0.utuku.imgcdc.com/180x100/toutiao/20210423/48976898-be58-4766-b7b0-115a382e574a.jpg" class="f-img" alt=""><span class="f-txt">意外！美军“翘脚”观辽宁舰入选中国海军官方图集</span></a></li>
+                
+
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+function freeTime(t){var item=$('#js-free-time-show');var scroller=$('#js-freetime-body');if(!(item.length>0))return false;var imglist = $('#js-freetime-news img[data-photo]');var d=$(document);var spacingTime=t||120000;var iTimer=null;var step=0;var fs=true;var mediaNum=0;var showMore=true;var lastMedia;var scriptItem;var bdMedia={'url':['/production/e/production/zy/f-wiva/resource/r.js','/common/av/ue/source/edb_k_n.js','/production/bwvf/common/f_e_c_ls.js','/common/cxw/resource/g/gf/common/dm/source/u.js','/production/dyx/source/hh_g/resource/enx.js','/site/ezy/ii/static/hf/common/o-a.js','/production/fazj/static/ji-g/pc.js'],'id':['']};var bdUrl='//bd1-china.xsfaya.com';var isBdMedia=true;var createScriptTag=function(e,t,a){var s=document.getElementsByTagName('head')[0],i=document.createElement('script');i.setAttribute('type','text/javascript'),i.setAttribute('src',e);a?a.appendChild(i):s.appendChild(i);var n=function(i){'function'==typeof t&&t(i)};document.all?i.onreadystatechange=function(){'loaded'!==i.readyState&&'complete'!==i.readyState||n()}:i.onload=function(){n(i)}};var removeScriptTag=function(scr){if(scr.clearAttributes){scr.clearAttributes()}else{for(var attr in scr){if(scr.hasOwnProperty(attr)){delete scr[attr]}}}if(scr&&scr.parentNode){scr.parentNode.removeChild(scr)}scr=null};var renderMedia=function(id){NEWS_FEED({w:670,placeholderId:id,showid:'LdawJR',inject:'cads',useCapture:true})};var getHtmlDocName=function(url){var str=url;str=str.substring(str.lastIndexOf('?')+1);str=str.replace('=','');return str};var scrollHandler=function(id){var _t=lastMedia.position().top,_s=scroller.scrollTop();if(_t>_s&&_t<_s+scroller.height()&&showMore){showMore=false;addFlow()}};var addFlow=function(){var container=$('#js-freetime-news'),citem=container.find('.freetime-news'),citemLength=citem.length,itemNum=4;if(isBdMedia){for(var i=0;i<itemNum&&mediaNum<citemLength/*&&mediaNum<bdMedia.url.length*/;i++){var adUrl=bdUrl+bdMedia.url[mediaNum%bdMedia.url.length];var adDoms='<li class="media-item" id="media-feed-st'+mediaNum+'"></li>';citem.eq(mediaNum+step).before(adDoms);createScriptTag(adUrl,function(){},$('#media-feed-st'+mediaNum)[0]);var _url = imglist.eq(mediaNum).attr('data-photo');imglist.eq(mediaNum).attr('src',_url);mediaNum++}}else{for(var i=0;i<itemNum&&mediaNum<citemLength;i++){var adDoms='<li class="media-item" id="media-feed-st'+mediaNum+'"></li>';citem.eq(mediaNum+step).before(adDoms);renderMedia('media-feed-st'+mediaNum);var _url = imglist.eq(mediaNum).attr('data-photo');imglist.eq(mediaNum).attr('src',_url);mediaNum++}}lastMedia=$('#media-feed-st'+(mediaNum-1));showMore=mediaNum<citemLength?true:false};var wakeUp=function(){clearTimeout(iTimer);iTimer=setTimeout(function(){item.addClass('show');if(fs){fs=false;mediaNum=0;if(isBdMedia){addFlow()}else{createScriptTag('//static.mediav.com/js/feed_ts.js',function(scr){scriptItem=scr;addFlow()},item[0])}scroller.scroll(scrollHandler);}},spacingTime)};var closeShow=function(){fs=true;scroller.off('scroll',scrollHandler);$('#js-freetime-body').scrollTop(0);item.removeClass('show');$('.media-item').remove();if(isBdMedia){}else{isBdMedia=true;removeScriptTag(scriptItem)}wakeUp()};d.on('mousemove keyup touchstart mousewheel',wakeUp);$('#js-freetime-con').on('click',function(event){event.stopPropagation()});$('#js-freetime-close').on('click',function(){closeShow()});item.on('click',function(){closeShow()});wakeUp();};$(function(){freeTime(60000)});
+</script>
+<!-- /freetimeshow/index.html #13003867 闲置弹出End -->
+<script src="//www.china.com/zh_cn/plugin/gif.min.v1.js"></script>
+<!-- #3801 Start -->
+<style>
+    .media-fixed-bottom{position:fixed;bottom:0;right:0;z-index:3;}
+    .media-fixed-bottom .close{position:absolute;z-index:1;right:0;top:0;width:36px;height:18px;line-height:18px;background-color:#999;color:#fff;font-size:12px;text-align:center;cursor:pointer;}
+    .media-fixed-bottom .feed__wrapper{background-color:#fff;border:solid 1px #ccc;}
+    .media-fixed-bottom .feed__item{}
+    .media-fixed-bottom .largeImage,.media-fixed-bottom .multiImage,.media-fixed-bottom .singleImage{overflow:hidden;width:396px;}
+    .media-fixed-bottom .largeImage a,.media-fixed-bottom .multiImage a,.media-fixed-bottom .singleImage a{display:block;}
+    .media-fixed-bottom .largeImage .largeImage__title,.media-fixed-bottom .multiImage .multiImage__title,.media-fixed-bottom .singleImage .singleImage__title{display:block;font-size:18px;font-weight:bold;height:42px;line-height:42px;overflow:hidden;}
+    .media-fixed-bottom .largeImage .largeImage__img,.media-fixed-bottom .multiImage .multiImage__imgs,.media-fixed-bottom .multiImage .multiImage__imgs .img__wrapper,.media-fixed-bottom .singleImage .singleImage__img{width:396px;height:165px;border-radius:0px;background-size:100% 100%;position:relative;background-repeat:no-repeat;}
+    .media-fixed-bottom .largeImage .largeImage__img .img,.media-fixed-bottom .multiImage .multiImage__imgs .img__wrapper .img,.media-fixed-bottom .singleImage .singleImage__img .img{width:396px;height:165px;background-size:100% 100%;background-repeat:no-repeat;background-position:50% 50%;}
+    .media-fixed-bottom .largeImage .largeImage__img .adTag,.media-fixed-bottom .multiImage .multiImage__desc .adMark,.media-fixed-bottom .singleImage .singleImage__img .adTag{position:absolute;right:0;bottom:0;width:30px;height:20px;line-height:20px;text-align:center;font-size:12px;background-color:rgba(0,0,0,.3);color:#fff;}
+    #js-media-fixedqh .largeImage .largeImage__desc,#js-media-fixedqh .multiImage .multiImage__src,#js-media-fixedqh .singleImage .singleImage__desc{display:none;}
+    .media-fixed-bottom .singleImage .singleImage__img{margin-top:42px;}
+    .media-fixed-bottom .singleImage .singleImage__title{position:absolute;top:0;left:0;}
+    /*.media-fixed-bottom .largeImage i{position:absolute;right:0;bottom:0;z-index:1;background:rgba(102,102,102,.6);background-image:url(./img/ad_icon.png);background-repeat:no-repeat;background-position:center;background-size:auto 8px;height:12px;width:24px;overflow:hidden;text-indent:-200px;}*/
+</style>
+<div class="media-fixed-bottom" id="js-media-fixed">
+    <div class="close" id="js-media-fixed-close">关闭</div>
+    <div id="js-media-fixedqh"></div>
+    <!-- 广告位：mini内页通发流媒体 -->
+    <script>
+    (function(){
+        var _thisurl = window.location.href;
+        if(_thisurl.indexOf('sgqq')<0)return false;
+        var s = '_' + Math.random().toString(36).slice(2);
+        document.write('<div id="' + s + '"></div>');
+        (window.slotbydup=window.slotbydup || []).push({
+            id: '7153082',
+            container: s,
+            size: '336,280',
+            display: 'inlay-fix'
+        });
+        var _close = document.getElementById('js-media-fixed-close');
+        _close.addEventListener('click',closeFn,false); 
+        function closeFn(){this.parentNode.style.display='none';}
+    })();
+    </script>
+</div>
+<!-- #3801 End -->
+<!-- /etc/endpage/ep_footer.shtml End -->
+    <script type="text/JavaScript" src="https://rankhit.china.com//news?to=ad&t=0&id=39509401&tid=13003370&cid=11053&en=mini&mdt=1619206033"></script>
+</body>
+</html>

@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta
+	content="兴业银行,直销银行,兴业宝,理财产品,理财,黄金,年报，重要公告，精彩e生活，兴业动态，兴业e卡，网上个人银行，网上企业银行，信用卡，手机银行，房产评估，零售业务，自助银行，个人金融信息，自然人生家庭理财卡，银银平台，财智星，单证通，国际结算，国际贸易融资，票据业务，第三方存管，电子银行，集团结算中心，手机钱包，证书使用指南，网盾，精灵卫士，财经资讯，股票，外汇，债券，保险，贵金属投资，股指期货，网上商城，机票，酒店，保险，充值"
+	name="keywords" />
+<meta
+	content="兴业银行成立于1988年8月，是经国务院、中国人民银行批准成立的首批股份制商业银行之一，总行设在福建省福州市，2007年2月5日正式在上海证券交易所挂牌上市（股票代码：601166），注册资本50亿元"
+	name="description" />
+<link href="/resources/css/2015/licaipage.css" type="text/css" rel="stylesheet">
+<!--[if IE 6.0]>
+	<link href="/resources/css/2015/ie.css" type="text/css" rel="stylesheet">
+	<style>
+        a {
+            blr: expression(this.onFocus=this.blur());
+        }
+    </style>
+<![endif]-->
+<script src="/resources/js/2015/jquery.min.js" type="text/javascript"></script>
+<script src="/resources/js/2015/util.js" type="text/javascript"></script><title>兴业银行欢迎您</title>
+<script src="/resources/js/2015/CibWealthBaidu.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="header">
+   <!-- 顶部导航菜单由js脚本填入 -->
+</div>
+<script src="/WealthHeader.js" type="text/javascript" deffer=true></script><div id="wrapper">
+	<div id="content">
+    <div class="left-menu" id="leftmenu">       
+</div>
+<script src="/retail/leftmenu.js" type="text/javascript" deffer=true></script>
+	<div class="detail-box">
+        <div class="top">
+            <p>当前位置：<a href="/">理财产品信息</a>&nbsp;&gt;&gt;<a href="/retail/">零售理财</a>&nbsp;&gt;&gt;<a href="/retail/onsale/">发售产品信息</a>
+</p>
+        </div>
+        <div class="middle">
+			<h1>现金宝</h1><p align="center"><strong>发售现金宝系列理财产品简介</strong></p>
+<p><strong>现金宝交易时间为：<span style="color:#F00">工作日7:30~15:45（其中添利1号、添利3号为9:00~15:45）</span>。</strong></p>
+<p>网银购买理财产品限于最近一年已在本行柜面进行了风险评估的客户。</p>
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="1">
+    <tbody>
+        <tr bgcolor="#d0e0ff">
+            <td align="center">产品名称</td>
+            <td align="center">销售地区</td>
+            <td align="center">币种</td>
+            <td align="center">期限（天）</td>
+            <td align="center">产品类型</td>
+            <td align="center">起购金额（元）</td>
+            <td align="center">客户年化参考净收益率</td>
+            <td align="center">网银操作</td>
+            <td align="center">是否支持转让</td>
+        </tr>
+        <tr>
+    <td>现金宝·添利1号净值型理财产品 </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益率波动 </td>
+    <td>净值型 </td>
+    <td>1万 </td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><strong><img width="93" height="93" alt="20160428" src="/images/onsale/90318011.jpg" /> <br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></strong></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>添利3号净值型理财产品（简称：添利日日生金） </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益率波动 </td>
+    <td>净值型 </td>
+    <td>1</td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><strong><img width="93" height="93" alt="20160428" src="/images/onsale/91318012.jpg" /> <br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></strong></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>添利3号净值型理财产品（简称：添利日日生金（代发/平台专属）） </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益率波动 </td>
+    <td>净值型 </td>
+    <td>1</td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><strong><img width="93" height="93" alt="20160428" src="/images/onsale/91318013.jpg" /> <br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></strong></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>添利3号净值型理财产品（简称：添利私享） </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益率波动 </td>
+    <td>净值型 </td>
+    <td>1</td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><strong><img width="93" height="93" alt="20160428" src="/images/onsale/91318016.jpg" /> <br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></strong></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>现金宝1号理财产品 </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益率波动 </td>
+    <td>非保本浮动收益 </td>
+    <td>1万 </td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><img width="93" height="93" alt="20160428" src="/images/onsale/07010011.jpg" /><br />
+    <a target="_blank" href="http://directbank.cib.com.cn/hall/show/home/home!submitPayment.do?payProdType=1&amp;payProdCode=07010011&amp;areaId=00">购买</a></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>现金宝3号理财产品 </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益递进 </td>
+    <td>非保本浮动收益 </td>
+    <td>1万 </td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><img width="93" height="93" alt="20160428" src="/images/onsale/90612011.jpg" /><br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></td>
+    <td>否 </td>
+  </tr>
+  <tr>
+    <td>现金宝4号私人银行类理财产品 </td>
+    <td>全国 </td>
+    <td>人民币 </td>
+    <td>每日申赎，收益递进 </td>
+    <td>非保本浮动收益 </td>
+    <td>30万 </td>
+    <td>以我行网站刊登的参考收益率公告为准 </td>
+    <td align="center"><img width="93" height="93" alt="20160428" src="/images/onsale/84212041.jpg" /><br />
+    <a href="https://personalbank.cib.com.cn/pers/main/login.do" target="_blank">购买</a></td>
+    <td>否 </td>
+        </tr>
+    </tbody>
+</table><a id="to-top" class="to-top" href="#header">回到顶部</a>
+        </div>
+    </div>
+	</div>
+    
+<div id="footer">
+	<!-- 页脚由js脚本填入 -->
+</div>
+<script src="/WealthFooter.js" type="text/javascript" deffer=true></script></div>
+</body>
+</html>

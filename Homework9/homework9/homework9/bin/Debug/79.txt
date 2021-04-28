@@ -1,0 +1,825 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+    <link rel="stylesheet" href="https://img.gaodun.cn/swiper-4.5.0/css/swiper.min.css" />
+    <link rel="stylesheet" href="/public_static/css/css.css">
+    <script type="text/javascript" src="https://img.gaodun.cn/js/jquery-1.9.0.js"></script>
+    <script type="text/javascript" src="https://img.gaodun.cn/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/public_static/js/index.js"></script>
+    <script src="/public_static/js/7d52ef6515f047bf83f4656e709ef457.js"></script>
+    <script src="/public_static/js/index3.js"></script>
+    <script type="text/javascript" src="https://img.gaodun.cn/swiper-4.5.0/js/swiper.min.js"></script>
+    <link rel="stylesheet" href="/public_static/css/pagination.css">
+    <script type="text/javascript" src="/public_static/js/jquery.pagination.js"></script>
+
+    <title>国家公务员考试准考证打印时间-怎么打印-国考准考证打印入口-上岸鸭公考</title>
+    <meta name="description" content="上岸鸭公考国家公务员准考证打印专栏，提供国家公务员考试准考证打印时间及打印入口，国考准考证如何打印，国考准考证打印注意事项等相关内容。" />
+    <meta name="keywords" content="公务员准考证怎么打印,国考准考证打印入口,国考准考证打印时间,公务员准考证号" />
+</head>
+
+
+
+
+
+<script type="text/javascript" charset="UTF-8" src="//scripts.easyliao.com/30103/48903.js"></script>
+
+<script language="javascript" src="//scripts.easyliao.com/js/easyliao.js"></script>
+
+<script >
+    $(function () {
+        $(".click_kefu").click(function () {
+            openJesongChatByGroup(30103,30935);
+        })
+    })
+</script>
+
+<header>
+    
+<div class="header" id="topNav">
+    <ul>
+        <li style="position: relative;" class="webnav">
+            <a href="#" id="network">网络导航</a>
+            <div class="dropDiv" id="findCont" style="display: none; opacity: 0;">
+                <div id="courseList">
+                    <div id="prosub">
+                        <!--选课中心-->
+                        <div class="gfl1">
+                            <div class="navbody1">
+                                <a class="a1" target="_blank" href="/gjgwy">国家公务员</a><a class="a2" href="/gjgwy/ksgg/" target="_blank">考试公告<span class="hot"></span></a><a class="a2" href="/gjgwy/ksdg/" target="_blank">考试大纲<span class="hot"></span></a><a class="a2" href="/gjgwy/zwb/" target="_blank">职位表<span class="hot"></span></a><a class="a2" href="/gjgwy/kssj/" target="_blank">考试时间<span class="hot"></span></a><a class="a2" href="/gjgwy/bmrk/" target="_blank">报名入口<span class="hot"></span></a><a class="a2" href="/gjgwy/bkzd/" target="_blank">报考指导<span class="hot">HOT</span></a><a class="a2" href="/gjgwy/bmrs/" target="_blank">报名人数<span class="hot"></span></a><a class="a2" href="/gjgwy/jfqr/" target="_blank">缴费确认<span class="hot"></span></a><a class="a2" href="/gjgwy/zkzdy/" target="_blank">准考证打印<span class="hot"></span></a>
+
+                            </div>
+                        </div>
+                        <div class="gfl1">
+                            <div class="navbody1">
+                                <a class="a1" target="_blank" href="/dfgwy">地方公务员</a><a class="a2" href="/dfgwy/ksgg/" target="_blank">考试公告<span class="hot"></span></a><a class="a2" href="/dfgwy/zwb/" target="_blank">职位表<span class="hot"></span></a><a class="a2" href="/dfgwy/kssj/" target="_blank">考试时间<span class="hot"></span></a><a class="a2" href="/dfgwy/msxx/" target="_blank">面试信息<span class="hot"></span></a><a class="a2" href="/dfgwy/fsx/" target="_blank">分数线<span class="hot"></span></a>
+                                <a class="a2" href="/dfgwy/bmrk/" target="_blank">报名入口<span class="hot"></span></a><a class="a2" href="/dfgwy/kszd/" target="_blank">考试指导<span class="hot"></span></a><a class="a2" href="/dfgwy/bmrs/" target="_blank">报名人数<span class="hot">HOT</span></a>
+                            </div>
+                        </div>
+                        <div class="gfl1">
+                            <div class="navbody1">
+                                <a class="a1" target="_blank" href="/sydw">事业单位</a><a class="a2" href="/sydw/zpxx/" target="_blank">招聘信息<span class="hot"></span></a><a class="a2" href="/sydw/bmrk/" target="_blank">报名入口<span class="hot"></span></a><a class="a2" href="/sydw/bstz/" target="_blank">笔试通知<span class="hot"></span></a><a class="a2" href="/sydw/cjcx/" target="_blank">成绩查询<span class="hot"></span></a><a class="a2" href="/sydw/bkzn/" target="_blank">报考指南<span class="hot"></span></a><a class="a2" href="/sydw/ksdg/" target="_blank">考试大纲<span class="hot"></span></a><a class="a2" href="/sydw/kszx/" target="_blank">考试资讯<span class="hot"></span></a><a class="a2" href="/sydw/bkzn/" target="_blank">报考指南<span class="hot">HOT</span></a>
+                            </div>
+                        </div>
+                        <div class="gfl1">
+                            <div class="navbody1">
+                                <a class="a1" target="_blank" href="/jszg">教师资格</a><a class="a2" href="/jszg/ksgg/" target="_blank">考试公告<span class="hot"></span></a><a class="a2" href="/jszg/ksdt/" target="_blank">考试动态<span class="hot"></span></a><a class="a2" href="/jszg/bmrk/" target="_blank">报名入口<span class="hot"></span></a><a class="a2" href="/jszg/pthzx/" target="_blank">普通话资讯<span class="hot"></span></a><a class="a2" href="/jszg/zslq/" target="_blank">证书领取<span class="hot"></span></a><a class="a2" href="/jszg/zgrd/" target="_blank">资格认定<span class="hot"></span></a><a class="a2" href="/jszg/zkzdy/" target="_blank">准考证打印<span class="hot"></span></a><a class="a2" href="/jszg/cjcx/" target="_blank">成绩查询<span class="hot">HOT</span></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="downCls">
+                        <a href="javascript:void(0)">直播</a>
+                        <a href="javascript:void(0)">题库</a>
+                        <a href="javascript:void(0)">公开课</a>
+                        <a href="javascript:void(0)">应用下载</a>
+                    </div>
+                </div>
+                <!--<a href="/Course/" class="moreCls">查看全部课程</a>-->
+            </div>
+        </li>
+        <li>
+            <a href="https://v.gaodun.com/gwy" target="_blank">热门好课</a>
+        </li>
+        <li>
+            <a href="https://jinshuju.net/f/dwd8an?x_field_1=gwywy" target="_blank">备考资料</a>
+        </li>
+        <li>
+            <a href="#">名师直播</a>
+        </li>
+        <li>
+            <a target="_blank" href="/about">关于我们</a>
+        </li>
+        <li>
+            <a href="#">小程序</a>
+        </li>
+        <div class="clear"></div>
+    </ul>
+
+    <div class="phone">
+        <img src="/public_static/image/phone.png" alt="">
+        <span>400-600-8011</span>
+    </div>
+
+    <div class="icon">
+        <a href="tencent://message/?uin=49047764&Site=&Menu-=yes"><img src="/public_static/image/qq.png" alt=""></a>
+        <img src="/public_static/image/weixin.png" alt="" class="_weixin">
+        <img src="/public_static/image/weibo.png" alt="" class="_weibo">
+        <img src="/public_static/image/weixinCode.png" alt="" class="weixinCode">
+        <img src="/public_static/image/weiboCode.png" alt="" class="weiboCode">
+    </div>
+    <div class="clear"></div>
+</div></header>
+
+<div class="top">
+    <div class="top_content">
+        <a target="_blank" href="/"><img src="/public_static/image/logo.jpg" alt="上岸鸭公考"></a>
+        <ul>
+            <li>
+                <a href="/gjgwy">国家公务员</a>
+            </li>
+           
+            <div class="clear"></div>
+        </ul>
+        <div class="run g_run">
+            <span class="notice-title">热</span>
+            <div class="notice-content">
+                <div class="notice-text" >
+                    <span><a target="_blank" href="/gjgwy/31.html" >2021年国考公告</a></span>
+<span><a target="_blank" href="/gjgwy/982.html" >职位表怎么下载</a></span>
+<span><a target="_blank" href="/gjgwy/3220.html" >国考成绩查询</a></span>
+<span><a target="_blank" href="/gjgwy/3371.html" >国考分数线</a></span>
+<span><a target="_blank" href="/gjgwy/3248.html" >国考调剂</a></span>
+</div>
+
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <a href="" class="line click_kefu">在线咨询</a>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="content">
+
+
+<div class="nav">
+    <ul>
+        <li>
+            <a target="_blank" href="/gjgwy/ksgg/">考试公告</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/zwb/">职位表</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/bmrk/">报名入口</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/bkzd/">报考指导</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/cjcx/">成绩查询</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/fsx/">分数线</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/msxx/">面试信息</a>
+        </li>
+        <li>
+            <a target="_blank" href="/gjgwy/tjgw/">调剂岗位</a>
+        </li>
+        <div class="clear"></div>
+    </ul>
+</div>
+
+
+<div class="postion">
+    <span>您现在的位置：</span>
+    <div>
+        <a target="_blank" href="/">首页 ></a>
+                <a target="_blank" href="/gjgwy">国家公务员></a>
+                <a target="_blank" href="/gjgwy/ksxx">考试信息></a>
+                <a target="_blank" href="/gjgwy/zkzdy">准考证打印></a>
+                    </div>
+     <div class="clear"></div>
+</div>
+
+
+<div class="g_detail">
+    <div class="guokao side-load" data-id="61">
+
+               <div class="gk">
+            <p>国考公务员</p>
+            <ul>
+                <li>
+                    <a target="_blank" href="/gjgwy/ksgg">国考公告</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/gjgwy/ksdg">考试大纲</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/gjgwy/zwb">职位表</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/gjgwy/kssj">考试时间</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/gjgwy/bmrk">报名入口</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/gjgwy/zwzn">职位职能</a>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+        <div class="gk">
+            <p>地方公务员</p>
+            <ul>
+                <li>
+                    <a target="_blank" href="/dfgwy/ksgg">考试公告</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/dfgwy/zwb">职位表</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/dfgwy/kssj">考试时间</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/dfgwy/bmrs">报名人数</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/dfgwy/cjcx">成绩查询</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/dfgwy/fsx">分数线</a>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+        <div class="gk">
+            <p>教师资格</p>
+            <ul>
+                <li>
+                    <a target="_blank" href="/jszg/bktj">报考条件</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/jszg/zkzdy">准考证打印</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/jszg/cjcx">成绩查询</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/jszg/zslq">证书领取</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/jszg/kszc">考试政策</a>
+                </li>
+                <li>
+                    <a target="_blank" href="/jszg/pthzx">普通话资讯</a>
+                </li>
+                <div class="clear"></div>
+            </ul>
+        </div>
+       
+          
+    </div>
+    <div class="detail">
+           <div class="recommed">
+               <img src="/public_static/image/recommed.jpg">
+               <ul>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/8.html">2021国考准考证打印入口</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/5.html">2021国考准考证打印方法</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/4.html">2021国考准考证号如何查询</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/3.html">2021年国家公务员考试准考证打印时间</a></li>
+                                  </ul>
+
+           </div>
+           <div class="detail_contents">
+           <div class="channel">
+               <p class="title2"> 国家公务员考试信息</p>
+               <ul>
+                   <li>全部信息</li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/ksgg"> 考试公告</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/ksdg"> 考试大纲</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/zwb"> 职位表</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/kssj"> 考试时间</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/bmrk"> 报名入口</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/bkzd"> 报考指导</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/bmrs"> 报名人数</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/jfqr"> 缴费确认</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/zkzdy"> 准考证打印</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/lygg"> 录用公告</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/cjcx"> 成绩查询</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/msxx"> 面试信息</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/tjtc"> 体检体测</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/kskx"> 考试快讯</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/kwap"> 考务安排</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/fsx"> 分数线</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/tjgw"> 调剂岗位</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/zgfs"> 资格复审</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/kszc"> 考试政策</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/bltz"> 补录通知</a></li>
+                                      <li><a class="auto_hideen" target="_blank" href="/gjgwy/zwzn"> 职位职能</a></li>
+                   
+      <div class="clear"></div>
+               </ul>
+           </div>
+
+
+               
+               <div class="newslist">
+
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/10623.html">2021国家公务员考试准考证打印须知</a>
+                       <span class="time">2020-11-23</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/118.html">2021国家公务员考试准考证打印（贵州）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/117.html">2021国家公务员考试准考证打印（云南）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/116.html">2021国家公务员考试准考证打印（重庆）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/114.html">2021国家公务员考试准考证打印（四川）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/112.html">2021国家公务员考试准考证打印（河南）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/111.html">2021国家公务员考试准考证打印（湖南）</a>
+                       <span class="time">2020-11-13</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/110.html">2021国家公务员考试准考证打印（湖北）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/108.html">2021国家公务员考试准考证打印（甘肃）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/107.html">2021国家公务员考试准考证打印（山西）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                   
+                   <div class="ad6">
+                       <img src="/public_static/image/ad.png">
+                   </div>
+
+                   
+               </div>
+
+
+
+               
+               <div class="newslist">
+
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/106.html">2021国家公务员考试准考证打印（河北）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/104.html">2021国家公务员考试准考证打印（天津）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/102.html">2021国家公务员考试准考证打印（海南）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/99.html">2021国家公务员考试准考证打印（广西）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/97.html">2021国家公务员考试准考证打印（广东）</a>
+                       <span class="time">2020-11-11</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/96.html">2021国家公务员考试准考证打印（福建）</a>
+                       <span class="time">2020-11-25</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/63.html">2021国家公务员考试准考证打印（吉林）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/50.html">2021国家公务员考试准考证打印（安徽）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/44.html">2021国家公务员考试准考证打印（浙江）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/42.html">2021国家公务员考试准考证打印（江苏）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                   
+                   <div class="ad6">
+                       <img src="/public_static/image/ad.png">
+                   </div>
+
+                   
+               </div>
+
+
+
+               
+               <div class="newslist">
+
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/40.html">2021国家公务员考试准考证打印（山东）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/38.html">2021国家公务员考试准考证打印（上海）</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/37.html">2021国家公务员报名确认及准考证打印咨询电话</a>
+                       <span class="time">2020-10-16</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/36.html">2021国家公务员考试准考证掉了怎么办</a>
+                       <span class="time">2020-11-17</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/35.html">2021国家公务员考试准考证打印（北京）</a>
+                       <span class="time">2020-11-16</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/23.html">2021国考准考证打印网址</a>
+                       <span class="time">2020-11-12</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/18.html">2021国家公务员考试打印准考证入口何时开通</a>
+                       <span class="time">2020-11-24</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/8.html">2021国考准考证打印入口</a>
+                       <span class="time">2020-11-20</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/5.html">2021国考准考证打印方法</a>
+                       <span class="time">2020-11-24</span>  <div class="clear"></div>
+                   </div>
+                                      <div class="news">
+                       <span class="channe">准考证打印</span>
+                       <a class="auto_hideen" target="_blank" href="/gjgwy/4.html">2021国考准考证号如何查询</a>
+                       <span class="time">2020-11-19</span>  <div class="clear"></div>
+                   </div>
+                   
+               </div>
+
+
+
+               
+
+           <div class="pages page2">
+               <div class="M-box"></div>
+           </div>
+
+        </div>
+
+
+    </div>
+<div class="detail_right">
+    <div class="zaixian">
+        <div class="top2">
+            <p>高顿上岸鸭公考</p>
+            <P>一切只为成功上岸</P>
+        </div>
+        <div class="erweima click_kefu">
+            <div class="weixin">
+                <img src="/public_static/image/weixin2.png">
+                <a>在线微信咨询</a>
+            </div>
+            <div class="qq">
+                <img src="/public_static/image/qq2.png">
+                <a>在线QQ咨询</a>
+            </div>
+                <div class="clear"></div>
+        </div>
+
+    </div>
+
+
+    <!--<div class="ad3">
+        <img src="/public_static/image/ad2.png">
+    </div>-->
+
+    <div class="right_hot">
+        <p class="hot">热门推荐</p>
+        <ul>
+            
+            <li>
+                <span>1</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/3554.html">2021国考面试公告、面试名单、面试时间信息汇总</a>
+            </li>
+            
+            <li>
+                <span>2</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/14114.html">2021国家公务员考试不限专业职位有哪些？</a>
+            </li>
+            
+            <li>
+                <span>3</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/14029.html">公务员考试申论热点：互联网+社会服务</a>
+            </li>
+            
+            <li>
+                <span>4</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13997.html">公务员考试申论热点：社会信用建设</a>
+            </li>
+            
+            <li>
+                <span>5</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13988.html">公务员考试申论热点：网络诚信建设</a>
+            </li>
+            
+            <li>
+                <span>6</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13985.html">公务员考试申论热点：在线教育发展与管理</a>
+            </li>
+            
+            <li>
+                <span>7</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13970.html">公务员考试申论热点：个人信息安全</a>
+            </li>
+            
+            <li>
+                <span>8</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13949.html">公务员考试报名还未毕业学历怎么填</a>
+            </li>
+            
+            <li>
+                <span>9</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13947.html">公务员报名信息填错怎么办</a>
+            </li>
+            
+            <li>
+                <span>10</span>
+                <a  target="_blank" class="auto_hideen"  href="/gjgwy/13946.html">公务员b类是什么职位</a>
+            </li>
+                    </ul>
+    </div>
+ <div class="ad4">
+        <img src="/public_static/image/ad2.png">
+    </div>
+
+</div>
+
+
+    <div class="clear"></div>
+</div>
+
+
+
+</div>
+<footer>
+
+    <div class="footer">
+    <div class="f_nav">
+        <span><a target="_blank" href="/gjgwy">国家公务员</a></span>
+        <ul>
+            <li><a target="_blank" href="/gjgwy/ksgg">考试公告</a></li>
+            <li><a target="_blank" href="/gjgwy/ksdg">考试大纲</a></li>
+            <li><a target="_blank" href="/gjgwy/zwb">职位表</a></li>
+            <li><a target="_blank" href="/gjgwy/kssj">考试时间</a></li>
+            <li><a target="_blank" href="/gjgwy/bmrk">报名入口</a></li>
+            <li><a target="_blank" href="/gjgwy/bkzd">报考指导</a></li>
+            <li><a target="_blank" href="/gjgwy/bmrs">报名人数</a></li>
+            <li><a target="_blank" href="/gjgwy/jfqr">缴费确认</a></li>
+            <li><a target="_blank" href="/gjgwy/zkzdy">准考证打印</a></li>
+            <li><a target="_blank" href="/gjgwy/kwap">考务安排</a></li>
+            <li><a target="_blank" href="/gjgwy/cjcx">成绩查询</a></li>
+            <li><a target="_blank" href="/gjgwy/fsx">分数线</a></li>
+            <li><a target="_blank" href="/gjgwy/msxx">面试信息</a></li>
+            <li><a target="_blank" href="/gjgwy/tjgw">调价岗位</a></li>
+            <li><a target="_blank" href="/gjgwy/zgfs">资格复审</a></li>
+            <li><a target="_blank" href="/gjgwy/tjtc">体检体测</a></li>
+            <li><a target="_blank" href="/gjgwy/lygg">录用公告</a></li>
+            <li><a target="_blank" href="/gjgwy/bltz">补录通知</a></li>
+            <li><a target="_blank" href="/gjgwy/kskx">考试快讯</a></li>
+            <li><a target="_blank" href="/gjgwy/kszc">考试政策</a></li>
+            <li><a target="_blank" href="/gjgwy/zwzn">职位职能</a></li>
+            <div class="clear"></div>
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="f_nav">
+        <span><a target="_blank" href="/dfgwy">地方公务员</a></span>
+        <ul>
+            <li><a target="_blank" href="/dfgwy/ksgg">考试公告</a></li>
+            <li><a target="_blank" href="/dfgwy/zwb">职位表</a></li>
+            <li><a target="_blank" href="/dfgwy/kssj">考试时间</a></li>
+            <li><a target="_blank" href="/dfgwy/bmrk">报名入口</a></li>
+            <li><a target="_blank" href="/dfgwy/kszd">考试指导</a></li>
+            <li><a target="_blank" href="/dfgwy/bmrs">报名人数</a></li>
+            <li><a target="_blank" href="/dfgwy/ksdg">考试大纲</a></li>
+            <li><a target="_blank" href="/dfgwy/tjtc">体检体测</a></li>
+            <li><a target="_blank" href="/dfgwy/cjcx">成绩查询</a></li>
+            <li><a target="_blank" href="/dfgwy/msxx">面试信息</a></li>
+            <li><a target="_blank" href="/dfgwy/kskx">考试快讯</a></li>
+            <li><a target="_blank" href="/dfgwy/zkzdy">准考证打印</a></li>
+            <li><a target="_blank" href="/dfgwy/fsx">分数线</a></li>
+            <li><a target="_blank" href="/dfgwy/tjzw">调剂职位</a></li>
+            <li><a target="_blank" href="/dfgwy/lygs">录用公示</a></li>
+            <li><a target="_blank" href="/dfgwy/zgfs">资格复审</a></li>
+            <li><a target="_blank" href="/dfgwy/jfqr">缴费确认</a></li>
+            <div class="clear"></div>
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+    <div class="f_nav">
+        <span><a target="_blank" href="/sydw">事业单位</a></span>
+        <ul>
+            <li><a target="_blank" href="/sydw/zpxx">招聘信息</a></li>
+            <li><a target="_blank" href="/sydw/bmrk">报名入口</a></li>
+            <li><a target="_blank" href="/sydw/cjcx">成绩查询</a></li>
+            <li><a target="_blank" href="/sydw/ksdg">考试大纲</a></li>
+            <li><a target="_blank" href="/sydw/kszx">考试资讯</a></li>
+            <li><a target="_blank" href="/sydw/bkzn">报考指南</a></li>
+            <li><a target="_blank" href="/sydw/zkzdy">准考证打印</a></li>
+            <li><a target="_blank" href="/sydw/bstz">笔试通知</a></li>
+            <li><a target="_blank" href="/sydw/mstz">面试通知</a></li>
+            <li><a target="_blank" href="/sydw/zgsc">资格审查</a></li>
+            <li><a target="_blank" href="/sydw/tjtc">体检体测</a></li>
+            <li><a target="_blank" href="/sydw/kcpy">考察聘用</a></li>
+            <li><a target="_blank" href="/sydw/xxhz">信息汇总</a></li>
+
+            <div class="clear"></div>
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+
+
+    <div class="f_nav">
+        <span><a target="_blank" href="/jszg">教师资格</a></span>
+        <ul>
+            <li><a target="_blank" href="/jszg/bktj">报考条件</a></li>
+            <li><a target="_blank" href="/jszg/ksgg">考试公告</a></li>
+            <li><a target="_blank" href="/jszg/ksdt">考试动态</a></li>
+            <li><a target="_blank" href="/jszg/kszc">考试政策</a></li>
+            <li><a target="_blank" href="/jszg/ksdg">考试大纲</a></li>
+            <li><a target="_blank" href="/jszg/bmrk">报名入口</a></li>
+            <li><a target="_blank" href="/jszg/zkzdy">准考证打印</a></li>
+            <li><a target="_blank" href="/jszg/cjcx">成绩查询</a></li>
+            <li><a target="_blank" href="/jszg/xgwt">相关问题</a></li>
+            <li><a target="_blank" href="/jszg/zslq">证书领取</a></li>
+            <li><a target="_blank" href="/jszg/msgg">面试公告</a></li>
+            <li><a target="_blank" href="/jszg/zgrd">资格认定</a></li>
+            <li><a target="_blank" href="/jszg/pthzx">普通话资讯</a></li>
+            <div class="clear"></div>
+
+        </ul>
+        <div class="clear"></div>
+    </div>
+</div>
+
+
+
+<div class="footer-center">
+    <div class="Findparent">
+        <div class="blogroll_click hoverclick">
+            <ul class="flex">
+                <li class=""><a href="###">友情链接</a></li>
+                <li class="active"><a href="###">集团分站</a></li>
+            </ul>
+        </div>
+        <div class="togparents">
+            <div class="hidenlink">
+                <div class="blogroll_links">
+                    <ul class="clearfix">
+                                                <li><a rel="nofollow" target="_blank" href="https://www.cfa.cn/">CFA</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.frm.cn/">FRM</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.51zsben.com/">专升本</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.gwy.com/">高顿上岸鸭公考</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://caikuai.eol.cn/">财会考试网</a></li>
+                                                <div class="clear"></div>
+                    </ul>
+                </div>
+            </div>
+            <div class="hidenlink active">
+                <div class="blogroll_links">
+                    <ul class="clearfix">
+                                                <li><a rel="nofollow" target="_blank" href="https://www.gwy.com/gjgwy/ksgg/">国家公务员考试公告</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.gwy.com/dfgwy/ksgg/">地方公务员考试公告</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.gwy.com/sydw/zpxx/">事业单位招聘信息</a></li>
+                                                <li><a rel="nofollow" target="_blank" href="https://www.gwy.com/jszg/ksgg/">教师资格考试公告</a></li>
+                                                <div class="clear"></div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="contact">
+        <div class="erweima">
+            <img src="/public_static/image/weixin.jpg" alt="">
+            <p>微信二维码</p>
+        </div>
+        <div class="erweima">
+            <img src="/public_static/image/douyin.jpg" alt="">
+            <p>抖音二维码</p>
+        </div>
+        <div class="erweima">
+            <img src="/public_static/image/weibo.jpg" alt="">
+            <p>微博二维码</p>
+        </div>
+        <div class="tel">
+            <p><img src="/public_static/image/dianhua.png" alt="">咨询电话：400-600-8011
+            </p>
+            <p><img src="/public_static/image/shouji.png" alt="">在线咨询：<a class="click_kefu">在线咨询</a></p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+
+
+
+    <div class="Copyright">
+        <p style="text-align: center;padding: 8px 0 0 0;color: #fff;font-size: 12px;">
+            <a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn" style="color: #fff">沪ICP备14038153号-44</a>&nbsp;&nbsp;
+            <a target="_blank" rel="nofollow"href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010902003140"style="color: #fff">沪公网安备 31010902003140号&nbsp;&nbsp;</a>
+        </p>
+        <p style="text-align: center;padding: 4px 0 0 0;color: #fff;font-size: 12px;">
+            Copyright © 2006-2021
+            <a target="_blank" href="/" style="color: #fff">公务员考试网,</a> All Rights Reserved. &nbsp;&nbsp;
+            <a target="cyxyv" rel="nofollow"href="https://v.yunaq.com/certificate?domain=www.gwy.com&from=label&code=90030">
+                <img src="https://aqyzmedia.yunaq.com/labels/label_sm_90030.png" style="width: 5%;display: inline-block;"></a>
+            <a id="_pingansec_bottomimagelarge_shiming" target="_blank" rel="nofollow"href="//si.trustutn.org/info?sn=453201218040218413524&certType=1">
+                <img style="display: inline-block;"src="https://stark-attachment.pxo.cn/img/202101051642190169358.png" /></a>
+        </p>
+
+    </div>
+</footer>
+
+<script type="text/javascript">
+    var mBox = $('.M-box')
+    mBox.pagination({
+        pageCount: 3,
+        current : 1,
+    coping: true,
+        count:2,
+        callback: function (api) {
+        if(api.getCurrent() != 1){
+            location.href = "./index_" +api.getCurrent() + ".html"
+        } else {
+            location.href = "./index.html"
+        }
+    },
+    activeCls: 'active-P',
+    })
+</script>
+<script>
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > 220 ) {
+            $(".g_detail").addClass('fiexds');
+            $(".fiexd .guokao").css('top','0px');
+
+        }
+
+        if( $(window).scrollTop() > 220 && $(window).scrollTop() < 1300 ){
+            $(".g_detail").removeClass('fiexds');
+            $(".g_detail").addClass('fiexd');
+        }
+        if($(window).scrollTop() > 1300 ){
+            $(".g_detail").removeClass('fiexds');
+            $(".g_detail").addClass('fiexd');
+        }
+
+    });
+
+
+</script>
+</html>

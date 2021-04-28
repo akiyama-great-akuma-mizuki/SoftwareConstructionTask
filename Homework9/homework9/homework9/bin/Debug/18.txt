@@ -1,0 +1,92 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name="theme-color" content="#000000">
+<title>【武汉招聘网_武汉找工作_武汉人才网_武汉求职】-武汉中华英才网</title> <meta name="keywords" content="武汉招聘网,武汉找工作,武汉人才网,武汉求职"/><meta name="description" content="中华英才网武汉招聘网，为您提供武汉招聘，武汉找工作，武汉人才网，武汉求职信息，同时覆盖校园招聘、求职指导、职业测评、猎头服务等求职服务，中华英才网助您找到知名企业和高薪职位！"/>    <link rel="shortcut icon" href="//img.58cdn.com.cn/job/pc/chinahr/common/0.2/favicon.ico">
+    <!--[if IE 9]><link rel="stylesheet" href="//c.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-index-pc/fixjr-ie_v20210405000210.css"><![endif]-->
+    <link rel="stylesheet" href="//c.58cdn.com.cn/componentsLoader/dist/CompontsLoader_v20201229143446.css">
+<link rel="stylesheet" href="//c.58cdn.com.cn/job/pc/chinahr/common/0.2/commonBar_v20201123150147.css">
+<link rel="stylesheet" href="//c.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-index-pc/fixjr-ie_v20210405000210.css">
+<link rel="stylesheet" href="//c.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-index-pc/static/css/chIndex_v20210405000211.css">
+<script>
+    var ____json4fe = {"catentry":[],"locallist":[{"dispid":"158","name":"武汉","listname":"wh"}],"start":(new Date()).getTime(),"modules":"list"};
+    ____json4fe.sid = '136311166212236012765208672';
+    var _trackURL = "{'area':'158','channel':'','pagetype':'yingcaihome','page':'homeshow','industry':'','job':'','salary':'','education':'','years':''}";
+</script>
+<script type="text/javascript">
+        var chindeed_zhuzhan_pc_tag='{"result":[{"ev":"1","ty":1,"el":".pc_homesearch_confirm","cl":"pc_homesearch_confirm"},{"ev":"1","ty":1,"el":".pc_homesearch_ing","cl":"pc_homesearch_ing"}],"paramValues":{"psid":"136311166212236012765208672"},"tagGroupCode":"chindeed_zhuzhan_home_pc","state":1,"commonParams":"","version":1057158209707462658}';
+        var statictagABtest='A';
+</script>
+<script type="text/javascript">
+    var xxfwConfig = {namespace:'chinahr_zp_pclist'};
+</script>
+<script type="text/javascript" src="//j1.58cdn.com.cn/resource/xxzl/xxfw/xxfw.min_v20200907150609.js"></script>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?42cc05139ef32c1de99099b0d3ac67c7";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+</head>
+
+<body>
+<div class="layer_fabubtn"></div>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="Top"></div>
+<!-- Topbar -->
+<div id="commonTop"></div>
+
+<div id="content_top">
+    <div class="center_logo_city">
+    <div class="center_logo">
+        <img src="//img.58cdn.com.cn/job/pc/chinahr/common/0.1/logo/chinahr_logo_home@2x.png" alt="">
+    </div>
+</div>
+<div class="center_search_content">
+    <i class="search-icon-tips iconfont icon-sousuotishi"></i>
+    <input maxlength='50' class="input_box pc_homesearch_ing" placeholder="请输入职位名称或公司，例如：销售">
+    <a>
+        <span class="search_jobs pc_homesearch_confirm">搜索工作机会</span>
+    </a>
+    <!-- 搜索联动 -->
+    <div id="search_linkage"></div>
+
+    <!-- 热门词汇 -->
+    <div id="Hot"></div>
+</div>
+<div id="xiding_content"></div>
+<div id="chinahr_xiaozhao"></div></div>
+<div id="root"></div>
+<!-- FooterBar -->
+<div id="commonFoot"></div>
+
+<script type="text/javascript" src="//j1.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-common-source-pc/jquery-1.11.3.min_v20190909201414.js"></script>
+<script src="//j1.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-common-source-pc/swiper-4.1.6.min_v20190909201414.js"></script>
+<script src="//j1.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-index-pc/static/js/temp_v20210405000211.js"></script>
+<script src="//j1.58cdn.com.cn/componentsLoader/dist/ComponentsLoader_v20201229143446.js"></script>
+<script src="//j1.58cdn.com.cn/job/pc/chinahr/common/0.2/commonBar_v20201123150147.js"></script>
+<script type="text/javascript" src="//tracklog.58.com/referrer4.js"></script>
+<script type="text/javascript" src="//j1.58cdn.com.cn/git/hrg-fe-zhaopin-chinahr/chinahr-index-pc/static/js/chIndex_v20210405000211.js"></script>
+</body>
+
+</html>

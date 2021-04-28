@@ -1,0 +1,1053 @@
+﻿<!DOCTYPE html>
+<html><head>
+<meta charset="gb2312">
+<meta name="misapplication-tap-highlight" content="no"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<meta name="applicable-device" content="pc,mobile"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<title>�й�̨���� �����黳 ��������</title>
+<meta name="keywords" content="̨������,̨��ʱ��,��̨��,ʱ������,����,̨��,̨��,ECFA,̨������,������ó,Ͷ��̨��,̨������,��̨������,ͳһ,��̨����,����ũҵ,����������,��������,ͼƬ,���,̨����Ƶ,��̳,����,����̨��,̨��,̨����ҵ,��Ͽ����,̨������" />
+<meta name="description" content="�й�̨����������̨��͹�̨�����Ĺ����ص�������վ��ӵ���Ӵ����̨��Դ��ȫ�汨��̨�������������ϵ����Ҫ������Ѷ�������ڴ����������飬��ͨ�������⣬��������������������������Ϣ��Ŧ��ͬ����������ƽ̨��" />
+<meta name="baidu-site-verification" content="7da81dd43712a93ceb72c5de3343aadc"/>
+<meta name="uctk" content="enabled" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="2" />
+<meta content="all" name="robots" />
+<meta name="googlebot" content="all" />
+<meta name="baiduspider" content="all" />
+<meta name="yahoobot" content="all" />
+<meta name="baidu_union_verify" content="23cab231d42f52f320572fad46ab6e13">
+<meta name="baidu-site-verification" content="rqtm9i2emK" />
+<meta name="baidu-tc-verification" content="f2736355e1414f99a69b4c1f7c4d2f67" />
+<meta name="Edcba-site-verification" content="6bef648f787249289b2bbfc78da1abe6" />
+<meta name="google-site-verification" content="627mcPm2G-MQRtU8YoggMiSnng6Auk2L8TfXVfVq4MY" />
+<meta name="google-site-verification" content="LxKamRRmt5QhvUK3Nl76mOsChAVFybI2Y0DwmsKHQ9g" />
+<meta name="alexaVerifyID" content="ikuMpmyS0Z1MVZ5KkWQZBA9zS5g" />
+<meta name="alexaVerifyID" content="8O8BBaTJnJca-N9yoKJAbBQgiWk" />
+<meta name="baidu-site-verification" content="Mh7Cx1MHG0rJR1GF" />
+<meta name="baidu-site-verification" content="QOWl4fqQUSvtY7ZZ" />
+<meta name="baidu-site-verification" content="9cOMwzssH2pashaM" />
+<meta name="baidu-site-verification" content="pOUygOmGub0LKAP7" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/preCheckerBidirectional_min.js"></script>
+<script type="text/javascript">
+preChecker();
+</script>
+<link rel="stylesheet" rev="stylesheet" href="http://ats.taiwan.cn/homepage2021/css/index.css" type="text/css" media="all" />
+</head>
+
+<body>
+<!-- header&nav_begin -->
+<div class="header">
+  <div class="wrap clearfix">
+    <!-- funcs_begin -->
+    <div class="funcs">
+      <!-- languages_begin -->
+      <div class="languages">
+        <ul class="list clearfix">
+          <li class="list-item alt"><a href="http://eng.taiwan.cn/" target="_blank">Ӣ</a></li>
+          <li class="list-item"><a href="http://big5.taiwan.cn/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/" target="_blank">��</a></li>  
+          <li class="list-item mobile"><a href="http://big5.taiwan.cn/" target="_blank">��</a></li>      
+        </ul>
+      </div>
+      <!-- language_end -->
+      <!-- sub-nav_begin -->
+      <div class="sub-nav">
+        <h3 class="zone-desc">�ط�վ��</h3>
+        <ul class="list clearfix">
+          <li class="list-item"><a href="http://www.taiwan.cn/local/beijing/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/tianjin/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hebei/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanxi2/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/neimenggu/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/liaoning/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/jilin/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/heilongjiang/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanghai/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.jsstb.gov.cn/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/zhejiang/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/anhui/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.fjtb.gov.cn/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/jiangxi/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shandong/" target="_blank">³</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/henan/" target="_blank">ԥ</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hubei/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hunan/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangdong/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangxi/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/hainan/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/chongqing/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/sichuan/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guizhou/" target="_blank">ǭ</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/yunnan/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/xizang/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/shanxi/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.gstb.gov.cn/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/qinghai/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/ningxia/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/xinjiang/" target="_blank">��</a></li>
+          <li class="list-item"><a href="http://www.taiwan.cn/local/guangdong_33203/" target="_blank">����</a></li>
+          <li class="list-item"><a href="http://www.qd.taiwan.cn" target="_blank">�ൺ</a></li>
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/2019/styjq/" target="_blank">����</a></li>
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/2018/liangan/" target="_blank">��ɽ</a></li>  
+        </ul>
+      </div>
+      <!-- sub-nav_end -->
+      <!-- pc-entrance_begin -->
+      <!-- <div class="pc-entrance">
+        <a href="http://www.taiwan.cn/" target="_blank">���԰�</a>
+      </div> -->
+      <!-- pc-entrance_end -->
+    </div>
+    <!-- funcs_end -->
+    <!-- site-logo_begin -->
+    <div class="site-logo">
+      <a class="logo" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo.png" alt="�й�̨����" /></a>
+      <a class="logo-alt" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo_alt.png" alt="�й�̨����" /></a>
+    </div>
+    <!-- site-logo_end -->
+    <!-- search_begin -->
+    <div class="searchPanel">
+      <form target="_blank" class="clearfix" id="baiduSearchContainer" action="http://zhannei.baidu.com/cse/search">
+        <input type="text" id="bdcsMain" class="input" name="q" placeholder="������ؼ�������" />
+        <span class="input-group-btn ">
+          <input type="submit" title="����" value="����" class="button" />
+        </span>
+        <div>
+          <input type="hidden" value="12472666198958497854" name="s" /><input type="hidden" value="1" name="entry" />
+        </div>
+      </form>
+    </div>
+    <!-- search_end -->
+    <!-- qrcodes_begin -->
+    <div class="qrcodes">
+      <ul class="list clearfix">
+        <li class="list-item">
+          <h2 class="list-item-title">�й�̨�����ƶ���</h2>
+          <img src="http://ats.taiwan.cn/homepage2021/images/qrcode1.png" alt="�й�̨�����ƶ���" />
+        </li>
+        <!-- <li class="list-item">
+          <h2 class="list-item-title">31��APP</h2>
+          <img src="http://ats.taiwan.cn/homepage2021/images/qrcode1.png" alt="31��APP" />
+        </li> -->
+      </ul>
+    </div>
+    <!-- qrcodes_end -->
+  </div>
+</div>
+<div class="nav stTop">
+  <div class="wrap">
+    <ul class="list clearfix">
+      <li class="list-item logo"><a class="logo-alt" href="http://www.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/site_logo_alt.png" alt="�й�̨����" /></a></li>
+      <li class="list-item homepage"><a href="http://www.taiwan.cn/" target="_blank">��ҳ</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/xwzx/" target="_blank">ʱ��</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/plzhx/" target="_blank">����</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/lilunpindao/" target="_blank">����</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/taiwan/" target="_blank">̨��</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/xwzx/la/" target="_blank">����</a></li>
+      <li class="list-item"><a href="http://depts.taiwan.cn/" target="_blank">��ί</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/31t/" target="_blank">31��</a></li>
+      <li class="list-item"><a href="http://econ.taiwan.cn/" target="_blank">��ó</a></li>
+      <li class="list-item"><a href="http://culture.taiwan.cn/" target="_blank">�Ļ�</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/zhinan/" target="_blank">ָ��</a></li>
+      <li class="list-item"><a href="http://lib.taiwan.cn/" target="_blank">�ٿ�</a></li>
+      <li class="list-item mobile"><a href="http://special.taiwan.cn/2021zhuanti/" target="_blank">ר��</a></li>
+    </ul>
+  </div>
+</div>
+<!-- header&nav_end -->
+<!--main_begin-->
+<div class="main">  
+  <!-- part1_begin -->
+  <div class="part1 wrap alt">
+    <h1>
+      <span class="format">ͷ��</span><span class="format">��</span>
+      
+      <a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347734.htm" target="_blank" title="������ŵ һ�Թ�֮ �й��ػ�ȫ����������" class="title">������ŵ һ�Թ�֮ �й��ػ�ȫ����������</a> 
+      
+    </h1>
+  </div>
+  <!-- part1_end -->
+  <!-- part2_begin -->
+  <div class="part2 wrap alt clearfix">
+    <!-- scroll_begin -->
+    <div class="imgs left">
+      <ul id="list" class="list">
+        
+        <li class="list-item">
+          <a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347737.htm" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/dt_62092/202104/W020210424357461712177.jpg" alt="8.jpg"/></a>
+          <div class="content">
+            <h2 class="list-item-title double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347737.htm" target="_blank" title="�������꿴�й����½׶��������¸��ح���·�չ֮����������������¸��">�������꿴�й����½׶��������¸��ح���·�չ֮����������������¸��</a></h2>
+            <p class="list-item-desc double-lines"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347737.htm" target="_blank"></a></p>  
+          </div>
+        </li>
+        
+      </ul>
+      <div id="preBtn"></div>
+      <div id="nextBtn"></div>
+    </div>
+    <!-- scroll_end -->
+    <div class="imgs2 left">
+      <ul class="list">
+       
+        <li class="list-item">
+          <a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347750.htm" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/shouye/202104/W020210424373570895647.png" alt="22.png"/></a>
+          <h2 class="list-item-title single-line"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347750.htm" target="_blank" title="2021 ��������������꿪��">2021 ��������������꿪��</a></h2>
+        </li>
+       
+        <li class="list-item">
+          <a href="http://culture.taiwan.cn/cul/202104/t20210424_12347723.htm" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/shouye/202104/W020210424355424957534.jpg" alt="9.jpg"/></a>
+          <h2 class="list-item-title single-line"><a href="http://culture.taiwan.cn/cul/202104/t20210424_12347723.htm" target="_blank" title="�����������̽�����֮��">�����������̽�����֮��</a></h2>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  <!-- part2_end -->
+  <!-- part3_begin -->
+  <div class="part3 wrap">
+    <ul class="list clearfix">
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/gtbfbh/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128480286023075.jpg" alt="1.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/lakp/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128479802119536.jpg" alt="2.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/latt/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128479382567767.jpg" alt="3.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/laqns/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128478409085625.jpg" alt="5.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/31t/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128478840468203.jpg" alt="4.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/thxkt/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128477372507213.jpg" alt="6.jpg"/></a></li>
+      
+      <li class="list-item"><a href="http://v.taiwan.cn/ys/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/jmtj/202101/W020210128477893431502.jpg" alt="7.jpg"/></a></li>
+      
+    </ul>
+  </div>
+  <!-- part3_end -->
+  <!-- part4_begin -->
+  <div class="part4 wrap clearfix">
+    <div class="left clearfix">
+      <div class="type1 hCalc">
+        <h3 class="zone-desc1"><span class="format">Ҫ��DAILY</span></h3>
+        <ul class="list">
+         
+            
+          <li class="list-item strong hCalc-item"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347699.htm" target="_blank" title="��������������ѡ�">��������������ѡ�</a></li>
+          
+          
+          <li class="list-item hCalc-item"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347700.htm" target="_blank" title="��������գ�Ʒ���������Ρ�֪ѧ����ѧ����ѧ��">��������գ�Ʒ���������Ρ�֪ѧ����ѧ����ѧ��</a></li>
+          
+          <li class="list-item hCalc-item"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347693.htm" target="_blank" title="ϰ��ƽ���İ���">ϰ��ƽ���İ���</a></li>
+          
+          <li class="list-item hCalc-item"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347692.htm" target="_blank" title="�á�young����ϰ��ƽح�������İ��á�ʼ����һ">�á�young����ϰ��ƽح�������İ��á�ʼ����һ</a></li>
+          
+         
+        </ul>
+      </div>
+      <div class="type2 item left hCalc hc1">
+        <ul class="list">
+          
+           
+          <li class="list-item strong hCalc-item"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347742.htm" target="_blank" title="���ǿ:�ƶ��������˹�ͬ�彨��ȡ���·�չ">���ǿ:�ƶ��������˹�ͬ�彨��ȡ���·�չ</a></li>
+          
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347741.htm" target="_blank" title="��������ȫ����Э˫��Э����̸��">��������ȫ����Э˫��Э����̸��</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347740.htm" target="_blank" title="����:��ʵ�ƽ����۰��ش����ƽ̨����">����:��ʵ�ƽ����۰��ش����ƽ̨����</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347743.htm" target="_blank" title="����ӡ����2021�����񹫿�����Ҫ�㡷">����ӡ����2021�����񹫿�����Ҫ�㡷</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347747.htm" target="_blank" title="1197�˽��ٻ�2021��ȫ����һ�Ͷ�����">1197�˽��ٻ�2021��ȫ����һ�Ͷ�����</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347746.htm" target="_blank" title="�������й������� �ҹ����̽�ⶼ����Щ��չ��">�������й������� �ҹ����̽�ⶼ����Щ��չ��</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347753.htm" target="_blank" title="�߲������Ϸ�������ֱ��Ӫ������취�����У�">�߲������Ϸ�������ֱ��Ӫ������취�����У�</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347441.htm" target="_blank" title="���㣺�з��ڴ������쵼���ر����ʵ�������������ڡ�">���㣺�з��ڴ������쵼���ر����ʵ�������������ڡ�</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210423_12347440.htm" target="_blank" title="�⽻��������������й�̼��塢̼�к�Ŀ��Ը���������з�Ӧ������仯��������">�⽻��������������й�̼��塢̼�к�Ŀ��Ը���������з�Ӧ������仯��������</a></li>
+          
+          
+        </ul>
+      </div>
+      <div class="type2 item left middle hCalc hc2">
+        <ul class="list alt2">
+         
+            
+          <li class="list-item strong hCalc-item"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347711.htm" target="_blank" title="̨�������̸���������Ķ���ζ������ë����">̨�������̸���������Ķ���ζ������ë����</a></li>
+          
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347710.htm" target="_blank" title="���ݳ���̨�̣�̨�������ɷ����Ź���վ">���ݳ���̨�̣�̨�������ɷ����Ź���վ</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347709.htm" target="_blank" title="�¾����Ļ������š� ̨��̨��������������">�¾����Ļ������š� ̨��̨��������������</a></li>
+          
+          <li class="list-item hCalc-item f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347706.htm" target="_blank" title="������ɽˮ ����ͯ�ꡱ�����׽��������������˫����ѧӪ�����쿪Ӫ">������ɽˮ ����ͯ�ꡱ�����׽��������������˫����ѧӪ�����쿪Ӫ</a></li>
+          
+          
+        </ul>
+      </div>
+      <div class="type3 alt item left middle">
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="./xwzx/la/202104/t20210424_12347712.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/la/202104/W020210424321178185024.png" alt="8.png"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347712.htm" target="_blank" title="�ڴ�½��ҵ̨���һ�ʧ��21��Ľ��">�ڴ�½��ҵ̨���һ�ʧ��21��Ľ��</a></h2>
+          </li>
+          
+          <li class="list-item">
+            <a href="./xwzx/la/202104/t20210424_12347708.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/la/202104/W020210424314912259200.png" alt="11.png"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347708.htm" target="_blank" title="��ҫ˳����δ��20�궼���ڴ�½��չ��">��ҫ˳����δ��20�궼���ڴ�½��չ��</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="left contentArea">
+      <div class="type2">
+        <h3 class="zone-desc2 alt"><a class="format" href="http://www.taiwan.cn/plzhx/" target="_blank">����</a></h3>
+        <ul class="list alt">
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/plyzl/202104/t20210423_12347596.htm" target="_blank" title="һ�����Ұ��㡱���ں�������">һ�����Ұ��㡱���ں�������</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210422_12347241.htm" target="_blank" title="̨��ȱˮ�������ǣ������б���">̨��ȱˮ�������ǣ������б���</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210421_12346948.htm" target="_blank" title="л��֮͢�����ա��޳ܶȡ�">л��֮͢�����ա��޳ܶȡ�</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210421_12346946.htm" target="_blank" title="���ۣ����ձ��������������ˡ�����ʵΪ˫��">���ۣ����ձ��������������ˡ�����ʵΪ˫��</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210420_12346619.htm" target="_blank" title="̨��ѧ�߼���̨Я�ִٺ������Ӻ���˿��֮·��������ͳһ">̨��ѧ�߼���̨Я�ִٺ������Ӻ���˿��֮·��������ͳһ</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/plzhx/pinglun/202104/t20210420_12346614.htm" target="_blank" title="����������к��ʸ���������˵������">����������к��ʸ���������˵������</a></li>
+          
+        </ul>
+      </div>
+      <div class="video sub-item">
+        
+        <video src="http://v.files.taiwan.cn:80/vod/tww/HDgaoqing/yuanchuang/2021/04/23/99B5516E28DE44e3B7B41728CD4970072.mp4" poster="http://www.taiwan.cn/2021/sywhq_62090/ywsp_62097/202104/W020210423702241589709.jpg"></video>
+        
+      </div>
+    </div>
+  </div>
+  <!-- part4_end -->
+  <!-- topics_begin -->
+  <div class="topics wrap">
+    <ul class="list">
+      
+      <li class="list-item"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/jdybzn/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/tlggwy/202103/W020210308358212879143.jpg" alt="banner--��������ר��.jpg"/></a></li>
+      
+    </ul>
+  </div>
+  <!-- topics_end -->
+  <!-- part5_begin -->
+  <div class="part5 wrap">
+    <h3 class="tab-zone-desc"><a class="format" href="http://special.taiwan.cn/2021zhuanti/" target="_blank">���ר��</a></h3>
+    <div class="tab activated">
+      <h3 class="tab-desc"><span class="format activated">ʱ������Ѷ</span></h3>
+      <div class="tab-content clearfix">
+        <ul class="list pic clearfix activated">
+          
+          <li class="list-item"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/szfh/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/szzx_62102/202104/W020210423510426219250.jpg" alt="185 90.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/2021QM/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/szzx_62102/202104/W020210401353923222681.jpg" alt="55e736d12f2eb9387847d55c1509c33de4dd6fee_����111.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/2021lianghui/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/szzx_62102/202103/W020210315532958589770.jpg" alt="΢��ͼƬ_20210315144024.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/tqzsz/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/szzx_62102/202103/W020210308515891553715.jpg" alt="΢��ͼƬ_20210225152617.jpg"/></a></li>
+          
+        </ul>
+        <ul class="list text clearfix">
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/2021yuanxiao/" target="_blank" title="2021Ԫ����">2021Ԫ����</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/zhuanti111/yifazhiguo/" target="_blank" title="�ܷ�������">�ܷ�������</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/2021zhuanti/2021xinchun/" target="_blank" title="������ӭ��">������ӭ��</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/zhuanti111/tuopin_63126/" target="_blank" title="�´��߻���">�´��߻���</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/zhuanti111/haojizhe2020_61382/" target="_blank" title="����ʵ��">����ʵ��</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/zxzt/zhuanti111/yifazhiguo_61102/" target="_blank" title="2020���绥�������">2020���绥�������</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="tab">
+      <h3 class="tab-desc"><span class="format">��������</span></h3>
+      <div class="tab-content clearfix">
+        <ul class="list pic clearfix activated">
+          
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/jiaoliu/newmedia/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/rrll_62103/202102/W020210202359460646130.jpg" alt="��ý���½��.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/jiaoliu/zhetaizhou/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/rrll_62103/202102/W020210202358984186984.jpg" alt="�㽭̨�������.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/jiaoliu/shopping/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/rrll_62103/202101/W020210119536281321453.jpg" alt="΢��ͼƬ_20200910095738_����444.jpg"/></a></li>
+          
+          <li class="list-item"><a href="http://cse.special.taiwan.cn/jiaoliu/commerce/" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/sdzt_62101/rrll_62103/202101/W020210119536279673766.jpg" alt="΢��ͼƬ_20200917104530_����.jpg"/></a></li>
+          
+        </ul>
+        <ul class="list text clearfix">
+          
+          <li class="list-item single-line f14"><a href="http://cse.special.taiwan.cn/jiaoliu/qingfaluntan/" target="_blank" title="�����������෢��̳">�����������෢��̳</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://cse.special.taiwan.cn/jiaoliu/lingnzhunti_2020/" target="_blank" title="���ڹ���">���ڹ���</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://cse.special.taiwan.cn/2019/styjq/" target="_blank" title="��̨һ����">��̨һ����</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://cse.special.taiwan.cn/2018/liangan/" target="_blank" title="��������������">��������������</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://cse.special.taiwan.cn/jiaoliu/zhongshan/" target="_blank" title="���Ľ�������ɽ��̳">���Ľ�������ɽ��̳</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://special.taiwan.cn/rongrong/" target="_blank" title="��������">��������</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+  <!-- part5_end -->
+  <!-- part6_begin -->
+  <div class="part6 wrap clearfix">
+    <!-- grp1_begin -->
+    <div class="type4 item left">
+      <h3 class="zone-desc2"><a class="format" href="http://www.taiwan.cn/xwzx/" target="_blank">ʱ��</a></h3>
+      <ul class="list">
+        
+         
+        <li class="list-item pic">
+          <a href="./xwzx/PoliticsNews/202104/t20210424_12347733.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/PoliticsNews/202104/W020210424346266690964.jpg" alt="4.jpg"/></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347733.htm" target="_blank" title="�й�����ԺԺʿר�ҳɹ�չʾ���ڻ�����">�й�����ԺԺʿר�ҳɹ�չʾ���ڻ�����</a></h2>
+        </li>
+        
+       
+        
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347751.htm" target="_blank" title="���ߡ����ꡱ������ ������С��ҵ�ν�����">���ߡ����ꡱ������ ������С��ҵ�ν�����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347753.htm" target="_blank" title="�߲������Ϸ�������ֱ��Ӫ������취�����У�">�߲������Ϸ�������ֱ��Ӫ������취�����У�</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347752.htm" target="_blank" title="����ף�������ꡤ����������·������">����ף�������ꡤ����������·������</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347744.htm" target="_blank" title="����������ա�һ�����ʷ�����������ٰ�">����������ա�һ�����ʷ�����������ٰ�</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347724.htm" target="_blank" title="���򿨡�������꣬���۸�Ҫ����">���򿨡�������꣬���۸�Ҫ����</a></li>
+        
+        
+      </ul>
+    </div>    
+    <div class="item left middle">
+      <div class="type3 alt3">
+        <h3 class="zone-desc2"><a class="format" href="http://www.taiwan.cn/xwzx/la/" target="_blank">����</a></h3>
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/xwzx/la/202104/t20210423_12347512.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/la/tj/202104/W020210423377447777751.jpg" alt="f497871197b4449aa53c799b249e7080_����.jpg"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210423_12347512.htm" target="_blank" title="����������Ը����̨�������¹�����">����������Ը����̨�������¹�����</a></h2>
+          </li>
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/xwzx/la/202104/t20210423_12347490.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/la/tj/202104/W020210423377026898270.jpg" alt="34da4c76-8d73-4c3e-9b36-3ed68e4ca976_zsite_����.jpg"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210423_12347490.htm" target="_blank" title="��½֪��̨�������Ͷ��10��Ԫ���츣ҽ����ҵ԰">��½֪��̨�������Ͷ��10��Ԫ���츣ҽ����ҵ԰</a></h2>
+          </li>
+         
+        </ul>
+      </div>
+      <div class="type2 sub-item">
+        <ul class="list alt3">
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347712.htm" target="_blank" title="�ڴ�½��ҵ̨���һ�ʧ��21��Ľ��">�ڴ�½��ҵ̨���һ�ʧ��21��Ľ��</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347711.htm" target="_blank" title="̨�������̸���������Ķ���ζ������ë����">̨�������̸���������Ķ���ζ������ë����</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347710.htm" target="_blank" title="���ݳ���̨�̣�̨�������ɷ����Ź���վ">���ݳ���̨�̣�̨�������ɷ����Ź���վ</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/la/202104/t20210424_12347709.htm" target="_blank" title="�¾����Ļ������š� ̨��̨��������������">�¾����Ļ������š� ̨��̨��������������</a></li>
+         
+        </ul>
+      </div>
+    </div>    
+    <div class="item left">
+      <div class="type2">
+        <h3 class="zone-desc2 alt"><span class="format">��̨�����ŷ�����</span><a class="format2" href="http://v.taiwan.cn/gtbfbh/" target="_blank">��Ƶ</a><a class="format2" href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/fbhwb/" target="_blank">ʵ¼</a><a class="format2" href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/" target="_blank">ͼ��</a></h3>
+        <ul class="list alt4">
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/202104/t20210414_12345344.htm" target="_blank" title="̨ý����ν���л�����ܷ�������ʵʩ ��̨���Ӧ">̨ý����ν���л�����ܷ�������ʵʩ ��̨���Ӧ</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/202104/t20210414_12345343.htm" target="_blank" title="�����Ƴ�̨������������������ ��̨�죺̨��ͬ����Ҫ�ϵ�">�����Ƴ�̨������������������ ��̨�죺̨��ͬ����Ҫ�ϵ�</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/202104/t20210414_12345342.htm" target="_blank" title="�Ƿ��ľ�����ѵ�Ӱ��̨�����ڶԴ�½��������̨���Ӧ">�Ƿ��ľ�����ѵ�Ӱ��̨�����ڶԴ�½��������̨���Ӧ</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/202104/t20210414_12345341.htm" target="_blank" title="̨������ȱˮ���⣬ѧ������������ְ��ʽ�Ͷ����� ��̨���Ӧ">̨������ȱˮ���⣬ѧ������������ְ��ʽ�Ͷ����� ��̨���Ӧ</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/xwfbh/gtbxwfbh/tuwen/202104/t20210414_12345336.htm" target="_blank" title="̨½ί��������ʷ�̲ĸİ�˵������ ��̨���Ӧ">̨½ί��������ʷ�̲ĸİ�˵������ ��̨���Ӧ</a></li>
+          
+        </ul>
+      </div>
+      <div class="type3 alt2 sub-item left">
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/xwzx/la/202009/t20200930_12299476.htm" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/gtbxwfbh_62105/fayanren/202101/W020210119525646278718.jpg" alt="maxiaoguang222W020200930422775804660_����.jpg"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202009/t20200930_12299476.htm" target="_blank" title="��̨�����ŷ�����������">��̨�����ŷ�����������</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+      <div class="type3 alt2 sub-item left">
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/xwzx/la/202012/t20201216_12312301.htm" target="_blank"><img src="http://www.taiwan.cn/2021/sywhq_62090/gtbxwfbh_62105/fayanren/202101/W020210119525139964198.jpg" alt="zhufenglian-W020201216412470672389_����.jpg"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202012/t20201216_12312301.htm" target="_blank" title="��̨�����ŷ����������">��̨�����ŷ����������</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    <!-- grp1_end -->
+    <!-- grp2_begin -->
+    <div class="type4 item left">
+      <h3 class="zone-desc2"><a class="format" href="http://www.taiwan.cn/taiwan/" target="_blank">̨��</a></h3>
+      <ul class="list">
+        
+         
+        <li class="list-item pic">
+          <a href="./taiwan/jsxw/202104/t20210423_12347599.htm" target="_blank"><img src="http://www.taiwan.cn/taiwan/jsxw/202104/W020210423519376264976.jpg" alt="����.jpg"/></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347599.htm" target="_blank" title="̨�����ֱ���ȷ�ﲡ�� �⼮��ʦ����ȷ���2���Ӵ���Ⱦ��">̨�����ֱ���ȷ�ﲡ�� �⼮��ʦ����ȷ���2���Ӵ���Ⱦ��</a></h2>
+        </li>
+        
+       
+        
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347668.htm" target="_blank" title="û�ƻ��ͺ��ں� ̨ѧ�ߣ���������ֵ���̼��Ŀ�겻��ʵ��">û�ƻ��ͺ��ں� ̨ѧ�ߣ���������ֵ���̼��Ŀ�겻��ʵ��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347666.htm" target="_blank" title="����ͭ���ɾԤ�� ̨�����Ż�����ͭ��">����ͭ���ɾԤ�� ̨�����Ż�����ͭ��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347599.htm" target="_blank" title="̨�����ֱ���ȷ�ﲡ�� �⼮��ʦ����ȷ���2���Ӵ���Ⱦ��">̨�����ֱ���ȷ�ﲡ�� �⼮��ʦ����ȷ���2���Ӵ���Ⱦ��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347571.htm" target="_blank" title="�����֡����� �й�����Ҫ���Ӣ�Ľ�л��͢��ְ">�����֡����� �й�����Ҫ���Ӣ�Ľ�л��͢��ְ</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/taiwan/jsxw/202104/t20210423_12347568.htm" target="_blank" title="̨����������ϰ�����Ա���8��7ҹʷ��� �ų�ģ���ž���̨���ֿ���">̨����������ϰ�����Ա���8��7ҹʷ��� �ų�ģ���ž���̨���ֿ���</a></li>
+        
+        
+      </ul>
+    </div>    
+    <div class="item left middle">
+      <div class="type3 alt3">
+        <h3 class="zone-desc2"><a class="format" href="http://www.taiwan.cn/31t/" target="_blank">31��</a></h3>
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/local/dfkx/202104/t20210422_12347302.htm" target="_blank"><img src="http://www.taiwan.cn/31t/31tiaopic/202104/W020210423326764841317.jpg" alt="W020210422513442499678_����.jpg"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210422_12347302.htm" target="_blank" title="����̨���ѩ�᣺ֱ����ͷ�µĶ���ഺ">����̨���ѩ�᣺ֱ����ͷ�µĶ���ഺ</a></h2>
+          </li>
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/31t/zxxx/202104/t20210423_12347495.htm" target="_blank"><img src="http://www.taiwan.cn/31t/31tiaopic/202104/W020210423378084739910.jpg" alt="1619119932697_1_����.jpg"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://www.taiwan.cn/31t/zxxx/202104/t20210423_12347495.htm" target="_blank" title="������ũ�򡱺�ҫ˳����δ��20�궼���ڴ�½��չ��">������ũ�򡱺�ҫ˳����δ��20�궼���ڴ�½��չ��</a></h2>
+          </li>
+         
+        </ul>
+      </div>
+      <div class="type2 sub-item">
+        <ul class="list alt3">
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/31t/zxxx/202104/t20210423_12347495.htm" target="_blank" title="������ũ�򡱺�ҫ˳����δ��20�궼���ڴ�½��չ��">������ũ�򡱺�ҫ˳����δ��20�궼���ڴ�½��չ��</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/31t/zxxx/202104/t20210423_12347493.htm" target="_blank" title="�����ա������⽭�������̨���ںϷ�չ����">�����ա������⽭�������̨���ںϷ�չ����</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210421_12347020.htm" target="_blank" title="���㶫����β��̨�������Խӷ��� �ƶ���ũ��22����ʩ����ؼ�Ч">���㶫����β��̨�������Խӷ��� �ƶ���ũ��22����ʩ����ؼ�Ч</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/local/dfkx/202104/t20210421_12347036.htm" target="_blank" title="�����ա�̩�ݼ��ۺ����ƶ���ũ��22����ʩ���᳹��ʵ">�����ա�̩�ݼ��ۺ����ƶ���ũ��22����ʩ���᳹��ʵ</a></li>
+         
+        </ul>
+      </div>
+    </div>    
+    <div class="item left">
+      <div class="type2">
+        <h3 class="zone-desc2 alt"><a class="format" href="http://depts.taiwan.cn/" target="_blank">��ί</a></h3>
+        <ul class="list alt5">
+          
+          <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210424_12347702.htm" target="_blank" title="�⽻�����й�����ͳһҲ��Ȼͳһ���շ���Ҫ�зǷ�֮��">�⽻�����й�����ͳһҲ��Ȼͳһ���շ���Ҫ�зǷ�֮��</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210424_12347701.htm" target="_blank" title="���㣺��̨���ơ����ڡ����">���㣺��̨���ơ����ڡ����</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank" title="�������������ᡰ̨�庣Ͽ��ƽ�ȶ���Ҫ�ԡ� �⽻����Ӧ">�������������ᡰ̨�庣Ͽ��ƽ�ȶ���Ҫ�ԡ� �⽻����Ӧ</a></li>
+          
+          <li class="list-item single-line f14"><a href="http://depts.taiwan.cn/news/202104/t20210418_12346128.htm" target="_blank" title="��԰ݵ���ǲ&quot;�ͼ��������&quot;����̨�� �⽻��������:���Ǿ�������&quot;Խ��&quot;��Ϊ">��԰ݵ���ǲ"�ͼ��������"����̨�� �⽻��������:���Ǿ�������"Խ��"��Ϊ</a></li>
+          
+        </ul>
+      </div>
+      <div class="type4 sub-item left">
+        <ul class="list">
+          
+          <li class="list-item pic">
+            <a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank"><img src="http://depts.taiwan.cn/tj/202104/W020210420400029190366.jpg" alt="src=http___p0_ifengimg_com_pmop_2018_0606_AD421D953281B9952A4F7F42AD552DAD074E227CD_size15_w550_h367_jpeg&amp;refer=http___p0_ifengimg_����.jpg"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://depts.taiwan.cn/news/202104/t20210420_12346506.htm" target="_blank" title="�������������ᡰ̨�庣Ͽ��ƽ�ȶ���Ҫ�ԡ� �⽻����Ӧ">�������������ᡰ̨�庣Ͽ��ƽ�ȶ���Ҫ�ԡ� �⽻����Ӧ</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    <!-- grp2_end -->
+    <!-- grp3_begin -->
+    <div class="type4 item left">
+      <h3 class="zone-desc2"><a class="format" href="http://econ.taiwan.cn/" target="_blank">��ó</a></h3>
+      <ul class="list">
+        
+         
+        <li class="list-item pic">
+          <a href="http://econ.taiwan.cn/econ/202104/t20210424_12347717.htm" target="_blank"><img src="http://econ.taiwan.cn/econ/202104/W020210424326382462622.png" alt="12.png"/></a>
+          <h2 class="list-item-title double-lines f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347717.htm" target="_blank" title="��ֱ����������ô�ܣ��¹�����">��ֱ����������ô�ܣ��¹�����</a></h2>
+        </li>
+        
+       
+        
+        
+        <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347754.htm" target="_blank" title="��һ���ٽ��������������������������г�����̬������">��һ���ٽ��������������������������г�����̬������</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347720.htm" target="_blank" title="����ҵ������飺�����顱���ⲻ�ʼ� �������˱�����·��">����ҵ������飺�����顱���ⲻ�ʼ� �������˱�����·��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347719.htm" target="_blank" title="��������Ҽ����ƽ� ������������">��������Ҽ����ƽ� ������������</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347718.htm" target="_blank" title="ֱ�������������άȨ���涨����">ֱ�������������άȨ���涨����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://econ.taiwan.cn/econ/202104/t20210424_12347716.htm" target="_blank" title="����:�󲿷�����ҵ���ڻ�����������ڰ�ȫ�߽���">����:�󲿷�����ҵ���ڻ�����������ڰ�ȫ�߽���</a></li>
+        
+        
+      </ul>
+    </div>    
+    <div class="item left middle">
+      <div class="type3 alt3">
+        <h3 class="zone-desc2"><a class="format" href="http://culture.taiwan.cn/" target="_blank">�Ļ�</a></h3>
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://culture.taiwan.cn/cul/202104/t20210424_12347723.htm" target="_blank"><img src="http://culture.taiwan.cn/cul/202104/W020210424335077219133.jpg" alt="2.jpg"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://culture.taiwan.cn/cul/202104/t20210424_12347723.htm" target="_blank" title="�����������̽�����֮��">�����������̽�����֮��</a></h2>
+          </li>
+          
+          <li class="list-item">
+            <a href="./xwzx/PoliticsNews/202104/t20210424_12347722.htm" target="_blank"><img src="http://www.taiwan.cn/xwzx/PoliticsNews/202104/W020210424334149937650.png" alt="13.png"/></a>
+            <h2 class="list-item-title three-lines f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347722.htm" target="_blank" title="�����չ�������� ��ָ�⼼��">�����չ�������� ��ָ�⼼��</a></h2>
+          </li>
+         
+        </ul>
+      </div>
+      <div class="type2 sub-item">
+        <ul class="list alt3">
+         
+          <li class="list-item single-line f14"><a href="http://www.taiwan.cn/xwzx/PoliticsNews/202104/t20210424_12347744.htm" target="_blank" title="����������ա�һ�����ʷ�����������ٰ�">����������ա�һ�����ʷ�����������ٰ�</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://culture.taiwan.cn/cul/202104/t20210424_12347732.htm" target="_blank" title="��������գ�̽�ðĴ�������ʷ���ƾõ�ͼ���">��������գ�̽�ðĴ�������ʷ���ƾõ�ͼ���</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://culture.taiwan.cn/cul/202104/t20210424_12347726.htm" target="_blank" title="��˵�ᳪ����ȫ�ܡ����޽����Ŵ���ѧ��ʷ">��˵�ᳪ����ȫ�ܡ����޽����Ŵ���ѧ��ʷ</a></li>
+         
+          <li class="list-item single-line f14"><a href="http://culture.taiwan.cn/cul/202104/t20210424_12347714.htm" target="_blank" title="�ԡ����ʡ��ഺ �������С�����">�ԡ����ʡ��ഺ �������С�����</a></li>
+         
+        </ul>
+      </div>
+    </div>    
+    <div class="item left">
+      <div class="type3 alt2 left">
+        <h3 class="zone-desc2"><a class="format" href="http://www.taiwan.cn/zhinan/" target="_blank">ָ��</a></h3>
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="./zhinan/sh/202102/t20210203_12329757.htm" target="_blank"><img src="http://www.taiwan.cn/zhinan/sh/202102/W020210203512231711840.png" alt="��ס֤.png"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/zhinan/sh/202102/t20210203_12329757.htm" target="_blank" title="����Ժ�칫��ӡ�����۰�̨�����ס֤���췢�Ű취��">����Ժ�칫��ӡ�����۰�̨�����ס֤���췢�Ű취��</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+      <div class="type3 alt2 left">
+        <h3 class="zone-desc2"><a class="format" href="http://lib.taiwan.cn/" target="_blank">�ٿ�</a></h3>
+        <ul class="list clearfix">
+          
+          <li class="list-item">
+            <a href="http://www.taiwan.cn/xwzx/la/202103/t20210317_12338960.htm" target="_blank"><img src="http://lib.taiwan.cn/scrollimg/202103/W020210317348210121887.jpg" alt="23.jpg"/></a>
+            <h2 class="list-item-title double-lines f14"><a href="http://www.taiwan.cn/xwzx/la/202103/t20210317_12338960.htm" target="_blank" title="����֧��̨��ͬ��̨����ҵ�ڴ�½ũҵ��ҵ����չ����ɴ�ʩ">����֧��̨��ͬ��̨����ҵ�ڴ�½ũҵ��ҵ����չ����ɴ�ʩ</a></h2>
+          </li>
+          
+        </ul>
+      </div>
+      <div class="index-type1 sub-item left">
+        <ul class="list clearfix">
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/wl/" target="_blank">����</a></li>
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/qz/" target="_blank">��ҵ</a></li>
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/qx/" target="_blank">��ѧ</a></li>
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/sh/" target="_blank">����</a></li>
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/cy/" target="_blank">��ҵ</a></li>
+          <li class="list-item single-line"><a href="http://www.taiwan.cn/zhinan/jy/" target="_blank">����</a></li>
+        </ul>
+      </div>
+      <div class="index-type2 sub-item left">
+        <ul class="list clearfix">
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/2021wenxian/" target="_blank">��������</a></li>
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/zhengce/" target="_blank">���ߴ�ʩ</a></li>
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/agreeon/" target="_blank">����Э��</a></li>
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/shetai/" target="_blank">��̨��ʶ</a></li>
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/data/" target="_blank">��̨����</a></li>
+          <li class="list-item single-line"><a href="http://lib.taiwan.cn/llgxevent/" target="_blank">���¼�</a></li>
+        </ul>
+      </div>
+      <div class="index-type3 sub-item left">
+        <ul class="list clearfix">
+          <li class="list-item"><a href="http://www.taiwan.cn/lagx/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/lianganguanxizazhishe.jpg" alt="������ϵ" /></a></li>
+          <li class="list-item"><a href="http://www.jzpress.taiwan.cn/" target="_blank"><img src="http://ats.taiwan.cn/homepage2021/images/jiuzhouchubanshe.jpg" alt="���ݳ�����" /></a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- grp3_end -->    
+  </div>
+  <!-- part6_end -->
+  <!-- topics_begin -->
+  <div class="topics wrap">
+    <ul class="list">
+      
+    </ul>
+  </div>
+  <!-- topics_end -->
+  <!-- part7_begin -->
+  <div class="part7 wrap">
+    <h3 class="zone-desc3"><a class="format" href="http://v.taiwan.cn/" target="_blank">����ƵVideo</a></h3>
+  </div>
+  <!-- part7_end -->
+  <!-- part8_begin -->
+  <div class="part8 wrap clearfix">
+    <!-- grp1_begin -->
+    <div class="index-type4 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/gtbfbh/" target="_blank">��̨�췢��</a></h3>
+      <ul class="list">
+        
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/gtbfbh/202104/t20210422_12347300.htm" target="_blank"><img src="http://v.taiwan.cn/gtbfbh/202104/W020210422507635375681.jpg" alt="��̨�죺�����������ͼ�Ʒ�̨�����й��ǳ�������ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210422_12347300.htm" target="_blank" title="��̨�죺�����������ͼ�Ʒ�̨�����й��ǳ�������">��̨�죺�����������ͼ�Ʒ�̨�����й��ǳ�������</a></h2>
+        </li>
+        
+      </ul>
+      <ul class="list">
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210421_12347135.htm" target="_blank" title="��̨������̫����������ϵ���ۣ����������񶨡��Ŷ���ʶ������ֱ�¶ı����������">��̨������̫����������ϵ���ۣ����������񶨡��Ŷ���ʶ������ֱ�¶ı����������</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210414_12345378.htm" target="_blank" title="��̨�죺�����ʲô�˴�������������ֺ�������ĳ��һ����">��̨�죺�����ʲô�˴�������������ֺ�������ĳ��һ����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210414_12345377.htm" target="_blank" title="̨�����Ʊ䡰�Ͷ��ɻ�ҩͰ������̨��4���Ӧ���桰̨����">̨�����Ʊ䡰�Ͷ��ɻ�ҩͰ������̨��4���Ӧ���桰̨����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210414_12345376.htm" target="_blank" title="��������ˮ�뺣�꼰̨�� ����������������ҵ����ձ�">��������ˮ�뺣�꼰̨�� ����������������ҵ����ձ�</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/gtbfbh/202104/t20210414_12345375.htm" target="_blank" title="֪�顢ͬ�⡢��Ը����̨�죺��½̨�������������½�����׼һ��">֪�顢ͬ�⡢��Ը����̨�죺��½̨�������������½�����׼һ��</a></li>
+       
+      </ul>
+    </div>
+    <div class="index-type5 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/lakp/" target="_blank">��������</a></h3>
+      <ul class="list clearfix">
+       
+          
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/lakp/202104/t20210423_12347671.htm" target="_blank"><img src="http://v.taiwan.cn/lakp/202104/W020210423642385636336.jpg" alt="���쵽�ˣ��������ȡ��̡��ˣ�ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/lakp/202104/t20210423_12347671.htm" target="_blank" title="���쵽�ˣ��������ȡ��̡��ˣ�">���쵽�ˣ��������ȡ��̡��ˣ�</a></h2>
+        </li>
+        
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/lakp/202104/t20210423_12347670.htm" target="_blank"><img src="http://v.taiwan.cn/lakp/202104/W020210423636163826214.jpg" alt="�ý�ͶƱ��̨�������800��Ԫ��̨�����Ͼ�������ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/lakp/202104/t20210423_12347670.htm" target="_blank" title="�ý�ͶƱ��̨�������800��Ԫ��̨�����Ͼ�������">�ý�ͶƱ��̨�������800��Ԫ��̨�����Ͼ�������</a></h2>
+        </li>
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/lakp/202104/t20210423_12347667.htm" target="_blank"><img src="http://v.taiwan.cn/lakp/202104/W020210423627701182385.jpg" alt="�á���ů������αװ����̫����ı������������Ŀ���ڱ��Ҵ���ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/lakp/202104/t20210423_12347667.htm" target="_blank" title="�á���ů������αװ����̫����ı������������Ŀ���ڱ��Ҵ���">�á���ů������αװ����̫����ı������������Ŀ���ڱ��Ҵ���</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+    <!-- grp1_end -->
+    <!-- grp2_begin -->
+    <div class="index-type4 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/latt/" target="_blank">����ͷ��</a></h3>
+      <ul class="list">
+        
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/latt/202104/t20210423_12347676.htm" target="_blank"><img src="http://v.taiwan.cn/latt/202104/W020210423699028189624.jpg" alt="����̸�Ƿ���̨���� ̨���䡰���޸ߡ����� ����ģ���ž���̨ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/latt/202104/t20210423_12347676.htm" target="_blank" title="����̸�Ƿ���̨���� ̨���䡰���޸ߡ����� ����ģ���ž���̨">����̸�Ƿ���̨���� ̨���䡰���޸ߡ����� ����ģ���ž���̨</a></h2>
+        </li>
+        
+      </ul>
+      <ul class="list">
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/latt/202104/t20210422_12347372.htm" target="_blank" title="��������Ա����ƵƵ ͨ�������з����� ��������̨���ܱߺ���ѵ��">��������Ա����ƵƵ ͨ�������з����� ��������̨���ܱߺ���ѵ��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/latt/202104/t20210421_12347109.htm" target="_blank" title="����������̨����ƽ�������塱��̨���ⲿ���״����ž�����">����������̨����ƽ�������塱��̨���ⲿ���״����ž�����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/latt/202104/t20210420_12346799.htm" target="_blank" title="��̨���ơ������ ���ո㡰СȦ�ӡ��������� ̨�������ɹ�����">��̨���ơ������ ���ո㡰СȦ�ӡ��������� ̨�������ɹ�����</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/latt/202104/t20210419_12346452.htm" target="_blank" title="������Ҫ��̨���ơ���������̨���ۣ�л��͢����̨����������ϰ">������Ҫ��̨���ơ���������̨���ۣ�л��͢����̨����������ϰ</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/latt/202104/t20210417_12346037.htm" target="_blank" title="�⽻�������շ����̨���ݱ�����ع��� ��ž��������µ�14����̨">�⽻�������շ����̨���ݱ�����ع��� ��ž��������µ�14����̨</a></li>
+       
+      </ul>
+    </div>
+    <div class="index-type5 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/laqns/" target="_blank">��������</a></h3>
+      <ul class="list clearfix">
+       
+          
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/laqns/202104/t20210421_12347098.htm" target="_blank"><img src="http://v.taiwan.cn/laqns/202104/W020210421579803585224.jpg" alt="���޴�½�Ƽ���̨������Ϊ�������ѡ����⡱���ش�½ɨ�ػ�����ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/laqns/202104/t20210421_12347098.htm" target="_blank" title="���޴�½�Ƽ���̨������Ϊ�������ѡ����⡱���ش�½ɨ�ػ�����">���޴�½�Ƽ���̨������Ϊ�������ѡ����⡱���ش�½ɨ�ػ�����</a></h2>
+        </li>
+        
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/laqns/202104/t20210420_12346684.htm" target="_blank"><img src="http://v.taiwan.cn/laqns/202104/W020210420422014584539.jpg" alt="c4de952071db4ec4afc8b762185ca49c0.jpg"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/laqns/202104/t20210420_12346684.htm" target="_blank" title="ʵ����Ľ����λ̨�ࡰ�׷ۡ����׾����˶���ҹ��">ʵ����Ľ����λ̨�ࡰ�׷ۡ����׾����˶���ҹ��</a></h2>
+        </li>
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/laqns/202104/t20210413_12345071.htm" target="_blank"><img src="http://v.taiwan.cn/laqns/202104/W020210413521136820517.jpg" alt="��������ͬ�������½��޻�����Ĩ�����ۣ�ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/laqns/202104/t20210413_12345071.htm" target="_blank" title="��������ͬ�������½��޻�����Ĩ�����ۣ�">��������ͬ�������½��޻�����Ĩ�����ۣ�</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+    <!-- grp2_end -->
+    <!-- grp3_begin -->
+    <div class="index-type4 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/31t/" target="_blank">31������</a></h3>
+      <ul class="list">
+        
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/31t/202001/t20200109_12231376.htm" target="_blank"><img src="http://v.taiwan.cn/31t/202001/W020200109364841741853.jpg" alt="f06d64d9249a4e1bbad56cc4f679e5e80.jpg"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/31t/202001/t20200109_12231376.htm" target="_blank" title="�����Ѿ͸��໥����������̨���˺Ͷ����˵ĸ�Ц�Ի���">�����Ѿ͸��໥����������̨���˺Ͷ����˵ĸ�Ц�Ի���</a></h2>
+        </li>
+        
+      </ul>
+      <ul class="list">
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/31t/202001/t20200123_12235548.htm" target="_blank" title="��ʷѧ���о������Ǽۣ�">��ʷѧ���о������Ǽۣ�</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/31t/201912/t20191224_12227614.htm" target="_blank" title="���벻���ľ��鷴ת�������������ס����л��������ǡ�">���벻���ľ��鷴ת�������������ס����л��������ǡ�</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/31t/201911/t20191129_12221810.htm" target="_blank" title="�𾪣�����֮�侹Ȼ�����· ���綮���ߣ��㻹��ʲô��">�𾪣�����֮�侹Ȼ�����· ���綮���ߣ��㻹��ʲô��</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/31t/201911/t20191120_12219573.htm" target="_blank" title="5G����,̨������������׼���ü����������?">5G����,̨������������׼���ü����������?</a></li>
+        
+        <li class="list-item single-line f14"><a href="http://v.taiwan.cn/31t/201912/t20191226_12228179.htm" target="_blank" title="��һ������Ҫ��������ѣ�">��һ������Ҫ��������ѣ�</a></li>
+       
+      </ul>
+    </div>
+    <div class="index-type5 item left">
+      <h3 class="zone-desc4"><a class="format" href="http://v.taiwan.cn/thxkt" target="_blank">̨������</a></h3>
+      <ul class="list clearfix">
+       
+          
+        <li class="list-item pic">
+          <a href="http://v.taiwan.cn/thxkt/202009/t20200901_12293390.htm" target="_blank"><img src="http://v.taiwan.cn/thxkt/202009/W020200901580888447941.jpg" alt="1949��������ܣ�Ϊ��ѡ������̨�壿ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/thxkt/202009/t20200901_12293390.htm" target="_blank" title="1949��������ܣ�Ϊ��ѡ������̨�壿">1949��������ܣ�Ϊ��ѡ������̨�壿</a></h2>
+        </li>
+        
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/thxkt/201911/t20191114_12218116.htm" target="_blank"><img src="http://v.taiwan.cn/thxkt/201911/W020191114571071269113.jpg" alt="�����ڣ�Ϊʲô˵��һ�����ơ��չ˵���̨���������棿ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/thxkt/201911/t20191114_12218116.htm" target="_blank" title="Ϊʲô˵��һ�����ơ��չ˵���̨���������棿">Ϊʲô˵��һ�����ơ��չ˵���̨���������棿</a></h2>
+        </li>
+        
+        <li class="list-item sub-item left">
+          <a href="http://v.taiwan.cn/thxkt/202009/t20200901_12293387.htm" target="_blank"><img src="http://v.taiwan.cn/thxkt/202009/W020200901580881926699.jpg" alt="1958�ڻ����ŵ�ǰǰ���ͼƬ"/></a>
+          <h2 class="list-item-title double-lines"><a href="http://v.taiwan.cn/thxkt/202009/t20200901_12293387.htm" target="_blank" title="1958�ڻ����ŵ�ǰǰ���">1958�ڻ����ŵ�ǰǰ���</a></h2>
+        </li>
+        
+        
+      </ul>
+    </div>
+    <!-- grp3_end -->
+  </div>
+  <!-- part8_end -->
+</div>
+<!--main_end-->
+<!-- funcs_begin -->
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/globalLib_min.js"></script>
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/globalLib_extend_min.js"></script>
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/mPlayer_index_min.js"></script>
+<script type="text/javascript" src="http://ats.taiwan.cn/homepage2021/js/mPlayer_ini.js"></script>
+<script type="text/javascript">
+globalLib.transChecker(".header .languages .list-item:nth-of-type(3)");
+globalLib.transChecker(".header .languages .mobile");
+globalLib.screenTopChecker("body",".stTop","top");
+// globalLib.ringStructure("#preBtn","#nextBtn",".part2 .imgs .list-item","endNext","startPre",".part2 .imgs .list",".part2 .imgs");
+globalLib.mapping(".part5 .tab-desc .format",".part5 .tab","activated","single","mouseover");
+globalLib.hCalc(".part4 .type1.hCalc .list",".hCalc-item",181);
+globalLib.hCalc(".part4 .type2.hCalc.hc1",".hCalc-item",324);
+globalLib.hCalc(".part4 .type2.hCalc.hc2",".hCalc-item",138);
+</script>
+<!-- funcs_end -->
+<!--associations _begin-->
+<div class="associations">
+  <div class="wrap">
+    <h3 class="zone-desc">��������</h3>
+    <ul class="list clearfix">
+      <li class="list-item alt"><a href="http://tailian.taiwan.cn/" target="_blank">�л�ȫ��̨��ͬ�������</a></li>
+      <li class="list-item"><a href="http://agri.taiwan.cn/" target="_blank">��Ͽ����ũҵ������</a></li>
+      <li class="list-item"><a href="http://haiyi.taiwan.cn/" target="_blank">��Ͽ����ҽҩ���������������</a></li>
+      <li class="list-item"><a href="http://www.qgtql.com/" target="_blank">ȫ��̨��ͬ��Ͷ����ҵ�����</a></li>
+      <li class="list-item alt"><a href="http://www.zhongguotongcuhui.org.cn/" target="_blank">�й���ƽͳһ�ٽ���</a></li>
+      <li class="list-item"><a href="http://www.huangpu.org.cn/" target="_blank">���Ҿ�Уͬѧ��</a></li>
+      <li class="list-item"><a href="http://www.taiwan.cn/hxlt/" target="_blank">��Ͽ��̳</a></li>
+      <li class="list-item"><a href="http://www.js.taiwan.cn/zijinshan/" target="_blank">������ҵ�ҷ��</a></li>
+      <li class="list-item"><a href="http://www.twtxh.org.cn/" target="_blank">̨��ͬѧ��</a></li>
+      <li class="list-item"><a href="http://fjtl.taiwan.cn/" target="_blank">����̨��֮��</a></li>
+      <li class="list-item"><a href="http://www.lutaihui.taiwan.cn" target="_blank">³̨��óǢ̸��</a></li>
+    </ul>
+  </div>
+</div>
+<!--associations_end-->
+<!--links_begin-->
+<div class="links">  
+  <h3 class="zone-desc">��������</h3>
+  <div class="wrap">
+    <ul class="list clearfix">
+      
+      <li class="list-item f14"><a href="http://www.gov.cn" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.gwytb.gov.cn" target="_blank" title="��̨��">��̨��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.arats.com.cn/" target="_blank" title="��Ͽ������ϵЭ��">��Ͽ������ϵЭ��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.cac.gov.cn/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.scio.gov.cn" target="_blank" title="���°�">���°�</a></li>
+      
+      <li class="list-item f14"><a href="http://www.mfa.gov.cn" target="_blank" title="�⽻��">�⽻��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.ccdi.gov.cn/" target="_blank" title="�����ί��첿">�����ί��첿</a></li>
+      
+      <li class="list-item f14"><a href="http://www.siec.taiwan.cn/" target="_blank" title="��Ͽ��������������ίԱ��">��Ͽ��������������ίԱ��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.people.com.cn/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.xinhuanet.com/" target="_blank" title="�»���">�»���</a></li>
+      
+      <li class="list-item f14"><a href="http://www.china.com.cn/" target="_blank" title="�й���">�й���</a></li>
+      
+      <li class="list-item f14"><a href="http://gb.cri.cn/" target="_blank" title="��������">��������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.chinadaily.com.cn/" target="_blank" title="�й��ձ���">�й��ձ���</a></li>
+      
+      <li class="list-item f14"><a href="https://www.cctv.com/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.youth.cn/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.ce.cn/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.tibet.cn/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.cnr.cn/" target="_blank" title="�����">�����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.gmw.cn/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.chinanews.com/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.workercn.cn/" target="_blank" title="�й���">�й���</a></li>
+      
+      <li class="list-item f14"><a href="https://www.kepuchina.cn/" target="_blank" title="�����й���">�����й���</a></li>
+      
+      <li class="list-item f14"><a href="https://www.chinacourt.org/index.shtml" target="_blank" title="�й���Ժ��">�й���Ժ��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.zhgpl.com/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.wenming.cn/" target="_blank" title="�й�������">�й�������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.chbcnet.com/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.cankaoxiaoxi.com/" target="_blank" title="�ο���Ϣ">�ο���Ϣ</a></li>
+      
+      <li class="list-item f14"><a href="http://its.taiwan.cssn.cn/" target="_blank" title="���Ժ̨����">���Ժ̨����</a></li>
+      
+      <li class="list-item f14"><a href="http://tyh.taiwan.cn/" target="_blank" title="ȫ��̨�л�">ȫ��̨�л�</a></li>
+      
+      <li class="list-item f14"><a href="http://www.qgtql.com/" target="_blank" title="ȫ��̨����">ȫ��̨����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.tailian.org.cn/" target="_blank" title="̨��֮��">̨��֮��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.eastday.com/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.qianlong.com/" target="_blank" title="ǧ����">ǧ����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.legaldaily.com.cn/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.rmzxb.com.cn/index.shtml" target="_blank" title="������Э��">������Э��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.fjsen.com/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.itaiwannews.cn/" target="_blank" title="��Ͽ�ɺ�">��Ͽ�ɺ�</a></li>
+      
+      <li class="list-item f14"><a href="http://www.huaxia.com/" target="_blank" title="���ľ�γ��">���ľ�γ��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.hellotw.com/" target="_blank" title="���̨����">���̨����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.sina.com.cn/" target="_blank" title="������">������</a></li>
+      
+      <li class="list-item f14"><a href="http://www.sohu.com/" target="_blank" title="�Ѻ���">�Ѻ���</a></li>
+      
+      <li class="list-item f14"><a href="http://www.qq.com/" target="_blank" title="��Ѷ��">��Ѷ��</a></li>
+      
+      <li class="list-item f14"><a href="http://www.163.com/" target="_blank" title="����">����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.ifeng.com/" target="_blank" title="�����">�����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.zhongguotongcuhui.org.cn/" target="_blank" title="�й�ͳ�ٻ�">�й�ͳ�ٻ�</a></li>
+      
+      <li class="list-item f14"><a href="http://www.k618.cn/" target="_blank" title="δ����">δ����</a></li>
+      
+      <li class="list-item f14"><a href="http://www.taiwan.cn/link/link_coop/2021gengduo/" target="_blank">����</a></li>
+    </ul>
+  </div>
+</div>
+<!--links_end-->
+<!-- footer_begin -->
+<div class="footer">
+  <div class="wrap clearfix">
+    <div class="left clearfix">
+      <img class="gshIcon" src="http://ats.taiwan.cn/homepage2021/images/gshicon.png" />
+      <p class="left clearfix">
+        <a class="format" href="https://beian.miit.gov.cn/" target="_blank">��ICP��13026587��-3</a>
+        <a class="format" href="https://beian.miit.gov.cn/" target="_blank">��ICP֤130248��</a>
+        <span class="format">����������110102003391 ���紫��������Ŀ���֤0107219��</span>
+      </p>
+      <p class="left clearfix">
+        <a class="format2" href="http://www.taiwan.cn/gywm/200905/t20090505_886770.htm" target="_blank">��������</a>
+        <a class="format2" href="http://www.taiwan.cn/zzsq/200708/t20070803_438962.htm" target="_blank">ת������</a>
+        <a class="format2" href="http://www.taiwan.cn/2021/sywhq_62090/2021gonggao/" target="_blank">������</a>
+        <a class="format2" href="http://www.taiwan.cn/lx/200709/t20070905_449642.htm" target="_blank">��ϵ����</a>
+        <a class="format2" href="http://www.taiwan.cn/zzsq/201811/t20181121_12114577.htm" target="_blank">��Ȩ����</a>
+        <a class="format2" href="http://www.taiwan.cn/lx/201801/t20180119_11909120.htm" target="_blank">Υ���Ͳ�����Ϣ�ٱ��绰��86-10-53610172</a>
+      </p>
+    </div>
+    <div class="left">
+      <a class="jbtel" href="http://www.12377.cn/" target="_blank">Υ���Ͳ�����Ϣ�ٱ��绰</a>
+    </div>
+  </div>
+</div>
+<!-- footer_end -->
+<!-- ͳ�ƴ���_begin -->
+<div style="display:none">
+<!--�ٶ�_begin-->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ca9d4832677566b69c3e115b744cdbc' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!--�ٶ�_end-->
+</div>
+<!-- ͳ�ƴ���_end -->
+</body>
+</html>

@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>2021年审计师报考流程_审计师考试报名流程-高顿教育</title>
+    <meta name="description" content="审计师报考流程，2021年审计师报考流程已经发布，您可通过高顿教育首页导航“报考指南”栏目查看。">
+    <meta name="applicable-device" content="pc">
+	<meta name="mobile-agent" content="format=xhtml; url=https://m.gaodun.com/sjs/bkzn/baomingtiaojian.html">
+	<meta name="mobile-agent" content="format=html5; url=https://m.gaodun.com/sjs/bkzn/baomingtiaojian.html">
+	<link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.gaodun.com/sjs/bkzn/baomingtiaojian.html">
+	<!--对应移动跳转start-->
+	<script type="text/javascript">
+			// JavaScript Document
+		function browserRedirect(url) {
+				//只读的字符串，声明了浏览器用于 HTTP 请求的用户代理头的值
+			var sUserAgent = navigator.userAgent.toLowerCase();
+			var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+			var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+			var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+			var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+			var bIsAndroid = sUserAgent.match(/android/i) == "android";
+			var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+			var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+			if(bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+					window.location.replace(url);
+				}
+			}
+	</script>
+	<script type="text/javascript">
+		browserRedirect("https://m.gaodun.com/sjs/bkzn/baomingtiaojian.html");
+	</script>
+    <link href="style/public.css" rel="stylesheet" type="text/css">
+    <link href="style/css.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="js/jquery-1.9.0.js"></script>
+    <script type="text/javascript" src="js/js.js"></script>
+</head>
+<body>
+    <div class="warp">
+    	<div class="banner">
+        	<div class="center">
+            	<div class="logo"><a href="https://sjs.gaodun.com/"><img src="images/logo.png" /></a></div>
+            	<div class="banner-1"><img src="images/banner_1.png" /></div>
+                <div class="source">本内容由高顿教育整理发布</div>
+            </div>
+        </div>
+        <div class="contaniner center">
+        	<div class="clearfix">
+                <div class="left">
+                    <div class="left-title"><a href="index.html">审计师考试简介</a></div>
+                                        <div class="slide">
+                        <ul>
+                            <li class="slideItem on">
+                                <div class="slideHead">审计师报名</div>
+                                <div class="slideBody">
+                                    <ul>
+                                    	<li><a href="baomingtiaojian.html">审计师报名条件</a></li>
+                                        <li><a href="baomingshijian.html">审计师报名时间</a></li>
+										<li><a href="baomingrukou.html">审计师报名入口</a></li>
+                                        <li><a href="baomingliucheng.html">审计师报名流程</a></li>
+                                        <li><a href="baomingyiwen.html">审计师报名常见问题</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="slideItem">
+                                <div class="slideHead">审计师准考证打印</div>
+                                <div class="slideBody">
+                                    <ul>
+                                        <li><a href="dayinshijian.html">审计师准考证打印时间</a></li>
+                                        <li><a href="dayinrukou.html">审计师准考证打印入口</a></li>
+										<li><a href="dayinliucheng.html">审计师准考证打印流程</a></li>
+										<li><a href="dayinyiwen.html">准考证打印常见问题</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="slideItem">
+                                <div class="slideHead">审计师考试</div>
+                                <div class="slideBody">
+                                    <ul>
+                                        <li><a href="kaoshishijian.html">审计师考试时间</a></li>
+										<li><a href="kaoshidagang.html">审计师考试大纲</a></li>
+                                        <li><a href="kaoshikemu.html">审计师考试科目</a></li>
+                                        <li><a href="kaoshifangshi.html">审计师考试方式</a></li>
+                                        <li><a href="kaoshitixing.html">审计师考试题型</a></li>
+                                        <li><a href="kaoshiyuejuanshuoming.html">审计师考试阅卷方式</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="slideItem">
+                                <div class="slideHead">审计师成绩</div>
+                                <div class="slideBody">
+                                    <ul>
+                                        <li><a href="chengjichaxunshijian.html">审计师成绩查询时间</a></li>
+										<li><a href="chengjichaxunrukou.html">审计师成绩查询入口</a></li>
+										<li><a href="chengjichaxunliucheng.html">审计师成绩查询流程</a></li>
+                                        <li><a href="chengjihegebiaozhun.html">审计师成绩合格标准</a></li>
+                                        <li><a href="chengjihegebiaozhun-teshu.html">特殊地区成绩合格标准</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+							<li class="slideItem">
+							    <div class="slideHead">审计师证书</div>
+							    <div class="slideBody">
+							        <ul>
+							            <li><a href="zhengshulingqushijian.html">审计师证书领取时间</a></li>
+										<li><a href="zhengshulingqufangshi.html">审计师证书领取方式</a></li>
+							            <li><a href="zhengshulingquliucheng.html">审计师证书领取流程</a></li>
+							            <li><a href="zhengshulingqucailiao.html">审计师证书领取的材料</a></li>
+							            <li><a href="zhengshuyouxiaoqi.html">审计师证书有效期</a></li>
+							            <li><a href="zhengshuguanli.html">审计师证书管理</a></li>
+							        </ul>
+							    </div>
+							</li>
+                            <li class="slideItem"><div class="slideLink"><a href="https://d.gaodun.com/f/9bu7vi?x_field_1=PCbkzn" rel="nofollow"  target="_blank">审计师资料下载</a></div></li>
+                        </ul>
+                    </div>
+                    <div class="erweima">
+                    	<img src="images/weixin.jpg"/>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="main main1">
+                        <div class="title">
+                            <span>审计师考试报名流程</span>
+                            <ul>
+                                <li>更新时间：<i>2021-02-18</i></li>
+                                <li>责编：<i>smile</i></li>
+                            </ul>
+                      </div>
+                        <div class="condi-txt">
+							<p>根据人力资源社会保障部办公厅《关于2020年度专业技术人员职业资格考试计划及有关事项的通知》（人社厅发〔2019〕118号）要求，自2020年度起，“审计考试管理平台”登录入口（包括考试报名、准考证打印、查分等工作），<code>停止使用“审计数字在线网”的登陆入口</code>，统一变更到<code>审计署门户网站（www.audit.gov.cn）导航栏“公共服务”下的“审计考试”栏目进行。</code></p>
+							</br>
+							<p><strong>为保证您报名顺利，请您按以下流程进行操作：</strong></p>
+							</br>
+							<p><strong>1.阅读报名须知、报名条件和报名流程</strong></p>
+							<p>报考人员进入报名网站后，应仔细阅读“报名须知”，了解报名“常见问题”、“报名条件”和“报名流程”，详细了解掌握报名政策和具体要求，做好各项报名资料准备工作。</p>
+							</br>
+							<p><strong>2.注册用户</strong></p>
+							<p>为了保证报名信息的安全性，报考人员需注册后才可进行网上报名操作，考生注册信息中的姓名、身份证号将引用到报名信息中，请务必保证信息正确。</p>
+							</br>
+							<p><strong>3.填写报名信息</strong></p>
+							<p>报考人员登录到报名界面，选择报名地点“XX省(市)”，阅读XX省(市)报考需知，按照报名系统提示，真实、准确填写本人报名信息。</p>
+							</br>
+							<p><strong>4.上传电子照片</strong></p>
+							<p>报考人员应当按照报名系统提示，上传符合规定的本人电子证件照片。具体要求是：</p>
+							<p>(1)本人近三个月内的正面、免冠、彩色(蓝、红、白色底)电子证件照片。照片必须清晰完整，显露双肩、双耳、双眉，不得佩戴首饰。</p>
+							<p>(2)电子照片标准尺寸为413像素(宽)×626像素(高)，文件类型为jpg格式，大小为40KB≤文件大小≤512KB。</p>
+							<p>(3)报考人员可参照网上报名平台上的《电子照片制作文档》，编辑提交符合规定格式和文件大小的照片。</p>
+							<p>(4)不得对照片内容进行拉伸、液化等ps操作，不得上传全身照、风景照、生活照、背带(吊带)衫照、艺术照、侧面照、不规则手机照等。</p>
+							<p>(5)报名人员上传的电子证件照片将作为准考证等唯一使用的照片，请务必按要求上传，妥善保管。</p>
+							</br>
+							<p><strong>5.打印考试资格申报表</strong></p>
+							<p>报考人员在确保填报信息无误后，需要下载并打印《审计专业技术资格考试申报表》。报考人员点击下载申报表后，报名信息就不能更改，报考人员需要仔细核对后再进行下载报名申报表操作。</p>
+							</br>
+							<p><strong>6.现场资格审核和缴费</strong></p>
+							<p>报考人员持学历证书，身份证，初、中级资格证书原件，本人单位审核批准的《审计专业技术资格考试申报表》<code>(有些省、市需要2张，具体请严格按照各省、市报考规定执行)</code>，于<code>规定期限内</code>到当地报名点进行资格审核，经资格审查合格后缴费。</p>
+							<p><strong><code>关于资格审核：</code></strong></p>
+							<p><code>自审：</code>在《资格考试报名表》“承诺人签名”栏内签署本人姓名，在《告知承诺书》签名，进行真实性承诺。《资格考试报名表》、《告知承诺书》一同存入个人人事档案。</p>
+							<p><code>初审：</code>所在单位在《资格考试报名表》中“单位意见”栏内签署“初审合格”意见并盖章。</p>
+							<p><code>复审：</code>成绩公布后进行！具体关注各地通知公告。</p>
+							</br>
+							<p><strong>7.查看报名情况</strong></p>
+							<p>报考人员通过现场审核并缴费后，请<code>务必</code>登录审计师考试管理平台，查询我的报名状态，查看报名情况栏是否为<code>“审核通过、已缴费”</code>字样。</p>
+							</br>
+							<p><strong>8.网上下载打印准考证</strong></p>
+							<p>网上报名成功人员可在规定时间内，登录全国审计师考试管理平台(http://www.icnao.cn/auditexam)自行下载打印准考证(彩色、黑白打印均可)，自行打印的准考证务必清晰，能够准确识别面部特征以及相关信息。报考人员凭准考证和有效身份证件参加考试。</p>
+                        </div>
+                    </div>                   
+                </div>
+            </div>
+            <div class="calendar center">
+            	<div class="calendar-title">2021年审计师考试日历</div>
+                <div class="calendar-cont">
+                	<ul>
+                    	<li><span><a href="baomingshijian.html">报名时间</a></span>
+                    	<p>5月25日-6月19日</p>
+                    	</li>
+                    <!--<li><span><a href="kaoshidagang.html">考试大纲</a></span>
+						<p>已于4月30日发布</p>
+						</li>-->
+                    	<li><span><a href="dayinshijian.html">准考证打印</a></span>
+						<p>9月27日至30日</br>10月9日至11日</p>
+						</li>
+                    	<li><span><a href="kaoshishijian.html">参加考试</a></span>
+                    	<p>10月11日</p>
+                    	</li>
+                    	<li><span><a href="chaxunshijian.html">成绩查询</a></span>
+						<p>12月11日前公布</p>
+						</li>
+                    	<li><span><a href="zhengshulingqu.html">成绩复核申诉</a></span>
+						<p>自成绩公布之日起30日内</p>
+						</li>
+						<li><span><a href="zhengshulingqu.html">证书领取</a></span>
+						<p>以各地公告为准</p>
+						</li>
+                    </ul>
+                    <div class="calendar-lcon"><img src="images/calendar-lcon.png" /></div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-bom">
+            	<div class="center">
+                	<div class="footer-link">
+                        <a rel="nofollow" href="http://www.miitbeian.gov.cn/" rel="nofollow" target="_blank">沪ICP备 14038153号</a>
+                        <a rel="nofollow" href="https://credit.cecdc.com/CX20140319003623003662.html" rel="nofollow" target="_blank">诚信网站</a>
+                        <a rel="nofollow" href="https://ss.knet.cn/verifyseal.dll?sn=a13022831010039322c6ve000000&comefrom=trust&trustKey=dn&trustValue=www.gaodun.cn" rel="nofollow" target="_blank">可信网站</a>
+                        <a rel="nofollow" href="http://si.trustutn.org/info?sn=927160811023695496826&certType=1" rel="nofollow" target="_blank">实名网站认证</a>
+                        <a rel="nofollow" href="https://v.anquan.org/cert/site/?site=www.gaodun.com&at=business" rel="nofollow" target="_blank">安全联盟认证</a>
+                        <a rel="nofollow" href="http://www.shjbzx.cn/" rel="nofollow" target="_blank">上海市互联网举报中心</a>
+                        <a rel="nofollow" href="http://www.zx110.org/" rel="nofollow" target="_blank">网络社会证信网</a>
+                        <a rel="nofollow" href="https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=1atr5hendjiu232trv8vb6qred7d9ymsc1d1xry7wipcl9h2qb" rel="nofollow" target="_blank">上海工商</a>
+                        <a rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010902001351" rel="nofollow" target="_blank">沪公网安备31010902001351号</a>
+                        <a rel="nofollow" href="https://credit.cecdc.com/CX20170620038863810881.html" rel="nofollow" target="_blank">互联网3.15产品监督认证     沪B2-20160190     广播电视节目制作经营许可证</a>
+                    </div>
+                    <p>Copyright © 2006-2020 高顿教育, All Rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+	<script language="javascript" src="https://kf.gaodun.com/JS/gaodun.com.js?siteid=KEV39534957&lng=cn"></script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><!-- 360安全游览器使用webkit极速核 --><meta name="renderer" content="webkit" /><!-- IE使用它支持的最高模式 --><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="创世中文网网络各界小说高手,每日更新小说连载,小说排行榜更是提供全网最收欢迎的小说下载,当下最好看的小说,如言情小说.穿越小说.玄幻小说等.找最好看的免费小说就来创世中文网."/><meta name="keywords" content="小说,小说排行榜,免费小说下载,好看的小说"/><link rel="shortcut icon" type="image/x-icon" href="http://img1.chuangshi.qq.com/account/p1/ico/bookqq.ico"/><link rel="Bookmark" type="image/x-icon" href="http://img1.chuangshi.qq.com/account/p1/ico/bookqq.ico"/><title>小说_小说排行榜_免费小说下载网_好看的小说网络尽在创世中文网</title><link rel="stylesheet" type="text/css" href="http://sta1.chuangshi.qq.com/account/0628162338/css/merge/base.css" /><script type="text/javascript" src="http://sta1.chuangshi.qq.com/account/0628162338/js/merge/base.js"></script><!-- prevent dom xss --><script type="text/javascript" src="http://js.aq.qq.com/js/aq_common.js"></script><script type="text/javascript">        $(function(){
+            var webSite = "account";
+
+            var getLoginStatusAjaxUrl = "http://book.qq.com/ywlogin/getStatus.html",
+                sendYWLoginStatusAjaxUrl = "http://book.qq.com/ywlogin/logined.html",
+                logoutYWSsoAjaxUrl = "http://account.book.qq.com/public/logout.html",
+                checkTokenAjaxUrl = "/api/checkTokenYw.html";
+
+            //未登录时，更新登录状态
+            CS.ssoLogin.init(getLoginStatusAjaxUrl,sendYWLoginStatusAjaxUrl, logoutYWSsoAjaxUrl, checkTokenAjaxUrl, webSite);
+            CS.ssoLogin.getLoginStatus();
+
+            //页面特定链接/按钮点击分析
+            $.getScript("http://pingjs.qq.com/tcss.ping.js");
+        });
+    </script></head><link rel="stylesheet" type="text/css" href="http://sta1.chuangshi.qq.com/account/0628162338/css/merge/userLayout.css" /><link rel="stylesheet" type="text/css" href="http://sta1.chuangshi.qq.com/account/0628162338/css/merge/author.css" /><body><div class="sakura_bg"><!-- 顶部导航 --><div id="topNav" class="top_nav" style="background-color:#575757;"></div><!-- 顶部导航模板 --><textarea id="topNavBarTpl" style="display:none;"><div class="top_nav_center cf" ><div class="toolbar"><a attr="inner:toggleSiteListBtn;" class="qqSite" href="http://book.qq.com" target="_blank">腾讯文学</a><span class="navline">|</span><a attr="click:addFavorite;" class="favorite" href="javascript:">一键收藏</a><div attr="inner:siteListDropdown;" class="navDownLoad"><a class="downStar" href="http://www.qq.com/" onclick="pgvSendClick({hottag:'ISD.SHOW.INDEX.LINK01'});" target="_blank">腾讯网首页</a><a class="downStar" href="https://yuedu.reader.qq.com/common/common/down/dist/index.html?actid=11822" target="_blank">客户端下载</a><!-- <a class="downAn" href="http://book.qq.com/act/reader/index.html" target="_blank">安卓端下载</a> --></div></div><div class="loginbar"><%if isLogin%><span class="login_after"><a class="login user" href="/usercenter/index.html">                        欢迎您，<i><%=userInfo.Nickname ? userInfo.Nickname : ''%></i></a><a class="exit" attr="click:ywlogout;" href="/public/logout.html">退出</a><span class="navline">|</span></span><a attr="inner:toggleBookshelfBtn;" class="myreader" href="/userfavorite/index.html">我的书架</a><%else%><span class="login_before"><a attr="click:openLoginPopup;" class="login current btnpoplogin" href="javascript:;">登录/注册</a><!-- <a class="reg" target="_blank" href="http://zc.qq.com/chs/index.html?from=pt">注册</a> --><span class="navline">|</span></span><a attr="inner:toggleRecentReadBtn;" class="myreader" href="javascript:">最近阅读</a><%/if%><a attr="inner:toggleUserCenterBtn;" class="user_center" href="/usercenter/index.html">个人中心</a><a class="pay" href="/usermoney/index.html">充值</a><span class="navline">|</span><a attr="inner:toggleChannelBtn;" class="more_nav" href="javascript:">导航</a><!-- 书架下拉菜单 --><div attr="inner:bookshelfDropdown;" class="bookrack"><%if isLogin%><p><span class="ccc">藏书：</span><span><%=userInfo.collectBookNum ? userInfo.collectBookNum : 0%></span>本
+                    </p><div class="nav_hover_list cf"><a href="/userfavorite/index.html?bookshelf_show=2">最近阅读</a><span class="booktags"><%if userInfo.bookshelfList && userInfo.bookshelfList.length%><%each userInfo.bookshelfList as bookshelf i%><a href="/userfavorite/index.html?Favoriteid=<%=bookshelf.groupId%>"><%=bookshelf.groupName%></a><%/each%><%/if%></span></div><%else%><div class="nav_hover_list cf"><span class="booktags"><%if userInfo.recentReadList && userInfo.recentReadList.length%><%each userInfo.recentReadList as book i%><a href="<%=book.bookUrl%>"><%=book.bookName%></a><%/each%><%else%>                                没有阅读作品
+                            <%/if%></span></div><%/if%></div><!-- 用户中心下拉菜单  --><div attr="inner:userCenterDropdown;" class="user_menu"><div class="nav_hover_list cf"><a href="/userfavorite/index.html">我的书架</a><a href="/usercenter/index.html">账户设置</a><a class="a_nobg" href="/usermoney/index.html">账务中心</a><a class="a_nobg" target="_blank" href="https://write.qq.com/?siteid=3">作家专区</a></div></div><!-- 导航下拉菜单 --><div attr="inner:channelDropdown;" class="more_box"><div class="nav_hover_list cf"><a href="http://chuangshi.qq.com/bk/huan/" title="玄幻·奇幻">玄幻·奇幻</a><a href="http://chuangshi.qq.com/bk/xia/" title="武侠·仙侠">武侠·仙侠</a><a href="http://chuangshi.qq.com/bk/chun/" title="都市·职场">都市·职场</a><a href="http://chuangshi.qq.com/bk/shi/" title="历史·军事">历史·军事</a><a href="http://chuangshi.qq.com/bk/you/" title="游戏·竞技">游戏·竞技</a><a href="http://chuangshi.qq.com/bk/ke/" title="科技·灵异">科技·灵异</a><a href="http://chuangshi.qq.com/bk/tong/" style="width:37px;" title="同人">同人</a><a style="width:1px; margin-left:-6px;">·</a><a href="http://chuangshi.qq.com/bk/duan/" style="width:37px;" title="短篇">短篇</a><a href="http://chuangshi.qq.com/bk/yan/" title="女生·言情">女生·言情</a><a href="http://chuangshi.qq.com" style="width:37px;" title="首页">首页</a><a style="width:1px; margin-left:-6px;">·</a><a href="http://chuangshi.qq.com/bk/" title="书库" style="width:37px;">书库</a></div></div><%if isLogin%><div id="pointy_msg"></div><div id="topnav_msg"><a class="red" href="/usermessage/index.html">有新短消息</a></div><%/if%></div></div></textarea><script type="text/javascript">    var getUserInfoAjaxUrl = "/public/showhead.html", //获取用户信息
+        getUserNewMsgUrl = "/usermessage/getMessageNew.html";
+
+    var webSite = "account";
+    var getLoginStatusAjaxUrl = "http://book.qq.com/ywlogin/getStatus.html",
+        sendYWLoginStatusAjaxUrl = "http://book.qq.com/ywlogin/logined.html",
+        logoutYWSsoAjaxUrl = "http://account.book.qq.com/public/logout.html",
+        checkTokenAjaxUrl = "/api/checkTokenYw.html";
+
+    $(function () {
+        //初始化顶部导航
+        CS.topNav.init(getUserInfoAjaxUrl, function(){
+            //获取用户新消息
+            CS.userMsg.init(getUserNewMsgUrl);
+        });
+        //未登录时，更新登录状态
+        CS.ssoLogin.init(getLoginStatusAjaxUrl,sendYWLoginStatusAjaxUrl, logoutYWSsoAjaxUrl, checkTokenAjaxUrl, webSite);
+        CS.ssoLogin.getLoginStatus();
+    });
+
+</script><div class="wrap"><div class="top_nav2"><div class="mainnav">&nbsp;<a href="http://chuangshi.qq.com" title="首页">首页</a>&nbsp;<a href="http://chuangshi.qq.com/about/questions_newuser.html" title="帮助">帮助</a></div><div class="topline"></div></div><div class="personal_logo cf"><a class="logo3" href="/usercenter/index.html">个人中心LOGO</a><div class="personal_topnav"><h1><a class="my_home" href="/usercenter/index.html">我的主页</a></h1><h1><a class="my_account" href="/usercenter/personalinfo.html">账户设置</a></h1><h1><a class="p_msg" href="/usermessage/index.html">短信</a></h1><h1><a id="searchType" type='chuangshi' class="p_nav_tit" href="javascript:">创世</a></h1><input id="searchInput" type="text" class="sinput gray p_searchinput" name="" value="" autocomplete="off" def=""/><a id="searchBtn" class="search_btn p_searchbtn" href="javascript:">搜 索</a><div class="nav_newmsg"></div><!--搜索下拉小菜单--><div id="searchTypeDropdown" class="nav_tit_sub"><a class="search_1" href="javascript:" type='chuangshi'>创世</a><a class="search_1" href="javascript:" type="yunqi">云起</a><a class="search_1" href="javascript:" type="dushu">图书</a></div><script type="text/javascript" src="http://sta1.chuangshi.qq.com/account/0628162338/js/merge/searchInput.js"></script><script type="text/javascript">    var searchResultUrlList = {
+        'chuangshi': "http://chuangshi.qq.com/search/searchindex?type=all&wd=$val$",
+        'yunqi': "http://yunqi.qq.com/search/searchindex?type=all&wd=$val$",
+        'dushu': "http://dushu.qq.com/search/index/wd/$val$"
+    };      
+
+    $(function(){
+        //初始化搜索框
+        CS.searchInput.init(searchResultUrlList, 'p_navtit_hover');
+    });
+</script></div></div><div class="personal_wrap cf"><!--左边侧栏--><div class="personal_left"><div class="personalbox"><div class="friend_home_info"><img class="f_headphoto" src="http://img1.chuangshi.qq.com/account/p1//head_photo/default-avatar.png" /><p>书友1952376985<img class="sex_img" src="http://img1.chuangshi.qq.com/account/p1/ico/gg.gif" width="16" height="21" /></p><p class="f_level"><a href="/usermember/index/show/1.html"><img src="http://img1.chuangshi.qq.com/account/p1/ico/user/rank9.png" width="30" height="18" /></a><a href="/usermember/index/show/2.html"><img src="http://img1.chuangshi.qq.com/account/p1/ico/VIP/0.png" width="30" height="18" /></a></p><p class="reg_timer gray">注册时间：2017-05-17</p><p class="fri_ctrl cf" style="padding-left:45px;"><a class="send_letter gray" href="/usermessage/index.html?friend_name=书友1952376985" >发送私信</a><a class="add_f_btn gray" href="javascript:" style="display:none;">加为好友</a></p></div></div></div><div class="personal_main"><div id="mainTabList" class="main_h1tab"><h1 class="cf"><span class='f_booklist main_current'><a href="http://account.book.qq.com/bk/author/AD1QPwdqWWpcNgtqV2hTZQA8WzNQPwNg" title="书架">书架</a></span><b class="one_line">|</b><span class='f_bookshelf '><a href="http://account.book.qq.com/bk/author/1/AD1QPwdqWWpcNgtqV2hTZQA8WzNQPwNg.html" title="作品">作品( <em>4</em> )</a></span></h1></div><!-- 主要内容的页签 --><div id="mainContentList" class="main_tab_wrap"><!-- 书架 --><div id="collectBookList" class="hot_list"><a id="showAllCollectBooksBtn" rel="nofollow" class="gray Favoritetag_a" href="javascript:" friendid="AD1QPwdqWWpcNgtqV2hTZQA8WzNQPwNg"><b class='gray3'>[全部藏书]</b></a><div id="friend_bookshelf"></div><div id="pager" class="pagectrl ctrlright f_pagectrl cf"></div></div></div><!--主要内容的列表--><div class="f_work_assess"></div></div><div class="personal_right"><!--为您推荐--><div class="rec_your"><h1>为您推荐</h1><ul class="rec_your_list"><li><a href="http://chuangshi.qq.com/bk/xh/33216093.html" rel="nofollow" target="_blank"><img src="//wfqqreader-1252317822.image.myqcloud.com/cover/93/33216093/t5_33216093.jpg" height="150" width="120"></a><h3><span><a href="http://chuangshi.qq.com/bk/xh/" rel="nofollow" target="_blank" class="gray2">[玄幻]</a></span><a href="http://chuangshi.qq.com/bk/xh/33216093.html" rel="nofollow" target="_blank" class="gray3">万界试炼场只有我知道剧情</a></h3><p><a href="http://chuangshi.qq.com/bk/xh/33216093.html" rel="nofollow" target="_blank" class="gray"></a></p></li><li><a href="http://chuangshi.qq.com/bk/xh/33422452.html" rel="nofollow" target="_blank"><img src="//wfqqreader-1252317822.image.myqcloud.com/cover/452/33422452/t5_33422452.jpg" height="150" width="120"></a><h3><span><a href="http://chuangshi.qq.com/bk/xh/" rel="nofollow" target="_blank" class="gray2">[玄幻]</a></span><a href="http://chuangshi.qq.com/bk/xh/33422452.html" rel="nofollow" target="_blank" class="gray3">长夜余火</a></h3><p><a href="http://chuangshi.qq.com/bk/xh/33422452.html" rel="nofollow" target="_blank" class="gray"></a></p></li></ul></div></div><script type="text/javascript" src="http://sta1.chuangshi.qq.com/account/0628162338/js/merge/friend_index.js"></script><script type="text/javascript">    var friendId = "AD1QPwdqWWpcNgtqV2hTZQA8WzNQPwNg",
+        getFriendBookshelfAjaxUrl = "/friend/getFriendBookShelf.html";
+
+    $(document).ready(function() {
+        CS.page.friend.index.init(friendId, getFriendBookshelfAjaxUrl);
+    });
+</script></div><div class="footer"><div class="foot_nav"><a href="http://chuangshi.qq.com/about/about_us.html" target="_blank">关于我们</a><span>|</span><a target="_blank" href="http://account.book.qq.com/usermember/author.html" target="_blank">作者投稿</a><span>|</span><a href="http://chuangshi.qq.com/about/join_us.html" target="_blank">诚聘英才</a><span>|</span><a href="https://passport.yuewen.com/pact.html?mobile=0" target="_blank">服务协议</a><span>|</span><a href="http://chuangshi.qq.com/public/banquan.html" target="_blank">版权声明</a><span>|</span><a href="http://chuangshi.qq.com/about/questions_newuser.html" target="_blank">用户指南</a><span>|</span><a href="http://chuangshi.qq.com/about/contact_us.html" target="_blank">联系我们</a></div><div class="foot_copy_right"><p>            Copyright (C) 2021 chuangshi.qq.com All Rights Reserved 上海阅文信息技术有限公司 版权所有
+            <a class="gray" href="http://yun.qq.com" target="_blank">本网站由腾讯云提供服务器和带宽支持</a></p><p>粤府新函[2001]87号 粤网文[2011]0483-070号 网络视听许可证1904073号 网站备案/许可证号：<a style="border-right: 0 solid #CCC;" href="http://beian.miit.gov.cn/publish/query/indexFirst.action" rel="noreferrer" target="_blank">粤B2-20090059 B2-20090028</a></p></div><div id="icp"><a href="http://www.cyberpolice.cn/wfjb/" target="_blank"><img src="http://img1.chuangshi.qq.com/account/p1/footer_img1.png" width="122" height="52"></a><a href="http://www.cyberpolice.cn/wfjb/" target="_blank"><img src="http://img1.chuangshi.qq.com/account/p1/footer_img2.png" width="122" height="52"></a><a href="http://beian.miit.gov.cn/state/outPortal/loginPortal.action" target="_blank"><img src="http://img1.chuangshi.qq.com/account/p1/footer_img3.png" width="122" height="52"></a><a href="http://www.12377.cn/" target="_blank"><img src="http://img1.chuangshi.qq.com/account/p1/footer_img4.png" width="122" height="52"></a><a href="http://www.wenming.cn/" target="_blank"><img src="http://img1.chuangshi.qq.com/account/p1/footer_img5.png" width="122" height="52"></a></div></div><script type="text/javascript">	var requestStatLogUrl = "http://account.book.qq.com/statlog/index.html",
+		requestStatLogData = {
+			'site' : "gr",
+			'url' : "ACtVPwJvBjNQYAN4BStUK1JvACVWMlQ4UiAHYlVwXnhRPVU5BXRXKQYSUBdVZFIMUlcIKlMxViAHDQJRBCRSYwBKVTECdQYmUFMDMgVtVA9SXQAEVhFUa1JYB3lVS15dUQVVIQVIV2E",
+			'bid' : '',
+			'uuid' : '',
+			'encrypt' : 1
+		};
+
+	// var refreshKeyUrl = "http://account.book.qq.com/api/refreshkey.html";
+
+	$(function(){
+		function _requestStatLog(){
+			var params = [],
+				url = '';
+
+			$.each(requestStatLogData, function(name, val){
+				params.push(name +'='+ encodeURIComponent(val));
+			});
+			url = requestStatLogUrl +'?'+ params.join('&');
+
+			if(document.referrer){
+	            url += '&ref='+ encodeURIComponent(document.referrer);
+	        }
+	        
+			new Image().src = url;
+		}
+		_requestStatLog();
+
+		// function _refreshKey(){
+		// 	new Image().src = refreshKeyUrl;
+		// }
+		// setInterval(_refreshKey, 1800000); //每30分钟刷新一次key
+		
+					//public
+			$.getScript("http://tajs.qq.com/stats?sId=34321758");
+			//account.book.qq.com
+			$.getScript("http://tajs.qq.com/stats?sId=34321514", function() {
+				//点击流
+				$.getScript("http://pingjs.qq.com/ping_tcss_ied.js", function() {
+					if (typeof(pgvMain) === 'function') {
+						pgvMain();
+					}
+				});
+			});
+			});
+</script></div></div><script type="text/javascript">    $(function(){
+        //个人信息扩展容器
+        var $userInfoExtend = $('#userInfoExtend');
+
+        //个人信息展开按钮
+        $("#showUserInfoBtn").bind('click', function(){
+            $userInfoExtend.show();
+        });
+        //个人信息关闭按钮
+        $("#userInfoExtend_closeBtn").bind('click', function(){
+            $userInfoExtend.hide();
+        });
+    });
+</script></body></html>
