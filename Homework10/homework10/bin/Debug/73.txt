@@ -1,0 +1,1035 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>常见问题 - 标准直播_直播接入_直播分发_云直播 - 腾讯云</title>
+    <meta name="keywords" content="标准直播,直播接入,直播分发,云直播">
+    <meta name="description" content="标准直播LVB依托腾讯多年的音视频技术平台，以及全球海量加速节点和领先的音视频 AI 技术，为开发者提供专业、稳定的直播推流、转码、分发及播放服务，全面满足低延迟、超高画质、大并发访问量的要求，适用于教育、游戏、媒体、电商、社区等场景。">
+    <meta name="format-detection" content="telephone=no">
+	<link rel="dns-prefetch" href="//cloudcache.tencent-cloud.com">
+	<link rel="dns-prefetch" href="//qzonestyle.gtimg.cn">
+	<link rel="dns-prefetch" href="//qzs.qq.com">
+	<link rel="icon" href="/favicon.ico?t=201902181234" type="image/x-icon"/>
+	<script>document.domain = 'cloud.tencent.com';</script>
+    
+<script>
+		!function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):(t=t||self).assetsRetry=e()}(this,function(){"use strict";function a(t){return t}function d(){}function r(t,e){try{return"function"==typeof t[e]}catch(t){return!1}}function y(t){return Array.isArray(t)?t.reduce(function(t,e,n,r){return t[e]=r[(n+1)%r.length],t},{}):t}function p(e,t){return Object.keys(t).filter(function(t){return-1<e.indexOf(t)}).sort(function(t,e){return e.length-t.length})[0]}var e,g="retryTimes",m="succeeded",b="failed",E="maxRetryCount",O="onRetry",f="onSuccess",s="onFail",j="domain",h="_assetsRetryScript",v="_assetsRetryOnerror",l="script",w="data-assets-retry-hooked",S="data-retry-id",A=window,k=window.document,n=A.HTMLElement,R=A.HTMLScriptElement,c=A.HTMLStyleElement,x=A.HTMLLinkElement,L=A.HTMLImageElement,o=Object.prototype.hasOwnProperty,T=function(t,e,n){var r=t.indexOf(e);return-1===r?t:t.substring(0,r)+n+t.substring(r+e.length)},_=function(t){return[].slice.call(t)},M=function(e,t,n,r){void 0===n&&(n=d),void 0===r&&(r=!1);var o,i,c,u,a,f=r||e.defer||e.async;"loading"!==k.readyState||/Edge|MSIE|rv:/i.test(navigator.userAgent)||f?(o=k.createElement(l),Object.keys(R.prototype).forEach(function(t){if("src"!==t&&e[t]&&"object"!=typeof e[t])try{o[t]=e[t]}catch(t){}}),o.src=t,o.onload=e.onload,o.onerror=e.onerror,o.setAttribute(S,P()),(i=e.getAttribute("nonce"))&&o.setAttribute("nonce",i),k.getElementsByTagName("head")[0].appendChild(o)):(c=P(),u=e.outerHTML.replace(/data-retry-id="[^"]+"/,"").replace(/src=(?:"[^"]+"|.+)([ >])/,S+"="+c+' src="'+t+'"$1'),k.write(u),(a=k.querySelector("script["+S+'="'+c+'"]'))&&(a.onload=n))},N=function(e){try{return e.rules}catch(t){try{return e.cssRules}catch(t){return null}}},H=function(e,t,n){var r=k.createElement("link");Object.keys(x.prototype).forEach(function(t){if("href"!==t&&e[t]&&"object"!=typeof e[t])try{r[t]=e[t]}catch(t){}}),r.href=t,r.onload=n,r.setAttribute(S,P()),k.getElementsByTagName("head")[0].insertBefore(r,e)},I=function(t){return t?t instanceof n?[t.nodeName,t.src,t.href,t.getAttribute(S)].join(";"):"not_supported":"null"},P=function(){return Math.random().toString(36).slice(2)},C=function(t){return t instanceof R||t instanceof L?t.src:t instanceof x?t.href:null},B={},F=function(t,e){var n,r=$(t,e),o=r[0],i=r[1];return o?(B[o]=B[o]||((n={})[g]=0,n[b]=[],n[m]=[],n),[i,B[o]]):[]},$=function(t,e){var n,r,o=p(t,e);return o?[(r=o,(n=t).substr(n.indexOf(r)+r.length,n.length)),o]:["",""]};try{e=function(t){for(var e=Object.getPrototypeOf?Object.getPrototypeOf:function(t){return t.__proto__},n=Object.keys(t);e(t);)n=n.concat(Object.keys(e(t))),t=e(t);return n.filter(function(t){return"constructor"!==t})}(R.prototype)}catch(t){}function i(a,t){var f=t[E],s=y(t[j]),l=t[O];return e.reduce(function(t,e){var n=r(R.prototype,e);return t[e]=n?{value:function(){return a[h][e].apply(a[h],arguments)}}:{set:function(o){return"onerror"===e?(a[v]=o,void(a[h].onerror=function(r){r.stopPropagation&&r.stopPropagation();function t(){return t=a[v],e=a[h],n=r,"function"!=typeof t?null:t.call(e,n);var t,e,n}var e=a[h].src,n=F(e,s),o=n[0],i=n[1];if(!o||!i)return t();var c=T(e,o,s[o]),u=l(c,e,i);if(null===u)return t();if("string"!=typeof u)throw new Error("a string should be returned in `onRetry` function");i[g]<=f?M(a[h],u,d,!0):t()})):"onload"===e?(a._assetsRetryOnload=o,void(a[h].onload=function(t){var e=a[h].src,n=F(e,s),r=(n[0],n[1]);r&&-1===r[b].indexOf(e)&&r[m].push(e),o&&!o._called&&(o._called=!0,o.call(a[h],t))})):void(a[h][e]=o)},get:function(){return a[h][e]}},t},{})}var q=function(n){var r=k.createElement;k.createElement=function(t,e){return t===l?function(t,e){var n;t.setAttribute(w,"true");var r=((n={})[h]=t,n[v]=d,n),o=i(r,e);return Object.defineProperties(r,o),r}(r.call(k,l),n):r.call(k,t,e)},k.createElement.toString=function(){return"function createElement() { [native code] }"}},z=function(n){Object.keys(n).filter(function(t){return r(n,t)}).forEach(function(t){var e=n[t];n[t]=function(){var t=[].slice.call(arguments).map(function(t){return t&&o.call(t,h)?t[h]:t});return e.apply(this,t)},/^\w+$/.test(t)&&(n[t].toString=new Function("return 'function "+t+"() { [native code] }'"))})};var Z={};function D(y){function c(t){if(t){var e=t.target||t.srcElement,n=C(e);if(n){var r=F(n,v),o=r[0],i=r[1];if(i&&o){i[g]++,i[b].push(n);var c,u=i[g]>y[E];if(u&&(c=$(n,v)[0],h(c)),v[o]&&!u){var a=v[o],f=T(n,o,a),s=p(f,n,i);if(null!==s){if("string"!=typeof s)throw new Error("a string should be returned in `onRetry` function");var l,d=I(e);Z[d]||(Z[d]=!0,l=function(){i[m].push(s)},e instanceof R&&!e.getAttribute(w)&&e.src?M(e,s,l):e instanceof x&&e.href?(e.getAttribute('crossorigin')&&e.removeAttribute('crossorigin'),H(e,s,l)):e instanceof L&&e.src&&(e.setAttribute(S,P()),e.src=s,e.onload=l))}}}}}}var p=y[O],u=y[f],h=y[s],v=y[j];k.addEventListener("error",c,!0),k.addEventListener("load",function(t){var e,n,r,o,i;t&&(e=t.target||t.srcElement,(n=C(e))&&(e.getAttribute(S)&&(r=$(n,v)[0],u(r)),e instanceof x&&k.styleSheets&&(o=_(k.styleSheets).filter(function(t){return t.href===e.href})[0],null!==(i=N(o))&&0===i.length&&c(t))))},!0)}function u(t,e,n,r,o){var i=o[j],c=o[O],u=e.style&&e.style[t];if(u&&!/^url\(["']?data:/.test(u)){var a=u.match(/^url\(["']?(.+?)["']?\)/)||[],f=a[1];if(f){var s=p(f,i);if(s&&i[s]){var l=Object.keys(i).map(function(t){var e=T(f,s,t);return'url("'+c(e,f,null)+'")'}).join(","),d=e.selectorText+("{ "+t.replace(/([a-z])([A-Z])/g,function(t,e,n){return e+"-"+n.toLowerCase()}))+": "+l+" !important; }";try{n.insertRule(d,r.length)}catch(t){n.insertRule(d,0)}}}}}var G={},J=[],K=function(t,o){var i=["backgroundImage","borderImage","listStyleImage"];t.forEach(function(n){var r,t=N(n);null!==t&&((r=_(t)).forEach(function(e){i.forEach(function(t){u(t,e,n,r,o)})}),n.href&&(G[n.href]=!0),n.ownerNode instanceof c&&J.push(n.ownerNode))})},Q=function(t,n){return _(t).filter(function(t){if(!N(t))return!1;if(t.href)return!G[t.href]&&!!p(t.href,n);var e=t.ownerNode;return!(e instanceof c&&-1<J.indexOf(e))})};return function(t){var e,n,r,o;void 0===t&&(t={});try{if("object"!=typeof t[j])throw new Error("opts.domain cannot be non-object.");var i=[E,O,f,s,j],c=Object.keys(t).filter(function(t){return-1===i.indexOf(t)});if(0<c.length)throw new Error("option name: "+c.join(", ")+" is not valid.");var u=((e={})[E]=t[E]||3,e[O]=t[O]||a,e[f]=t[f]||d,e[s]=t[s]||d,e[j]=y(t[j]),e);return q(u),"undefined"!=typeof Node&&z(Node.prototype),"undefined"!=typeof Element&&z(Element.prototype),D(u),n=u,r=k.styleSheets,o=n[j],false&&setInterval(function(){var t=Q(k.styleSheets,o);0<t.length&&K(t,n)},250),B}catch(t){A.console&&console.error("[assetsRetry] error captured",t)}}});
+		try{
+			function __parseReportUrl(url) {
+					var match = url.match(/^(https?\:)\/\/(([^:\/?#]*)(?:\:([0-9]+))?)([\/]{0,1}[^?#]*)(\?[^#]*|)(#.*|)$/);
+					return match && {
+							href: url,
+							protocol: match[1],
+							host: match[2],
+							hostname: match[3],
+							port: match[4],
+							pathname: match[5],
+							search: match[6],
+							hash: match[7]
+					}
+			}
+
+			var domainReportTag = {
+				'assets-retry-success': 0,
+				'assets-retry-fail': 0
+			};
+			var eventMaxReportTimes = 5;
+			var assetsRetryReport = function(event, originalUrl) {
+				var originalUrlObj = __parseReportUrl(originalUrl);
+
+				// 上报限制次数
+				if (domainReportTag[event] &&  domainReportTag[event] >= eventMaxReportTimes) {
+					return;
+				}
+				domainReportTag[event]++;
+
+				var reportData = {
+					url: location.href,
+					referrer: document.referrer || '',
+					event: event,
+					app: 'qcmain',
+					level: 0,
+					at: new Date().getTime(),
+					uin: '',
+					originalUrl: originalUrl,
+					originalCdnDomain: originalUrlObj.hostname
+				}
+
+				var reportUrl = 'https://insight.cloud.tencent.com/event';
+				var isSupportSendBeacon = typeof navigator.sendBeacon === 'function';
+
+				if (JSON && JSON.stringify) {
+					var reportStr = JSON.stringify(reportData);
+					if (isSupportSendBeacon) {
+						navigator.sendBeacon(reportUrl, reportStr);
+					} else {
+						reportStr = encodeURIComponent(reportStr);
+						reportStr = btoa(reportStr);
+						new Image().src = reportUrl + '?d=' + reportStr;
+					}
+				}
+			};
+
+			// information of assets
+			var assetsRetryStatistics = window.assetsRetry({
+					// domain list, only resources in the domain list will be retried.
+					domain: {
+						'cloudcache.tencentcs.com': 'cloudcache.tencent-cloud.com',
+						'cloudcache.tencent-cloud.com': 'cloudcache.tencentcs.com',
+						'main.qcloudimg.com': 'qcloudimg.tencentcs.com',
+						'qcloudimg.tencentcs.com': 'main.qcloudimg.com'
+					},
+					// maximum retry count for each asset, default is 3
+					maxRetryCount: 2,
+					// onRetry hook is how you can customize retry logic with, default is x => x
+					onRetry: function(currentUrl, originalUrl, statistics) {
+						return currentUrl;
+					},
+					onSuccess: function(currentUrl) {
+						var curStatic = assetsRetryStatistics[currentUrl];
+						if (curStatic && curStatic.failed && curStatic.failed.length) {
+							assetsRetryReport('assets-retry-success', curStatic.failed[0])
+						}
+					},
+					onFail: function(currentUrl) {
+						var curStatic = assetsRetryStatistics[currentUrl];
+						if (curStatic && curStatic.failed && curStatic.failed.length) {
+							assetsRetryReport('assets-retry-fail', curStatic.failed[0])
+						}
+					}
+			})
+		} catch (err) {}
+</script>
+
+
+
+
+
+<link rel="stylesheet"  href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/portal/css/global-20209142343.css?max_age=31536000&amp;t=20191128">
+<link rel="stylesheet"  href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/portal/css/global-components.css?max_age=31536000&amp;t=20180817">
+
+
+
+
+
+
+
+<link id="qcportal-kit-style" rel="stylesheet" href="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/full.0d3595ebd55e36404654.css">
+
+<meta name="applicable-device" content="pc,mobile">
+    <link rel="stylesheet" href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/product/css/doc-202010271138.css?max_age=31536000&t=202003301700">
+<link rel="stylesheet" href="//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/product/css/product-202104071627.css?max_age=31536000">
+<link rel="stylesheet" href= "//cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/product/css/p-calc.css?max_age=86400">
+
+
+
+    
+   <link rel="stylesheet" href="https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/product/lvb/css/product-lvb.css">
+    
+</head>
+<body>
+
+<!--[if lt IE 9]>
+<script src="//imgcache.qq.com/qcloud/main/scripts/release/common/libs/updateTips.js?max_age=3600"></script>
+<![endif]-->
+
+
+<div id="qcportal-kit-topnav"><div role="navigation" id="navigationBar" data-type="cn_zh" data-style="white" class="plat-nav plat-nav-wrap "><div class="plat-nav-mod plat-nav-white"><div class="plat-nav-top"><a class="plat-nav-all-trigger" hotrep="hp.header.trigger" role="button"><i class="plat-nav-all-trigger-icon"></i><span class="plat-nav-all-trigger-text">菜单</span></a><i class="plat-nav-top-divider logo"></i><a class="plat-nav-bg-logo" hotrep="hp.header.hp" href="https://cloud.tencent.com"><i>腾讯云</i></a><div class="plat-nav-top-operation"><span class="plat-nav-top-search search-m search-cancel" role="button" hotrep="hp.header.opensearch">云服务器CVM<i class="nav-search-icon"></i><div class="plat-nav-search-icon-wrap"></div><div class="plat-top-searchbar"><div class="plat-top-searchbar-inner"><div class="plat-top-searchbar-box" role="combobox"><div class="plat-searchbar-ctrl"><input type="search" class="search-ipt" placeholder="请输入你要搜索的关键词" aria-autocomplete="list" autoComplete="on" aria-owns="search-list" value="" tabindex="0"/><div class="nav-search-icons-wrap"><a class="search-cancel-btn" role="button" tabindex="0" aria-label="清空"><i class="nav-search-cancel-icon"></i></a><i class="nav-search-divider"></i><a class="search-btn" tabindex="0" aria-label="搜索" role="button" hotrep="hp.header.dosearch"><i class="nav-search-icon"></i></a></div></div><div class="nav-dropdown-mini"><div class="dropdown-mini-inner dropdown-mini-lang"><div class="dropdown-mini-list"><h3 class="dropdown-mini-list-tit">热门搜索</h3><ul role="listbox"><li role="option" class="dropdown-mini-item"><a tabindex="0">云数据库 MySQL</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">CDN</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">对象存储</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">语音</a></li><li role="option" class="dropdown-mini-item"><a tabindex="0">短信</a></li></ul></div></div></div></div></div></div></span><div class="plat-nav-top-ctrl"><div class="plat-nav-dropdown-btn nav-dropdown-lang"><a class="plat-nav-dropdown-btn-inner" aria-expanded="false" aria-haspopup="true" aria-owns="language_select_owns" aria-controls="language_select_owns"><span class="sr-only">语言</span><i class="plat-nav-icon-global"></i><span class="nav-dropdown-btn-txt">中国站</span><i class="plat-nav-dropdown-btn-icon"></i></a></div><div class="plat-nav-top-links"><a hotrep="hp.header.ba" class="link-item" href="https://cloud.tencent.com/product/ba">备案</a><a hotrep="hp.header.console" class="link-item" role="button" href="https://console.cloud.tencent.com">控制台</a></div></div></div></div><div class="plat-nav-bottom"></div></div></div>
+<div id="navigationBarM" class="plat-m-nav"><div class="plat-m-nav-bar"><div class="plat-m-nav-bar-main"><a class="plat-m-nav-logo" href="https://cloud.tencent.com/"></a></div><div class="plat-m-nav-bar-extra"><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon search"></i></a><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon user"></i></a><a class="plat-m-nav-btn"><i class="plat-m-nav-btn-icon menu"><span></span><span></span><span></span></i></a></div></div></div></div>
+
+
+<script>
+	window.ISMOBILE = false;
+</script>
+<script>window.__language = 'zh'</script>
+
+
+
+<div class="product-body J-mainContent">
+
+
+
+
+<div class="c-hero-section vast J-pdBanner cp">
+    
+    <figure class="c-hero-section-inner">
+        
+        
+            <div class="rno-banner-nav">
+                <ul class="rno-banner-nav-ul">
+                    
+                        <li class=""
+                        ><a href="/product/lvb"
+                            hotrep="product.lvb.faqs.navigation.overview"
+                        >
+												标准直播 LVB 概览</a></li>
+                    
+                        <li class=""
+                        ><a href="/product/lvb/details"
+                            hotrep="product.lvb.faqs.navigation.details"
+                        >
+												产品详细信息</a></li>
+                    
+                        <li class=""
+                        ><a href="/product/lvb/pricing"
+                            hotrep="product.lvb.faqs.navigation.pricing"
+                        >
+												定价</a></li>
+                    
+                        <li class=""
+                        ><a href="/product/lvb/getting-started"
+                            hotrep="product.lvb.faqs.navigation.getting-started"
+                        >
+												入门</a></li>
+                    
+                        <li class="active"
+                        ><a href="/product/lvb/faqs"
+                            hotrep="product.lvb.faqs.navigation.faqs"
+                        >
+												常见问题</a></li>
+                    
+                        <li class=""
+                        ><a href="/product/lvb/developer"
+                            hotrep="product.lvb.faqs.navigation.developer"
+                        >
+												文档与资源</a></li>
+                    
+                </ul>
+            </div>
+        
+
+        <div class="c-hero-section-ct">
+			
+			<div class="p-index-nav">
+				
+					<div class="p-index-nav-back">
+						<a href="https://cloud.tencent.com/product/css"
+                            hotrep="product.lvb.faqs.banner.navi-parent"
+                        >云直播</a>
+					</div>
+					
+	
+					
+					<div class="p-index-nav-btn J-pdSiblingChecker">
+						<div class="p-index-nav-btn-inner" hotrep="product.lvb.faqs.banner.navi-child">标准直播 LVB</div>
+						<div class="p-index-nav-list J-pdSiblingList" style="display: none;">
+							<div class="p-index-nav-list-inner c-scrollbar">
+							
+							
+							<div class="p-index-nav-item actived"
+                            ><a href="https://cloud.tencent.com/product/lvb"
+                                hotrep="product.lvb.banner.navi-child1"
+                            >标准直播</a></div>
+							
+							
+							
+							<div class="p-index-nav-item"
+                            ><a href="https://cloud.tencent.com/product/lcb"
+                                hotrep="product.lvb.banner.navi-child2"
+                            >慢直播（直播监控）</a></div>
+							
+							
+							
+							<div class="p-index-nav-item"
+                            ><a href="https://cloud.tencent.com/product/leb"
+                                hotrep="product.lvb.banner.navi-child3"
+                            >快直播（超低延迟直播）</a></div>
+							
+							
+							
+							<div class="p-index-nav-item"
+                            ><a href="https://cloud.tencent.com/product/lvc"
+                                hotrep="product.lvb.banner.navi-child4"
+                            >云导播台 LVC</a></div>
+							
+							
+							</div>
+						</div>
+					</div>
+					
+
+				
+			</div>
+			
+
+            <h1 class="c-hero-section-tit">
+                标准直播 LVB
+            </h1>
+            <!-- seo image -->
+            <img class="c-hero-section-img" alt="标准直播 LVB" src="https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/product/css/img/product-logo.png">
+            <div class="c-hero-section-des">
+                <p class="pc-mod">提供专业、稳定的直播接入和分发服务</p>
+				<p class="m-mod">专业稳定快速的直播接入和分发服务</p>
+            </div>
+            
+            <div class="c-hero-section-btn">
+                <a
+                    role="button"
+                    href="https://console.cloud.tencent.com/live?from=product-banner-use-lvb"
+                    
+                    class="c-btn default  J-pdBannerBtn1"
+                    hotrep="product.lvb.faqs.banner.btn1">
+                    立即使用
+                </a>
+
+                
+                    
+                    <a href="https://buy.cloud.tencent.com/live" target="_blank" class="c-btn p-weak-btn" hotrep="product.lvb.faqs.banner.btn2">立即选购</a>
+                    
+                
+                    
+                
+
+				
+
+            </div>
+            
+
+			
+
+                
+        </div>
+        <div class="c-hero-icon-mod" style="background-image: url(https://main.qcloudimg.com/raw/2b5baefd6e5bfd300d688127243b3e1c.png)">
+		</div>
+    </figure>
+
+        
+        
+    
+</div>
+
+
+<div class="p-tab-mod J-pdPageNav cp">
+    <div class="c-tab-cross" style="">
+        <div class="c-tab-hd J-navWrapper">
+            <div class="c-tab-scroll J-navScroller">
+                <ul role="navigation" class="c-tab-ctrl J-navList">
+                    
+                    <li
+                        class="c-tab-simple J-navItem "
+                        data-type="overview">
+                        <a
+                            href="/product/lvb"
+                            hotrep="product.lvb.faqs.navigation.overview">
+                            <span class="c-tab-tit">标准直播 LVB 概览</span>
+                        </a>
+                    </li>
+                    
+                    <li
+                        class="c-tab-simple J-navItem "
+                        data-type="details">
+                        <a
+                            href="/product/lvb/details"
+                            hotrep="product.lvb.faqs.navigation.details">
+                            <span class="c-tab-tit">产品详细信息</span>
+                        </a>
+                    </li>
+                    
+                    <li
+                        class="c-tab-simple J-navItem "
+                        data-type="pricing">
+                        <a
+                            href="/product/lvb/pricing"
+                            hotrep="product.lvb.faqs.navigation.pricing">
+                            <span class="c-tab-tit">定价</span>
+                        </a>
+                    </li>
+                    
+                    <li
+                        class="c-tab-simple J-navItem "
+                        data-type="getting-started">
+                        <a
+                            href="/product/lvb/getting-started"
+                            hotrep="product.lvb.faqs.navigation.getting-started">
+                            <span class="c-tab-tit">入门</span>
+                        </a>
+                    </li>
+                    
+                    <li
+                        class="c-tab-simple J-navItem actived"
+                        data-type="faqs">
+                        <a
+                            href="/product/lvb/faqs"
+                            hotrep="product.lvb.faqs.navigation.faqs">
+                            <span class="c-tab-tit">常见问题</span>
+                        </a>
+                    </li>
+                    
+                    <li
+                        class="c-tab-simple J-navItem "
+                        data-type="developer">
+                        <a
+                            href="/product/lvb/developer"
+                            hotrep="product.lvb.faqs.navigation.developer">
+                            <span class="c-tab-tit">文档与资源</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div aria-hidden="true" class="c-tab-btns J-navHandlerWrapper" style="display: none;">
+                <a href="javascript:;" class="J-navHandler prev" data-action="prev" hotrep="product.lvb.faqs.banner.prev">上一页</a>
+                <a href="javascript:;" class="J-navHandler next" data-action="next" hotrep="product.lvb.faqs.banner.next">下一页</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <div class="page-details-nav" id="J-pageDetailNav">
+        <div class="rno-banner-nav">
+            <ul class="rno-banner-nav-ul">
+                
+                    <li class=""
+                        hotrep="product.lvb.faqs.navigation.overview"
+                    ><a href="/product/lvb">标准直播 LVB 概览</a></li>
+                
+                    <li class=""
+                        hotrep="product.lvb.faqs.navigation.details"
+                    ><a href="/product/lvb/details">产品详细信息</a></li>
+                
+                    <li class=""
+                        hotrep="product.lvb.faqs.navigation.pricing"
+                    ><a href="/product/lvb/pricing">定价</a></li>
+                
+                    <li class=""
+                        hotrep="product.lvb.faqs.navigation.getting-started"
+                    ><a href="/product/lvb/getting-started">入门</a></li>
+                
+                    <li class="active"
+                        hotrep="product.lvb.faqs.navigation.faqs"
+                    ><a href="/product/lvb/faqs">常见问题</a></li>
+                
+                    <li class=""
+                        hotrep="product.lvb.faqs.navigation.developer"
+                    ><a href="/product/lvb/developer">文档与资源</a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="p-ceiling-nav c-nav c-nav-mod c-nav-white J-pdNavTop">
+        <div class="c-nav-bottom">
+            <a href="javascript:;" class="c-nav-all-trigger J-pdAllProduct" hotrep="hp.header.trigger" role="button"><i class="c-nav-all-trigger-icon"></i><span>全部产品</span></a>
+            <i class="c-nav-bottom-divider"></i>
+            <div class="c-nav-bm-categories J-top-nav-product">
+                <ul class="c-nav-list">
+                    
+                    <li class="presentation J-qcTopNavItem " style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb"
+                            hotrep="product.lvb.faqs.top.navigation.overview">
+                            标准直播 LVB 概览
+                        </a>
+                    </li>
+                    
+                    <li class="presentation J-qcTopNavItem " style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb/details"
+                            hotrep="product.lvb.faqs.top.navigation.details">
+                            产品详细信息
+                        </a>
+                    </li>
+                    
+                    <li class="presentation J-qcTopNavItem " style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb/pricing"
+                            hotrep="product.lvb.faqs.top.navigation.pricing">
+                            定价
+                        </a>
+                    </li>
+                    
+                    <li class="presentation J-qcTopNavItem " style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb/getting-started"
+                            hotrep="product.lvb.faqs.top.navigation.getting-started">
+                            入门
+                        </a>
+                    </li>
+                    
+                    <li class="presentation J-qcTopNavItem curr-p" style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb/faqs"
+                            hotrep="product.lvb.faqs.top.navigation.faqs">
+                            常见问题
+                        </a>
+                    </li>
+                    
+                    <li class="presentation J-qcTopNavItem " style="display: inline-block;">
+                        <a
+                            role="button"
+                            href="/product/lvb/developer"
+                            hotrep="product.lvb.faqs.top.navigation.developer">
+                            文档与资源
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+    
+            
+                <div class="c-nav-bm-right">
+                    <div class="c-nav-bm-btns">
+                        
+                        <a
+                            href="https://console.cloud.tencent.com/live?from=product-banner-use-lvb"
+                            
+                            class="c-nav-bm-btn c-btn"
+                            hotrep="product.lvb.faqs.top.nav.btn1"
+                        >
+                            立即使用
+                        </a>
+                        
+
+                        
+                        
+                        
+                            <a
+                                href="https://buy.cloud.tencent.com/live"
+                                class="c-btn c-nav-bm-btn-hole"
+                                hotrep="product.lvb.faqs.top.nav.btn2"
+                            >
+                                立即选购
+                            </a>
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            
+        </div>
+        <!--下拉菜单-->
+        <div class="" style="padding-left: 0px; left: 10px; top: 46px; display: none;">
+        </div>
+    </div>
+
+
+
+<div class="J-subContent">
+
+    <div class="cp-body">
+
+    <div class="cp-aside">
+    
+    <div class="d-aside">
+        <div class="d-aside-mod">
+            <a href="/product/lvb" class="d-aside-mod-link">
+                <div class="d-aside-logo">
+                    <img src="https://main.qcloudimg.com/raw/6d5ad2b62ba85557a832ff1c4f0c5a92.svg" alt="标准直播 LVB" class="active-img">
+                </div>
+                <div class="d-aside-tit">
+                    <h2>标准直播 LVB</h2>
+                    <div class="d-aside-tit-sub">Live Video Broadcasting</div>
+                </div>
+            </a>
+            <div class="d-aside-btn">
+                <a
+                    role="button"
+                    href="https://console.cloud.tencent.com/live?from=product-banner-use-lvb"
+                    hotrep="product.lvb.faqs.sidebar.btn" class="c-btn ">
+                    立即使用
+                </a>
+            </div>
+        </div>
+
+        <div class="d-aside-mod">
+            
+            <div class="d-aside-nav J-pdSideNav" style="display: none;">
+                <ul role="navigation" class="aside-nav-list">
+                    
+                    <li class="aside-nav-item J-pdSideNavItem ">
+                        <a
+                            href="/product/lvb"
+                            hotrep="product.lvb.faqs.sidebar.nav.overview"
+                            data-use-xhr="false"
+                            >
+                            <i class="p-asideicon-gl"></i><span>标准直播 LVB 概览</span>
+                        </a>
+                    </li>
+                    
+                    <li class="aside-nav-item J-pdSideNavItem ">
+                        <a
+                            href="/product/lvb/details"
+                            hotrep="product.lvb.faqs.sidebar.nav.details"
+                            data-use-xhr="true"
+                            >
+                            <i class="p-asideicon-xq"></i><span>产品详细信息</span>
+                        </a>
+                    </li>
+                    
+                    <li class="aside-nav-item J-pdSideNavItem ">
+                        <a
+                            href="/product/lvb/pricing"
+                            hotrep="product.lvb.faqs.sidebar.nav.pricing"
+                            data-use-xhr="true"
+                            >
+                            <i class="p-asideicon-dj"></i><span>定价</span>
+                        </a>
+                    </li>
+                    
+                    <li class="aside-nav-item J-pdSideNavItem ">
+                        <a
+                            href="/product/lvb/getting-started"
+                            hotrep="product.lvb.faqs.sidebar.nav.getting-started"
+                            data-use-xhr="true"
+                            >
+                            <i class="p-asideicon-rm"></i><span>入门</span>
+                        </a>
+                    </li>
+                    
+                    <li class="aside-nav-item J-pdSideNavItem actived">
+                        <a
+                            href="/product/lvb/faqs"
+                            hotrep="product.lvb.faqs.sidebar.nav.faqs"
+                            data-use-xhr="true"
+                            >
+                            <i class="p-asideicon-wt"></i><span>常见问题</span>
+                        </a>
+                    </li>
+                    
+                    <li class="aside-nav-item J-pdSideNavItem ">
+                        <a
+                            href="/product/lvb/developer"
+                            hotrep="product.lvb.faqs.sidebar.nav.developer"
+                            data-use-xhr="true"
+                            >
+                            <i class="p-asideicon-kfz"></i><span>文档与资源</span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+
+        
+        <div class="d-aside-mod">
+            <div class="d-aside-links">
+                <div class="aside-links-tit">
+                    相关链接
+                </div>
+                
+                <div class="aside-links-item">
+                    <a
+                        href="https://cloud.tencent.com/document/product/267/2822#.E6.A0.87.E5.87.86.E7.9B.B4.E6.92.AD.EF.BC.88.E5.8E.9F.E4.BA.91.E7.9B.B4.E6.92.AD.EF.BC.89"
+                        target="_blank"
+                        hotrep="product.lvb.faqs.sidebar.relation.1">
+                        <span>产品文档</span><i class="c-icon-links"></i>
+                    </a>
+                </div>
+                
+                <div class="aside-links-item">
+                    <a
+                        href="https://cloud.tencent.com/developer/ask"
+                        target="_blank"
+                        hotrep="product.lvb.faqs.sidebar.relation.2">
+                        <span>腾讯云问答</span><i class="c-icon-links"></i>
+                    </a>
+                </div>
+                
+                <div class="aside-links-item">
+                    <a
+                        href="https://cloud.tencent.com/product/events"
+                        target="_blank"
+                        hotrep="product.lvb.faqs.sidebar.relation.3">
+                        <span>产品发布台</span><i class="c-icon-links"></i>
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        <div class="d-aside-mod">
+            <div class="d-aside-event">
+                
+                <a
+                    href="https://cloud.tencent.com/developer/labs?utm_source=productpt?utm_medium=qclab"
+                    hotrep="product.lvb.faqs.sidebar.event.1"
+                    class="c-media-horiz">
+                    <div class="c-media-img">
+                        <img src="https://mc.qcloudimg.com/static/img/81742fc695eaf290a936b19829b8bb5d/1.svg" alt="">
+                        <img src="https://mc.qcloudimg.com/static/img/ff8765f5d45dc47a6fcda25c9d4eb5d2/image.svg" alt="">
+                    </div>
+                    <div class="c-media-body">
+                        <h4 class="c-media-heading">
+                            开发者实验室
+                        </h4>
+                        <p class="c-media-info">
+                            在线开发者实验平台，免费上机做实验学编程
+                        </p>
+                    </div>
+                </a>
+                
+                <a
+                    href="https://cloud.tencent.com/act/free?utm_source=portal&amp;utm_medium=recommend&amp;utm_campaign=recmd2"
+                    hotrep="product.lvb.faqs.sidebar.event.2"
+                    class="c-media-horiz">
+                    <div class="c-media-img">
+                        <img src="https://mc.qcloudimg.com/static/img/df4619e15af32434c5e60771bc09d263/2.svg" alt="">
+                        <img src="https://mc.qcloudimg.com/static/img/6b889c3e9ac336769f5e729a77958aea/image.svg" alt="">
+                    </div>
+                    <div class="c-media-body">
+                        <h4 class="c-media-heading">
+                            免费套餐
+                        </h4>
+                        <p class="c-media-info">
+                            领取云资源，免费试用 6 个月，0 门槛上云实践
+                        </p>
+                    </div>
+                </a>
+                
+                <a
+                    href="https://cloud.tencent.com/act/plan?utm_source=qcloud&amp;utm_medium=products&amp;utm_campaign=ventures"
+                    hotrep="product.lvb.faqs.sidebar.event.3"
+                    class="c-media-horiz">
+                    <div class="c-media-img">
+                        <img src="https://mc.qcloudimg.com/static/img/4d234855f9e101bfa19ca70d36de1d2d/image.svg" alt="">
+                        <img src="https://mc.qcloudimg.com/static/img/0acdcb3111a6aa51dc68c965e3c273f5/image.svg" alt="">
+                    </div>
+                    <div class="c-media-body">
+                        <h4 class="c-media-heading">
+                            云+创业扶持计划
+                        </h4>
+                        <p class="c-media-info">
+                            最高可领百万元扶持礼包
+                        </p>
+                    </div>
+                </a>
+                
+            </div>
+        </div>
+        
+    </div>
+     
+</div>
+
+        <div class="cp-con J-pdTextBody">
+            
+                
+                
+				
+                
+		
+		<div class="cp-aside-index J-asideTOC" style="display: none;">
+			<ul class="d-aside-index">
+				
+				<li class="d-aside-index-item J-tocItem">
+					<a href="#1900557023">一般常见问题</a>
+					
+					</li>
+				
+				<li class="d-aside-index-item J-tocItem">
+					<a href="#788135107">推流问题</a>
+					
+					</li>
+				
+				<li class="d-aside-index-item J-tocItem">
+					<a href="#793939547">播放问题</a>
+					
+					</li>
+				
+			</ul>
+		</div>
+		
+		<div class="d-wrap">
+			<h1 class="d-tit">腾讯云标准直播常见问题</h1>
+			
+		<div class="d-mod">
+			<p>本页面提供关于此云产品的一些常见问题的解答，如果您在使用过程中遇到问题，可以参阅产品文档中心的 <a href="https://cloud.tencent.com/document/product/267/7968">常见问题</a>。此外，您也可以在 <a href="https://cloud.tencent.com/developer/ask">问答社区</a> 中提问来寻求帮助。 &nbsp;&nbsp;&nbsp;</p>
+		</div>
+		
+			<div class="d-mod"><h2 class="d-mod-tit" id="1900557023">一般常见问题</h2>
+<div class="d-foldaway J-pdBlock4">
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false"> 推流、直播 和 点播分别是什么？</div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <ul class="d-ul">
+  <li>推流：主播将本地视频源和音频源推送到腾讯视频云服务器，在有些场景中也被称为“RTMP 发布”。</li>
+  <li>直播：直播的视频源是实时生成的，有人推流直播才有意义，一旦主播停播，直播 URL 也就失效了，而且由于是实时直播，所以播放器在播直播视频的时候是没有进度条的。</li>
+  <li>点播：点播的视频源是云端的一个文件，文件只要没有被提供方删除就随时可以播放（类似优酷土豆、爱奇艺和腾讯视频），而且由于整个视频都在服务器上，所以播放的时候是有进度条的。</li>
+</ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">云直播、标准直播、慢直播、快直播有什么区别？ </div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>标准直播（原云直播）、慢直播、快直播（超低延迟直播）均为云端直播能力，慢直播和快直播是在不同场景下的延伸。云直播为其他3个产品的统称。 &nbsp;慢直播针对大规模上行并发，适用于直播交通监控、校园视频安防、景区景点拍摄等。 &nbsp;快直播对直播的播放进行优化，实现毫秒级的超低延迟，适用于体育赛事，直播拍卖等对延迟要求高的直播场景。</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">常见的直播协议有哪些？</div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>目前常见的直播协议有三种：RTMP、 FLV 和 HLS。</p>
+<ul class="d-ul">
+  <li>RTMP：RTMP 协议比较全能，既可以用来推送又可以用来直播，其核心理念是将大块的视频帧和音频帧“剁碎”，然后以小数据包的形式在互联网上进行传输，而且支持加密，因此隐私性相对比较理想，但拆包组包的过程比较复杂，所以在海量并发时也容易出现一些不可预期的稳定性问题。</li>
+  <li>FLV：FLV 协议由 Adobe 公司主推，格式极其简单，只是在大块的视频帧和音视频头部加入一些标记头信息，由于这种极致的简洁，在延迟表现和大规模并发方面都很成熟，唯一的不足就是在手机浏览器上的支持非常有限，但是用作手机端 App 直播协议却异常合适。</li>
+  <li>HLS：苹果推出的解决方案，将视频分成5-10秒的视频小分片，然后用 m3u8 索引表进行管理，由于客户端下载到的视频都是5-10秒的完整数据，故视频的流畅性很好，但也同样引入了很大的延迟（HLS 的一般延迟在10-30秒左右）。相比于 FLV， HLS 在 iPhone 和大部分 Android 手机浏览器上的支持非常给力，所以常用于 QQ 和微信朋友圈的 URL 分享。</li>
+</ul>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">标准直播如何计费？ </div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>标准直播费用分为基础功能费用和增值功能费用。使用标准直播服务即产生基础功能费用，可通过直播消耗的下行流量或直播峰值带宽进行结算；增值功能包括转码、录制、截图、鉴黄等，增值功能使用才收费，具体计费说明可参考 <a href="https://cloud.tencent.com/document/product/267/2818" target="_blank">价格总览</a>。</p>
+            </div>
+        </div>
+    </div>
+    
+</div></div><div class="d-mod"><h2 class="d-mod-tit" id="788135107">推流问题</h2>
+<div class="d-foldaway J-pdBlock4">
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">如何获得推流URL？</div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>登录<a href="https://console.cloud.tencent.com/live">腾讯云云直播控制台</a>，选择【接入管理】&gt;【直播码接入（推荐）】&gt;【推流生成器】，单击【生成推流地址】按钮，即可生成一个推流 URL 和三种不同播放协议的播放 URL。</p>
+
+            </div>
+        </div>
+    </div>
+    
+</div></div><div class="d-mod"><h2 class="d-mod-tit" id="793939547">播放问题</h2>
+<div class="d-foldaway J-pdBlock4">
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">频道模式下如何获取播放地址？</div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>首先创建一个频道，选择需要的播放码率，然后在接收方设置中，选择需要的播放协议，单击保存，创建完成后在频道信息中可查看到各种码率和播放协议对应的播放 URL。</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="d-foldaway-area">
+        <div class="d-foldaway-tit J-collapseTitle" tabindex="0" aria-haspopup="true" aria-expanded="false">直播码模式下如何获取播放地址？</div>
+        <div class="d-foldaway-con J-collapseContent" style="display: none">
+            <div class="d-blockquote">
+                <p>进入直播码模式，在推流生成器中输入直播码，可得到对应的推流 ID 和播放 ID。</p>
+            </div>
+        </div>
+    </div>
+    
+</div></div>
+		</div>
+		
+		
+				
+
+				
+
+				
+					<div class="d-wrap">
+	<div class="d-mod">
+		<h2 id="faqsDeveloper" class="d-mod-tit">社区问答</h2>
+		<div class="d-p-qa-wrap">
+
+			<ul class="d-p-qa-list">
+				
+				<li class="d-p-qa-item">
+					<div class="d-p-qa-item-con"><a target="_blank" href="//cloud.tencent.com/developer/ask/232175">imsdk登录失败，请稍后重试，stat_reg failed？</a></div>
+					<div class="d-p-qa-item-aside">
+						<span>回答<em>(3)</em></span>
+						<span>查看<em>(903)</em></span>
+					</div>
+				</li>
+				
+				<li class="d-p-qa-item">
+					<div class="d-p-qa-item-con"><a target="_blank" href="//cloud.tencent.com/developer/ask/232142">在电脑QQ群课堂点开显示IMSDK登陆失败怎么解决？</a></div>
+					<div class="d-p-qa-item-aside">
+						<span>回答<em>(1)</em></span>
+						<span>查看<em>(616)</em></span>
+					</div>
+				</li>
+				
+				<li class="d-p-qa-item">
+					<div class="d-p-qa-item-con"><a target="_blank" href="//cloud.tencent.com/developer/ask/232991">腾讯会议开启屏幕共享后，对方能看到我的桌面，但是我的鼠标光标一直闪烁，严重影响工作，能否解决这问题？</a></div>
+					<div class="d-p-qa-item-aside">
+						<span>回答<em>(1)</em></span>
+						<span>查看<em>(3627)</em></span>
+					</div>
+				</li>
+				
+				<li class="d-p-qa-item">
+					<div class="d-p-qa-item-con"><a target="_blank" href="//cloud.tencent.com/developer/ask/231732">腾讯云直播支持PPT直播吗？</a></div>
+					<div class="d-p-qa-item-aside">
+						<span>回答<em>(1)</em></span>
+						<span>查看<em>(760)</em></span>
+					</div>
+				</li>
+				
+				<li class="d-p-qa-item">
+					<div class="d-p-qa-item-con"><a target="_blank" href="//cloud.tencent.com/developer/ask/231942">code=204004,error=[LiveRoom] 创建房间失败[获取推流地址失败]？</a></div>
+					<div class="d-p-qa-item-aside">
+						<span>回答<em>(3)</em></span>
+						<span>查看<em>(1223)</em></span>
+					</div>
+				</li>
+				
+			</ul>
+
+			<div class="d-p-qa-btn">
+				<a href="javascript:;" class="c-btn c-btn-hole J-btnAskQuestion">我要提问</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+				
+
+				
+<div class="d-wrap">
+    <div role="list" class="d-mod">
+        <h3>相关云产品</h3>
+        <div class="d-p-card-wrap c-grid J-cardWrapper">
+            
+            <div role="listitem" class="d-p-card c-g-12 J-cardItem" auto-height>
+                <a
+                    href="https://cloud.tencent.com/product/mlvb"
+                    hotrep="product.lvb.faqs.addenda.product.0"
+                    class="c-media-horiz d-card-hover">
+                    <div class="c-media-img">
+                        <img src="https://main.qcloudimg.com/image/product/2070/32_32/blue.svg" alt="">
+                    </div>
+                    <div class="c-media-body">
+                        <h4 class="c-media-heading">
+                            移动直播SDK  
+                        </h4>
+                        <div class="c-media-info J-cardDesc">
+                            移动端直播推流、拉流的快速集成方案，让手机也能马上直播
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+            <div role="listitem" class="d-p-card c-g-12 J-cardItem" auto-height>
+                <a
+                    href="https://cloud.tencent.com/product/vod"
+                    hotrep="product.lvb.faqs.addenda.product.1"
+                    class="c-media-horiz d-card-hover">
+                    <div class="c-media-img">
+                        <img src="https://main.qcloudimg.com/raw/d01d22bb537d81db51206035546a6dc8.svg" alt="">
+                    </div>
+                    <div class="c-media-body">
+                        <h4 class="c-media-heading">
+                            云点播
+                        </h4>
+                        <div class="c-media-info J-cardDesc">
+                            提供端到端的一站式音视频点播解决方案
+                        </div>
+                    </div>
+                </a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+            
+
+        </div>
+    </div>
+
+</div>
+
+<script>
+
+    var G_pageOptions = {
+        productSlug: 'lvb',
+        pageSlug: 'faqs'
+    };
+
+</script>
+
+<script>window.__CDN_DOMAIN = 'cloudcache.tencent-cloud.com'</script>
+<script>window.__wxMfaQrcodeMode = 'weapp'</script>
+
+
+
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/vendors/babel/polyfill.6.26.min.js?max-age=31536000"></script>
+<script type="text/javascript" src="//cloudcache.tencent-cloud.com/qcloud/app/qcconsole_web/dest/_imgcache_qq_com_idc.js" async></script>
+<script type="text/javascript" src="//cloud.tencent.com/qccomponent/_cloud_tencent_com_idc.js" async></script>
+<script type="text/javascript" src="//www.qcloud.com/_www_qcloud_com_idc.js" async></script>
+<script>
+	window.getCurrServerTime = (function(s, c) {return function(){return +new Date()+s-c;}})(1619231682586, +new Date());
+	window.__enableReport = true;
+	window.lifeId = "H1sTm-ZPO";
+	window.lifeStart = getCurrServerTime();
+</script>
+<script src="https://cloudcache.tencent-cloud.com/qcloud/insight/insight-client.985ac73c2.js"></script>
+<script>
+	try {
+		if (typeof window.Insight === 'object') {
+			Insight.install({
+				app: 'qcmain',
+				lid: window.lifeId,
+				born: window.lifeStart,
+				time: window.getCurrServerTime,
+				shouldReportEvent: function (payload) {
+					if (payload) {
+						//  神策上报触发 cgi-error 和 xhr-error 忽略掉
+						if (
+							(payload.event == 'xhr-error' || payload.event == 'cgi-error')
+							&& payload.hostname
+							&& payload.hostname.indexOf('sensors.cloud.tencent.com') == 0
+						) {
+							return false;
+						}
+					}
+					return window.__enableReport && document.cookie.search('disableInsight=1') === -1;
+				}
+			});
+		}
+	} catch(e) {
+		console.warn('官网监控初始化失败');
+	}
+</script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/base.865b240c467acf1167cf.js?max_age=31536000"></script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/deps.bc8b72d73c6b52a7b226.js?max_age=31536000"></script>
+
+		<script>
+			window.__QCPortalContext__ = {
+				version: "0.2.2",
+
+				resource: {},
+
+				$getCurrServerTime: (function(s, c) {return function(){return +new Date()+s-c;}})(1619231682581, +new Date()),
+			}
+		</script>
+		<script src="https://cloudcache.tencent-cloud.com/qcloud/portal/kit/full.ec94f328f.js"></script>
+		<script>
+			if (window.QCPortalKit) {
+				window.QCPortalKit.init({"topNav":{"theme":"white"},"footer":{"disable":false},"floatBar":{"disable":false}})
+			}
+		</script>
+	
+
+<script src="//cloud.tencent.com/qccomponent/login/api.js"></script>
+<script src="//cloud.tencent.com/developer/ask/quick/loader"></script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/common/vendors/clipboard.min.js"></script>
+<script src="//cloudcache.tencent-cloud.com/qcloud/main/scripts/release/product/index.v2.40643625c5d4de5f3a6f.js?max_age=31536000"></script>
+
+
+
+</body>
+</html>

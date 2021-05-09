@@ -1,0 +1,70 @@
+﻿
+
+<c:set var="ctx" value="" />
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>可信网站查询</title>
+        <link rel="shortcut icon" href="/ui/images/favicon.ico">
+        <link rel="stylesheet" href="/ui/css/common.css">
+        <link rel="stylesheet" href="/ui/css/index.css?v=20191125-1">
+    </head>
+    <body>
+        <section class="header">
+            <div class="wrapper tc">
+                <img class="logo" src="/ui/images/kxlogo.png" alt="logo">
+                <h1 class="title">中网可信网站权威数据库</h1>
+            </div>
+        </section>
+        <div class="banner">
+            <div class="content searchMain">
+                <div class="branch">
+                    <p>中网可信网站查询</p>
+                    <div class="searchGroup">
+                        <ul class="clearfix">
+                            <li class="l tc">
+                                <img class="searchlogo" src="/ui/images/searchlogo.png" alt="">
+                            </li>
+                            <li class="l">
+                                <input class="inp f14" type="text" placeholder="请输入网站名称或单位名称">
+                            </li>
+                            <li class="r">
+                                <span class="btn tc"><i class="iconfont f18">&#xe615;</i></span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="footer">
+            <p class="kxlogo">
+                <!--可信网站图片LOGO安装开始-->
+                <script src="https://kxlogo.knet.cn/seallogo.dll?sn=2010042600100001005&size=0"></script>
+                <!--可信网站图片LOGO安装结束-->
+            </p>
+            <p class="about">
+				<a href="http://knet.cn/shenqing/" target="_blank">加入可信网站</a> |
+				<a href="http://knet.cn/kx/" target="_blank">关于可信网站</a> |
+				<a href="http://knet.cn/" target="_blank">关于中网</a>
+			</p>
+			<p class="attestation">
+				电信与信息服务业务经营许可证：<a href="https://tsm.miit.gov.cn" target="_blank">京ICP证101069号</a><a href="http://beian.miit.gov.cn" target="_blank">京ICP备09107995号</a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021188" target="_blank">京公网安备11010802021188号</a>
+			</p>
+        </section>
+        <script src="/ui/js/jquery-3.5.1.min.js"></script>
+        <script src="/ui/js/common.js"></script>
+        <script src="/ui/js/index.js?v=20191125-1"></script>
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?1ebb70fc8c44a5e39406a9924ea46e6b";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+    </body>
+</html>

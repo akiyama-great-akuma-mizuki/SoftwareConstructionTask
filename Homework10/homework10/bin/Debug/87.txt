@@ -1,0 +1,591 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<base target="_blank" />
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>�����۰���--������_���ϵ������ձ�</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="L_383557" />
+<meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=renderer content=webkit>
+<!-- style -->
+<link rel="stylesheet"  href="/img/LOCAL/2019/01/113259/page.css" type="text/css" media="all"  />
+<script src="http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/img/LOCAL/2019/01/113259/js/jquery.jdt.js" type="text/javascript"></script>
+<script type="text/javascript" src="/img/LOCAL/2019/01/113259/js/jquery.tab_2013.js"></script>
+<script src="/img/LOCAL/2019/01/113259/js/jcarousellite.js" type="text/javascript"></script>
+<script type="text/javascript">
+                var cw1 = window.innerWidth;
+                var sUserAgent = navigator.userAgent.toLowerCase();    
+                var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";    
+                var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";    
+                var bIsMidp = sUserAgent.match(/midp/i) == "midp";    
+                var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";    
+                var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";    
+                var bIsAndroid = sUserAgent.match(/android/i) == "android";    
+                var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";    
+                var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";    
+                if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM ){
+                                         window.location.href="http://www.rmxiongan.com/GB/384596/index.html";   
+                }  
+                            
+</script>
+<script type="text/javascript">
+  $(document).ready(function(e) {
+    $(".p2_content div").eq(1).addClass("center")
+});
+</script>
+<script language="JavaScript">
+$(document).ready(function(){
+	
+  $(".topPic").jCarouselLite({
+    btnPrev: '.prev01',
+    btnNext: '.next01',
+	visible:1,
+	onMouse: true,
+	speed: 1500,
+	auto: 5000,
+       bttLi:true
+  });
+  
+  $(".topPic li span i").each(function(index, element) {
+    $(this).click(function(){
+		$(".topPic li span").removeClass("this");
+		$(this).parent("span").addClass("this");			
+		})
+});
+	});
+</script>
+
+<script language="JavaScript">
+$(document).ready(function(){
+	$(".jCarouselLite2").jCarouselLite({
+    btnNext: ".prev2",
+    btnPrev: ".next2",
+	speed: 2000,
+	auto: 2000,	
+	visible:3
+    });
+	});
+</script>
+
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+</head>
+<body>
+<!--2013�׺� start-->
+
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000 white pos_re_login">
+      <div class="fl" id="rwb_nav"><a href="http://politics.people.com.cn/" target="_blank">ʱ��</a><a href="http://world.people.com.cn/" target="_blank">����</a><a href="http://finance.people.com.cn/" target="_blank">�ƾ�</a><a href="http://tw.people.com.cn/" target="_blank">̨��</a><a href="http://military.people.com.cn/" target="_blank">����</a><a href="http://opinion.people.com.cn/" target="_blank">�۵�</a><a href="http://leaders.people.com.cn/" target="_blank">�쵼</a><a href="http://renshi.people.com.cn/" target="_blank">����</a><a href="http://theory.people.com.cn/" target="_blank">����</a><a href="http://legal.people.com.cn/" target="_blank">����</a><a href="http://society.people.com.cn/" target="_blank">���</a><a href="http://edu.people.com.cn/" target="_blank">����</a><a href="http://kpzg.people.com.cn/" target="_blank">����</a><a href="http://sports.people.com.cn/" target="_blank">����</a><a href="http://culture.people.com.cn/" target="_blank">�Ļ�</a><a href="http://art.people.com.cn/" target="_blank">�黭</a><a href="http://house.people.com.cn/" target="_blank">����</a><a href="http://auto.people.com.cn/" target="_blank">����</a><a href="http://travel.people.com.cn/" target="_blank">����</a><a href="http://health.people.com.cn/" target="_blank">����</a><a href="http://tv.people.com.cn/" target="_blank">��Ƶ</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">��¼</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">ע��</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">�˳�</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>��¼������ͨ��֤ &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">����ע��</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="�������û���" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">��ס��¼״̬</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">�������룿</a></p>
+            <p class="tc"><input type="submit" name="" value="��¼" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script>
+//SSO Loader [v 1.1.0]
+(function(){var s="http://sso.people.com.cn/resource/js/sso.js";function e(b){return function(){RMWSSO.cache.push({n:b,a:arguments})}}function d(b,c){var a=document.createElement("script");a.type="text/javascript";a.onreadystatechange=a.onload=function(){this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(c&&c(),a.onreadystatechange=a.onload=null,a.parentNode.removeChild(a))};a.src=b;document.getElementsByTagName("head")[0].appendChild(a)}if(!window.RMWSSO){var c=["login","logout","getUsername","getUserData","crossDomainLogin","ready"];window.RMWSSO={type:"loader",cache:[]};for(var b=0;b<c.length;b++)RMWSSO[c[b]]=e(c[b]);var f=setTimeout(function(){d(s)},5E3);d(s,function(){clearTimeout(f)})}})();
+</script>
+<script type="text/javascript">
+RMWSSO.getUserData(function(user){
+	if(!user.userId){
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+		//alert('δ��¼');
+	}else{
+		$("#txz_dlq").hide();
+		$("#txz_dlh").show();
+		var loginMsg = user.nickname + "����ӭ��"  ; 
+		$("#loginMsg").html(loginMsg);
+	}
+});
+
+function loginSuccess(){
+	$("#txz_dlq").hide();
+	$("#txz_dlh").show();
+	RMWSSO.getUserData(function(user){
+		if(user.userId){
+		var loginMsg = user.nickname + "����ӭ��"  ; 
+		$("#loginMsg").html(loginMsg);
+		}
+	})
+	$("#p_login").css({"display":"none"})
+}
+
+$("#logout").bind('click', function(event){
+	RMWSSO.logout(function(){
+		//alert('�˳��ɹ���')
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+	});
+})
+</script>
+<!--top end-->
+<!--��ͼ-->
+<div class="clearfix w1000 top01"><a href="http://www.people.com.cn"><img src="/NMediaFile/2019/0116/LOCAL201901161512119568632177139.jpg" width="1002" border="0" height="418" alt="1111"/>
+</a></div>
+<div class="clearfix w1000"><img src="/img/LOCAL/2019/01/113259/images/icon01.gif" width="1002" height="50" usemap="#Map" border="0" />
+  <map name="Map" id="Map">
+    <area shape="rect" coords="9,14,74,38" href="http://en.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="113,10,171,38" href="http://jp.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="207,15,284,38" href="http://de.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="318,4,386,40" href="http://ar.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="422,12,488,38" href="http://kr.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="517,12,618,37" href="http://pt.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="638,13,721,36" href="http://fr.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="759,12,835,33" href="http://es.rmxiongan.com/" target="_blank" />
+    <area shape="rect" coords="865,14,990,40" href="http://ru.rmxiongan.com/" target="_blank" />
+  </map>
+</div>
+<!--��ͼend-->
+
+<!--����-->
+<div class="pd_nav w1000 white">
+  <a href="http://www.rmxiongan.com/GB/383581/index.html">Ҫ��</a><a href="http://www.rmxiongan.com/GB/383579/index.html">�����ձ�ϵ˵�۰�</a><a href="http://www.rmxiongan.com/GB/386962/index.html">�۰���֪��</a><a href="http://www.rmxiongan.com/GB/383572/index.html">���۰�</a><a href="http://liuyan.people.com.cn/forum/list?fid=4731">�������쵼����</a><a href="http://www.rmxiongan.com/GB/390746/index.html">��������</a><a href="http://www.rmxiongan.com/GB/384008/index.html">���ߡ����</a><a href="http://www.rmxiongan.com/GB/383574/index.html">�Ҹ�����</a><a href="http://www.rmxiongan.com/GB/383571/index.html">�ǿ�</a><a href="http://www.rmxiongan.com/GB/383578/index.html">�۽�����</a><a href="http://www.rmxiongan.com/GB/388992/index.html">ר��</a>
+</div>
+<!--��ʱ���� ����-->
+<div class="jsnew_line w1000 ">
+  <div class="fl">
+    <span class="white"><a href="/GB/383581/index.html" target="_blank">��ʱ����</a></span><div class="gray"><marquee direction="left" width="600" scrolldelay="7" scrollamount="3"><a href='/n2/2021/0423/c383557-34692303.html' target="_blank">������۰������Ὣ��4�µ������ؾ���</a>
+<a href='/n2/2021/0423/c383557-34692275.html' target="_blank">�۰���֪����2021��4��24�գ�</a>
+<a href='/n2/2021/0423/c383557-34692147.html' target="_blank">�۰������ٿ��׽����깤������</a>
+<a href='/n2/2021/0423/c383557-34692084.html' target="_blank">�۰����м��㣨�����ƣ����İεض���</a>
+<a href='/n2/2021/0423/c383557-34691751.html' target="_blank">���۸��ٺӱ��ο�ͨ������ʱ����δ�����������ܼ�ʻר�ó���</a>
+<a href='/n2/2021/0423/c383557-34691041.html' target="_blank">���죬����鵥���պ�</a>
+<a href='/n2/2021/0423/c383557-34691013.html' target="_blank">����ʷ�Ķ��������ͼ���������� �۰���ٴ빹���������</a>
+<a href='/n2/2021/0423/c383557-34690887.html' target="_blank">�Ź��������ݶ�Ƭ��������Ƭ���ص���Ŀ���輰������Ӫ����</a>
+<a href='/n2/2021/0422/c383557-34690059.html' target="_blank">�۰���֪����2021��4��23�գ�</a>
+<a href='/n2/2021/0422/c383557-34690038.html' target="_blank">�۰������������������ �漰6��רҵ18�� </a>
+
+</marquee></div>
+  </div>
+  <form action="http://search.people.com.cn/cnpeople/xasearch.do" name="searchForm" method="post"  target="_blank">
+  <div class="fr">
+  <input type="hidden" name="pageNum" value="1" />
+		<input type="hidden" name="facetFlag" value="true" />
+		<input type="hidden" name="nodeId" value="383557" />   
+    <input name=""  type="image" src="/img/LOCAL/2019/01/113259/images/icon2.gif" />
+    <input  alt="search"  name="keyword" type="text" id="keyword" class="jianso_t"/>
+     </div>
+     </form>
+</div>
+<!--���ֹ��-->
+<div class="ad_text gray2 mt20"><a href="http://www.rmxiongan.com/GB/383568/390701/index.html">����</a><a href="http://www.rmxiongan.com/GB/383568/390702/index.html">�ݳ�</a><a href="http://www.rmxiongan.com/GB/383568/390703/index.html">����</a><a href="http://www.rmxiongan.com/GB/383568/390704/index.html">������</a><a href="#">��Ⱥ��</a><a href="#">�ĸ﷢չ��</a><a href="#">�滮�����</a><a href="#">���������</a><a href="#">�ۺ�ִ����</a><a href="#">��ȫ��ܾ�</a><a href="#">������</a><a href="#">��̬������</a><a href="http://www.chinaxiongan.cn/GB/index.html">�۰�����</a> <b>���䣺rmxiongan@people.cn</b></div>
+<!--ͨ�����-->
+<div class="w1000 clearfix king"><a href="http://dangshi.people.com.cn/" target=_blank><img src="/NMediaFile/2021/0329/LOCAL202103291748537506641960509.jpg" width="1000" border="0" height="90" alt=""/></a><a href="http://dangshi.people.com.cn/" target=_blank></a>
+</div>
+<!--�������-->
+
+
+
+
+<div class="title mt15">
+  <h1><a href='/n2/2021/0423/c383557-34690887.html' target="_blank">�Ź��������ݶ�Ƭ��������Ƭ���ص���Ŀ���輰������Ӫ����</a>
+</h1>
+  <p><a href='/n2/2021/0423/c383557-34690887.html' target="_blank">�ι�����������Ϊ���ĵķ�չ˼��</a>
+<a href='/n2/2021/0423/c383557-34690887.html' target="_blank">�߱�׼��������Ч���ƽ��ص���Ŀ����</a>
+<a href='/n2/2021/0423/c383557-34690887.html' target="_blank">�۽�ʵ�֡�����ϸ�塢��������Ŀ��</a>
+</p>
+</div>
+
+
+
+<!--p1-->
+<div class="p1_content clearfix w1000">
+  <div class="fl">
+  <div class="topPic"> 
+    <img src="/img/LOCAL/2019/01/113259/images/an_left.png" class="prev01" /> 
+    <img src="/img/LOCAL/2019/01/113259/images/an_right.png" class="next01" />
+      <ul class="clearfix">
+        <li><a href="http://www.rmxiongan.com/n2/2021/0422/c383557-34689933.html" target=_blank><img src="/NMediaFile/2021/0422/LOCAL202104221919139420223982519.jpg" width="655" border="0" height="415" alt="���鲿ѡ���۰�������ְ�ɲ���ѵ�࿪����ʽ����������"/></a><span><em><a href="http://www.rmxiongan.com/n2/2021/0422/c383557-34689933.html" target=_blank>���鲿ѡ���۰�������ְ�ɲ���ѵ�࿪����ʽ����������</a></em></span> </li>
+<li><a href="http://www.rmxiongan.com/n2/2021/0422/c383557-34690031.html" target=_blank><img src="/NMediaFile/2021/0422/LOCAL202104222140524136361987520.jpg" width="655" border="0" height="415" alt="��ֲ���������黳 �۰�������չ��У԰"/></a><span><em><a href="http://www.rmxiongan.com/n2/2021/0422/c383557-34690031.html" target=_blank>��ֲ���������黳 �۰�������չ��У԰</a></em></span> </li>
+<li><a href="http://www.rmxiongan.com/n2/2021/0416/c383557-34679687.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161913403256393763169.jpg" width="655" border="0" height="415" alt="����·�����������伣�����۰���ȫ����&#13;"/></a><span><em><a href="http://www.rmxiongan.com/n2/2021/0416/c383557-34679687.html" target=_blank>����·�����������伣�����۰���ȫ����
+</a></em></span> </li>
+<li><a href="http://www.rmxiongan.com/n2/2021/0415/c383557-34677092.html" target=_blank><img src="/NMediaFile/2021/0415/LOCAL202104151504427216286369728.jpg" width="655" border="0" height="415" alt="��������ȼ���۰����� ����ͼ��������Ⱥ���볪������񽨵�����"/></a><span><em><a href="http://www.rmxiongan.com/n2/2021/0415/c383557-34677092.html" target=_blank>��������ȼ���۰����� ����ͼ��������Ⱥ���볪������񽨵�����</a></em></span> </li>
+<li><a href="http://www.rmxiongan.com/n2/2021/0414/c383557-34675672.html" target=_blank><img src="/NMediaFile/2021/0414/LOCAL202104142103539869110421982.jpg" width="655" border="0" height="415" alt="����Զ�����ߡ����۰�ְ������ ͬ�Ľ����嵳�족����"/></a><span><em><a href="http://www.rmxiongan.com/n2/2021/0414/c383557-34675672.html" target=_blank>����Զ�����ߡ����۰�ְ������ ͬ�Ľ����嵳�족����</a></em></span> </li>
+
+      </ul>
+    </div>
+  </div>
+  <div class="fr">
+    <div>
+      <h4><a href='/n2/2021/0421/c383557-34686635.html' target="_blank">ȫ����Э���ʻ�ί�����鵽�۰�����</a>
+</h4>
+      <ul class="list_14"><li><a href='/n2/2021/0423/c383557-34692275.html' target="_blank">��֪��:�ӱ������й滮������۰���ѧ԰��</a></li>
+<li><a href='/n2/2021/0423/c383557-34692084.html' target="_blank">�����ֳ���֮�ۡ��۰����������İεض���</a></li>
+<li><a href='/n2/2021/0422/c383557-34689914.html' target="_blank">��26������������ա����۰������飡</a></li>
+<li><a href='/n2/2021/0422/c383557-34689925.html' target="_blank">�����Ͷ������Ƹ��� ���ָ�λ���۰�����</a></li>
+<li><a href='/n2/2021/0422/c383557-34688697.html' target="_blank">������!�۰������м�����Ժ֪ʶ��Ȩ����ͥ</a></li>
+</ul>
+      </div>
+    <div class="line1"></div>    
+    <div>
+      <h4><a href='/n2/2021/0421/c383557-34687630.html' target="_blank">2021�۰����������5��9����ǹ����</a>
+</h4>
+      <ul class="list_14"><li><a href="http://www.rmxiongan.com/n2/2021/0310/c383557-34614395.html" target="_blank" target="_blank"><img alt="" src="/NMediaFile/2021/0317/LOCAL202103171740373152959744162.jpg" style="width: 170px; height:23px;"></a> <a href="http://www.rmxiongan.com/n2/2021/0302/c383557-34600926.html" target="_blank">�۰���̨20�����</a></li><li><a href='/n2/2021/0422/c383557-34689439.html' target="_blank">�۰������µر��������� �漰�����Ŀ</a></li>
+<li><a href='/n2/2021/0423/c383557-34692303.html' target="_blank">������۰������Ὣ��4�µ������ؾ���</a></li>
+<li><a href='/n2/2021/0420/c383557-34685713.html' target="_blank">��ƶ�����Ƚ����˺ͼ������Ƽ���������Щ</a></li>
+<li><a href='/n2/2021/0422/c383557-34690038.html' target="_blank">�۰������������������ �漰6��רҵ18�� </a></li>
+</ul>
+    </div>
+  </div>
+</div>
+<!--p1 end-->
+
+
+<!--ͨ�����-->
+
+<!--�������-->
+
+
+
+
+<!--p2-->
+<div class="w1000 clearfix p2_content">
+ <h2><a href="http://www.rmxiongan.com/GB/388992/index.html" target="_blank">��ý��</a></h2><div><a href="http://www.rmxiongan.com/n2/2021/0423/c383557-34691041.html" target=_blank><img src="/NMediaFile/2021/0423/LOCAL202104231005513970970661022.jpg" width="310" border="0" height="150" alt="��4��23��������ա�������鵥���պ� &#13;��4��23��������ա�������������һ���鵥���԰�����Ա�쵼�ɲ�����������£�ѧ��ʷ������ġ�"/></a><a href="http://www.rmxiongan.com/n2/2021/0423/c383557-34691041.html" target=_blank><STRONG>��4��23��������ա�������鵥���պ�</STRONG> 
+<P class=gray2><A href="http://www.rmxiongan.com/n2/2021/0423/c383557-34691041.html">��4��23��������ա�������������һ���鵥���԰�����Ա�쵼�ɲ�����������£�ѧ��ʷ������ġ�</a></div>
+<div><a href="http://www.rmxiongan.com/n2/2021/0415/c383557-34676703.html" target=_blank><img src="/NMediaFile/2021/0415/LOCAL202104151451218140378305323.jpg" width="310" border="0" height="150" alt="12339�������𣬼����⴮���룬����Ҫ�� &#13; 4��15����ȫ����Ұ�ȫ�����գ�ʲô�ǹ��Ұ�ȫ�����գ�һ�����˽⡣"/></a><a href="http://www.rmxiongan.com/n2/2021/0415/c383557-34676703.html" target=_blank><STRONG>12339�������𣬼����⴮���룬����Ҫ��</STRONG> 
+<P class=gray2><A href="http://www.rmxiongan.com/n2/2021/0415/c383557-34676703.html"> 4��15����ȫ����Ұ�ȫ�����գ�ʲô�ǹ��Ұ�ȫ�����գ�һ�����˽⡣</a></div>
+<div><a href="https://mp.weixin.qq.com/s/GK3QZTKNuxGnfMghMGlQmQ" target=_blank><img src="/NMediaFile/2021/0401/LOCAL202104011724248744898095396.jpg" width="310" border="0" height="150" alt="���Ǹ����㣬�۰�����ɶ &#13; �۰������������죬����������������ͨ��������ͼ��һ��ȥ�������ϱ仯�������е��۰���"/></a><a href="https://mp.weixin.qq.com/s/GK3QZTKNuxGnfMghMGlQmQ" target=_blank><STRONG>���Ǹ����㣬�۰�����ɶ</STRONG> 
+<P class=gray2><A href="https://mp.weixin.qq.com/s/GK3QZTKNuxGnfMghMGlQmQ"> �۰������������죬����������������ͨ��������ͼ��һ��ȥ�������ϱ仯�������е��۰���</a></div>
+</div>
+<!--p2 end-->
+
+<!--ͨ�����-->
+<div class="w1000 clearfix king"><a href="http://www.rmxiongan.com/GB/388992/392411/index.html" target=_blank><img src="/NMediaFile/2021/0105/LOCAL202101051107537679712044128.jpg" width="1000" border="0" height="90" alt=""/></a><a href="http://www.rmxiongan.com/GB/388992/392411/index.html" target=_blank></a>
+</div>
+<!--�������-->
+
+
+
+<!--p3-->
+<div class=" w1000 clearfix p3_content">
+ <h2><a href="http://www.rmxiongan.com/GB/386962/index.html" target="_blank">�۰���֪��</a></h2>
+  <div class="left">   
+      <a href="http://www.rmxiongan.com/GB/386962/index.html" target=_blank><img src="/NMediaFile/2019/0626/LOCAL201906261642309968446047402.jpg" width="310" border="0" height="150" alt="��Ŀ��� &#13;�۰������׵���Ҳ��Ψһһ���ղ���ý��������Ŀ��ÿ������6��30�֣������ʡ�Ȩ����ȫ����۰�������Ѷ�������չ�ȣ�ͨ�������۰���PC��΢����΢�š�ϲ������FM��ȫý��ƽ̨ͬ���Ƴ���"/></a><a href="http://www.rmxiongan.com/GB/386962/index.html" target=_blank><STRONG>��Ŀ���</STRONG> </FONT>
+<P class=gray2><A href="http://www.rmxiongan.com/GB/386962/index.html" target="_blank">�۰������׵���Ҳ��Ψһһ���ղ���ý��������Ŀ��ÿ������6��30�֣������ʡ�Ȩ����ȫ����۰�������Ѷ�������չ�ȣ�ͨ�������۰���PC��΢����΢�š�ϲ������FM��ȫý��ƽ̨ͬ���Ƴ���</A></a>
+
+   </div>
+  <div class="center">
+     <h4><a href='http://www.rmxiongan.com/GB/390745/index.html' target="_blank">ԭ��������</a></h4>
+    <ul class="list_14"><li><a href='/n2/2021/0422/c383557-34689950.html' target="_blank">�����ձ�:�й�����������Ի����й��ִ���</a></li>
+<li><a href='/n2/2021/0420/c383557-34684361.html' target="_blank">�����ձ�ר��:�й����������й�ʽ�ִ���</a></li>
+<li><a href='/n2/2021/0406/c383557-34660820.html' target="_blank">��д�����̵ķܶ����ɣ�������̳��</a></li>
+<li><a href='/n2/2021/0322/c383557-34634554.html' target="_blank">ע�⣡�۰��ݳ�������·�ν�����Ͻ�</a></li>
+<li><a href='/n2/2021/0322/c383557-34635007.html' target="_blank">�۰������ݳ��ذ��ռ��ſ����鶬����Ŀ</a></li>
+<li><a href='/n2/2021/0321/c383557-34632943.html' target="_blank">�۰����ض�����·����԰�̵ؽ���������</a></li>
+<li><a href='/n2/2021/0317/c383557-34626676.html' target="_blank">�ӱ�ʡɭ����ڶ������鵽�۰����м��</a></li>
+<li><a href='/n2/2021/0317/c383557-34626679.html' target="_blank">�۰�������Ƹ���ѷ�����λ1240��� </a></li>
+</ul>
+  </div>
+   <div class="right">
+      <h2><a href="http://liuyan.people.com.cn/forum/list?fid=4731" target="_blank"><img src="/NMediaFile/2020/1231/LOCAL202012312210210901778943182.png" width="186" height="36" />�۰�����</a></h2>
+      <dl class="clearfix"><dt><a href="http://ldzl.people.com.cn/dfzlk/front/personPage4265.htm" target=_blank><img src="/NMediaFile/2020/1230/LOCAL202012301055058666022416894.jpg" width="110" border="0" height="130" alt="�۰���������ί���&#13;��ί������ �Ź���&#13;&#13;&#13;&#13;�������������Ź������Իظ�"/></a></dt>
+         <dd><a href="http://ldzl.people.com.cn/dfzlk/front/personPage4265.htm" target=_blank><p>�۰���������ί���<br />��ί������ �Ź���</br>
+</br>
+<a href="http://ldzl.people.com.cn/dfzlk/front/personPage4265.htm">����</a><a href="	
+http://www.rmxiongan.com/GB/399851/index.html">������</a></p><span><em class="white"><a href="http://liuyan.people.com.cn/forum/list?fid=4731">���Ź�������</a></em><a href="http://liuyan.people.com.cn/forum/list?fid=4731">�ظ�</a></span></a></dd>
+</dl>
+   </div>
+</div>
+</div>
+<!--p3 end-->
+
+
+<!--p4-->
+<div class="w1000 clearfix p4_content">
+   <h4><a href="http://www.rmxiongan.com/GB/383572/index.html"><img src="/img/LOCAL/2019/01/113259/images/icon04.gif" width="200" height="47" /></a></h4>
+   <div class="left">   
+        <div class="img_play">
+          <a href="http://www.rmxiongan.com/n2/2021/0411/c383557-34669570.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161508132313753903491.jpg" width="310" border="0" height="150" alt="�۰������¹���������ֳ�ʵ������"/></a>
+
+     </div>
+       <STRONG>�۰������¹���������ֳ�ʵ������</STRONG> 
+<P class=gray2><A href="	
+http://www.rmxiongan.com/n2/2021/0411/c383557-34669570.html">��ǰ���۰�������ʼΪ18����������Ⱥ�ṩ��ѽ����¹���������۰����ع���50���¹�������ֵ㣬��������22�����ݳ���12����������16����ÿ��8:00��18:00�ṩ���ַ���
+</A></P>
+   </div>
+   <div class="center">
+       <div><a href="http://www.rmxiongan.com/n2/2021/0409/c383557-34667923.html" target=_blank><img src="/NMediaFile/2021/0419/LOCAL202104191654334751408054594.jpg" width="120" border="0" height="100" alt=" ���۰����� �����ƶ��۰���������չ�� ����Կ�ס� &#13;�۰������ԡ��������¹��ܡ��²�ҵ�����˲š��»��ơ�Ŀ��Ϊָ�������조�۰�����Ʒ�ơ�"/></a><a href="http://www.rmxiongan.com/n2/2021/0409/c383557-34667923.html" target=_blank><STRONG> ���۰����� �����ƶ��۰���������չ�� ����Կ�ס�</STRONG> 
+<P class=gray2><A href="http://www.rmxiongan.com/n2/2021/0409/c383557-34667923.html"_blank">�۰������ԡ��������¹��ܡ��²�ҵ�����˲š��»��ơ�Ŀ��Ϊָ�������조�۰�����Ʒ�ơ�</A></P></a></div>
+     <div class="line"></div>
+<div><a href="http://www.rmxiongan.com/n2/2021/0401/c383557-34653109.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161530146972723475740.jpg" width="120" border="0" height="100" alt="ֱ���ط� | ��Լ�������ƹ��۰����¡���  &#13;���������۰����������������Ȼ��죬����������δ��֮�ǣ���������������"/></a><a href="http://www.rmxiongan.com/n2/2021/0401/c383557-34653109.html" target=_blank><STRONG>ֱ���ط� | ��Լ�������ƹ��۰����¡��� </STRONG> 
+<P class=gray2><A href="http://www.rmxiongan.com/n2/2021/0401/c383557-34653109.html"_blank">���������۰����������������Ȼ��죬����������δ��֮�ǣ���������������</A></P></a></div>
+     <div class="line"></div>
+
+  </div>
+   <div class="right">
+       <h3><a href="http://www.rmxiongan.com/GB/383579/index.html" target="_blank"><img src="/img/LOCAL/2019/01/113259/images/logo_rmw2.gif" width="156" height="29" />˵�۰�</a></h3>      
+       <ul class="list_14"><li><a href='/n2/2021/0416/c383557-34678285.html' target="_blank">�������ձ������۰���ӭ�Ŵ���ν�����</a></li>
+<li><a href='/n2/2021/0111/c383557-34521831.html' target="_blank">�������ձ�����������:Ϊ"ʮ����"���¾�</a></li>
+<li><a href='/n2/2020/1229/c383557-34501987.html' target="_blank">�۰�����ȫ��н�������ᱣ�չ���</a></li>
+<li><a href='/n2/2021/0104/c383557-34509628.html' target="_blank">�������ձ���:�������ʽ�����ԴԮ���۰�</a></li>
+<li><a href='/n2/2020/1230/c383557-34504483.html' target="_blank">�۰������ٰ��ƶ��Ʒ�����Խӻ�</a></li>
+<li><a href='/n2/2020/1230/c383557-34504408.html' target="_blank">�����»��� �����������۰����跢չ</a></li>
+<li><a href='/n2/2020/1231/c383557-34505530.html' target="_blank">�۰�������Ӧ��������Ϣ����ƽ̨����</a></li>
+</ul>
+  </div>
+</div>
+</div>
+<!--p4 end-->
+
+
+<!--ͨ�����-->
+
+<!--�������-->
+
+
+
+<!--p5-->
+<div class=" w1000 clearfix p5_content">
+ <h2><STRONG><a href="http://www.rmxiongan.com/GB/383578/index.html" target="_blank">�۽�����</a></STRONG> 
+</h2>
+  <div class="left">   
+    <a href="http://www.rmxiongan.com/n2/2021/0419/c383557-34682409.html" target=_blank><img src="/NMediaFile/2021/0419/LOCAL202104191425200789697894702.jpg" width="310" border="0" height="150" alt="Ŀ��ͬ�� ��ʩһ�� ��ʵ�ƽ� &#13;�����γ�Ŀ��ͬ�򡢴�ʩһ�塢���ƻ�����������Ӯ�ķ�չ�¸�֣�Эͬ��չȡ������˶����"/></a><a href="http://www.rmxiongan.com/n2/2021/0419/c383557-34682409.html" target=_blank><STRONG>Ŀ��ͬ�� ��ʩһ�� ��ʵ�ƽ�</STRONG> 
+<P class=gray2><A href="http://www.rmxiongan.com/n2/2021/0419/c383557-34682409.html" target="_blank">�����γ�Ŀ��ͬ�򡢴�ʩһ�塢���ƻ�����������Ӯ�ķ�չ�¸�֣�Эͬ��չȡ������˶����</A></P></a>
+
+   </div>
+  <div class="center">
+     <h4><a href='/n2/2021/0422/c383557-34689911.html' target="_blank">�����н�Ϊ�����ṩ5250������</a>
+</h4>
+    <ul class="list_14"><li><a href='/n2/2021/0423/c383557-34691751.html' target="_blank">��ͨ������ʱ�� ���۸��ٽ������ܼ�ʻר�ó���</a></li>
+<li><a href='/n2/2021/0421/c383557-34687802.html' target="_blank">�ӱ�����������ծȯ98��Ԫ֧�־�����ᷢչ</a></li>
+<li><a href='/n2/2021/0420/c383557-34685490.html' target="_blank">�������и�����179��������񡰿�ʡͨ�족</a></li>
+<li><a href='/n2/2021/0419/c383557-34682970.html' target="_blank">����ί:�ƶ����׶����������Ŀ���۰����</a></li>
+<li><a href='/n2/2021/0419/c383557-34683049.html' target="_blank">�������·���� �ƽ�����1Сʱ��ͨȦ</a></li>
+<li><a href='/n2/2021/0419/c383557-34682436.html' target="_blank">����Эͬ��չ:������ʱ����������չ�ı��</a></li>
+<li><a href='/n2/2021/0419/c383557-34682015.html' target="_blank">���Ƽ������������Կ����¶���</a></li>
+</ul> 
+  </div>
+   <div class="right">
+    <h3><a href="http://www.rmxiongan.com/GB/384008/index.html" target="_blank"><b>���ߡ����</b></a></h3>
+    <ul class="list_14"><li><a href='/n2/2021/0406/c383557-34659907.html' target="_blank">�۰�ӡ������ ����ɰٸ�������岼��</a></li>
+<li><a href='/n2/2021/0406/c383557-34659947.html' target="_blank">�۰�2025��׽������ļ����������ϵ</a></li>
+<li><a href='/n2/2021/0307/c383557-34609087.html' target="_blank">�۰�������۲żƻ���  �۴��´�ҵ���˲�</a></li>
+<li><a href='/n2/2021/0308/c383557-34609963.html' target="_blank">�ӱ�ʡ�����ǰ�۰����ﵽ��ú��Ҫ��</a></li>
+<li><a href='/n2/2021/0222/c383557-34587971.html' target="_blank">�۰�ӡ��֧����ҵ���·�չ����ɴ�ʩ</a></li>
+</ul>
+   </div>
+</div>
+</div>
+<!--p5 end-->
+
+
+<!--ͨ�����-->
+
+<!--�������-->
+
+
+
+<!--p6-->
+<div class=" p6_content w1000 clearfix">
+   <div>     
+     <h3><i><a href="http://www.rmxiongan.com/GB/383575/index.html" target="_blank">��̬</a></i></h3><p class="white"><a href="http://www.rmxiongan.com/n2/2021/0315/c383557-34622193.html" target=_blank><img src="/NMediaFile/2021/0322/LOCAL202103221538193038039365541.jpg" width="310" border="0" height="150" alt="�۰������߼䷿���ֹ��Ҷ�����������"/></a><em><a href="http://www.rmxiongan.com/n2/2021/0315/c383557-34622193.html" target=_blank>�۰������߼䷿���ֹ��Ҷ�����������</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0413/c383557-34672490.html' target="_blank">������ʩ���²� ����ֲ�̿ɹ۹�</a></li>
+<li><a href='/n2/2021/0406/c383557-34661495.html' target="_blank">�۰���ȥ�ۻ��� ������</a></li>
+<li><a href='/n2/2021/0406/c383557-34659964.html' target="_blank">�÷��η�ʽ����������̬��������</a></li>
+<li><a href='/n2/2021/0315/c383557-34622206.html' target="_blank">�۰�����11�ù��������¼ҡ�</a></li>
+<li><a href='/n2/2021/0314/c383557-34620195.html' target="_blank">�۰����������ص�ˮ��������Ŀ����</a></li>
+</ul>
+   </div>
+   <div class="center">
+     <h3><i><a href="http://www.rmxiongan.com/GB/383576/index.html" target="_blank">�Ļ�</a></i></h3><p class="white"><a href="/n2/2021/0407/c383557-34663034.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161717349573331855264.jpg" width="310" border="0" height="150" alt="�۰���ɫ����ح��Ѱ�����۰�����ƬӢ�������ϵľ��䴫�棬��֪������"/></a><em><a href="/n2/2021/0407/c383557-34663034.html" target=_blank>�۰���ɫ����ح��Ѱ�����۰�����ƬӢ�������ϵľ��䴫�棬��֪������</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0415/c383557-34676703.html' target="_blank">�����𣬼���12339������Ҫ</a></li>
+<li><a href='/n2/2021/0409/c383557-34667537.html' target="_blank">����ȫý�忼��ϵ�б���֮�۰�����</a></li>
+<li><a href='/n2/2021/0401/c383557-34654591.html' target="_blank">�۰�����������������ʾ���ʽ��ҵ </a></li>
+<li><a href='/n2/2021/0414/c383557-34675552.html' target="_blank">������Ӣ�ţ��۰�����������������´�ҵ</a></li>
+<li><a href='/n2/2021/0225/c383557-34593552.html' target="_blank">�ѡ��۰�����Ʒ�ƽеø��졢 ���ø���</a></li>
+</ul>
+   </div>
+   
+   <div>
+     <h3><i><a href="http://www.rmxiongan.com/GB/390744/index.html" target="_blank">�ǻ��۰�</a></i></h3><p class="white"><a href="/n2/2021/0416/c383557-34679450.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161725429841979341242.jpg" width="310" border="0" height="150" alt="��·�����������伣�����۰�ȫ����"/></a><em><a href="/n2/2021/0416/c383557-34679450.html" target=_blank>��·�����������伣�����۰�ȫ����</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0416/c383557-34678937.html' target="_blank">�۰���δ��֮�Ǻ�֮����</a></li>
+<li><a href='/n2/2021/0401/c383557-34653592.html' target="_blank">������ʵ���ң���������ֲ�������۰�</a></li>
+<li><a href='/n2/2021/0413/c383557-34672486.html' target="_blank">�۰����м������Ľ�����Ŀ����</a></li>
+<li><a href='/n2/2021/0330/c383557-34649536.html' target="_blank">̽���ۺϹ��ȣ�δ��֮�ǵĵ��¡������ߡ�</a></li>
+<li><a href='/n2/2021/0223/c383557-34589926.html' target="_blank">�۰�����������������ʩ�������Ļ</a></li>
+</ul>
+   </div>
+   <div>     
+     <h3><i><a href="/GB/390743/index.html" target="_blank">����</a></i></h3><p class="white"><a href="http://www.rmxiongan.com/n2/2021/0302/c383557-34601568.html" target=_blank><img src="/NMediaFile/2021/0310/LOCAL202103100933391292323121064.jpg" width="310" border="0" height="150" alt="Эͬ��չΪ�۰�����ı����Ϊ��ҵ���»�"/></a><em><a href="http://www.rmxiongan.com/n2/2021/0302/c383557-34601568.html" target=_blank>Эͬ��չΪ�۰�����ı����Ϊ��ҵ���»�</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0301/c383557-34599504.html' target="_blank">��ͼ����ѧ����ֱ���۰�������ѧ����</a></li>
+<li><a href='/n2/2021/0116/c383557-34531880.html' target="_blank">����֧���۰�����УһԺ����Ŀ������Ϣ</a></li>
+<li><a href='/n2/2021/0104/c383557-34509628.html' target="_blank">�������ʽ�����ԴԮ���۰�����26��ѧУ</a></li>
+<li><a href='/n2/2021/0112/c383557-34524002.html' target="_blank">ʯ��ׯ������ӡ��֪ͨ��ǿ��Уʦ������</a></li>
+<li><a href='/n2/2021/0112/c383557-34524006.html' target="_blank">�ӱ�222������Уʦ��������ȫ��Ϊ����</a></li>
+</ul>
+   </div>
+   <div class="center">
+     <h3><i><a href="http://www.rmxiongan.com/GB/383571/index.html" target="_blank">�ǿ�</a></i></h3><p class="white"><a href="http://www.rmxiongan.com/n2/2021/0308/c383557-34609779.html" target=_blank><img src="/NMediaFile/2021/0129/LOCAL202101291614443806010504336.jpg" width="310" border="0" height="150" alt="ê���߱�׼ ���조�۰�������"/></a><em><a href="http://www.rmxiongan.com/n2/2021/0308/c383557-34609779.html" target=_blank>ê���߱�׼ ���조�۰�������</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0303/c383557-34603257.html' target="_blank">�۰�1��λ����׼�販ʿ����й���վ</a></li>
+<li><a href='/n2/2021/0204/c383557-34565524.html' target="_blank">���ԣ������¡�Ŀ������ �۰�δ������</a></li>
+<li><a href='/n2/2021/0205/c383557-34567586.html' target="_blank">���ˣ��۰�����������Ҫץ��17���</a></li>
+<li><a href='/n2/2020/1215/c383557-34474885.html' target="_blank">�ӱ�������Դ���ӻ���������ȫ�����ȳ���80%</a></li>
+<li><a href='/n2/2020/1222/c383557-34487424.html' target="_blank">�۰�������������δ�����д��ԡ�񷶥��</a></li>
+</ul>
+   </div>
+   
+   <div>
+    <h3><i><a href="http://www.rmxiongan.com/GB/383573/index.html" target="_blank">���۰���</a></i></h3><p class="white"><a href="/n2/2021/0415/c383557-34677507.html" target=_blank><img src="/NMediaFile/2021/0416/LOCAL202104161034121269500268868.jpg" width="310" border="0" height="150" alt="������ ���� �����ġ� �۰�������չ�����ݳ�"/></a><em><a href="/n2/2021/0415/c383557-34677507.html" target=_blank>������ ���� �����ġ� �۰�������չ�����ݳ�</a></em></p>
+       <ul class="list_14">
+<li><a href='/n2/2021/0324/c383557-34639396.html' target="_blank">�۰���ҵ������ģʽ ��������ҵ��</a></li>
+<li><a href='/n2/2021/0408/c383557-34665209.html' target="_blank">50���¹�������ֵ���Ϣ���۰��˱ؿ�</a></li>
+<li><a href='/n2/2021/0402/c383557-34655856.html' target="_blank">���۽������¡�Ŀ�� �۰�������˵��������</a></li>
+<li><a href='/n2/2021/0413/c383557-34672478.html' target="_blank">�۰������׽����紴ҵ��ѵʦ�ʰ࿪��</a></li>
+<li><a href='/n2/2021/0406/c383557-34661413.html' target="_blank">1131�������������ֻ��һ���š�����ʵ��</a></li>
+</ul>
+   </div>
+ </div>
+<!--p6 end-->
+
+<!--p8-->
+
+
+<!--p9-->
+<div class=" w1000 clearfix p7_content ">
+  <h2><a href="http://www.rmxiongan.com/GB/383574/index.html" target="_blank">�Ҹ�����ָ��</a></h2>  <!--img_list1-->
+  <div class="img_list1  clearfix">
+<ul>
+  <li class="w178">
+    <div class="h150"><a href="http://www.rmxiongan.com/n2/2021/0316/c383557-34623675.html" target="_blank"><img src="/NMediaFile/2021/0323/LOCAL202103231645479565111473707.jpg" width="178" height="149" border="0"  /><span>�۰��ݶ�Ƭ��3�ŵؿ��׸�CFG׮˳�����</span></a></div>
+
+    <div class="h150"><a href="http://www.rmxiongan.com/n2/2021/0313/c383557-34619478.html" target="_blank"><img src="/NMediaFile/2021/0323/LOCAL202103231640114684451628367.jpg" width="178" height="150" border="0" alt=""/><span>������������������ݹ�԰ Ϊ�۰�������</span></a></div>
+  </li>
+
+
+  <li class="w360">
+    <div class="h300"><a href="http://www.rmxiongan.com/n2/2021/0320/c383557-34632128.html" target="_blank"><img src="/NMediaFile/2021/0323/LOCAL202103231621048010078117676.jpg" width="359" height="300" border="0"/><span>Ⱥ������ �������ġ������Ÿ��۰�ο���ݳ�</span></a></div>
+  </li>
+
+
+  <li class="w230">
+    <div class="h300"><a href="http://www.rmxiongan.com/n2/2021/0320/c383557-34632097-10.html" target="_blank"><img src="/NMediaFile/2021/0323/LOCAL202103231633094612255574752.jpg" width="230" height="300" border="0"/><span>�����մ������۰�ʤ��</span></a></div>
+  </li>
+
+
+<li class="w226">
+<div class="h150"><a href="http://www.rmxiongan.com/n2/2021/0322/c383557-34635011.html" target="_blank"><img src="/NMediaFile/2021/0311/LOCAL202103111445210245309200844.jpg" width="225" height="150" border="0" alt=" "/><span>�۰������������������� ��δ��֮�ǡ��Ӵ�����</span></a></div>
+
+<div class="h150"><a href="	
+http://www.rmxiongan.com/n2/2021/0306/c383557-34608293.html" target="_blank"><img src="/NMediaFile/2021/0311/LOCAL202103111447444533694578974.jpg" width="225" height="149" border="0" alt=" "/><span>���ݹ�԰��ӽ���������</span></a></div>
+
+</li>
+</ul>
+</div></div>
+<div class="linksbg">
+  <!--��վ����������-->
+  <section class="links clearfix">
+     <div class="w1000 clearfix">
+        <strong>���ڷ�վ</strong>
+        <p class="gn" id="rmw_guonei"><a href="http://bj.people.com.cn/" target='_blank'>����</a><a href="http://tj.people.com.cn/ " target='_blank'>���</a><a href="http://he.people.com.cn/" target='_blank'>�ӱ�</a><a href="http://sx.people.com.cn/" target='_blank'>ɽ��</a><a href="http://nm.people.com.cn/" target='_blank'>���ɹ�</a><a href="http://ln.people.com.cn/" target='_blank'>����</a><a href="http://jl.people.com.cn/" target='_blank'>����</a><a href="http://hlj.people.com.cn/" target='_blank'>������</a><a href="http://sh.people.com.cn/" target='_blank'>�Ϻ�</a><a href="http://js.people.com.cn" target='_blank'>����</a><a href="http://zj.people.com.cn/" target='_blank'>�㽭</a><a href="http://ah.people.com.cn/" target='_blank'>����</a><a href="http://fj.people.com.cn/" target='_blank'>����</a><a href="http://jx.people.com.cn/" target='_blank'>����</a><a href="http://sd.people.com.cn/" target='_blank'>ɽ��</a><a href="http://henan.people.com.cn/" target='_blank'>����</a><br /><a href="http://hb.people.com.cn/" target='_blank'>����</a><a href="http://hn.people.com.cn/" target='_blank'>����</a><a href="http://gd.people.com.cn/" target='_blank'>�㶫</a><a href="http://gx.people.com.cn/" target='_blank'>����</a><a href="http://hi.people.com.cn/" target='_blank'>����</a><a href="http://cq.people.com.cn/" target='_blank'>����</a><a href="http://sc.people.com.cn/" target='_blank'>�Ĵ�</a><a href="http://gz.people.com.cn/" target='_blank'>����</a><a href="http://yn.people.com.cn/" target='_blank'>����</a><a href="http://xz.people.com.cn/" target='_blank'>����</a><a href="http://sn.people.com.cn/" target='_blank'>����</a><a href="http://gs.people.com.cn/" target='_blank'>����</a><a href="http://qh.people.com.cn/" target='_blank'>�ຣ</a><a href="http://nx.people.com.cn/" target='_blank'>����</a><a href="http://xj.people.com.cn/" target='_blank'>�½�</a><a href="http://sz.people.com.cn/" target='_blank'>����</a><br /><a href="http://unn.people.com.cn/GB/422044/index.html" target='_blank'>�ط�Ƶ����Ա����</a></p></p>
+        <strong>ȫ���վ</strong>
+        <p class="quan" id="rmw_quanqiu"><a href="http://japan.people.com.cn/" target='_blank'>�ձ�</a>
+<a href="http://usa.people.com.cn/" target='_blank'>����</a>
+<a href="http://uk.people.com.cn/" target='_blank'>Ӣ��</a>
+<a href="http://ru.people.com.cn/" target='_blank'>����˹</a>
+<a href="http://korea.people.com.cn/" target='_blank'>����</a>
+<br />
+<a href="http://australia.people.com.cn/"  target='_blank'>�Ĵ�����</a>
+<a href="http://nordic.people.cn"  target='_blank'>��ŷ</a></p>
+      </div>
+  </section>
+  <!--��Ȩ-->
+  <footer class="clearfix">
+        <p><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">�����ձ���ſ�</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/50142/420117/index.html" target="_blank">����������</a>
+<span class="xian">|</span>
+<a href="http://hr.peopledaily.com.cn/" target="_blank">������Ƹ</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/1018/245490/index.html" target="_blank">��ƸӢ��</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">������</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/GB/208743/403202/403212/index.html" target="_blank">��������</a>
+<span class="xian">|</span>
+<a href="http://gonggao.people.com.cn/" target="_blank">�������</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">��վ����</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/n1/2019/0308/c420117-30965009.html" target="_blank">��վ��ʦ</a>
+<span class="xian">|</span>
+<a href="http://sso.people.com.cn/resource/html/userInforPro.html" target="_blank">��Ϣ����</a>
+<span class="xian">|</span>
+<a href="http://kf.people.com.cn/" target="_blank">�������</a>
+<span class="xian">|</span>
+<a href="http://english.peopledaily.com.cn/" target="_blank">ENGLISH</a>
+        </p>
+        <p><!--������ߣ�4008-100-300&nbsp;&nbsp;-->�������䣺<a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a>&nbsp;&nbsp;Υ���Ͳ�����Ϣ�ٱ��绰��010-65363263&nbsp;&nbsp;�ٱ����䣺<a href="mailto:jubao@people.cn" target="_blank">jubao@people.cn</a></p>
+        <p><a href="http://www.people.com.cn/img/2014xuke/2018hlwxw.html" target="_blank">������������Ϣ�������֤10120170001</a>
+		<span class="xian">|</span>
+		<a href="http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html" target="_blank">��ֵ����ҵ��Ӫ���֤B1-20060139</a>
+		</p>
+<p><a href="http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm" target="_blank">��Ϣ���紫��������Ŀ���֤0104065</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html" target="_blank">�㲥���ӽ�Ŀ������Ӫ���֤����ý���ֵ�172��</a>
+</p>
+<p><a href="http://www.people.com.cn/img/2014xuke/2018wlwh.html" target="_blank">�����Ļ���Ӫ���֤ ������[2017]9786-1126��</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2018wlcb.html" target="_blank">�������������֤��������121��</a>
+<span class="xian">|</span>
+<a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank">��ICP֤000006��</a>
+<span class="xian">|</span>
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">����������11000002000008��</a>
+		</p>
+        <p class="mt30">�� �� �� �� Ȩ �� �� ��δ �� �� �� �� Ȩ �� ֹ ʹ ��<br />Copyright &copy; 1997-2021 by www.people.com.cn. all rights reserved</p>
+		<p class="mt30">
+        	<a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000101300040" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon1.jpg" /></a>����
+            <a href="https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon2.jpg" /></a>����
+            <a href="http://si.trustutn.org/info?sn=470170320027574551118&certType=1" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon3.jpg" /></a>����
+			<a href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html" target="_blank"><img src="http://www.people.com.cn/img/2016people/images/copy_icon4.jpg" /></a>
+        </p>
+    </footer>
+</div>
+
+<div class="logo_bg clearfix"><img src="/img/LOCAL/2019/01/113259/images/icon08.gif" width="332" height="233" /></div>
+
+
+
+
+<a title="���ض���" style="display:none;" class="go_top" href="#"></a>
+
+
+
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" sync></script>
+
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script><script type="text/javascript">      
+	var wxData = {
+		"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg",
+		"link": window.location.href.split('?')[0],
+		"desc": "�����������죬�۰������滮�����ͽ��跢չ��Ϣƽ̨��",
+		"title": "�����۰���"
+	};
+</script><script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+<script defer async type="text/javascript" src="http://www.people.com.cn/wza/assist.js?sid=68153&pos=left"></script>
+</body>
+</html>

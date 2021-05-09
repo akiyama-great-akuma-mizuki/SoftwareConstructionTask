@@ -1,0 +1,248 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>2021年基金从业资格考试报名方式-高顿教育</title>
+<meta name="keywords" content="基金从业考试报名,基金从业资格考试报名方式">
+<meta name="description" content="基金从业考试采用网上报名的方式，考生通过中国证券投资基金业协会官网提供的报名链接进行报名，也可直接登录报名网站（http://baoming.amac.org.cn:10080）按照要求报名。">
+<meta name="applicable-device" content="pc">
+<meta name="mobile-agent" content="format=xhtml; url=https://m.gaodun.com/jijin/baokaozhinan/bmfs.html">
+<meta name="mobile-agent" content="format=html5; url=https://m.gaodun.com/jijin/baokaozhinan/bmfs.html">
+<link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.gaodun.com/jijin/baokaozhinan/bmfs.html">
+<!--对应移动跳转start-->
+<script type="text/javascript">
+			// JavaScript Document
+			function browserRedirect(url) {
+				//只读的字符串，声明了浏览器用于 HTTP 请求的用户代理头的值
+				var sUserAgent = navigator.userAgent.toLowerCase();
+				var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+				var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+				var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+				var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+				var bIsAndroid = sUserAgent.match(/android/i) == "android";
+				var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+				var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+				if(bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+					window.location.replace(url);
+				}
+			}
+		</script>
+<script type="text/javascript">
+			browserRedirect("https://m.gaodun.com/jijin/baokaozhinan/bmfs.html");
+		</script>
+<!--对应移动跳转end-->
+<link href="style/public.css" rel="stylesheet" type="text/css">
+<link href="style/css.css" rel="stylesheet" type="text/css">
+<link href="style/plyr.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="warp">
+<div class="banner">
+  <div class="center">
+    <div class="logo"><a href="https://www.gaodun.com/" target="_blank"><img src="images/logo.png" /></a></div>
+    <div class="banner-1"><img src="images/banner-1.png" /></div>
+    <div class="source">本专题内容来源 中国证券投资基金业协会 </div>
+  </div>
+</div>
+<div class="contaniner center">
+  <div class="clearfix">
+    <div class="left">
+      <div class="left-title">
+        <li><a href="https://www.gaodun.com/jijin/baokaozhinan/"  style="color:white" >基金从业资格考试简介</a></li>
+      </div>
+      <div class="slide">
+        <ul>
+          <li class="slideItem ">
+            <div class="slideHead">基金从业资格报名相关</div>
+            <div class="slideBody">
+              <ul>
+                <li><a href="bmtj.html" >基金从业资格报名条件</a></li>
+                <li><a href="bmsj.html" >基金从业资格报名时间</a></li>
+                <li><a href="bmfs.html" >基金从业资格报名方式及入口</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="slideItem">
+            <div class="slideHead">基金从业资格准考证相关</div>
+            <div class="slideBody">
+              <ul>
+                <li><a href="zkzdysj.html" >基金从业资格准考证打印时间及入口</a></li>
+                <li><a href="zkzdylc.html" >基金从业资格准考证打印流程</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="slideItem">
+            <div class="slideHead">基金从业资格考试相关</div>
+            <div class="slideBody">
+              <ul>
+                <li><a href="kssj.html" >基金从业资格考试时间</a></li>
+                <li><a href="kskm.html" >基金从业资格考试科目</a></li>
+                <li><a href="ksfy.html" >基金从业资格考试费用</a></li>
+                <li><a href="kstx.html" >基金从业资格考试题型及题量</a></li>
+                <li><a href="ksfs.html" >基金从业资格考试方式</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="slideItem">
+            <div class="slideHead">基金从业资格考试成绩相关</div>
+            <div class="slideBody">
+              <ul>
+                <li><a href="cjcx.html" >基金从业资格考试成绩查询</a></li>
+                <li><a href="cjhgx.html" >基金从业资格考试合格分数线</a></li>
+                <li><a href="cjyxq.html" >基金从业资格考试成绩有效期</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="slideItem">
+            <div class="slideHead">基金从业资格证书相关</div>
+            <div class="slideBody">
+              <ul>
+                <li><a href="hgz.html" >基金从业资格合格证</a></li>
+                <li><a href="jjzs.html" >基金从业资格证书</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="slideItem">
+            <div class="slideLink"><a href="jjjc.html" >基金从业资格考试备考教材</a></div>
+          </li>
+          <li class="slideItem">
+            <div class="slideLink"><a href="jjkc.html" >基金从业资格考试备考课程</a></div>
+          </li>
+          <li class="slideItem">
+            <div class="slideLink"><a href="jjsz.html" >基金从业资格考试师资介绍</a></div>
+          </li>
+          <li class="slideItem">
+            <div class="slideLink"><a href="https://www.gaodun.com/jijin/" target="_blank">基金从业资格考试相关资讯</a></div>
+          </li>
+          <li class="slideItem">
+            <div class="slideLink"><a href="jjgzh.html" >基金从业资格考试公众号</a></div>
+          </li>
+        </ul>
+      </div>
+      <div class="switch">
+        <div class="switch-cont">
+          <ul>
+            <li> <a href="https://www.gaodun.com/jijin/baokaozhinan/" class="primary" target="_blank"> <span>基金从业资格<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/chuji/zhinan/" class="intermediate" target="_blank"> <span>初级会计职称<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/cta/shuiwushi/" class="primary" target="_blank"> <span>税务师<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/jijin/baokaozhinan/" class="intermediate"> <span>基金从业<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/mat/chujibaokaozhinan/" class="primary" target="_blank"> <span>初级管理会计师<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/mat/zhongjibaokaozhinan/" class="intermediate" target="_blank"> <span>中级管理会计师<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/jjs/baokaozhinan/" class="primary" target="_blank"> <span>经济师<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/mpacc/zhinan/" class="intermediate" target="_blank"> <span>MPACC<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/acca/bkzn/" class="primary" target="_blank"> <span>ACCA<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/cma/bkzn/" class="intermediate"> <span>CMA<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/cfa/baokaozhinan/" class="primary" target="_blank"> <span>CFA<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/frm/baokaozhinan/" class="intermediate" target="_blank"> <span>FRM<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+            <li> <a href="https://www.gaodun.com/aicpa/zn/" class="primary" target="_blank"> <span>USCPA<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/primary-img.png" /> </a> <a href="https://www.gaodun.com/zhongji/baokaozhinan/" class="intermediate" target="_blank"> <span>中级会计职称<i>报考指南</i></span>
+              <p>现在就去围观<b>GO</b></p>
+              <img src="images/intermediate-img.png" /> </a> </li>
+          </ul>
+        </div>
+        <div class="switch-page"> <span class="t">&lt;</span> <span class="b">&gt;</span> </div>
+      </div>
+    </div>
+    <div id="tl-banner" style="width:890px; float:right; padding-bottom:20px;"><a href="https://finance.jinshuju.com/f/fAFLaT?x_field_1=w-zhinan" target="_blank" rel="nofollow"><img src="images/ziliao.jpg" style="width:100%"></a><span id="cls-tlb">X</span></div>
+    <div class="right">
+      <div class="main main1">
+        <div class="title"> <span>基金从业资格报名方式及入口</span>
+          <ul>
+            <li>更新时间：<i>2021-01-21</i></li>
+            <li>责编：<i>Kevin.shi</i></li>
+          </ul>
+        </div>
+        <div class="condi-txt">
+          <p>2021年基金从业资格考试分为预约式考试和全国统考，考生通过中国证券投资基金业协会官网提供的报名链接进行报名，也可直接登录报名网站（<span style="color:#0000ff;">http://baoming.amac.org.cn:10080</span>）按照要求报名。<a href="https://finance.jinshuju.com/f/fAFLaT?x_field_1=bmfs" target="_blank" rel="nofollow">2021年基金从业考试通关资料包，人手一份！</a></p>
+          <p> <strong>网上报名具体流程如下图所示：</strong></p>
+          <p style="text-align: center;"> 　　基金从业资格考试报名具体流程步骤（图文）&darr;&darr;&darr;<br />
+            <br />
+            <img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R202R6.jpg" style="width: 418px; height: 196px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第一步、进入中国证券投资基金业协会官网，找到报名入口，选择预约/统考考试入口</strong></span></p>
+          <p style="text-align: center;"> <img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R215524.gif" style="width: 380px; height: 149px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第二步、登录进入平台，点击正式报名</strong></span></p>
+          <p> </p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R22b91.png" style="width: 253px; height: 253px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第三步、填写相关信息</strong></span></p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R300P7.gif" style="width: 380px; height: 344px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第四步、选择报考批次</strong></span></p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R31Y32.gif" style="width: 500px; height: 132px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第五步、选择报考区域</strong></span></p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R336193.gif" style="width: 500px; height: 136px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第六步、选择报考科目</strong></span></p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R355O1.gif" style="width: 500px; height: 238px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第七步、确认报考信息</strong></span></p>
+          <p> 　　(基金预约式考试报考成功后机位将保留120分钟，请在120分钟内完成支付操作。基金从业统考报考成功后机位将保留至报名截止，请在截至日前完成缴费。)</p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R4234b.gif" style="width: 500px; height: 229px;" /></p>
+          <p> <span style="color:#ff0000;"><strong>第八步、支付报名费用</strong></span></p>
+          <p style="text-align: center;"> 　　<img alt="" src="https://cma.gaodun.cn/uploads/1904/9860-1Z4011R43WG.gif" style="width: 500px; height: 312px;" /></p>
+          <p> <strong><span style="color:#ffa500;">　　温馨提示：</span></strong>指定区域，选择科目并在120分钟内交费。交费成功后请在已报考科目中，确认科目已支付。如显示未支付，请联系客服。机位有限，报名需趁早！</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--  
+  <div class="calendar center">
+      <div class="calendar-title">考试日历</div>
+      <div class="calendar-cont">      <li><span>报名时间</span>
+        <p>3月22-27日、6月14-19日、9月20-25日</p>
+      </li>
+      <li><span>大纲、教材</span>
+        <p>已公布</p>
+      </li>
+      <li><span>准考证打印</span>
+        <p>一般考试前3天</p>
+      </li>
+      <li><span>参加考试</span>
+        <p>3月27日、6月19日、9月25日</p>
+      </li>
+      <li><span>成绩查询</span>
+        <p>一般考后<br />
+          7个工作日公布</p>
+      </li>
+      <li><span>领取合格证</span>
+        <p>成绩公布10日后</p>
+      </li>
+        </ul>
+        <div class="calendar-lcon"><img src="images/calendar-lcon.png" /></div>
+      </div>
+    </div>
+</div>
+-->
+<div class="footer">
+  <div class="footer-bom">
+    <div class="center">
+      <div class="footer-link">
+        <div class="footer-link"> <a rel="nofollow" target="_blank" href="http://www.miitbeian.gov.cn">沪ICP备 14038153号</a> <a rel="nofollow" target="_blank" href="https://credit.szfw.org/CX27030000120820161208.html">诚信网站</a> <a rel="nofollow" target="_blank" href="https://ss.knet.cn/verifyseal.dll?sn=a13022831010039322c6ve000000&amp;comefrom=trust&amp;trustKey=dn&amp;trustValue=www.gaodun.cn">可信网站</a> <a href="http://si.trustutn.org/info?sn=927160811023695496826&certType=1" target="_blank" rel="nofollow">实名网站认证</a> <a rel="nofollow" target="_blank" href="https://www.anquan.org/authenticate/cert/?site=www.gaodun.com&at=business">安全联盟认证</a> <a rel="nofollow" target="_blank" href="http://www.shjbzx.cn">上海市互联网举报中心</a> <a rel="nofollow" target="_blank" href="http://www.zx110.org">网络社会证信网</a> <a rel='nofollow' target='_blank' class='kex-gs' href='https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=1atr5hendjiu232trv8vb6qred7d9ymsc1d1xry7wipcl9h2qb'>上海工商</a> <a rel="nofollow" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010902001351">沪公网安备31010902001351号</a> <a href="https://credit.cecdc.com/CX20170620038863810881.html" target="_blank">互联网3.15产品监督认证     沪B2-20160190     广播电视节目制作经营许可证</a> </div>
+        <p>Copyright © 2006-2021 高顿教育, All Rights Reserved.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="consult" id="swtColse" onClick="LR_Hidemobileinvite(0);onlinerIcon0.hidden();"><a><img src="images/consult.png" onClick="openZoosUrl('chatwin');" /></a></div>
+<script type="text/javascript" src="https://img.gaodun.cn/js/jquery-1.9.0.js"></script>
+<script type="text/javascript" src="js/js.js"></script>
+<script type="text/javascript" src="https://img.gaodun.cn/js/gaodun.cn.ad.js"></script>
+<script type="text/javascript" charset="utf-8" src="//gate.soperson.com/10036363/10091138.js"></script>
+<!--<script language="javascript" src="https://chat7622.talk99.cn/chat/chat/p.do?_server=0&encrypt=1&c=10036363&g=10055866&refer=ztjj"></script>-->
+</body>
+</html>

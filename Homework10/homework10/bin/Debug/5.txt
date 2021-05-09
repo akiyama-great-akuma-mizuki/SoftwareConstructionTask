@@ -1,0 +1,562 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; CHARSET=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="author" content="">
+
+<meta name="description" content="银联艺术卡白金卡（精英版）">
+<meta name="keywords" content="银联艺术卡白金卡（精英版）">
+<link rel="stylesheet" type="text/css" href="/resources/css/2012/base.css">
+<link rel="stylesheet" type="text/css" href="/resources/css/2012/innerpage.css">
+<script type="text/javascript" src="/resources/js/2012/jquery.min.js"></script>
+<script type="text/javascript" src="/resources/js/2012/page.js"></script>
+<script type="text/javascript" src="/resources/js/2012/jquery.cookie.js"></script>
+<script type="text/javascript" src="/resources/js/2012/share.js"></script>
+<script type="text/javascript" src="/resources/js/2012/login.js"></script>
+<script type="text/javascript" src="/resources/js/2012/flash.js"></script>
+
+
+
+<title>兴业银行信用卡欢迎您 银联艺术主题信用卡白金卡（精英版）</title>
+<script type="text/javascript" src="/customer/CibCardBaidu.js"></script>
+</head>
+<body>
+
+ 
+<div class="full">
+   <div id="card-miniGuide">
+		<ul>
+			 <li><a href="http://www.cib.com.cn/cn/personal/" target="_blank">银行卡</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.cib.com.cn/cn/personal/vip/index.html" target="_blank">贵宾</a></li>
+			 <li>|</li>
+			 <li><a href="https://finance.cib.com.cn/cib_ins/" target="_blank">保险</a></li>
+			 <li>|</li>
+			 <li><a href="https://finance.cib.com.cn/cib_fd/" target="_blank">基金</a></li>
+			 <li>|</li>
+			 <li><a href="http://www.cib.com.cn/cn/index.html" target="_blank" id="home">兴业银行首页</a></li>
+			 <li><a href="javascript:window.external.AddFavorite('http://creditcard.cib.com.cn/index.html','兴业银行信用卡')" id="fav">加入收藏</a></li>
+	   </ul>
+  </div>
+</div>
+<div id="card-header">
+    <a class="logo fl hof" href="http://creditcard.cib.com.cn/index.html" target="_blank">兴业银行信用卡</a>
+	<!--<a class="card-header-ads fr" href="#"><img src="/resources/images/2012/card-header-ads.jpg"/></a>-->
+</div>
+ 
+
+
+
+
+<div class="hr-5">
+  <!--<div class="card-header-space"><img src="/resources/images/2012/card-header-space.jpg"/></div>-->
+</div>
+<div id="card-nav-full">
+<div id="card-nav" class="rlt">
+ <ul>
+  <li class=""><a class="home nav-set hof" href="/index.html">首页</a></li>
+  <li class="cur"><a class="nav1 nav-set hof" href="/apply/index.html">信用卡申请</a>
+    <!--信用卡申请-子菜单-->
+    <span class="abs">
+     <ul class="sub-apply">
+       <li class="sub-apply1 pd15"><a class="nav-sub-set hof" href="/apply/applyOnline.html" target="_blank">在线申请信用卡</a></li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="100"/></li>
+       <li class="sub-apply2 pd15"><a class="nav-sub-set hof hand">产品介绍</a>
+         <ul class="nav-sub-li">
+           <li><a href="/apply/products/BJseries/ylrmb.html">白金卡系列</a></li>
+           <li><a href="/apply/products/BZseries/ylbz.html">标准卡系列</a></li>
+           <li><a href="/apply/products/ZTseries/QDZG.html">主题卡系列</a></li>
+           <li><a href="/apply/products/LMseries/HKseries/mango.html">联名•航空商旅系列</a></li>
+           <li><a href="/apply/products/LMseries/SJseries/XINGYOUKA.html">联名•私家车主系列</a></li>
+           <li><a href="/apply/products/LMseries/SSseries/TXSP.html">联名•时尚生活系列</a></li>
+           <li><a href="/apply/products/LMseries/BHseries/tianH.html">联名•百货卡系列</a></li>
+           <li><a href="/apply/products/RTseries/co2.html">认同卡系列</a></li>
+           <li><a href="/apply/products/DWseries/dvisa.html">单位卡系列</a></li>
+         </ul>
+      </li> 
+	  <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="100"/></li>
+	  <!--<li class="sub-apply4 pd15"><a class="nav-sub-set hof" href="/apply/wallet/jiamingshoubiao.html" target="_blank">移动支付</a></li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="100"/></li>-->
+      <li class="sub-apply3 pd15"><a class="nav-sub-set hof hand">办卡须知</a>
+         <ul class="nav-sub-li">
+           <li><a href="/apply/AttachCard.html">附属卡</a></li>
+           <li><a href="/apply/function.html">功能介绍</a></li>
+           <li><a href="/apply/application/rule.html">申请须知</a></li>
+		   <li><a href="/apply/charges.html">收费标准</a></li>
+         </ul>     
+      </li>
+     </ul>
+    </span>
+  </li>
+  <li class=""><a class="nav2 nav-set hof" href="/guide/index.html">用卡指南</a>
+    <!--用卡指南-子菜单-->
+    <span class="abs">
+     <ul class="sub-guide">
+       <li class="sub-guide1 pd15"><a class="nav-sub-set hof hand" >基础服务</a>
+         <ul class="nav-sub-li">
+           <li><a href="/guide/base/renshi.html">认识您的信用卡</a></li>
+           <li><a href="/guide/base/how.html">如何使用信用卡</a></li>
+           <li><a href="/guide/base/anquan.html">安全提醒</a></li>
+		   <li><a href="http://download.cib.com.cn/card/20170907.pdf" target="_blank">IC信用卡使用指南</a></li>
+         </ul>
+      </li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="165"/></li>
+      <li class="sub-guide2 pd15"><a class="nav-sub-set hof hand">全面客户服务</a>
+         <ul class="nav-sub-li">
+           <li><a href="/guide/customers/services.html">全面客户服务</a></li>
+           <li><a href="http://creditcard.cib.com.cn/guide/customers/tousu.html"target="_blank">客户投诉渠道及处理流程</a></li>
+         </ul>     
+      </li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="165"/></li>
+      <li class="sub-guide3 pd15"><a class="nav-sub-set hof hand">境外用卡服务</a>
+         <ul class="nav-sub-li">
+           <li><a href="/guide/abroad/tips.html">境外用卡准备小贴士</a></li>
+           <li><a href="/guide/abroad/domestic.html">境外用卡指南</a></li>
+           <li><a href="/guide/abroad/online.html">网上外币交易指南</a></li>
+           <li><a href="http://creditcard.cib.com.cn/card/repay/currency/index.html" target="_blank">外币还款指南</a></li>
+           <li><a href="http://creditcard.cib.com.cn/minisite/haitao/index.html" target="_blank">境外网上购物指南</a></li>
+
+         </ul>     
+      </li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="165"/></li>
+      <li class="sub-guide4 pd15"><a class="nav-sub-set hof hand">网上支付</a>
+         <ul class="nav-sub-li">
+           <li><a href="/guide/payment/rmb.html">信用卡人民币网上支付</a></li>
+           <li><a href="/guide/payment/waibi.html">信用卡外币网上支付</a></li>
+           <li><a href="/guide/payment/yanzheng.html">3D验证服务</a></li>
+           <li><a href="/guide/payment/sylc.html">网上支付使用流程</a></li>
+           <li><a href="http://creditcard.cib.com.cn/card/guide/payment/weixin.html">微信支付</a></li>
+         </ul>     
+      </li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="165"/></li>
+      <li class="sub-guide5 pd15"><a class="nav-sub-set hof hand">代扣代缴</a>
+         <ul class="nav-sub-li">
+           <li><a href="/guide/charge/fj_gaosu.html">福建高速路通行费代扣业务</a></li>
+           <li><a href="/guide/charge/fj_ydhf.html">福建移动话费代扣代缴服务</a></li>
+           <li><a href="/guide/charge/sh_ggsy.html">上海公共事业费代缴服务</a></li>
+           <li><a href="/guide/charge/xm_ggy.html">厦门公共事业费代扣代缴服务</a></li>
+           <li><a href="/guide/charge/sum.html">更多</a></li>
+         </ul>     
+      </li>
+      <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="165"/></li>
+      <li class="sub-guide6 pd10-1"><a class="nav-sub-set hof" href="/guide/download.html">下载中心</a></li>
+     </ul>
+    </span>  
+  </li>
+  <li><a class="nav3 nav-set hof" href="http://creditcard.cib.com.cn/card/repay/index.html" target="_blank">还款服务</a></li>
+  <li class=""><a class="nav4 nav-set hof" href="/promotion/index.html">缤纷优惠</a>
+    <!--缤纷活动-子菜单-->
+    <span class="abs">
+     <ul class="sub-promotion">
+       <li class="sub-promotion4 pd15"><a class="nav-sub-set hof" href="/minisite/jingwaiyou/index.html   " target="_blank">境外优惠活动</a></li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="25"/></li>
+       <li class="sub-promotion1 pd15"><a class="nav-sub-set hof" href="/promotion/national/index.html">全国优惠活动</a></li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="25"/></li>
+       <!--<li class="sub-promotion2 pd15"><a class="nav-sub-set hof" href="/opencms/creditcard/promotion/area/index.html">地区优惠活动</a></li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="25"/></li>
+       <li class="sub-promotion3 pd15"><a class="nav-sub-set hof" href="/opencms/creditcard/promotion/specialCut.html">特惠商户</a></li>-->
+     </ul>
+    </span>      
+  </li>
+  <li class=""><a class="nav5 nav-set hof" href="/integral/index.html">积分计划</a>
+    <!--积分计划-子菜单 -->
+    <span class="abs">
+     <ul class="sub-integral">
+       <li class="sub-integral1 pd15"><a class="nav-sub-set hof hand">积分累积</a>
+         <ul class="nav-sub-li">
+           <li><a href="/integral/accumulation/rules.html">积分累积规则</a></li>
+           <!--<li><a href="/opencms/creditcard/integral/accumulation/acceleration/index.html">积分加速</a></li>-->
+         
+         </ul>
+       </li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="50"/></li>
+       <li class="sub-integral2 pd15"><a class="nav-sub-set hof hand">积分兑换</a>
+         <ul class="nav-sub-li">
+           <li><a href="/integral/conversion/wzjf/index.html">玩转积分</a></li>
+		   <li><a href="/minisite/aixingjifen/index.html" target="_blank">积分捐赠</a></li>
+           <!--<li><a href="/integral/conversion/gifts.html" target="_blank">礼品天地</a></li>-->
+           <li><a href="/integral/conversion/consumescore.html">积分消费</a></li>
+           <li><a href="/integral/conversion/airport.html">航空里程</a></li>   
+           <li><a href="/integral/conversion/table.html">积分兑年费</a></li>
+         </ul>
+       </li>
+     </ul>
+    </span>
+  </li>
+  <li class=""><a class="nav6 nav-set hof" href="/feature/index.html">精彩权益</a>
+    <!--精彩权益-子菜单-->
+    <span class="abs">
+     <ul class="sub-feature">
+       <li class="sub-feature2 pd15"><a class="nav-sub-set hof hand">精彩权益</a>
+         <ul class="nav-sub-li">
+           <li><a href="http://creditcard.cib.com.cn/card/Rights/bjk/index.html" target="_blank">白金卡权益</a></li>
+           <li><a href="http://creditcard.cib.com.cn/card/Rights/jk/index.html" target="_blank">金卡权益</a></li>
+           <li><a href="http://creditcard.cib.com.cn/card/Rights/khgh/index.html " target="_blank">客户关怀计划</a></li>
+         </ul>
+       </li>
+    </ul>
+   </span>
+  </li>
+  <li class=""><a class="nav8 nav-set hof" href="/stage/index.html">分期业务</a>
+    <!--分期业务-子菜单-->
+    <span class="abs" style="height:80px">
+     <ul class="sub-stage">
+       <li class="sub-stage1 pd15"><a class="nav-sub-set hof" href="/stage/index.html">分期付款</a>
+         <ul class="nav-sub-li">
+           <li><a href="/stage/zdfq.html">自动分期</a></li>
+           <li><a href="/apply/products/ZTseries/lxk.html">立享信用卡<br/>自动分期</a></li>
+           <li><a href="/apply/products/ZTseries/xyt.html">兴业通信用卡<br/>自动分期</a></li>
+           <li><a href="/stage/zhangdfq.html">账单分期</a></li>
+           <li><a href="/stage/xffq.html">消费分期</a></li>
+           <li><a href="/stage/xjfq.html">现金分期</a></li>
+           <li><a href="/stage/sdfq.html">商店分期</a></li>
+           <li><a href="/stage/dzfq/dzfq.html">大宗分期</a></li>
+           <li style="width:115px;"><a href="/stage/sxf.html">随兴分消费备用金</a></li>
+		   <li><a href="/stage/jsq.html">分期计算器</a></li>
+         </ul>
+       </li>
+     </ul>
+    </span>
+  </li>
+  <li class=""><a class="nav9 nav-set hof" href="/credit/index.html">信贷理财</a>
+    <!--信用理财-子菜单-->
+    <span class="abs">
+     <ul class="sub-credit">
+       <li class="sub-credit1 pd15"><a class="nav-sub-set hof  hand">循环信用</a>
+         <ul class="nav-sub-li">
+           <li><a href="/credit/circul/loop.html">循环信用</a></li>
+         </ul>
+       </li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="100"/></li>
+       <li class="sub-credit2 pd15"><a class="nav-sub-set hof hand">预借现金</a>
+         <ul class="nav-sub-li">
+		   
+           <li><a href="/credit/borrow/yjxj.html">预借现金</a></li>
+           
+        </ul>
+       </li>
+		
+		
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="100"/></li>
+       <li class="sub-credit3 pd15"><a class="nav-sub-set hof hand">保险代销业务</a>
+         <ul class="nav-sub-li">
+           <li><a href="/credit/insurance/tel_insurance/index.html">电话保险服务</a></li>
+         </ul>
+       </li>
+     </ul>
+    </span>
+  </li>
+  <li class=""><a class="nav10 nav-set hof" href="/news/index.html">最新资讯</a>
+    <!--最新资讯-子菜单-->
+    <span class="abs">
+     <ul class="sub-news">
+       <li class="sub-news1 pd15"><a class="nav-sub-set hof" href="/news/notice/">重要公告</a></li>
+       <li class="nav-sub-shadow"><img src="/resources/images/2012/nav_sub_shadow.gif" width="2" height="25"/></li>
+       <li class="sub-news2 pd15"><a class="nav-sub-set hof" href="/news/information/">卡片快讯</a></li>
+     </ul>
+    </span>  
+  </li>
+ </ul>
+</div>
+</div>
+
+ <div class="hr-5"></div>
+ <div id="card-content">
+  <div id="side" class="fl">
+   
+
+
+
+
+<div class="side-menu">
+ <h3 class="hof apply">信用卡申请</h3>
+ <div class="hr-5"></div>
+<ul>
+<li><a href="/apply/applyOnline.html" target="_blank" class="one level ">在线申请</a></li>
+<li><span class="one level cur">产品介绍</span><ul style="display:block" class="one-ul">
+<li><span class="sec level ">白金卡系列</span><ul  class="sec-ul">
+<li><a href="/apply/products/BJseries/ylrmb.html" target="" class="third level ">银联人民币白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/bvisa.html" target="" class="third level ">VISA标准双币白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/master.html" target="" class="third level ">MasterCard标准双币白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/ylzs.html" target="" class="third level ">银联尊尚白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/xcsj.html" target="" class="third level ">兴承世家银联白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/yysl.html" target="" class="third level ">悠逸商旅白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/yyjk.html" target="" class="third level ">悠悦健康白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/yygolf.html" target="" class="third level ">悠扬高尔夫白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/golf_wsd.html" target="" class="third level ">GOLF白金信用卡</a></li>
+<li><span class="third level ">行卡白金信用卡</span><ul  class="third-ul">
+<li><a href="/apply/products/BJseries/XKseries/xing1.html" target="" class="four level ">行卡白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/XKseries/fxxsj.html" target="" class="four level ">发现新世界信用卡</a></li>
+</ul>
+<li><a href="/apply/products/BJseries/rbj.html" target="" class="third level ">睿白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/shangbj.html" target="" class="third level ">尚白金信用卡</a></li>
+<li><a href="/apply/products/BJseries/xxbj.html" target="" class="third level ">兴享白金信用卡</a></li>
+</ul>
+<li><span class="sec level ">标准卡系列</span><ul  class="sec-ul">
+<li><a href="/apply/products/BZseries/ytyh.html" target="" class="third level ">美国运通®耀红卡</a></li>
+<li><a href="/apply/products/BZseries/ylbz.html" target="" class="third level ">银联标准人民币信用卡</a></li>
+<li><a href="/apply/products/BZseries/visa.html" target="" class="third level ">VISA标准双币信用卡</a></li>
+<li><a href="/apply/products/BZseries/wsd.html" target="" class="third level ">万事达标准双币信用卡</a></li>
+<li><a href="/apply/products/BZseries/wsdsjk.html" target="" class="third level ">万事达卡标准世界卡</a></li>
+<li><a href="/apply/products/BZseries/jdhy.html" target="" class="third level ">借贷合一卡</a></li>
+</ul>
+<li><span class="sec level cur">主题卡系列</span><ul style="display:block" class="sec-ul">
+<li><a href="/apply/products/ZTseries/QDZG.html" target="" class="third level ">钱大信用卡</a></li>
+<li><span class="third level ">拜仁慕尼黑主题卡</span><ul  class="third-ul">
+<li><a href="/apply/products/ZTseries/bayern/cqdzb.html" target="" class="four level ">传奇定制版</a></li>
+<li><a href="/apply/products/ZTseries/bayern/ylbjk.html" target="" class="four level ">银联白金卡（精英版）</a></li>
+<li><a href="/apply/products/ZTseries/bayern/visabjk.html" target="" class="four level ">VISA白金卡（精英版）</a></li>
+<li><a href="/apply/products/ZTseries/bayern/yljk.html" target="" class="four level ">银联金卡</a></li>
+</ul>
+<li><a href="/apply/products/ZTseries/yxbjk.html" target="" class="third level ">万事达卡悠享白金信用卡(精英版)</a></li>
+<li><span class="third level cur">艺术主题信用卡</span><ul style="display:block" class="third-ul">
+<li><a href="/apply/products/ZTseries/YSseries/ysk.html" target="" class="four level ">VISA艺术卡白金卡(精英版)</a></li>
+<li><a href="/apply/products/ZTseries/YSseries/ysk_yl.html" target="" class="four level cur block">银联艺术卡白金卡（精英版）</a></li>
+<li><a href="/apply/products/ZTseries/YSseries/ysk_qmsht.html" target="" class="four level ">银联艺术金卡清明上河图</a></li>
+<li><a href="/apply/products/ZTseries/YSseries/ysk_jlk.html" target="" class="four level ">银联艺术金卡锦鲤卡</a></li>
+<li><a href="/apply/products/ZTseries/YSseries/ysk_pig.html" target="" class="four level ">银联艺术金卡猪猪卡</a></li>
+</ul>
+<li><a href="/apply/products/ZTseries/wsdlydr.html" target="" class="third level ">万事达卡旅游达人白金信用卡（精英版）</a></li>
+<li><a href="/apply/products/ZTseries/xzk.html" target="" class="third level ">星夜•星座信用卡</a></li>
+<li><a href="/apply/products/ZTseries/PICC.html" target="" class="third level ">人保财险联名信用卡</a></li>
+<li><a href="/apply/products/ZTseries/FIFA2018.html" target="" class="third level ">VISA FIFA 2018世界杯主题信用卡白金卡(精英版)</a></li>
+<li><a href="/apply/products/ZTseries/lxs.html" target="" class="third level ">留学生卡</a></li>
+<li><a href="/apply/products/ZTseries/dak.html" target="" class="third level ">VISA平昌冬奥主题白金信用卡(精英版)</a></li>
+<li><a href="/apply/products/ZTseries/ogwsd.html" target="" class="third level ">万事达卡®欧冠UEFA Champions League白金信用卡</a></li>
+<li><a href="/apply/products/ZTseries/xdl.html" target="" class="third level ">兴动力信用卡</a></li>
+<li><a href="/apply/products/ZTseries/lxk.html" target="" class="third level ">立享信用卡</a></li>
+<li><a href="/apply/products/ZTseries/cystal.html" target="" class="third level ">水晶信用卡</a></li>
+<li><a href="/apply/products/ZTseries/FIFA.html" target="" class="third level ">FIFA世界杯国际信用卡</a></li>
+<li><a href="/apply/products/ZTseries/World.html" target="" class="third level ">全币种国际信用卡</a></li>
+<li><a href="/apply/products/ZTseries/Pass.html" target="" class="third level ">PASS信用卡</a></li>
+<li><a href="/apply/products/ZTseries/XGJ.html" target="" class="third level ">兴管家信用卡</a></li>
+<li><a href="/apply/products/ZTseries/Garfield.html" target="" class="third level ">Garfield信用卡</a></li>
+<li><a href="/apply/products/ZTseries/QQVip.html" target="" class="third level ">QQ VIP信用卡</a></li>
+<li><a href="/apply/products/ZTseries/xyt.html" target="" class="third level ">兴业通信用卡</a></li>
+<li><a href="/apply/products/ZTseries/DIY.html" target="" class="third level ">DIY信用卡</a></li>
+<li><a href="/apply/products/ZTseries/QQXiu.html" target="" class="third level ">QQ秀信用卡</a></li>
+</ul>
+<li><span class="sec level ">联名卡系列</span><ul  class="sec-ul">
+<li><span class="third level ">航空商旅系列</span><ul  class="third-ul">
+<li><a href="/apply/products/LMseries/HKseries/mango.html" target="" class="four level ">芒果旅行信用卡</a></li>
+<li><a href="/apply/products/LMseries/HKseries/elong.html" target="" class="four level ">艺龙旅行信用卡</a></li>
+<li><a href="/apply/products/LMseries/HKseries/xiahang.html" target="" class="four level ">厦门航空白鹭联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/HKseries/jixiang.html" target="" class="four level ">吉祥航空联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/HKseries/donghang.html" target="" class="four level ">东方航空联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/HKseries/nanhang.html" target="" class="four level ">南航明珠信用卡</a></li>
+</ul>
+<li><span class="third level ">私家车主系列</span><ul  class="third-ul">
+<li><a href="/apply/products/LMseries/SJseries/XINGYOUKA.html" target="" class="four level ">兴油卡</a></li>
+<li><a href="/apply/products/LMseries/SJseries/jingdian.html" target="" class="four level ">精典汽车联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SJseries/benchi.html" target="" class="four level ">上海奔驰白金联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SJseries/car.html" target="" class="four level ">车友信用卡</a></li>
+<li><a href="/apply/products/LMseries/SJseries/Newcar.html" target="" class="four level ">新车友信用卡</a></li>
+<li><a href="/apply/products/LMseries/SJseries/273car.html" target="" class="four level ">273车友联名信用卡</a></li>
+</ul>
+<li><span class="third level ">时尚生活系列</span><ul  class="third-ul">
+<li><a href="/apply/products/LMseries/SSseries/TXSP.html" target="" class="four level ">腾讯视频联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/zy.html" target="" class="four level ">掌阅联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/snyg.html" target="" class="four level ">苏宁易购信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/ty.html" target="" class="four level ">天翼联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/sh.html" target="" class="four level ">搜狐视频联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/mango.html" target="" class="four level ">芒果TV联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/tengxun.html" target="" class="four level ">腾讯联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/pptv.html" target="" class="four level ">PP视频联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/mn.html" target="" class="four level ">蒙牛联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/kugo.html" target="" class="four level ">酷狗音乐联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/elm.html" target="" class="four level ">饿了么联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/yk.html" target="" class="four level ">优酷联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/kaola.html" target="" class="four level ">考拉手环联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/aqy.html" target="" class="four level ">爱奇艺联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/lsty.html" target="" class="four level ">乐视体育联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/dslr.html" target="" class="four level ">都市丽人信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/shdx.html" target="" class="four level ">上海电信IPTV百视通联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/taobw.html" target="" class="four level ">淘宝网联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/SSseries/jxlt.html" target="" class="four level ">江西联通联名信用卡</a></li>
+</ul>
+<li><span class="third level ">百货卡系列</span><ul  class="third-ul">
+<li><a href="/apply/products/LMseries/BHseries/tianH.html" target="" class="four level ">天虹联名信用卡</a></li>
+<li><a href="/apply/products/LMseries/BHseries/dybh.html" target="" class="four level ">大洋百货联名信用卡</a></li>
+</ul>
+</ul>
+<li><span class="sec level ">认同卡系列</span><ul  class="sec-ul">
+<li><a href="/apply/products/RTseries/co2.html" target="" class="third level ">中国低碳信用卡</a></li>
+</ul>
+<li><span class="sec level ">单位卡系列</span><ul  class="sec-ul">
+<li><a href="/apply/products/DWseries/dvisa.html" target="" class="third level ">威士商务采购卡（威士标准公务卡）</a></li>
+<li><a href="/apply/products/DWseries/dwsd.html" target="" class="third level ">万事达商务差旅卡（万事达个人公务卡）</a></li>
+</ul>
+</ul>
+<li><span class="one level ">移动支付</span><ul  class="one-ul">
+<li><a href="/apply/wallet/jiamingshoubiao.html" target="" class="sec level ">可穿戴智能支付产品</a></li>
+<li><a href="/apply/wallet/Apple.html" target="" class="sec level ">Apple Pay</a></li>
+<li><a href="/apply/wallet/Huawei-Pay.html" target="" class="sec level ">Huawei Pay</a></li>
+<li><a href="/apply/wallet/Mi-Pay.html" target="" class="sec level ">Mi Pay</a></li>
+<li><a href="/apply/wallet/SamsungPay.html" target="" class="sec level ">Samsung Pay</a></li>
+<li><a href="/apply/wallet/MeizuPay.html" target="" class="sec level ">Meizu Pay</a></li>
+<li><a href="/apply/wallet/Android.html" target="" class="sec level ">云闪付</a></li>
+</ul>
+<li><a href="/apply/AttachCard.html" target="" class="one level ">附属卡</a></li>
+<li><a href="/apply/function.html" target="" class="one level ">功能介绍</a></li>
+<li><a href="/apply/charges.html" target="" class="one level ">收费标准</a></li>
+<li><span class="one level ">申请须知</span><ul  class="one-ul">
+<li><a href="/apply/application/rule.html" target="" class="sec level ">信用卡章程</a></li>
+<li><a href="/apply/application/charge.html" target="" class="sec level ">领用合约</a></li>
+<li><a href="/apply/application/code.html" target="" class="sec level ">产品识别代码表</a></li>
+</ul>
+</ul>
+
+</div>
+
+   
+<div id="sharecode">
+   <h3 class="hof">扫描关注</h3>
+   <ul>
+      <li>微信&nbsp;|</li>
+	  <li>&nbsp;微博&nbsp;|</li>
+	  <li>&nbsp;好兴动APP</li>
+   </ul>
+   <div class="container" style="display:block">
+       <img src="/resources/images/2012/weixin.jpg"/>
+   </div>
+   <div class="container">
+       <img src="/resources/images/2012/weibo.jpg"/>
+   </div>
+   <div class="container">
+       <img src="/resources/images/2012/hxdapp.jpg"/>
+   </div>
+</div>
+   
+<div class="side-bfyh cl"><a href="/promotion/index.html" class="hof">信用卡缤纷优惠</a></div>
+  </div>
+  <div id="main" class="fr">
+   <div class="fl add">
+    
+		
+	    
+	    
+	    	
+	    	
+	    		
+				
+					<h3>银联艺术主题信用卡白金卡（精英版）</h3>
+				
+				
+				
+					<div class="top-img"><img src="/customer/con_img/apply/ZTseries_ysk_yl.jpg"/></div>
+				
+				
+				
+				
+					
+					<div class="tab-nav"><ul><li>卡片介绍</li><li>至尊权益</li></ul></div>
+					<div class="tab-detail"><div class="tab-add"><p><span style="color: #ff0000;"><strong>该产品的“蒙娜丽莎”、“罗纳河上的星夜”、“晨之睡莲”版面自2019年5月16日起停止发行。 </strong></span></p>
+<p align="center"><strong><img src="/customer/con_img/apply2/ZTseries_ysk_yl_620_0513.jpg" alt="" /></strong></p>
+<p><strong>卡面级别：</strong>白金卡(精英版)，无附属卡。</p>
+<p><strong>卡片品牌：</strong>银联单品牌</p>
+<p><strong>发行城市：</strong>全国</p>
+<p><strong>年费收取标准：</strong>500元/卡。</p>
+<p align="left"><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_snnf.jpg" alt="" /></strong></p>
+<p>即日起，首次成功申请银联艺术主题信用卡白金卡(精英版)的持卡人，于核卡60天内交易满 2,000元人民币，即可减免首年年费。</p>
+<p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_cnnf.jpg" alt="" /></strong></p>
+<p>若银联艺术主题信用卡白金卡(精英版)持卡人于核卡一年内累计分期金额达到5,000元，即可减免次年年费；如不满足该条件，于次年年费计收当日积分余额满30,000分，亦可自动豁免次年年费。</p>
+<p>以上年费优惠活动中的交易统计口径均以卡为单位。</p>
+<p>活动有效期：2019年12月31日。</p>
+<p><a href="http://www.cib.com.cn/cn/aboutCIB/about/charges/card.html"><strong>兴业银行信用卡IC卡工本费收费标准&gt;</strong></a></p>
+<p><strong>如无特别说明，本产品将按照精英版白金层级信用卡的收费方式和标准收费。 </strong></p>
+<p><img src="/customer/con_img/apply/ZTseries_ysk_yl_sqxz.png" alt="" /></p>
+<p><img src="/customer/con_img/apply/ZTseries_ysk_tubiao.png" alt="" />本产品限量发行，每位客户仅限申请一张银联品牌艺术卡；若因发行数量超过上限而不能核发时，我行将代为取消申请且相关申请资料不退还。</p>
+<p><img src="/customer/con_img/apply/ZTseries_ysk_tubiao.png" alt="" />本产品停发后，补换卡及续卡均不再使用原卡面；银联艺术主题信用卡白金卡(精英版)拟换发睿白金信用卡卡面。</p>
+<p><img src="/customer/con_img/apply/ZTseries_ysk_tubiao.png" alt="" />兴业银行银联艺术主题信用卡白金卡(精英版)与兴业银行VISA艺术主题信用卡白金卡(精英版)为独立的账户：<strong>银联艺术主题信用卡白金卡(精英版)的欠款请还至银联艺术主题信用卡白金卡(精英版)下；VISA艺术主题信用卡白金卡(精英版) 的欠款请还至VISA艺术主题信用卡白金卡(精英版)下。 </strong></p>
+<p><img src="/customer/con_img/apply/ZTseries_ysk_yl_wxts.png" alt="" /></p>
+<p><img src="/customer/con_img/apply/cm_qpass.gif" alt="" />银联标识表示IC卡支持非接触式信息读取方式。卡面印有<img src="/customer/con_img/apply/cm_qpass.gif" alt="" />，表示该IC卡可以在贴有标识的银联入网消费终端通过非接触式（又称“闪付”）方式读取芯片信息进行支付，支付账户可使用电子现金账户或信用卡账户。本产品电子现金圈存圈提功能默认关闭，如需要使用该功能，请拨打95561进行开启。</p></div><div class="tab-add"><p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_jcgb.jpg" alt="" /></strong></p>
+<p>权益有效期内，您以名下银联艺术主题信用卡白金卡(精英版)可尊享境内指定城市机场的国内航班出港机场贵宾服务，本人可享2次免费畅行，不可免费携带随行，让您远离烦嚣，尽享静谧！</p>
+<p>具体服务内容和细则请点击查看： <a href="http://creditcard.cib.com.cn/card/Rights/bjk/business-vip.html">境内机场贵宾服务</a></p>
+<p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_1000w.jpg" alt="" /></strong></p>
+<p>权益有效期内（即“保障期间”），您只需以名下兴业银行银联艺术主题信用卡白金卡(精英版)为您本人或同时为同行配偶和未成年子女支付当次全额公共交通工具票款（指票面价格）或支付含当次票款的旅游团费的80%（含）以上，且以乘客身份乘坐对应公共交通工具，即可获得当次乘坐的公共交通工具意外保险和快乐旅行保险保障，最高保额 1000万元。为您的商旅出行提供全方位的保障，纵然行程万里，依然自得从容。</p>
+<p>具体保险内容和细则请点击查看： <a href="http://creditcard.cib.com.cn/card/Rights/bjk/insurance1000-1.html">1000万高额公共交通意外险</a></p>
+<p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_24hour.jpg" alt="" /></strong></p>
+<p>权益有效期内，您在行驶过程中遇到车辆故障抛锚等问题时，只需拨打兴业银行客户服务热线，即可在道路救援公司允许的范围内尊享非事故道路救援服务服务内容包括：</p>
+<p>行驶公里数在100公里以内的免费紧急拖车服务（每位持卡人每自然月限使用2次，以车辆故障地点为起点）；</p>
+<p>免费现场快修服务（修理时间在30分钟以内；每位持卡人每自然季度限3次），包括：电瓶充电、更换轮胎、紧急加水、其他现场小修服务；</p>
+<p>每位持卡人自然年度<strong>累计救援车牌限定三张</strong>，超出限定车牌数将不予提供服务（救援服务包含100公里免费拖车服务及现场快修服务）。</p>
+<p><strong>注：持有多张信用卡权益次数不可累计。 </strong></p>
+<p>具体保险内容和细则请点击查看： <a href="http://creditcard.cib.com.cn/card/Rights/bjk/car-24.html">24小时非事故道路救援</a></p>
+<p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_qczl.jpg" alt="" /></strong></p>
+<p>权益有效期内，您以名下兴业银行银联艺术主题信用卡白金卡(精英版)可尊享至尊租车特惠礼遇。</p>
+<p>具体优惠内容和细则请点击查看： <a href="http://creditcard.cib.com.cn/card/Rights/bjk/car-lend.html">汽车租赁至尊礼遇</a></p>
+<p><strong><img src="/customer/con_img/apply/ZTseries_ysk_yl_wxts.png" alt="" /></strong></p>
+<p>1、上述服务须于信用卡激活后、卡片状态正常且正常缴纳应缴年费时方可享有。</p>
+<p>2、服务期满后,如兴业银行及持卡人双方均无异议,上述服务将自动延长。</p>
+<p>3、由于供应商客观条件的变化，兴业银行可酌情修订、增加或取消针对本卡持卡人提供的各项增值权益及适用条款。各项权益服务内容及细则，以兴业银行网站最新公告为准。兴业银行在法律许可范围内保留对所有文字说明的最终解释权。</p>
+<p>4、任何超出本卡提供的服务项目之外的额外费用，均由持卡人自行承担。</p>
+<p>5、任何由信用卡组织提供的部分额外服务项目及其变动将以信用卡组织官方解释与对外公布的内容为准。</p></div></div>
+					
+				                                          	                                       					
+				<div class="pd20">
+				  
+				</div>
+	    	
+	    	          
+    
+   </div>
+   <div class="fr add-r">
+    
+
+<div id="login">
+ <ul class="log-parent">
+  <li class="log-top" id="0"><span class="hovf log-bg pb">网上银行</span>
+   <ul class="log-sub">
+    <li><a href="https://personalbank.cib.com.cn/pers/main/login.do" class="hovf log-bg log">登录网上银行</a></li>
+    <li><a href="https://personalbank.cib.com.cn/pers/creditCard/outer/activCreditCard.do" class="hovf log-bg act">卡片激活</a></li>
+    <li><a href="https://personalbank.cib.com.cn/pers/creditCard/outer/lostCreditCard.do" class="hovf log-bg los">卡片挂失</a></li>
+    <li><a href="https://personalbank.cib.com.cn/pers/creditCard/outer/queryActivity.do" class="hovf log-bg que">活动查询</a></li>
+   </ul>
+  </li>
+  <li class="log-top" id="1"><span class="hovf log-bg ap">申请信用卡</span>
+   <ul class="log-sub">
+    <li><a href="javascript:ApplyLogin();" class="hovf log-bg app">在线申请</a></li>
+    <li><a href="javascript:ScheduleQuery();" class="hovf log-bg pre">进度查询</a></li>
+   </ul>
+  </li>
+  <li class="log-top" id="2"><span class="hovf log-bg pr">推卡活动</span>
+   <ul class="log-sub">
+    <li><a href="/promotion/national/20180731.html"><img src="/resources/images/2012/login-hot.jpg" /></a></li>
+   </ul>
+  </li>
+ </ul>
+</div>
+    
+
+<div class="hr-5"></div>
+
+  
+  
+   
+  
+
+    
+   </div>    
+   </div>
+  </div>
+ </div>
+ 
+
+<div class="hr-5"></div>
+<div id="card-footer">
+ <ul id="link" class="fl">
+    <li><a href="http://http://www.cib.com.cn/cn/e-banking/personal/security/index.html" target="_blank">安全说明</a></li>
+	<li><a href="/siteNav/nav.html">站点导航</a></li>
+    <li><a href="http://www.cib.com.cn/cn/home/other/friend-link/friends.html" target="_blank">友情链接</a></li>
+    <li><a href="http://branch.cib.com.cn/index.html" target="_blank">营业网点</a></li>
+    <!--<li><a href="#">站点导航</a></li>-->
+    <li><a href="javascript:window.external.AddFavorite('http://creditcard.cib.com.cn/index.html','兴业银行信用卡')">加入收藏</a></li>
+ </ul>
+ <span id="addr" class="fr">信用卡中心地址：上海市浦东新区来安路500号 邮编：201201</span>
+ <div class="hr-5"></div>
+ <div id="copyright"><span class="fl"><i class="dot">兴业银行版权所有</i><i><a target="_blank" href="https://beian.miit.gov.cn/#/Integrated/index">闽ICP备05017231号</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35010202001311" class="mga">闽公网安备35010202001311</a></i></span><span class="fr"><i class="dot">客户服务、投诉热线：95561</i><i>境外客服热线：86-21-38769999&nbsp;|&nbsp;境外信用卡白金专线：86-21-38429696</i></span></div>
+</div>		
+</body>
+</html>

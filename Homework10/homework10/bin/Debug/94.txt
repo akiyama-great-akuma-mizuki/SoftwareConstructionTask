@@ -1,0 +1,281 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+<title>教育培训_中共中央网络安全和信息化委员会办公室</title>
+<META NAME="Keywords" CONTENT="">
+<META NAME="Abstract" CONTENT="">
+<META NAME="Description" CONTENT="">
+<link rel='stylesheet' href=''>
+</head>
+<body leftmargin='0' topmargin='0'>
+
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/appvar.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/appfunction.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/pub.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/date/WdatePicker.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/flv.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/tree.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/tree_tpl.js"></script>
+<script language="JavaScript" src="http://www.cac.gov.cn/inc/jquery.min.js"></script><link rel="stylesheet" type="text/css" href="http://www.cac.gov.cn/lib/template/scheme/css/Common.css" />
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/jq.js"></script> <script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/crToken.js"></script>
+<div class="head">
+<div class="top">
+<div id="time" class="fl"> </div>
+<div class="fr"><a class="t1" onClick="SetHome(this,window.location)" href="#">设为首页</a><a class="t2" onClick="AddFavorite(window.location,document.title)" href="#">加入收藏</a><a class="ydb" href="http://www.cac.gov.cn/sjb/A0929index_1.htm">手机版</a>  <a id="StranLink" class="t3" href="/###">繁体</a></div>
+</div>
+</div>
+<script language=JavaScript src="http://www.cac.gov.cn/inc/stran.js"></script>
+<div class="logoarea">
+<div id="logo_gd">
+<div id="rolldiv">
+<ul id="mycarousel" class="jcarousel jcarousel-skin-tango">
+    <li><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/wxbp1.png" /></li>
+    <li><img alt="" src="http://www.cac.gov.cn/lib/template/scheme/images/wxbp2.png" /></li>
+</ul>
+</div>
+</div>
+<div class="search">
+<div class="con"><input id="sw" class="input1" onKeyDown="KeyDown();" name="input" value="请输入检索关键词" type="text" /> <a class="btn_ss" onClick="searchsearch()" href="javascript:">搜索 </a>
+<form id="zlb" method="get" action="http://search.cac.gov.cn/cms/cmsadmin/infopub/gjjs.jsp" target="_blank">
+    <input id="searchword" type="hidden" name="huopro" /> <input type="hidden" name="pubtype" value="S" /><input type="hidden" name="pubpath" value="portal" /><input type="hidden" name="templetid" value="1563339473064626" /><input type="hidden" name="startDate" /><input type="hidden" name="endDate" /><input type="hidden" name="searchfield" /><input type="hidden" name="sort" value="1" /><input type="hidden" name="webappcode" value="A09" /><input type="hidden" name="searchdir" value="A09" />
+</form>
+<div class="clear"> </div>
+</div>
+</div>
+</div>
+<div id="nav">
+<div id="navarea">
+<dl id="navs">
+    <dt><a href="http://www.cac.gov.cn/index.htm">首页</a> </dt>
+    <dt><a href="http://www.cac.gov.cn/qwfb/A0903index_1.htm">权威发布</a>
+    <ul class="m2">
+        <li><a href="http://www.cac.gov.cn/qwfb/zyjs/A090301index_1.htm">中央精神</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/qwfb/xgbmfb/A090303index_1.htm">相关部门发布</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/qwfb/bgsfb/A090302index_1.htm">办公室发布</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/gzzc/gzzc/A090401index_1.htm">办公室工作</a> </dt>
+    <dt><a href="http://www.cac.gov.cn/wlaq/A0905index_1.htm">网络安全</a>
+    <ul class="m4">
+        <li><a href="">网络安全管理</a></li>
+        <li>|</li>
+        <li><a href="">网络安全动态</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/wlaq/wlaqsc/A090507index_1.htm">网络安全审查</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/xxh/A0906index_1.htm">信息化</a>
+    <ul class="m5">
+        <li><a href="http://www.cac.gov.cn/xxh/ghzc/A090601index_1.htm">规划政策</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/xxh/xxhgzdt/A090602index_1.htm">信息化工作动态</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/wlcb/A0907index_1.htm">网络传播</a>
+    <ul class="m6">
+        <li><a href="http://www.cac.gov.cn/wlcb/cbgz/A090701index_1.htm">传播工作</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/wlcb/wsznl/A090702index_1.htm">网上正能量</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/wlcb/gpltx/A090703index_1.htm">国平论天下</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/gjjl/A0910index_1.htm">国际交流</a>
+    <ul class="m7">
+        <li><a href="http://www.cac.gov.cn/gjjl/wshd/A091001index_1.htm">外事活动</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/gjjl/hzjl/A091002index_1.htm">合作交流</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/gzzc/df0/A090402index_1.htm">地方网信</a> </dt>
+    <dt><a href="http://www.cac.gov.cn/zfdc/A0921index_1.htm">执法督查</a> </dt>
+    <dt><a href="http://www.cac.gov.cn/zcfg/A0909index_1.htm">政策法规</a>
+    <ul class="m10">
+        <li><a href="http://www.cac.gov.cn/zcfg/fl/A090901index_1.htm">法律</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/zcfg/xzfg/A090902index_1.htm">行政法规</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/zcfg/bmgz/A090903index_1.htm">部门规章</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/zcfg/sfjs/A090904index_1.htm">司法解释</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/zcfg/gfxwj/A090905index_1.htm">规范性文件</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/zcfg/zcwj/A090906index_1.htm">政策文件</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/hdzx/hdzx/A091101index_1.htm">互动中心</a>
+    <ul class="m11">
+        <li><a href="http://www.cac.gov.cn/hdzx/hdzx/A091101index_1.htm">热点回应</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/hdzx/jbzx/A091102index_1.htm">举报中心</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/jypx/A0908index_1.htm">教育培训</a> </dt>
+    <dt><a href="http://www.cac.gov.cn/yjdt/A0912index_1.htm">业界动态</a>
+    <ul class="m13">
+        <li><a href="http://www.cac.gov.cn/yjdt/hlw/wlfz/A09120101index_1.htm">互联网发展</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/yjdt/hlw/gjkj/A09120104index_1.htm">国际空间</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/yjdt/hlw/jscx/A09120102index_1.htm">技术创新</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/yjdt/hlw/wljj/A09120105index_1.htm">网络经济</a></li>
+        <li>|</li>
+        <li><a href="http://www.cac.gov.cn/yjdt/xxh/yjdsj/A09120207index_1.htm">大数据</a></li>
+    </ul>
+    </dt>
+    <dt><a href="http://www.cac.gov.cn/gzzt/ztzl/ztxx/ztzl/A0920010502index_1.htm">工作专题</a>
+    <ul class="m14">
+        <li style="margin-left: 80px"><a href="http://www.cac.gov.cn/gzzt/ztzl/ztxx/ztzl/A0920010502index_1.htm">专题专栏</a></li>
+    </ul>
+    </dt>
+</dl>
+<div id="bread"><span>当前位置：首页 &gt;<lable id="channelpname"></lable>  <i id="channelname">  </i></span></div>
+</div>
+<!-- navarea End --></div>
+<div style="display: none">
+<h2 id="pageTit" class="pageTit">
+教育培训
+</h2>
+<h3 id="pageName2">
+教育培训
+</h3>
+</div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/jq.js"></script><script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/top_js.js"></script><SCRIPT type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/xh_roll.js"></SCRIPT><script type="text/javascript">
+$(function(){
+	jQuery('#mycarousel').jcarousel({ 
+		vertical: true,
+		scroll: 1, 
+		wrap: 'circular', 
+		auto:4 
+	}); 
+	$(".ydb").click(function(){
+		$(parent.document).find('#rwk_btn_ss').click(function(){});
+	})
+})
+
+	
+</script>
+<div class="main clearfix">
+<div class="mianL">
+<ul id="showData" class="dataList">
+    <li id="dataMoreBtn" class="moreBtn"><i class="icon"> </i><span class="text">查看更多</span></li>
+    <li id="dataMoreLink" class="moreLink"><a class="text" target="_blank" href="http://www.cac.gov.cn/jypx/More.htm">查看更多</a></li>
+</ul>
+<ul id="hideData" class="dataList">
+    <li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2020-07/02/c_1598183420745304.htm">各地网信部门组织举办系列主题活动庆祝建党99周年</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2020-07/02/c_1598183420745304.htm"></a>    <p class="summary">​建党99周年前夕，各地网信部门充分结合地方工作特色，探访红色故地、追寻奋斗足迹、开展主题党课、举办文艺活动，通过一系列生动鲜活的主题活动，组织党员干部重温党的历史、学习党的理论，用脚步丈量初心，在学思践悟中坚定理想信念，努力建设让党中央放心、让人民群众满意的模范机关，推动网信事业高质量发展。</p>    <span class="times">2020-07-02</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2020-06/18/c_1594033704803548.htm">【学习风采】认真学习习近平总书记关于网络强国的重要思想 不断提高网信综合信息工作能力水平——记中央网信办秘书局许岱</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2020-06/18/c_1594033704803548.htm"></a>    <p class="summary">许岱同志注重理论学习，不断提升政治理论水平。积极参加所在党支部、党小组集体学习，参与推动创新学习方式，通过每周定期学、线上交流学等多种形式，认真学习习近平新时代中国特色社会主义思想，认真学习党的十九大和十九届二中、三中、四中全会精神，切实做到原原本本学、原汁原味学，突出“实”、力戒“虚”，在系统学习的基础上更加注重交流研讨，力求在思想碰撞中深入领会把握蕴含其中的精髓要义、丰富内涵和实践要求，进一步增强“四个意识”、坚定“四个自信”、坚决做到“两个维护”，始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致。</p>    <span class="times">2020-06-18</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2020-07/20/c_1596800699125363.htm">让青春在党和人民最需要的地方绽放绚丽之花，这个网信主题团日别具意义</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2020-07/20/c_1596800699125363.htm"></a>    <p class="summary">​五四青年节前夕，一场青年与青年的对话在网上如约而至。屏幕的一边是网信战线的青年干部，另一边是刚刚从武汉抗“疫”最前线凯旋的白衣英雄。</p>    <span class="times">2020-05-03</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-12/26/c_1578897186724371.htm">中央网信办举办“缘定暖冬 一网情深”青年联谊会</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-12/26/c_1578897186724371.htm"></a>    <p class="summary">为拓宽青年干部沟通交友渠道，搭建年轻人展示自我、交流感情、纾解压力的平台，中央网信办机关团委、机关工会在中国园林博物馆成功举办了一场主题为“缘定暖冬一网情深”的青年联谊会。</p>    <span class="times">2019-12-26</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-12/10/c_1577513351137247.htm">2019年全国网信系统信息员培训班在京举办</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-12/10/c_1577513351137247.htm"></a>    <p class="summary">近日，由中央网信办秘书局主办，中央网信办培训中心、北京市委网信办承办的2019年全国网信系统信息员培训班在京举办。</p>    <span class="times">2019-12-10</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-12/21/c_1578463631843623.htm">中央网信办举办第五期“网信青年课堂”活动</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-12/21/c_1578463631843623.htm"></a>    <p class="summary">近日，为深入学习贯彻党的十九届四中全会精神，持续深化“不忘初心、牢记使命”主题教育成效，组织党员干部特别是青年干部持续深入学习党史、新中国史，中央网信办机关团委举办了第五期“网信青年课堂”活动，邀请中央党史和文献研究院研究员、中国中共党史学会党建史专委会秘书长陈坚围绕“我们为什么可以自信——从党的十九届四中全会《决定》说开去”主题为青年干部作专题讲座并进行互动交流。</p>    <span class="times">2019-12-30</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-09/30/c_1571398340835662.htm">中央网信办举办第四期“网信青年课堂”活动</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-09/30/c_1571398340835662.htm"></a>    <p class="summary">为庆祝新中国成立70周年，持续深化“不忘初心、牢记使命”主题教育，中央网信办机关团委组织举办第四期“网信青年课堂”活动，中央网信办广大青年干部进一步了解了党史、新中国史。</p>    <span class="times">2019-09-30</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-08/04/c_1124835153.htm">“石油魂——大庆精神铁人精神”宣讲报告会举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-08/04/c_1124835153.htm"><img border=0 src="http://www.cac.gov.cn/rootimages/2019/09/04/1569130233339617.jpg" title="“石油魂——大庆精神铁人精神”宣讲报告会举行" width='138' height='90'></a>    <p class="summary"></p>    <span class="times">2019-08-04</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2019-07/19/c_1124773348.htm">中央网信办召开“青年理论学习小组”交流推进会</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2019-07/19/c_1124773348.htm"></a>    <p class="summary">18日上午，中央网信办机关团委组织召开“青年理论学习小组”工作交流推进会，集中学习研讨习近平总书记在中央和国家机关党的建设工作会议上关于加强青年干部理论武装的重要论述精神，深入交流全办各局各单位开展青年理论学习工作的经验做法。</p>    <span class="times">2019-07-19</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2018-11/02/c_1123654349.htm">网络社会组织宣传工作培训班成功举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2018-11/02/c_1123654349.htm"></a>    <p class="summary">10月31日至11月1日，由中国网络社会组织联合会主办的网络社会组织宣传工作培训班在浙江温州成功举行。本次培训旨在为网络社会组织的宣传工作赋能，指导网络社会组织利用互联网多种载体积极有效发声，提高网络社会组织宣传人才网络素养和能力水平，进一步提升网络社会组织网上宣传的整体水平。120多位全国性网络社会组织及地方主要网络社会组织宣传工作负责人参加。</p>    <span class="times">2018-11-02</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2018-09/30/c_1123510160.htm">全国网站平台知识技能竞赛选拔赛在京举办</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2018-09/30/c_1123510160.htm"><img border=0 src="http://www.cac.gov.cn/rootimages/2019/09/04/1569130233389692.jpg" title="全国网站平台知识技能竞赛选拔赛在京举办" width='138' height='90'></a>    <p class="summary">9月20日，全国网站平台知识技能竞赛中央主要新闻网站选拔赛在中国教育电视台高校创意总部举办。本次选拔赛由中央网信办主办，中央网信办网络综合协调管理和执法督查局与中国互联网发展基金会承办，中国教育电视台协办。</p>    <span class="times">2018-09-30</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-09/27/c_1121734467.htm">“网界青年成长计划”活动在北京举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-09/27/c_1121734467.htm"></a>    <p class="summary">为帮助互联网从业青年正确认识共享经济未来发展的机遇和挑战，引导企业履行社会责任，9月25日，“网界青年成长计划”之“青咖说：共享经济未来发展的机遇与责任”活动在北京举行。</p>    <span class="times">2017-09-27</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-09/25/c_1121720945.htm">第二期网络人士革命传统教育和沙龙活动举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-09/25/c_1121720945.htm"></a>    <p class="summary">9月20日至23日，由中央网信办网络社会工作局、中央统战部八局主办，陕西省委网信办协办，延安市委网信办承办的第二期网络人士“弘扬正能量，喜迎十九大”革命传统教育和沙龙活动在陕西省延安市举办，来自全国各地的新媒体从业人员和网络名人代表30余人参加。</p>    <span class="times">2017-09-25</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-08/17/c_1121500153.htm">第二期“党建专家@互联网企业党员”活动举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-08/17/c_1121500153.htm"></a>    <p class="summary">8月14日，由中央网信办网络社会工作局、中央党校科研部联合主办，光明网承办的第二期“党建专家@互联网企业党员”活动在北京举行。</p>    <span class="times">2017-08-17</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-07/21/c_1121359505.htm">“党建专家@互联网企业党员”活动在京启动</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-07/21/c_1121359505.htm"></a>    <p class="summary">本次活动邀请中央党校中青年党建专家团队走进新浪微博，与新浪微博、百度、今日头条、一点资讯、知乎等互联网企业党建工作负责同志及党员代表进行座谈交流，深化党建专家对互联网企业党建工作现状的理解认知，加强对互联网企业党组织的具体指导。</p>    <span class="times">2017-07-21</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-07/07/c_1121283857.htm">“青咖说”身心健康专场（二）活动在京举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-07/07/c_1121283857.htm"></a>    <p class="summary">互联网行业竞争激烈，从业青年工作压力大、强度高，加班加点更是“家常便饭”，致使身体亚健康问题突出。为服务满足他们对自身健康的关注关切，提升健康管理素养、掌握实用急救技能。7月6日，“网界青年成长计划”之“青咖说”身心健康专场（二）活动在北京举行。</p>    <span class="times">2017-07-07</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-06/16/c_1121156491.htm">互联网企业团建工作片区督导推进培训班开班</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-06/16/c_1121156491.htm"></a>    <p class="summary">日前，由共青团中央、中央网信办联合举办，团北京市委承办的互联网企业团建工作片区督导推进培训班（第一期）在北京国际青年营开班。共青团中央书记处书记徐丰出席培训班开班仪式并讲话，中央网信办网络社会工作局主要负责人参加。</p>    <span class="times">2017-06-16</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-06/12/c_1121129369.htm">互联网企业党建党史知识挑战赛启动</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-06/12/c_1121129369.htm"></a>    <p class="summary">为进一步加强和改进互联网企业党建工作，推进“两学一做”学习教育常态化制度化，团结引领互联网企业党组织和广大党员以昂扬风貌和优异成绩迎接党的十九大胜利召开，由中央网信办网络社会工作局主办、光明网承办的互联网企业“初心在线·砥砺奋进”党建党史知识挑战赛于6月12日正式启动。登录光明网竞赛官网（http://djzsjs.gmw.cn/2017）或关注“网信党建”微信公众号，即可参赛。</p>    <span class="times">2017-06-12</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2017-05/26/c_1121043336.htm">“青咖说”身心健康专场活动在京举办</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2017-05/26/c_1121043336.htm"></a>    <p class="summary">为服务互联网从业青年身心健康需要，5月25日，“网界青年成长计划”之“青咖说”身心健康专场活动在北京举行。</p>    <span class="times">2017-05-26</span>    <div class="bdsharebuttonbox"> </div>    </li><li class="clearfix">    <h3><a target="_blank" href="http://www.cac.gov.cn/2016-12/30/c_1120223887.htm">2016年度中央网信办信息工作培训班在京举行</a></h3>    <a target="_blank" href="http://www.cac.gov.cn/2016-12/30/c_1120223887.htm"></a>    <p class="summary">2016年12月27日-28日，2016年度中央网信办信息工作培训班在京举行。</p>    <span class="times">2016-12-30</span>    <div class="bdsharebuttonbox"> </div>    </li>
+</ul>
+</div>
+<!--右侧栏目-->
+<div class="mianR rightSide">
+<div class="c">
+<div class="t bgsfb">办公室发布</div>
+</div>
+<div class="in">
+<ul class="list">
+    <li><a href="http://www.cac.gov.cn/2021-03/22/c_1617990996835955.htm" target="_blank">​国家四部门联合发布《常见类型移动互联网应用程序必要个人信息范围规定》</a></li><li><a href="http://www.cac.gov.cn/2021-03/22/c_1617990997054277.htm" target="_blank">关于印发《常见类型移动互联网应用程序必要个人信息范围规定》的通知</a></li><li><a href="http://www.cac.gov.cn/2021-02/09/c_1614442843810295.htm" target="_blank">国家七部门联合发布《关于加强网络直播规范管理工作的指导意见》</a></li><li><a href="http://www.cac.gov.cn/2021-02/09/c_1614442843753738.htm" target="_blank">关于印发《关于加强网络直播规范管理工作的指导意见》的通知</a></li>
+</ul>
+</div>
+<div class="c">
+<div class="t bsfw">办事服务</div>
+</div>
+<div id="R_bsfw" class="in">
+<ul class="service clearfix">                     <!-- <li class="ser01"><a target="_blank" href="https://xwxklogon.cac.gov.cn/">互联网新闻信息服务年检系统</a></li> -->                     <!-- <li class="ser02"><a target="_blank" href="http://www.miit.gov.cn/newweb/n1146300/index.html">工业和信息化部服务大厅</a></li> -->
+    <li class="ser03"><a target="_blank" href="http://www.cnnic.net.cn/">WHOIS查询系统</a></li>
+    <li class="ser04"><a target="_blank" href="http://www.cnnic.net.cn/jczyfw/CNym/">互联网基础资源服务</a></li>
+    <li class="ser05"><a target="_blank" href="http://www.conac.cn/">政务和公益机构域名注册管理中心</a></li>
+</ul>
+<div class="info"> </div>
+<ul class="service clearfix">
+    <li class="ser06"><a target="_blank" href="http://www.cnvd.org.cn/">国家信息安全漏洞共享平台</a></li>
+    <li class="ser07"><a target="_blank" href="http://www.isccc.gov.cn/">中国信息安全认证中心</a></li>
+    <li class="ser08"><a target="_blank" href="http://www.itsec.gov.cn/">中国信息安全测评中心</a></li>
+</ul>
+<div class="info"> </div>
+<ul class="service clearfix">
+    <li class="ser09"><a target="_blank" href="http://www.cert.org.cn/">国家互联网应急中心</a></li>
+</ul>
+<div class="info"> </div>
+</div>
+<div id="fixedBody">
+<div class="c">
+<div class="t zdtj">重点推荐</div>
+</div>
+<div class="in">
+<div class="p"><a target="_blank" href="http://www.cac.gov.cn/2018zt/qgxcsxgzhy/index.htm"><img border="0" alt="《学习贯彻全国宣传思想工作会议精神》专题" width="229" height="155" src="http://www.cac.gov.cn/lib/template/scheme/images/1123362166_1535715643773_title0h.jpg" /></a>
+<div class="t"><a target="_blank" href="http://www.cac.gov.cn/2018zt/qgxcsxgzhy/index.htm">《学习贯彻全国宣传思想工作会议精神》专题</a></div>
+<div class="b"> </div>
+</div>
+<div class="p"><a target="_blank" href="http://www.cac.gov.cn/2018zt/420hy/index.htm"><img border="0" alt="学习贯彻全国网络安全和信息化工作会议精神专题" width="229" height="155" src="http://www.cac.gov.cn/lib/template/scheme/images/1122736226_1524567758209_title0h.jpg" /></a>
+<div class="t"><a target="_blank" href="http://www.cac.gov.cn/2018zt/420hy/index.htm">学习贯彻全国网络安全和信息化工作会议精神专题 </a></div>
+<div class="b"> </div>
+</div>
+<div class="p"><a target="_blank" href="http://www.cac.gov.cn/419jhyzn/index.htm"><img border="0" alt="习近平网络安全和信息化工作座谈会讲话一周年" width="229" height="155" src="http://www.cac.gov.cn/lib/template/scheme/images/1120892292_1493369620974_title0h.jpg" /></a>
+<div class="t"><a target="_blank" href="http://www.cac.gov.cn/419jhyzn/index.htm">习近平网络安全和信息化工作座谈会讲话一周年</a></div>
+<div class="b"> </div>
+</div>
+<div class="p"><a target="_blank" href="http://www.cac.gov.cn/xxgclszthjs/index.htm"><img border="0" alt="学习贯彻落实习近平总书记在网信工作座谈会上的重要讲话" width="229" height="155" src="http://www.cac.gov.cn/lib/template/scheme/images/1118803776_1467708975430_title0h.png" /></a>
+<div class="t"><a target="_blank" href="http://www.cac.gov.cn/xxgclszthjs/index.htm">学习贯彻落实习近平总书记在网信工作座谈会上的重要讲话</a></div>
+<div class="b"> </div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+$(function(){
+	$("#R_bsfw .service li").hover(function(){
+		$("#R_bsfw .info").hide();
+		var text = $(this).find("a").html();
+		$(this).parent().next().stop(true,true).fadeIn().html(text);
+	},function(){
+		$("#R_bsfw .info").hide();
+	})
+})
+
+	
+</script><!--右侧栏目--></div>
+<div> </div>
+<div> </div>
+<div class="foot">
+<div class="con"><img border="0" alt="" usemap="#Mapa" src="http://www.cac.gov.cn/lib/template/scheme/images/nyfoot.jpg" /> <map id="Mapa" name="Mapa">
+<area shape="rect" target="_blank" coords="752,29,808,51" onfocus="this.blur()" href="http://www.cac.gov.cn/wzxg/lxwm/A092501index_1.htm" />
+<area shape="rect" target="_blank" coords="809,29,862,51" onfocus="this.blur()" href="http://www.cac.gov.cn/wzxg/zndh/A092502index_1.htm" />
+<area shape="rect" target="_blank" coords="685,56,726,76" href="http://www.beian.miit.gov.cn" /></map></div>
+</div>
+<script>
+var channelname = document.getElementById('pageName2').innerHTML;
+ document.getElementById("channelname").innerHTML = channelname;
+</script><script>
+if(document.getElementById('pageTit')!= null){
+  var channelpname = document.getElementById('pageTit').innerHTML;
+ document.getElementById("channelpname").innerHTML = channelpname+">";
+}
+
+</script>
+<div><script>function pagestat(){var urlfrom = ''; 
+if (document.referrer.length > 0) { 
+urlfrom = document.referrer; 
+} 
+try { 
+ if (urlfrom.length == 0 && opener.location.href.length > 0) { 
+ urlfrom = opener.location.href; 
+} 
+ } catch (e) {}  
+var re=new RegExp(" ","gi");
+urlfrom = urlfrom.replace(re,"");
+if(urlfrom.indexOf("tagpre")>0||urlfrom.indexOf("result")>0)  urlfrom="";
+var title = document.title;
+$.ajax({type:'POST',url: '/cms/cmsadmin/infopub/pagestat.jsp?crToken='+crToken,data:{webappcode:"A09",code:"A0908",infoId:"",title:title,urlfrom:encodeURI(urlfrom)},success:function(data){}});}pagestat();</script></div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/common16_1.js"></script>
+<div style="display: none">
+<span id='indexcounter'></span><script>function getindexcounter(){ var msg = $.ajax({	  url: '/cms/cmsadmin/infopub/counter.jsp?counterType=1&fontColor=000000&pubpath=portal&webappCode=A0908&crToken='+crToken ,	  async: true	 }).responseText; $('#indexcounter').html(msg);} $(document).ready(function(){getindexcounter();});</script>
+</div>
+<script type="text/javascript" src="http://www.cac.gov.cn/lib/template/scheme/js/common.js"></script><script type="text/javascript">
+XH_GLOBAL={"getDataEvent":"scroll","hasShare":true,"dataMoreBtn":document.getElementById('dataMoreBtn'),"dataImg":false};
+</script><script type="text/javascript" id="bdshare_js" data="type=tools&uid=483253" src="http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=393962"></script><div style='display:none'>Produced By CMS 网站群内容管理系统 publishdate:2021/04/13 17:52:50</div></body></html>

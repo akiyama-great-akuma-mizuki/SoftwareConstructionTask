@@ -1,0 +1,2203 @@
+﻿<!DOCTYPE HTML>
+<!--STATUS OK-->
+<html class="expanded">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="https://www.baidu.com/cache/icon/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="any"  href="https://www.baidu.com/cache/icon/favicon.svg">
+<title>�ٶ��Ŀ����� -&nbsp;�ְ�����ѵ����ɡȴ���ڶ���ͷ��</title>
+
+<script>
+    // �����Ż�������ʶtitle
+    window.viewTime = {
+        t: new Date().getTime()
+    };
+    // �����Ż�������ʶtitle end
+    window.alogObjectConfig = {
+        sample: '1',
+ 
+        product: '112',
+        page: '112_6',
+        monkey_page: 'wenku-search',
+        speed_page: '',
+        speed: {
+            sample: '1'
+        },
+ 
+        monkey: {
+            sample: '1'
+        },
+ 
+        exception: { 
+            sample: '0.1'
+        },
+ 
+        feature: {
+            sample: '0.1'
+        },
+ 
+        cus: {
+            sample: '0.1'
+        },
+ 
+        csp: {
+            sample: '1',
+            'default-src': [
+                {match: '*bae.baidu.com', target: 'Accept,Warn'},
+                {match: '*.baidu.com,*.bdstatic.com,*.baidustatic.com,*.baiduimg.com,*.bdimg.com,localhost,*.hao123.com,*.hao123img.com', target: 'Accept'},
+                {match: /^(127|172|192|10)(\.\d+){3}$/, target: 'Accept'},
+                {match: '*', target: 'Accept,Warn'}
+            ]
+        }
+    };
+    void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+    void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<script src="https://edu-wenku.bdimg.com/v1/pc/spy-client-basic.min-1612432657991.js" type="text/javascript"></script>
+
+
+
+
+<noscript>
+<style type="text/css">
+        .no-script {
+            background-color: #ffffe1;
+            color: #333;
+            font-size: 14px;
+            line-height: 20px;
+            padding: 10px 0 10px 121px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #f1f1f1;
+        }
+        .no-script>a {
+                text-align: center;
+                width: 100%;
+                text-decoration: underline;
+                color: #333;
+            }
+        }
+    </style>
+<div class="no-script">
+���������Javascript�����ã��迪��������������ܣ�<a style=""
+            target="_blank" class="link-to-enable-js"
+            href="https://wenku.baidu.com/go/help_js">
+�뵥���˴���ѯ��ο���</a>
+<img style="display: none;" src="https://wkctj.baidu.com/click.gif?pid=1&bid=1&fr=4&act_id=101711">
+</div>
+</noscript>
+<meta name="description" content="���߻���ʽ�ĵ�����ƽ̨������������Ժ�ǧ�����ѷ����Լ����е��ĵ���ȫ���Ķ������û����ĵ���ͬʱ��Ҳ�������÷����ĵ���ȡ�Ļ��������ĵ� "/>
+
+
+<meta name="keywords" content="�ٶ��Ŀ�"/>
+
+<script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?f06186a102b11eb5f7bcfeeab8d86b34";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        </script>
+<script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/browserdata/browserdata-min.js"></script>
+<script type="text/javascript">!function(n){var t={},i={};i._data=t,i.get=function(n){return t[n]},i.set=function(n,i){if("string"==typeof n)t[n]=i;else for(var r in n)n.hasOwnProperty(r)&&(t[r]=n[r])},n.__fisData=i}(window);</script>
+<link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_framework_7411ad9.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_base_8786774.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcore/pkg/pkg_search_4581f2f.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcore/widget/search/reward/reward_e7d3ea4.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcore/widget/node_modules/@baidu/wenku-pc-components/dist/index_a24f3af.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/widget/text/tousu/tousu_26d4943.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcore/widget/topicBox/topicBox_a9b74be.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcore/widget/pager/pager_8b49dcd.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/widget/tb/ipDialog/ipDialog_d779a4c.css" /><link rel="stylesheet" type="text/css" href="//wkstatic.bdimg.com/static/wkcommon/widget/study/studyPopup/studyPopup_0267693.css" /></head>
+
+<script> alog('speed.set', 'ht', +new Date); </script>
+
+<body class="sf-2111 ">
+
+
+
+
+
+<script>
+(function(Data) {
+
+		var smallFlowContent = [];
+					smallFlowContent.push('xll_search_download' + '=' + '1');
+				
+		Data.set('smallFlowContent', smallFlowContent);
+
+}(window.__fisData));
+</script>
+
+<script>
+	(function(Data) {
+		var WkInfo = Data.get("WkInfo") || {};
+		var isLogin="";WkInfo.PageInfo={isLogin:!!isLogin,copyright:"",tpl:"wk_info",docTypeList:[["none",""],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["doc","Word\u6587\u6863"],["xls","Excel\u8868\u683c"],["ppt","PPT\u6587\u7a3f"],["pdf","pdf\u6587\u6863"],["txt","txt\u6587\u6863"],["wps","Word\uff08\u91d1\u5c71\uff09"],["et","Excel\uff08\u91d1\u5c71\uff09"],["dps","PPT\uff08\u91d1\u5c71\uff09"],["vsd","Visio\u7ed8\u56fe"],["rtf","rtf\u6587\u6863"],["pot","PPT\u6a21\u677f"],["pps","PPT\u653e\u6620"],["epub","ePub\u6587\u6863"],["dwg","CAD\u6587\u4ef6"]]};
+;
+				Data.set("WkInfo",WkInfo);
+	}(window.__fisData));
+</script>
+<div id="doc" class="page ">
+<div id="hd">
+
+<script type="text/javascript">
+        function BaiduAdsDisplay(d){"undefined"!=typeof arrBaiduAds[d]&&""!=arrBaiduAds[d]&&document.write(arrBaiduAds[d])}var arrBaiduAds=[];;
+    </script>
+<script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/node_modules/vue/dist/vue.min.js"></script>
+<script type="text/javascript">
+        function initSpy(){return window.SpyClient?new window.SpyClient({pid:"17_99",lid:"",sample:.2}):void 0}function sendSpyExceptLog(n,i){if(n){var e=spyInitObj;e&&"wenku.baidu.com"===location.host&&e.sendExcept({info:{msg:n&&n.message?i+":"+n.message:"",stack:n&&n.stack||""},group:"pc_search_js_error"})}}var spyInitObj=initSpy();window.onerror=function(n,i,e,o,t){sendSpyExceptLog&&sendSpyExceptLog(t,"window")};;
+    </script>
+<!--[if lte IE 8]>
+<script type="text/javascript">
+    var w = window.screen.width;
+    if (w > 1920) {
+        document.getElementsByTagName('body')[0].className += 'wide-screen';
+    }
+</script>
+<![endif]-->
+
+<div class="search-form-header clearfix">
+<div class="search-form-header-content">
+<div class="search-form-box clearfix">
+<div class="search-wrapper-box">
+<a href="/" target="_blank" class="logo">
+<span class="wk-logo-icon-search"></span>
+</a>
+<div class="search-top-form ib" id="search-top-form-search">
+<span class="search-ipt-box ib">
+<input type="text" name="word" id="kw" class="s_ipt" maxlength="100" autocomplete="off"
+                            value="�ְ�����ѵ����ɡȴ���ڶ���ͷ��" data-default=""/>
+<span class="hot-box hide">7</span>
+<span class="arrow-box"></span>
+</span>
+<span class="search-sub-box ib">
+<input type="button" id="sb" class="s_btn s_btn_wr_click" value="�����ĵ�" />
+</span>
+<span class="sp-xs-tip-content ib">
+<a class="sp-xs-tips log-xsend" data-logxsend='[1, 100955, {"index":2}]' href="/ndtopic/legion?fr=home" target="_blank">��������</a>
+</span>
+</div>
+</a>
+</div>
+<div class="search-wrapper-box-recommend clearfix"></div>
+<div class="wk-search-new-cntent" >
+<div class="user-bar user-bar-new">
+<ul class="inner">
+<li><a href="https://www.baidu.com/" class="logSend" data-logsend='{"send":["general","bdindex",{"login":0}]}' alog-action="userbar.loginbdhome">�ٶ���ҳ</a></li>
+<li>
+<a href="https://passport.baidu.com/v2/?login" id="login" class="logSend login" data-logsend='{"send":["view","loginclick"]}' alog-action="userbar.login">��¼</a>
+</li>
+<li style="position: relative;">
+<a href="//wenku.baidu.com/cashier/browse/vipcashier?dqStatCode=topnav_joinvip&cashier_code=topnav_joinvip" target="_blank"
+                    title="�ٶ��Ŀ�VIP" style="height: auto;display: inline-block;" id="my-wkHome-vip-tips">
+<span class="wk-color-vip-red">VIP�¿�����2Ԫ</span>
+</a>
+<div class="vip-tips-hover-div clearfix">
+<div class="vip-tips-hover-div-content">
+<ul>
+<li class="zywd-r">��VIPר���ĵ�������Ȩ</li>
+<li class="gxwd-r">&nbsp;�������ĵ�������Ȩ</li>
+<li class="mfzx-r">&nbsp;100Wƪ�ĵ����ר��</li>
+<li class="fuli-r">&nbsp;ÿ��齱���ָ���</li>
+</ul>
+<a target="_blank" class="log-xsend vip-tips-hover-gotocashier ljkt-btn-red" href="/cashier/browse/dispatch?dqStatCode=topnav_joinvip"
+                            data-logxsend="[1, 101547, {'index':0, 'pcSearchStyleTestType': '0'}]">������ͨ</a>
+</div>
+</div>
+</li>
+<li class="fankui"><a class="help-feedback">�������</a></li>
+<li><a href="/apps?fr=1011" target="_blank" alog-action="userbar.logoutapp">���ؿͻ���</a></li>
+</ul>
+</div>
+</div>
+<div id="vip-cms-doc-list" style="display:none;">
+<p class="pop-msg-text">�Ŀ�����н���ͼ�飬���᲻�����޾�Ʒ�������˫�ַ��ϣ��뼰ʱ����Ŷ��</p>                                                                
+<div class="pop-msg-new-book"> 
+<div class="pop-msg-book-recmd"> 
+<div class="pop-msg-recmd-link">
+<a href="//wenku.baidu.com/vip/list/104" target="_blank">���ù���</a>&nbsp&nbsp&nbsp
+<a href="//wenku.baidu.com/vip/list/101" target="_blank">ְ����־</a>
+</div>
+<span>������������Դ��ѳ���</span>
+</div>
+<a href="/trade/browse/cashier?type=2&fr=zhaohui" class="pop-msg-charge-btn">
+</a> 
+<div class="under-btn-tips">����һ���Ķ���Ա����ʡ24Ԫ��</div>
+</div>
+</div>
+</div>
+</div>
+<div class="search-nav">
+<ul>
+<li>
+<a data-href="http://www.baidu.com" href="https://www.baidu.com/s?wd=word&fr=wenku" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"webpage"}]}' wdfield="wd" onmousedown="setHeadUrl(this)">
+��ҳ</a>
+</li>
+<li>
+<a data-href="http://news.baidu.com" href="//www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&fr=wenku" class="logSend" data-logsend='{"send":["general", "toptablink",{"to":"news"}]}' wdfield="word" onmousedown="setHeadUrl(this)">
+��Ѷ</a>
+</li>
+<li>
+<a data-href="http://v.baidu.com" href="//www.baidu.com/sf/vsearch?pd=video&tn=vsearch&word=word&rsv_spt=15"  class="logSend " data-logsend='{"send":["general","toptablink",{"to":"video"}]}' wdfield="word" onmousedown="setHeadUrl(this)">
+��Ƶ</a>
+</li>
+<li class="sml6">
+<a data-href="http://image.baidu.com" href="//image.baidu.com/i?ct=201326592&cl=2&nc=1&lm=-1&st=-1&tn=baiduimage&istype=2&fm=&pv=&z=0&word=word&fr=wenku&ie=gbk" class="logSend " data-logsend='{"send":["general","toptablink",{"to":"image"}]}' wdfield="word" onmousedown="setHeadUrl(this)">
+ͼƬ</a>
+</li>
+<li class="sml6">
+<a data-href="http://zhidao.baidu.com" href="//zhidao.baidu.com/q?word=word&ct=17&pn=0&tn=ikaslist&rn=10&lm=0&fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"zhidao"}]}' wdfield="word" onmousedown="setHeadUrl(this)">
+֪��</a>
+</li>
+<li><b>�Ŀ�</b></li>
+<li>
+<a data-href="http://tieba.baidu.com" href="//tieba.baidu.com/f?kw=word&fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"tieba"}]}' wdfield="kw" onmousedown="setHeadUrl(this)">
+����</a>
+</li>
+<li>
+<a data-product="b2b" href="https://b2b.baidu.com/s?fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"b2b"}]}' wdfield="q" onmousedown="setHeadUrl(this)">
+�ɹ�</a>
+</li>
+<li>
+<a data-href="http://map.baidu.com" href="//map.baidu.com/?newmap=1&ie=utf-8&s=s&wd=word&fr=wenku" class="logSend" data-logsend='{"send":["general","toptablink",{"to":"map"}]}' wdfield="wd" onmousedown="setHeadUrl(this)">
+��ͼ</a>
+</li>
+<li>
+<a href="http://www.baidu.com/more/">
+����<span class="s-more">&raquo;</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<script>
+	escapeSymbol = function(source) {
+        return String(source).replace(/[#%&+=\/\\\ \u3000\f\r\n\t]/g, function(all) {
+            return '%' + (0x100 + all.charCodeAt()).toString(16).substring(1).toUpperCase();
+        });
+    };
+
+    setHeadUrl = function(a) {
+        if(!document.getElementById('kw').value)  //search nothing
+        {
+            var diff = new RegExp("[?]");
+            if (diff.test(a.href)) {
+                var temple  = a.href;
+                a.href = a.getAttribute('data-href');
+                a.setAttribute('data-href',temple);
+            }
+        }else{
+            var product = a.getAttribute('data-product');
+            if (product === 'b2b') {
+                var kw = document.getElementById('kw').value;
+                a.href = 'https://b2b.baidu.com/s?fr=wenku&q=' + encodeURIComponent(kw) + '&ie=utf-8';
+                return;
+            }
+            var diff = new RegExp("[?]");
+            if (!diff.test(a.href)) {
+                var temple  = a.href;
+                a.href = a.getAttribute('data-href');
+                a.setAttribute('data-href',temple);
+            }
+            a.href = a.href.replace('?newmap=1&ie=utf-8&s=s%26wd%3D','?newmap=1&ie=utf-8&s=s&wd=');
+            //��ͼת��&wd=
+            a.href = a.href.replace(new RegExp("(" + a.getAttribute('wdfield') + "=)[^&]*"), '$1' + encodeURIComponent(document.getElementById('kw').value)).replace('?newmap=1&ie=utf-8&s=s&wd=','?newmap=1&ie=utf-8&s=s%26wd%3D');
+            //��ͼ�������Ĳ�Ʒ��
+            a.href = a.href.replace(new RegExp("(" + a.getAttribute('wdfield') + "=)[^&]*"), '$1' + escapeSymbol(document.getElementById('kw').value));
+        }
+    };
+</script>
+
+</div>
+<div id="bd">
+<div class="bd-wrap">
+<div class="body">
+
+<input type="text" id="jiaoyu-vip-data" style="display:none;" value="">
+<div class="doc-tool-pop-wrap">
+<div class="bz-doc-tool-dialog">
+<div class="close-btn"></div>
+<a href="https://box.baidu.com/ndtool/home"
+           class="go"
+           target="_blank">
+</a>
+</div>
+</div>
+<div class="aside">
+<div class="aside-wrap" data-small-flow="">
+<div id="tool-box"></div>
+<div class="recommend-aside">
+<div class="search-aside-adWrap"></div>
+<div class="relate-knowledge">
+</div>
+</div>
+<div class="mod tousu">
+
+��ҪͶ��Υ�����ݣ��뵽<a class="help-feedback">�ٶ��Ŀ�Ͷ������</a>����Ҫ������������������飬��<a class="help-feedback">����˴�</a>���з�����
+
+</div>
+</div>
+</div>
+<div class="header-box-recommend clearfix inline"></div>
+<div class="new-filter-box fc5"  data-sm="">
+<div class="line-1">
+<span class="fc9 line-title">��Χ��</span>
+<span class="normal mr13 cur">
+<a class="log-xsend"
+                    data-logxsend="[1,101748,{'screenTestType':'0'}]"
+                    data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=0&fd=0&ie=utf-8"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+ȫ��</a>
+</span>
+
+<script>
+                window.controlDocFlagData = 'nonTicketDoc2ProDoc';
+                window.screenTestType = '0';
+                window.pcSearchStyleTestType = '0';
+            </script>
+<span class="normal mr13 vip-free-alert  ">
+<div class="cover-vip-box">VIP���޴�</div>
+<div class="arrow-img"></div>
+<a class="vip-free-new-bg log-xsend" data-logxsend="[1,101751,{'screenTestType':'0'}]"
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=0&fd=1&ie=utf-8"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+VIP���޴�</a>
+<div class="icon-box">
+<span class="fire-img"></span>
+<span>ɸѡ�����ĵ���VIP���������</span>
+<span class="btn-know">֪����</span>
+</div>
+</span>
+<span class="normal mr13 vip-special ">
+<div class="cover-vip-box">VIP</div>
+<div class="arrow-img"></div>
+<a class="vip-free-new-bg log-xsend" data-logxsend="[1,101874,{'screenTestType':'0'}]"
+                    data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=0&fd=2&ie=utf-8"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+VIP</a>
+<div class="icon-box">
+<span class="fire-img"></span>
+<span>ɸѡ�����ĵ���VIP���������</span>
+<span class="btn-know">֪����</span>
+</div>
+</span>
+<span class="normal vip-free mr13 ">
+<a class="log-xsend" data-logxsend="[1,101750,{'screenTestType':'0'}]"
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&wl=3&org=0&fd=0&ie=utf-8" class="btn-free-doc log-xsend links "
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+���<span class="ic-vip">VIP</span>
+</a>
+</span>
+<span class="normal mr13 ">
+<a class="log-xsend"
+                        data-logxsend="[1,101749,{'screenTestType':'0'}]"
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=1&fd=0&ie=utf-8"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+��Ʒ</a>
+</span>
+<span class="pointer right search-more ns-tj" data-tj="filter">
+<span class="more-name">
+����ɸѡ</span>
+<b class="d-arrow"></b>
+</span>
+</span>
+</div>
+<div class="line-2">
+<span class="fc9 line-title">��ʽ��</span>
+<span class="mr13 normal cur">
+<a class="log-xsend"
+                    data-logxsend="[1,101752,{'screenTestType':'0'}]"
+                    data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+ȫ��</a>
+</span>
+<span class="mr13 normal ">
+<a class="log-xsend"
+                    data-logxsend="[1,101753,{'screenTestType':'0'}]"
+                    data-href="/search?lm=1&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+DOC</a>
+</span>
+<span class="mr13 normal ">
+<a class="log-xsend"
+                    data-logxsend="[1,101754,{'screenTestType':'0'}]"
+                    data-href="/search?lm=3&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+PPT</a>
+</span>
+<span class="mr13 normal ">
+<a class="log-xsend"
+                    data-logxsend="[1,101755,{'screenTestType':'0'}]"
+                    data-href="/search?lm=5&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+TXT</a>
+</span>
+<span class="mr13 normal ">
+<a class="log-xsend"
+                    data-logxsend="[1,101756,{'screenTestType':'0'}]"
+                    data-href="/search?lm=2&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+PDF</a>
+</span>
+<span class="normal ">
+<a class="log-xsend"
+                    data-logxsend="[1,101757,{'screenTestType':'0'}]"
+                    data-href="/search?lm=4&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                    data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                >
+XLS</a>
+</span>
+</div>
+<div id="filter-inner-option-box" class="filter-option hide">
+<div class="filter-inner">
+<p class="line clearfix">
+<span class="title">ҳ����</span>
+<a
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pg=0&org=0" class="links log-xsend cur" data-logxsend="[1, 101762, {'screenTestType':'0'}]"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+ȫ��</a>
+<a
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pg=1&org=0" class="links log-xsend " data-logxsend="[1, 101763, {'screenTestType':'0'}]"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+0-5ҳ</a>
+<a
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pg=2&org=0" class="links log-xsend " data-logxsend="[1, 101764, {'screenTestType':'0'}]"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+6-10ҳ</a>
+<a
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pg=3&org=0" class="last-item log-xsend links " data-logxsend="[1, 101765]"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                    >
+10ҳ����</a>
+<input type="text" class="start-page page-range" value="" />
+<span>-</span>
+<input type="text" class="end-page page-range" value="" />
+<span>ҳ</span>
+<span
+                        data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&org=0"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        class="page-button"
+                    >
+ȷ��</span>
+</p>
+<p class="line clearfix">
+<span class="title">ʱ�䣺</span>
+<a
+                            data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pt=0&org=0" class="links log-xsend cur" data-logxsend="[1, 101766, {'screenTestType':'0'}]"
+                            data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        >
+ȫ��</a>
+<a
+                            data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pt=1&org=0" class="links log-xsend " data-logxsend="[1, 101767, {'screenTestType':'0'}]"
+                            data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        >
+һ����</a>
+<a
+                            data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pt=2&org=0" class="links log-xsend " data-logxsend="[1, 101768, {'screenTestType':'0'}]"
+                            data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        >
+һ������</a>
+<a
+                            data-href="/search?lm=0&od=0&page=search&sort_type=0&type=sort_click&pt=3&org=0" class="links log-xsend " data-logxsend="[1, 101769, {'screenTestType':'0'}]"
+                            data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        >
+��������</a>
+</p>
+</div>
+</div>
+</div>
+<div class="new-sort-box fc5" >
+<span class="fc9 mr10 order-data"
+            data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+            data-lm="0"
+            data-org="0"
+            data-fd="0"
+                                                                    >����</span>
+<span class="mr15">
+<input class="log-xsend" data-logxsend="[1,101770,{'screenTestType':'0'}]" name="sort" value="0" type="radio" checked="true" >�����</span>
+<span class="mr15">
+<input class="log-xsend" data-logxsend="[1,101771,{'screenTestType':'0'}]" name="sort" value="2" type="radio" >������</span>
+<span class="mr15">
+<input class="log-xsend" data-logxsend="[1,101772,{'screenTestType':'0'}]" name="sort" value="1" type="radio" >����</span>
+<span class="mr15">
+<input class="log-xsend" data-logxsend="[1,101773,{'screenTestType':'0'}]" name="sort" value="3" type="radio" >����</span>
+</div>
+<div class="main" id="app">
+
+<div class="search-result" data-priority="10" data-score-mode="4"   style="display: none;" >
+<div id="pzsearchtop" style="position: relative;"></div>
+<div id="fengchaoad" style="margin-bottom:25px;position: relative;"></div>
+<div class="woniu-wrap">
+<div class="ml-img"></div>
+<div class="mr-inner">
+<p class="title">Ȩ����ҵ�о�������ѿ���</p>
+<p class="desc">��ҵ���桢�й�˵��Ӧ�о���</p>
+<div class="detail">
+<a href="https://snail.baidu.com/ndyanbao/browse/index#/" class="check-btn log-xsend" target="_blank" data-logxsend="[1, 103078]">���ϲ鿴</a>
+<span>10w+ְ��������ʹ��</span>
+</div>
+</div>
+</div>
+
+<div class="topicBox search-topicBox-wrap">
+</div>
+<input type="hidden" class="search-query-box" value="�ְ�����ѵ����ɡȴ���ڶ���ͷ��">
+<div class="search-topic-block"  style="display:none;" >
+</div>
+<script>
+    void function(e,t){for(var n=t.getElementsByTagName("img"),a=+new Date,i=[],o=function(){this.removeEventListener&&this.removeEventListener("load",o,!1),i.push({img:this,time:+new Date})},s=0;s< n.length;s++)!function(){var e=n[s];e.addEventListener?!e.complete&&e.addEventListener("load",o,!1):e.attachEvent&&e.attachEvent("onreadystatechange",function(){"complete"==e.readyState&&o.call(e,o)})}();alog("speed.set",{fsItems:i,fs:a})}(window,document);
+</script><div id="top-recommend-dsp-ad"></div>
+<div class="search-mode-wrap"></div>
+<script>
+    window.pageData = window.pageData || {};
+    window.pageData.searchResultList = [{"doc_url":"https:\/\/wenku.baidu.com\/view\/6017617a03d276a20029bd64783e0912a3167c4e.html?fr=search-4-X-income8&fixfr=UHnjrFkxxeI6DUUiXSyQxA%3D%3D","doc_id":8509924501,"doc_type":8,"title":"\u4f5c\u6587:\u6211\u548c<em>\u7238\u7238<\/em> - \u767e\u5ea6\u6587\u5e93","content":"\u4f5c\u6587:\u6211\u548c<em>\u7238\u7238<\/em>  \u78a7\u610f\u4e4b\u65f6 |2019-11-14 | \u6682\u65e0\u8bc4\u4ef7|1|0 | \u4e3e\u62a5  \u9a6c\u4e0a\u626b\u4e00\u626b \u624b\u673a\u6253\u5f00\u968f\u65f6\u67e5\u770b \u624b\u673a\u6253\u5f00VIP\u4e13\u4eab\u6587\u6863  VIP\u4e13\u4eab\u6587\u6863\u662f\u767e\u5ea6\u6587\u5e93\u8ba4\u8bc1\u7528\u6237\/\u673a\u6784\u4e0a\u4f20\u7684\u4e13\u4e1a\u6027\u6587\u6863,\u6587\u5e93VIP\u7528\u6237\u6216\u8d2d\u4e70VIP\u4e13\u4eab\u6587\u6863\u4e0b\u8f7d\u7279\u6743\u793c\u5305\u7684\u5176\u4ed6\u4f1a\u5458\u7528\u6237...","uname":"\u78a7\u610f\u4e4b\u65f6","create_time":"2019-11-14","value_count":1,"value_score":4,"page_num":"1","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u4f5c\u6587\uff1a\u6211\u548c\u7238\u7238","type":"8","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2882221483","wealth_value":"5","main_status":"2","is_sale":0,"ticket_value":2,"store_id":"a25164bf360cba1aa811da8f","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/a25164bf360cba1aa811da8f?new=1&w=500&p=1","view_count":289,"value_total":2,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":2.14,"qualityScore3":"2.14","qualityScore4":"2.14","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u65f6\u5c0f\u82f1","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg","is_exclusive":0,"uidHstr":"678a3a8add36a32d737581e4"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/deb400fd66ec102de2bd960590c69ec3d4bbdbe1.html?fr=search-4-X-income1&fixfr=w6FO%2BOH3NX9JwC%2BQu7PCHw%3D%3D","doc_id":7654336570,"doc_type":1,"title":"\u6211\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587(10\u7bc7) - \u767e\u5ea6\u6587\u5e93","content":"2 \u4e09\u5e74\u7ea7:\u6c6a\u9756\u9716 \u6211\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587(4) <em>\u7238\u7238<\/em>,\u4e00\u53cc\u70f1\u70f1\u6709\u795e\u7684\u773c\u775b,<em>\u5934\u4e0a<\/em>\u957f\u6ee1...<em>\u7238\u7238<\/em>\u770b\u51fa\u6211\u7684\u5fc3 \u60c5\u3002\u800c\u6211\u5374\u5728\u8def\u4e0a\u5c0f\u58f0\u7684\u8bf4: \u5c0f\u6c14,\u5c0f\u6c14,\u5c0f\u6c14,\u4ec0\u4e48\u96f6\u98df\u90fd...\u627e\u5230 \u6211\u540e,<em>\u7238\u7238<\/em>\u5c31\u50cf\u957f\u4e0d\u5927\u7684<em>\u5b69\u5b50<\/em>\u4e00\u6837\u5f00\u5fc3!\u6211\u771f\u7231\u6211\u7684<em>\u7238\u7238<\/em>\u3002 \u4e09\u5e74\u7ea7:nuli...","uname":"\u6469\u7faffayego","create_time":"2019-07-09","value_count":1,"value_score":8,"page_num":"9","download_count":59,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u6211\u7684\u7238\u7238\u4f5c\u6587(10\u7bc7)","type":"1","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"4095315971","wealth_value":"20","main_status":"2","is_sale":0,"ticket_value":5,"store_id":"bd74cd8950e2524de5187eb8","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/bd74cd8950e2524de5187eb8?new=1&w=500&p=1","view_count":3925,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.46,"qualityScore3":"4.46","qualityScore4":"4.46","new_tag_arr":["\u6211\u7684\u7238\u7238","\u4f5c\u6587"],"update_time":"1970-01-01","professionalDoc":1,"hideProTag":true,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u6b27\u52b2\u98de","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/7a899e510fb30f24d54f9b5cc695d143ac4b0393.jpg","is_exclusive":0,"uidHstr":"87d7701ee009581b6ad9eb81"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/bfae505aac51f01dc281e53a580216fc710a531a.html?fr=search-4-X-income2&fixfr=YCI6zse1nQP%2Fy7lZcwWM4w%3D%3D","doc_id":6497945775,"doc_type":1,"title":"<em>\u7238\u7238<\/em>\u4f5c\u6587\u4e4b<em>\u7238\u7238<\/em>\u5403\u996d\u4f5c\u6587 - \u767e\u5ea6\u6587\u5e93","content":"\u5bf9\u6211\u8bf4: \u201c \u81ea\u5df1\u505a\u9519\u4e86\u4e8b\u8981\u4e3b\u52a8\u627f\u8ba4, \u5343\u4e07\u4e0d\u53ef\u8bf4\u8c0e,\u77e5\u9519\u5c31\u6539\u8fd8\u662f\u597d<em>\u5b69\u5b50<\/em>...<em>\u7238\u7238<\/em>\u4e5f\u98de\u5feb\u5730\u8dd1\u4e86\u8fc7\u6765\u8fde\u5fd9\u628a<em>\u4f1e\u6491\u5728<\/em>\u4e86\u6211\u7684 \u5934\u9876,\u4ed6\u5374\u4e00\u70b9\u4e5f\u6ca1\u6253,\u88ab\u65e0\u60c5...\u4e0a\u5f88\u60ec\u610f\u5730\u6478\u7740\u4ed6\u7684\u5934\u53d1,\u5728\u592a\u9633 \u7684\u7167\u5c04\u4e0b,\u6211\u770b\u5230\u4e86<em>\u7238\u7238<\/em>\u7684<em>\u5934\u4e0a<\/em>\u6709\u4e00\u6839\u50cf\u94f6\u9488...","uname":"\u5ea6\u7c73\u6587\u5e93","create_time":"2019-02-17","value_count":1,"value_score":8,"page_num":"9","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u7238\u7238\u4f5c\u6587\u4e4b\u7238\u7238\u5403\u996d\u4f5c\u6587","type":"4","cid1":3,"cid2":64,"cid3":153,"flag":"28","uid":"3944068052","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"2aef6b4ab84ae45c3a358c1b","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/2aef6b4ab84ae45c3a358c1b?new=1&w=500&p=1","view_count":495,"value_total":4,"zone":{"cid1":3,"cid2":"64","cid3":"153","cid4":0},"qualityScore":4.37,"qualityScore3":"4.37","qualityScore4":"4.37","new_tag_arr":["\u7238\u7238\u4f5c\u6587","\u4f5c\u6587"],"update_time":"1970-01-01","professionalDoc":1,"hideProTag":true,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u674e\u9e4f\u4e9a","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/7acb0a46f21fbe096c90c78066600c338644ad53.jpg","is_exclusive":0,"uidHstr":"e5a17b306f1aff00bfd51e9b"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/8427990d29160b4e767f5acfa1c7aa00b52a9de9.html?fr=search-4-X-income3&fixfr=iPO%2BdwcsR1f2QIuZQXaNDg%3D%3D","doc_id":9665345557,"doc_type":1,"title":"<em>\u7238\u7238<\/em>\u4f5c\u658710\u7bc7 - \u767e\u5ea6\u6587\u5e93","content":"<em>\u7238\u7238<\/em>\u4f5c\u6587 10 \u7bc7<em>\u7236\u4eb2<\/em>\u662f\u4e00\u5ea7\u5c71\u5cf0,\u8ba9\u4f60\u7684\u8eab\u5fc3\u5373\u4f7f\u627f\u53d7\u98ce\u971c\u96e8\u96ea\u4e5f\u6c89\u7740\u575a\u5b9a\u3002\u4e0b\u9762\u662f\u5c0f\u7f16\u6574 \u7406\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587,\u6b22\u8fce\u5927\u5bb6\u9605\u8bfb\u3002<em>\u7238\u7238<\/em>\u4f5c\u6587 1 \u5927\u96ea\u4e0b\u4e86\u5f88\u957f\u5f88\u957f\u65f6\u95f4,\u5927\u5730\u50cf\u7a7f\u4e0a\u4e86\u4e00\u4ef6\u94f6\u767d\u8272\u7684\u5916\u8863,\u653e\u773c\u8fdc\u773a,\u5206\u4e0d \u6e05\u54ea\u513f\u662f\u5929,\u54ea\u513f\u662f\u5730\u3002\u5728\u5bbd\u5e7f\u7684...","uname":"\u6167\u8bc6\u901a\u624d","create_time":"2020-04-18","value_count":1,"value_score":8,"page_num":"17","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u7238\u7238\u4f5c\u658710\u7bc7","type":"1","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2267746235","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"8823df856c85ec3a87c2c59e","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/8823df856c85ec3a87c2c59e?new=1&w=500&p=1","view_count":292,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.37,"qualityScore3":"4.37","qualityScore4":"4.37","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"hideProTag":true,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u5434\u6069\u5e73","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg","is_exclusive":0,"uidHstr":"dec12e8f763231126edb1193"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/610abdb2fb0f76c66137ee06eff9aef8951e4871.html?fr=search-4-X-income4&fixfr=ALtwPnAwk0oJKUumwFoWSA%3D%3D","doc_id":9680773087,"doc_type":1,"title":"\u6211\u6709\u4e2a\u8fd9\u6837\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587 - \u767e\u5ea6\u6587\u5e93","content":"\u6211\u95ee<em>\u7236\u4eb2<\/em>:\u201c<em>\u7238\u7238<\/em>,\u4f60\u600e\u4e0d\u5403\u5440?\u201d<em>\u7238\u7238<\/em>\u8bf4:\u201c\u597d<em>\u5b69\u5b50<\/em>,<em>\u7238\u7238<\/em> \u4e0d\u7231\u5403,\u6015\u9178,\u4f60...\u6211\u7684<em>\u7238\u7238<\/em>\u4e5f\u662f \u5982\u6b64\u3002 <em>\u7238\u7238<\/em>\u4e00\u751f\u4e3a\u6211\u4eec\u4ed8\u51fa\u4e86\u592a\u591a\u592a\u591a,\u56e0\u6b64\u4ed6\u4eec\u7684<em>\u5934\u4e0a<\/em>\u4e0d\u77e5\u4e0d...\u8fc7\u4e86\u4e00\u4f1a<em>\u7238\u7238<\/em>\u62ff\u8d77 \u4e00\u628a<em>\u96e8\u4f1e<\/em>\u5c31\u5f80\u5916\u9762\u8d70\u53bb,\u5988\u5988\u95ee\u4ed6\u5230\u54ea\u53bb\u4ed6\u5934\u4e5f\u4e0d\u56de\u7684\u5c31...","uname":"\u6167\u8bc6\u901a\u624d","create_time":"2020-04-20","value_count":1,"value_score":8,"page_num":"13","download_count":0,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u6211\u6709\u4e2a\u8fd9\u6837\u7684\u7238\u7238\u4f5c\u6587","type":"1","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2267746235","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"068e0db3fab069dc5122012c","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/068e0db3fab069dc5122012c?new=1&w=500&p=1","view_count":214,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.27,"qualityScore3":"4.27","qualityScore4":"4.27","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"hideProTag":true,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u5434\u6069\u5e73","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg","is_exclusive":0,"uidHstr":"dec12e8f763231126edb1193"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/f528bb4268dc5022aaea998fcc22bcd127ff4295.html?fr=search-4-X-income5&fixfr=%2F8P37WWBMBBxmwvltTUd0w%3D%3D","doc_id":8359367341,"doc_type":8,"title":"\u3010\u4f5c\u6587\u3011\u5982\u679c\u6211\u662f<em>\u7238\u7238<\/em> - \u767e\u5ea6\u6587\u5e93","content":"\u3010\u4f5c\u6587\u3011\u5982\u679c\u6211\u662f<em>\u7238\u7238<\/em>  \u78a7\u610f\u4e4b\u65f6 |2019-10-27 | \u6682\u65e0\u8bc4\u4ef7| 0| 0 | \u8ba4\u9886 | \u4e3e\u62a5 jieguo3\u7684\u5e97  \u5185\u5bb9\u8d28\u91cf130 \u7528\u6237\u559c\u7231598 \u4e13\u4e1a\u6027700 + \u7533\u8bf7\u5165\u9a7b\u6587\u5e93\u7528\u77e5\u8bc6\u8d5a\u94b1VIP\u4e13\u4eab\u6587\u6863  VIP\u4e13\u4eab\u6587\u6863\u662f\u767e\u5ea6\u6587\u5e93\u8ba4\u8bc1\u7528\u6237\/\u673a\u6784\u4e0a\u4f20\u7684\u4e13\u4e1a\u6027\u6587\u6863...","uname":"\u78a7\u610f\u4e4b\u65f6","create_time":"2019-10-27","value_count":1,"value_score":4,"page_num":"1","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u3010\u4f5c\u6587\u3011\u5982\u679c\u6211\u662f\u7238\u7238","type":"8","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2882221483","wealth_value":"5","main_status":"2","is_sale":0,"ticket_value":2,"store_id":"98dbb62af7ec4afe04a1df80","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/98dbb62af7ec4afe04a1df80?new=1&w=500&p=1","view_count":127,"value_total":2,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":2.15,"qualityScore3":"2.15","qualityScore4":"2.15","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"hideProTag":true,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u65f6\u5c0f\u82f1","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg","is_exclusive":0,"uidHstr":"678a3a8add36a32d737581e4"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/fa92f7cf91c69ec3d5bbfd0a79563c1ec5dad7a8.html?fr=search-4-X-income6&fixfr=bUjpccMUfca7ZBGZOUlkeQ%3D%3D","doc_id":7690333976,"doc_type":1,"title":"\u6211\u7231<em>\u7238\u7238<\/em>\u4f5c\u6587 - \u767e\u5ea6\u6587\u5e93","content":"\u6211\u7231<em>\u7238\u7238<\/em>\u4f5c\u6587\u6211\u7684<em>\u7238\u7238<\/em>\u662f\u4e00\u4f4d\u6559\u5e08,\u6574\u5929\u5fd9\u788c\u5728\u6559\u5b66\u7b2c\u4e00\u7ebf,\u4ed6\u5bf9\u5f85\u5de5\u4f5c\u4e00\u4e1d\u4e0d\u82df,\u5c3d\u804c \u5c3d\u8d23,\u662f\u6211\u5b66\u4e60\u7684\u699c\u6837,\u800c\u6211\u4e5f\u5f88\u7231\u6211\u7684<em>\u7238\u7238<\/em>\u3002\u4ee5\u4e0b\u662f\u5c0f\u7f16\u4e3a\u5927\u5bb6\u6574\u7406\u7684\u6211\u7231<em>\u7238 \u7238<\/em>\u4f5c\u6587,\u6b22\u8fce\u5927\u5bb6\u53c2\u8003\u9605\u8bfb\u3002\u6211\u7231<em>\u7238\u7238<\/em>\u4f5c\u6587 1 <em>\u7236\u4eb2<\/em>\u662f\u4e00\u4e2a\u4e0d\u64c5\u8a00\u8c08\u7684\u4eba\u3002","uname":"\u6167\u8bc6\u901a\u624d","create_time":"2020-04-19","value_count":1,"value_score":8,"page_num":"13","download_count":0,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u6211\u7231\u7238\u7238\u4f5c\u6587","type":"1","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2267746235","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"f0c59e94a300a6c30d229f33","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/f0c59e94a300a6c30d229f33?new=1&w=500&p=1","view_count":118,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.27,"qualityScore3":"4.27","qualityScore4":"4.27","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u5434\u6069\u5e73","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg","is_exclusive":0,"uidHstr":"dec12e8f763231126edb1193"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/15f01d7681eb6294dd88d0d233d4b14e84243ed6.html?fr=search-4-X-income7&fixfr=yx5zm4Gp56RedQzbuwvsUw%3D%3D","doc_id":7068443203,"doc_type":1,"title":"<em>\u7238\u7238<\/em>\u4f5c\u6587\u4e4b<em>\u7238\u7238<\/em>\u4f60\u4e0d\u4e00\u822c\u4f5c\u6587 - \u767e\u5ea6\u6587\u5e93","content":"<em>\u7238\u7238<\/em>\u5148\u662f\u6123\u4e86\u4e00\u4e0b,\u968f\u540e\u7785\u4e86\u7785\u6211\u548c\u5988\u5988,\u8bf4:\u201c<em>\u513f\u5b50<\/em>,<em>\u7238\u7238<\/em>\u5411\u4f60\u4fdd \u8bc1,\u4ee5\u540e...\u4ed6\u4e2d\u7b49\u4e2a\u513f,<em>\u5934\u4e0a<\/em>\u957f\u7740\u5929\u7136\u7684\u5377\u53d1,\u70af\u70af\u6709\u795e\u7684\u773c\u775b\u95ea\u70c1\u7740\u806a\u6167\u70ed \u60c5\u7684\u5149\u8292,...7.\u6211\u7ad9\u5728<em>\u96e8\u4e2d<\/em>,\u770b\u7740\u5988\u5988\u7684\u80cc\u5f71,\u5fc3\u91cc\u6d8c\u8d77\u4e86\u65e0\u9650\u7684\u656c\u7231\u3002 8.\u5979\u98de\u5feb\u5730\u5954\u8dd1\u7740...","uname":"\u5c0f\u83dc\u6ef4\u6ef4\u548b","create_time":"2019-11-25","value_count":1,"value_score":8,"page_num":"9","download_count":0,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u7238\u7238\u4f5c\u6587\u4e4b\u7238\u7238\u4f60\u4e0d\u4e00\u822c\u4f5c\u6587","type":"4","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2060543126","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"60eee998f61fb7360b4c6592","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/60eee998f61fb7360b4c6592?new=1&w=500&p=1","view_count":88,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.24,"qualityScore3":"4.24","qualityScore4":"4.24","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u5218\u7ee7\u52c7","pic_url":"https:\/\/gss0.baidu.com\/70cFsjip0QIZ8tyhnq\/img\/iknow\/wenku\/ugc\/topic\/default130X130.jpg","is_exclusive":0,"uidHstr":"d556e812011ca300a6c390da"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/6017617a03d276a20029bd64783e0912a3167c4e.html?fr=search-4-X-income8&fixfr=hIxz6mrLsCkWmVo2MhQOJA%3D%3D","doc_id":8509924501,"doc_type":8,"title":"\u4f5c\u6587:\u6211\u548c<em>\u7238\u7238<\/em> - \u767e\u5ea6\u6587\u5e93","content":"\u4f5c\u6587:\u6211\u548c<em>\u7238\u7238<\/em>  \u78a7\u610f\u4e4b\u65f6 |2019-11-14 | \u6682\u65e0\u8bc4\u4ef7|1|0 | \u4e3e\u62a5  \u9a6c\u4e0a\u626b\u4e00\u626b \u624b\u673a\u6253\u5f00\u968f\u65f6\u67e5\u770b \u624b\u673a\u6253\u5f00VIP\u4e13\u4eab\u6587\u6863  VIP\u4e13\u4eab\u6587\u6863\u662f\u767e\u5ea6\u6587\u5e93\u8ba4\u8bc1\u7528\u6237\/\u673a\u6784\u4e0a\u4f20\u7684\u4e13\u4e1a\u6027\u6587\u6863,\u6587\u5e93VIP\u7528\u6237\u6216\u8d2d\u4e70VIP\u4e13\u4eab\u6587\u6863\u4e0b\u8f7d\u7279\u6743\u793c\u5305\u7684\u5176\u4ed6\u4f1a\u5458\u7528\u6237...","uname":"\u78a7\u610f\u4e4b\u65f6","create_time":"2019-11-14","value_count":1,"value_score":4,"page_num":"1","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u4f5c\u6587\uff1a\u6211\u548c\u7238\u7238","type":"8","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"2882221483","wealth_value":"5","main_status":"2","is_sale":0,"ticket_value":2,"store_id":"a25164bf360cba1aa811da8f","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/a25164bf360cba1aa811da8f?new=1&w=500&p=1","view_count":289,"value_total":2,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":2.14,"qualityScore3":"2.14","qualityScore4":"2.14","new_tag_arr":[],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u65f6\u5c0f\u82f1","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg","is_exclusive":0,"uidHstr":"678a3a8add36a32d737581e4"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/7c6f86689a89680203d8ce2f0066f5335b8167d7.html?fr=search-4-X-income9&fixfr=tjw7nfIYRuMOnj%2Fn2kg4fQ%3D%3D","doc_id":6708262642,"doc_type":1,"title":"<em>\u7238\u7238<\/em>\u4f5c\u6587\u4e4b<em>\u7238\u7238<\/em>\u5f88\u5f00\u5fc3\u4f5c\u6587 - \u767e\u5ea6\u6587\u5e93","content":"\u7ed9\u5988\u5988\u505a\u996d,\u6d17\u6bdb\u5dfe\u628a\u5b83\u653e\u5728<em>\u5934\u4e0a<\/em>, \u8ba9\u5988\u5988\u975e\u5e38\u4eab\u53d7\u4eab\u53d7\u3002 <em>\u7238\u7238<\/em>\u505a\u4e8b\u4ece\u6765\u90fd\u662f...\u6211\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587 500 \u5b57 <em>\u7238\u7238<\/em>\u72b9\u5982\u4e00\u6839\u67f1\u5b50,<em>\u652f\u6491<\/em>\u8d77\u4e86\u4e00\u4e2a\u5bb6\u5ead;<em>\u7238\u7238<\/em>\u72b9\u5982\u4e00\u5ea7\u5927\u5c71...<em>\u7238\u7238<\/em>\u6559\u8bad\u6211\u8bf4:\u201c\u6e90\u6e90\u8981 \u505a\u4e00\u4e2a\u6709\u793c\u8c8c\u7684<em>\u5b69\u5b50<\/em>,\u522b\u4eba\u7ed9\u4f60\u4e1c\u897f,\u8981\u8bf4\u8c22\u8c22\u3002\u201d...","uname":"\u5ea6\u7c73\u6587\u5e93","create_time":"2019-02-17","value_count":1,"value_score":8,"page_num":"8","download_count":1,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u7238\u7238\u4f5c\u6587\u4e4b\u7238\u7238\u5f88\u5f00\u5fc3\u4f5c\u6587","type":"4","cid1":3,"cid2":64,"cid3":153,"flag":"28","uid":"3944068052","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"0d5e822cbb68a98271fefacc","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/0d5e822cbb68a98271fefacc?new=1&w=500&p=1","view_count":228,"value_total":4,"zone":{"cid1":3,"cid2":"64","cid3":"153","cid4":0},"qualityScore":4.37,"qualityScore3":"4.37","qualityScore4":"4.37","new_tag_arr":["\u7238\u7238\u4f5c\u6587","\u4f5c\u6587"],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u674e\u9e4f\u4e9a","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/7acb0a46f21fbe096c90c78066600c338644ad53.jpg","is_exclusive":0,"uidHstr":"e5a17b306f1aff00bfd51e9b"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/a39785ac27284b73f3425095.html?fr=search-4-X-income10&fixfr=%2FiimmqyUYpKfC%2F38xBC8MA%3D%3D","doc_id":3521232582,"doc_type":8,"title":"<em>\u7238\u7238<\/em>\u4f5c\u6587_\u5c0f\u5b66\u4e09\u5e74\u7ea7400\u5b57_\u767e\u5ea6\u653b\u7565\u4f5c\u6587\u8303\u6587\u4e13\u533a ","content":"\u504e\u4f9d\u5728<em>\u7238\u7238<\/em>\u7684\u6000\u91cc,\u542c\u7740<em>\u7238\u7238<\/em>\u8f7b\u58f0\u7684\u5b89\u6170,\u6211\u89c9\u5f97\u5fc3\u91cc\u7279\u522b\u6e29\u6696\u3002 \u6709\u53e5\u6b4c\u8bcd\u4e2d\u5199\u9053:\u201c\u4e16\u4e0a\u53ea\u6709\u5988\u5988\u597d,\u6709\u5988\u7684<em>\u5b69\u5b50<\/em>\u50cf\u4e2a\u5b9d\u2026\u2026\u201d\u53ef\u6211\u60f3\u8bf4:\u201c\u4e16\u4e0a\u8fd8\u6709<em>\u7238\u7238<\/em>\u597d,\u6709\u7238\u7684<em>\u5b69\u5b50<\/em>\u4e5f\u50cf\u4e2a\u5b9d\u3002\u201d \u4e09\u5e74\u7ea7:\u5510\u95fb\u6377 \u5b8c  \u518d\u6765\u4e00\u7bc7 <em>\u7238\u7238<\/em>...","uname":"\u4f5c\u6587\u5927\u5927\u5168","create_time":"2016-05-25","value_count":1,"value_score":0,"page_num":"1","download_count":6,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u4e09\u5e74\u7ea7\u5199\u4eba\u4f5c\u6587 \uff1a\u7238\u7238_450\u5b57","type":"8","cid1":31,"cid2":37,"cid3":0,"flag":"15","uid":"2100174497","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"634623d36137ee06eff9185b","summary":"","thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/634623d36137ee06eff9185b?new=1&w=500&p=1","view_count":6446,"value_total":0,"zone":{"cid1":1,"cid2":"31","cid3":"37","cid4":0},"qualityScore":0,"qualityScore3":null,"qualityScore4":null,"new_tag_arr":["\u4e09\u5e74\u7ea7","\u4f5c\u6587"],"update_time":"2020-08-04","professionalDoc":0,"verify_type":2,"vip_free_doc_flag":false,"verify_uname":"\u4f5c\u6587\u5b9d","verify_org_eng_name":"zuowenbao","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/78310a55b319ebc4efe0dde48426cffc1e171636.jpg","is_exclusive":0,"uidHstr":"1b13640e02768e9951e7389e"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/e6207928f41fb7360b4c2e3f5727a5e9846a2795.html?fr=search-4-X-income11&fixfr=D2KZn%2FXGEo0UK4lcWoXz%2BA%3D%3D","doc_id":12299921255,"doc_type":1,"title":"<em>\u7236\u4eb2<\/em>\u8282\u4f5c\u6587_\u56fe\u6587 - \u767e\u5ea6\u6587\u5e93","content":"<em>\u7236\u4eb2<\/em>\u8282\u4f5c\u6587_\u8033\u804b\u7684<em>\u7236\u4eb2<\/em> <em>\u7236\u4eb2<\/em>\u8282\u4f5c\u6587 \u5c81\u6708\u7684\u751f\u6d3b,\u603b\u4f1a\u6709\u4e00\u4e9b\u5fae\u5f31\u7684\u56de\u5fc6,\u8ba9\u4eba\u8bb0\u5fc6\u8d77\u6401\u7f6e\u5728\u8111\u6d77\u6df1\u5904\u7684\u70b9\u70b9\u6ef4\u6ef4, \u6216\u8bb8\u662f\u65e7\u7684\u7b14\u8bb0\u672c\u4e2d\u7684\u4e00\u6bb5\u8bdd,\u6216\u8bb8\u662f\u5df2\u7ecf\u53d1\u9ec4\u7684\u7167\u7247.\u60f3\u5ff5\u60a8,\u8fdc\u5728\u5929\u56fd\u8033\u804b\u7684 <em>\u7236\u4eb2<\/em>! \u524d\u51e0\u5929,\u5728\u6574\u7406\u51cc\u4e71\u7684\u62bd\u5c49\u65f6,\u7a81\u7136\u770b\u5230\u4e00...","uname":"haptory","create_time":"2021-04-14","value_count":1,"value_score":0,"page_num":"2","download_count":0,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u7236\u4eb2\u8282\u4f5c\u6587","type":"1","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"409647829","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"60eff6066f1aff00bfd51edf","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/60eff6066f1aff00bfd51edf?new=1&w=500&p=1","view_count":2,"value_total":0,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":0,"qualityScore3":null,"qualityScore4":null,"new_tag_arr":["\u7236\u4eb2\u8282","\u4f5c\u6587"],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u8c22\u957f\u6ce2","pic_url":"https:\/\/gss0.baidu.com\/70cFsjip0QIZ8tyhnq\/img\/iknow\/wenku\/ugc\/topic\/default130X130.jpg","is_exclusive":0,"uidHstr":"7fbadf32cfc789eb172dc8d6"},{"doc_url":"https:\/\/wenku.baidu.com\/view\/32f3d29df4335a8102d276a20029bd64793e6289.html?fr=search-4-X&fixfr=3GYSJErIH9b0wFGvj%2F4K4A%3D%3D","doc_id":8519867644,"doc_type":1,"title":"\u6211\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587_\u56fe\u6587 - \u767e\u5ea6\u6587\u5e93","content":"\u51ed\u7740\u5728\u5de5\u5382\u5b66\u4f1a\u7684\u624b\u827a,<em>\u7238\u7238<\/em>\u6700\u7ec8 \u6211\u7684<em>\u7238\u7238<\/em>\u4f5c\u6587 Newly compiled on November 23, 2020 \u6211\u7684<em>\u7238\u7238<\/em>\u6211\u7684<em>\u7238\u7238<\/em>\u6d59\u6c5f\u7701\u5b81\u6ce2\u5e02\u5b81\u6ce2\u4e07\u91cc\u56fd\u9645\u5b66\u6821\u5c0f\u5b66 411 \u73ed\u9648\u4f0a\u8389<em>\u7238\u7238<\/em>\u4ece\u81ea\u884c\u8f66\u5382\u4e0b\u5c97\u4e86\u3002\u4e00\u8fde\u51e0\u5929,\u4ed6\u4e00\u53e5\u8bdd\u4e5f\u4e0d\u8bf4,\u8fde\u5e38\u5e74\u5367\u5e8a\u4e0d\u8d77\u7684\u5988\u5988\u4e5f\u4e0d\u6562\u529d...","uname":"\u6211\u662f\u6700\u52c7\u6562\u768401","create_time":"2020-11-26","value_count":1,"value_score":8,"page_num":"3","download_count":0,"ex_source":"freeDoc","has_copyright":false,"face_id":0,"complete_title":"\u6211\u7684\u7238\u7238\u4f5c\u6587","type":"4","cid1":9,"cid2":107,"cid3":0,"flag":"28","uid":"4678467835","wealth_value":"0","main_status":"2","is_sale":0,"ticket_value":0,"store_id":"b11f3dfbb307e87101f696f8","summary":null,"thumbUrl":"https:\/\/wkimg.bdimg.com\/img\/b11f3dfbb307e87101f696f8?new=1&w=500&p=1","view_count":60,"value_total":4,"zone":{"cid1":1,"cid2":"9","cid3":"107","cid4":0},"qualityScore":4.09,"qualityScore3":"4.09","qualityScore4":"4.09","new_tag_arr":["\u6211\u7684\u7238\u7238","\u4f5c\u6587"],"update_time":"1970-01-01","professionalDoc":1,"verify_type":1,"vip_free_doc_flag":false,"verify_uname":"\u4f0d\u798f\u73b2","pic_url":"https:\/\/wkphoto.cdn.bcebos.com\/0ff41bd5ad6eddc46baa0fa036dbb6fd5266331f.jpg","is_exclusive":0}];
+    var spamIndex = '0';
+    if (spamIndex !== '') {
+        window.pageData.searchResultList.splice(+spamIndex, 1);
+    }
+    window.pageData.wk_smallflow = [];
+    window.pageData.userInfo = {"isLogin":false,"uip":"59.172.176.206","uipNum":"3467684923"};
+    window.pageData.searchQuery = '�ְ�����ѵ����ɡȴ���ڶ���ͷ��';
+</script>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="txt" class="ic ic-txt"></span>
+<a href="https://wenku.baidu.com/view/6017617a03d276a20029bd64783e0912a3167c4e.html?fr=search-4-X-income8&amp;fixfr=UHnjrFkxxeI6DUUiXSyQxA%3D%3D"
+                        data-flag = "28"
+                        title="���ģ��ҺͰְ�"
+                        target="_blank"
+                        data-docid="8509924501"
+                        data-edocid="6017617a03d276a20029bd64783e0912a3167c4e"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='0'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;6017617a03d276a20029bd64783e0912a3167c4e&quot;, &quot;index&quot;:&quot;1&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+����:�Һ�<em>�ְ�</em> - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class=" f18 pr2 ib" >
+2.1
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">����:�Һ�<em>�ְ�</em>  ����֮ʱ |2019-11-14 | ��������|1|0 | �ٱ�  ����ɨһɨ �ֻ�����ʱ�鿴 �ֻ���VIPר���ĵ�  VIPר���ĵ��ǰٶ��Ŀ���֤�û�/�����ϴ���רҵ���ĵ�,�Ŀ�VIP�û�����VIPר���ĵ�������Ȩ�����������Ա�û�...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-11-14
+<i>|</i>��1ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/����֮ʱ?uid=678a3a8add36a32d737581e4"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+ʱСӢ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/����֮ʱ" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/����֮ʱ" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<a href="https://wenku.baidu.com/view/6017617a03d276a20029bd64783e0912a3167c4e.html?fr=search-4-X-income8&amp;amp;fixfr=UHnjrFkxxeI6DUUiXSyQxA%3D%3D&isbtn=1"
+                                    target="_blank"
+                                    class="search-download ui-bz-btn-senior log-xsend"
+                                    data-logxsend='[1, 100579, {"index":"1"}]'>
+<b class="ui-bz-btn-p-16">��������</b>
+</a>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/deb400fd66ec102de2bd960590c69ec3d4bbdbe1.html?fr=search-4-X-income1&amp;fixfr=w6FO%2BOH3NX9JwC%2BQu7PCHw%3D%3D"
+                        data-flag = "28"
+                        title="�ҵİְ�����(10ƪ)"
+                        target="_blank"
+                        data-docid="7654336570"
+                        data-edocid="deb400fd66ec102de2bd960590c69ec3d4bbdbe1"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='1'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;deb400fd66ec102de2bd960590c69ec3d4bbdbe1&quot;, &quot;index&quot;:&quot;1&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+�ҵ�<em>�ְ�</em>����(10ƪ) - �ٶ��Ŀ�
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.5
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E6%88%91%E7%9A%84%E7%88%B8%E7%88%B8&fr=search"
+                                    target="_blank">�ҵİְ�</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">2 ���꼶:����� �ҵ�<em>�ְ�</em>����(4) <em>�ְ�</em>,һ˫�K�K������۾�,<em>ͷ��</em>����...<em>�ְ�</em>�����ҵ��� �顣����ȴ��·��С����˵: С��,С��,С��,ʲô��ʳ��...�ҵ� �Һ�,<em>�ְ�</em>���񳤲����<em>����</em>һ������!���氮�ҵ�<em>�ְ�</em>�� ���꼶:nuli...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-07-09
+<i>|</i>��9ҳ<i>|</i>59������<i>|</i>
+�����ߣ�<a href="/p/Ħ��fayego?uid=87d7701ee009581b6ad9eb81"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+ŷ����
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/Ħ��fayego" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/7a899e510fb30f24d54f9b5cc695d143ac4b0393.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/Ħ��fayego" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<a href="https://wenku.baidu.com/view/deb400fd66ec102de2bd960590c69ec3d4bbdbe1.html?fr=search-4-X-income1&amp;amp;fixfr=w6FO%2BOH3NX9JwC%2BQu7PCHw%3D%3D&isbtn=2"
+                                    target="_blank"
+                                    class="search-download ui-bz-btn-senior log-xsend"
+                                    data-logxsend='[1, 100579, {"index":"2"}]'>
+<b class="ui-bz-btn-p-16">��������</b>
+</a>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/bfae505aac51f01dc281e53a580216fc710a531a.html?fr=search-4-X-income2&amp;fixfr=YCI6zse1nQP%2Fy7lZcwWM4w%3D%3D"
+                        data-flag = "28"
+                        title="�ְ�����֮�ְֳԷ�����"
+                        target="_blank"
+                        data-docid="6497945775"
+                        data-edocid="bfae505aac51f01dc281e53a580216fc710a531a"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='2'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;bfae505aac51f01dc281e53a580216fc710a531a&quot;, &quot;index&quot;:&quot;2&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+<em>�ְ�</em>����֮<em>�ְ�</em>�Է����� - �ٶ��Ŀ�
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.4
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E7%88%B8%E7%88%B8%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">�ְ�����</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">����˵: �� �Լ���������Ҫ��������, ǧ�򲻿�˵��,֪��͸Ļ��Ǻ�<em>����</em>...<em>�ְ�</em>Ҳ�ɿ�����˹�����æ��<em>ɡ����</em>���ҵ� ͷ��,��ȴһ��Ҳû��,������...�Ϻ�������������ͷ��,��̫�� ��������,�ҿ�����<em>�ְ�</em>��<em>ͷ��</em>��һ��������...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-02-17
+<i>|</i>��9ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/�����Ŀ�?uid=e5a17b306f1aff00bfd51e9b"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+������
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/�����Ŀ�" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/7acb0a46f21fbe096c90c78066600c338644ad53.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/�����Ŀ�" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<a href="https://wenku.baidu.com/view/bfae505aac51f01dc281e53a580216fc710a531a.html?fr=search-4-X-income2&amp;amp;fixfr=YCI6zse1nQP%2Fy7lZcwWM4w%3D%3D&isbtn=3"
+                                    target="_blank"
+                                    class="search-download ui-bz-btn-senior log-xsend"
+                                    data-logxsend='[1, 100579, {"index":"3"}]'>
+<b class="ui-bz-btn-p-16">��������</b>
+</a>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/8427990d29160b4e767f5acfa1c7aa00b52a9de9.html?fr=search-4-X-income3&amp;fixfr=iPO%2BdwcsR1f2QIuZQXaNDg%3D%3D"
+                        data-flag = "28"
+                        title="�ְ�����10ƪ"
+                        target="_blank"
+                        data-docid="9665345557"
+                        data-edocid="8427990d29160b4e767f5acfa1c7aa00b52a9de9"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='3'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;8427990d29160b4e767f5acfa1c7aa00b52a9de9&quot;, &quot;index&quot;:&quot;3&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+<em>�ְ�</em>����10ƪ - �ٶ��Ŀ�
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.4
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21"><em>�ְ�</em>���� 10 ƪ<em>����</em>��һ��ɽ��,��������ļ�ʹ���ܷ�˪��ѩҲ���żᶨ��������С���� ���<em>�ְ�</em>����,��ӭ����Ķ���<em>�ְ�</em>���� 1 ��ѩ���˺ܳ��ܳ�ʱ��,���������һ������ɫ������,����Զ��,�ֲ� ���Ķ�����,�Ķ��ǵء��ڿ���...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2020-04-18
+<i>|</i>��17ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/��ʶͨ��?uid=dec12e8f763231126edb1193"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+���ƽ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/��ʶͨ��" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/��ʶͨ��" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/610abdb2fb0f76c66137ee06eff9aef8951e4871.html?fr=search-4-X-income4&amp;fixfr=ALtwPnAwk0oJKUumwFoWSA%3D%3D"
+                        data-flag = "28"
+                        title="���и������İְ�����"
+                        target="_blank"
+                        data-docid="9680773087"
+                        data-edocid="610abdb2fb0f76c66137ee06eff9aef8951e4871"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='4'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;610abdb2fb0f76c66137ee06eff9aef8951e4871&quot;, &quot;index&quot;:&quot;4&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+���и�������<em>�ְ�</em>���� - �ٶ��Ŀ�
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.3
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">����<em>����</em>:��<em>�ְ�</em>,��������ѽ?��<em>�ְ�</em>˵:����<em>����</em>,<em>�ְ�</em> ������,����,��...�ҵ�<em>�ְ�</em>Ҳ�� ��ˡ� <em>�ְ�</em>һ��Ϊ���Ǹ�����̫��̫��,������ǵ�<em>ͷ��</em>��֪��...����һ��<em>�ְ�</em>���� һ��<em>��ɡ</em>����������ȥ,������������ȥ��ͷҲ���صľ�...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2020-04-20
+<i>|</i>��13ҳ<i>|</i>0������<i>|</i>
+�����ߣ�<a href="/p/��ʶͨ��?uid=dec12e8f763231126edb1193"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+���ƽ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/��ʶͨ��" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/��ʶͨ��" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="txt" class="ic ic-txt"></span>
+<a href="https://wenku.baidu.com/view/f528bb4268dc5022aaea998fcc22bcd127ff4295.html?fr=search-4-X-income5&amp;fixfr=%2F8P37WWBMBBxmwvltTUd0w%3D%3D"
+                        data-flag = "28"
+                        title="�����ġ�������ǰְ�"
+                        target="_blank"
+                        data-docid="8359367341"
+                        data-edocid="f528bb4268dc5022aaea998fcc22bcd127ff4295"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='5'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;f528bb4268dc5022aaea998fcc22bcd127ff4295&quot;, &quot;index&quot;:&quot;5&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+�����ġ��������<em>�ְ�</em> - �ٶ��Ŀ�
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class=" f18 pr2 ib" >
+2.1
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">�����ġ��������<em>�ְ�</em>  ����֮ʱ |2019-10-27 | ��������| 0| 0 | ���� | �ٱ� jieguo3�ĵ�  ��������130 �û�ϲ��598 רҵ��700 + ������פ�Ŀ���֪ʶ׬ǮVIPר���ĵ�  VIPר���ĵ��ǰٶ��Ŀ���֤�û�/�����ϴ���רҵ���ĵ�...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-10-27
+<i>|</i>��1ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/����֮ʱ?uid=678a3a8add36a32d737581e4"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+ʱСӢ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/����֮ʱ" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/����֮ʱ" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<other-search-word></other-search-word>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/fa92f7cf91c69ec3d5bbfd0a79563c1ec5dad7a8.html?fr=search-4-X-income6&amp;fixfr=bUjpccMUfca7ZBGZOUlkeQ%3D%3D"
+                        data-flag = "28"
+                        title="�Ұ��ְ�����"
+                        target="_blank"
+                        data-docid="7690333976"
+                        data-edocid="fa92f7cf91c69ec3d5bbfd0a79563c1ec5dad7a8"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='6'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;fa92f7cf91c69ec3d5bbfd0a79563c1ec5dad7a8&quot;, &quot;index&quot;:&quot;6&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+�Ұ�<em>�ְ�</em>���� - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.3
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">�Ұ�<em>�ְ�</em>�����ҵ�<em>�ְ�</em>��һλ��ʦ,����æµ�ڽ�ѧ��һ��,���Դ�����һ˿����,��ְ ����,����ѧϰ�İ���,����Ҳ�ܰ��ҵ�<em>�ְ�</em>��������С��Ϊ���������Ұ�<em>�� ��</em>����,��ӭ��Ҳο��Ķ����Ұ�<em>�ְ�</em>���� 1 <em>����</em>��һ��������̸���ˡ�</p>
+<div class="detail lh21">
+<div class="detail-info">
+2020-04-19
+<i>|</i>��13ҳ<i>|</i>0������<i>|</i>
+�����ߣ�<a href="/p/��ʶͨ��?uid=dec12e8f763231126edb1193"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+���ƽ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/��ʶͨ��" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/0bd162d9f2d3572cd83be6d48513632763d0c3d9.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/��ʶͨ��" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/15f01d7681eb6294dd88d0d233d4b14e84243ed6.html?fr=search-4-X-income7&amp;fixfr=yx5zm4Gp56RedQzbuwvsUw%3D%3D"
+                        data-flag = "28"
+                        title="�ְ�����֮�ְ��㲻һ������"
+                        target="_blank"
+                        data-docid="7068443203"
+                        data-edocid="15f01d7681eb6294dd88d0d233d4b14e84243ed6"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='7'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;15f01d7681eb6294dd88d0d233d4b14e84243ed6&quot;, &quot;index&quot;:&quot;7&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+<em>�ְ�</em>����֮<em>�ְ�</em>�㲻һ������ - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.2
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21"><em>�ְ�</em>�������һ��,�����˳��Һ�����,˵:��<em>����</em>,<em>�ְ�</em>���㱣 ֤,�Ժ�...���еȸ���,<em>ͷ��</em>������Ȼ�ľ��,����������۾���˸�Ŵϻ��� ��Ĺ�â,...7.��վ��<em>����</em>,��������ı�Ӱ,����ӿ�������޵ľ����� 8.���ɿ�ر�����...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-11-25
+<i>|</i>��9ҳ<i>|</i>0������<i>|</i>
+�����ߣ�<a href="/p/С�˵ε�զ?uid=d556e812011ca300a6c390da"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+������
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/С�˵ε�զ" target="_blank" class="user-img fl">
+<img src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/img/iknow/wenku/ugc/topic/default130X130.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/С�˵ε�զ" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="txt" class="ic ic-txt"></span>
+<a href="https://wenku.baidu.com/view/6017617a03d276a20029bd64783e0912a3167c4e.html?fr=search-4-X-income8&amp;fixfr=hIxz6mrLsCkWmVo2MhQOJA%3D%3D"
+                        data-flag = "28"
+                        title="���ģ��ҺͰְ�"
+                        target="_blank"
+                        data-docid="8509924501"
+                        data-edocid="6017617a03d276a20029bd64783e0912a3167c4e"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='8'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;6017617a03d276a20029bd64783e0912a3167c4e&quot;, &quot;index&quot;:&quot;8&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+����:�Һ�<em>�ְ�</em> - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class=" f18 pr2 ib" >
+2.1
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">����:�Һ�<em>�ְ�</em>  ����֮ʱ |2019-11-14 | ��������|1|0 | �ٱ�  ����ɨһɨ �ֻ�����ʱ�鿴 �ֻ���VIPר���ĵ�  VIPר���ĵ��ǰٶ��Ŀ���֤�û�/�����ϴ���רҵ���ĵ�,�Ŀ�VIP�û�����VIPר���ĵ�������Ȩ�����������Ա�û�...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-11-14
+<i>|</i>��1ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/����֮ʱ?uid=678a3a8add36a32d737581e4"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+ʱСӢ
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/����֮ʱ" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/9c16fdfaaf51f3de08c54a3c9beef01f3a297977.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/����֮ʱ" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/7c6f86689a89680203d8ce2f0066f5335b8167d7.html?fr=search-4-X-income9&amp;fixfr=tjw7nfIYRuMOnj%2Fn2kg4fQ%3D%3D"
+                        data-flag = "28"
+                        title="�ְ�����֮�ְֺܿ�������"
+                        target="_blank"
+                        data-docid="6708262642"
+                        data-edocid="7c6f86689a89680203d8ce2f0066f5335b8167d7"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='9'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;7c6f86689a89680203d8ce2f0066f5335b8167d7&quot;, &quot;index&quot;:&quot;9&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+<em>�ְ�</em>����֮<em>�ְ�</em>�ܿ������� - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.4
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E7%88%B8%E7%88%B8%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">�ְ�����</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">����������,ϴë���������<em>ͷ��</em>, ������ǳ��������ܡ� <em>�ְ�</em>���´�������...�ҵ�<em>�ְ�</em>���� 500 �� <em>�ְ�</em>����һ������,<em>֧��</em>����һ����ͥ;<em>�ְ�</em>����һ����ɽ...<em>�ְ�</em>��ѵ��˵:��ԴԴҪ ��һ������ò��<em>����</em>,���˸��㶫��,Ҫ˵лл����...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2019-02-17
+<i>|</i>��8ҳ<i>|</i>1������<i>|</i>
+�����ߣ�<a href="/p/�����Ŀ�?uid=e5a17b306f1aff00bfd51e9b"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+������
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/�����Ŀ�" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/7acb0a46f21fbe096c90c78066600c338644ad53.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/�����Ŀ�" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="txt" class="ic ic-txt"></span>
+<a href="https://wenku.baidu.com/view/a39785ac27284b73f3425095.html?fr=search-4-X-income10&amp;fixfr=%2FiimmqyUYpKfC%2F38xBC8MA%3D%3D"
+                        data-flag = "15"
+                        title="���꼶д������ ���ְ�_450��"
+                        target="_blank"
+                        data-docid="3521232582"
+                        data-edocid="a39785ac27284b73f3425095"
+                        class="log-xsend tiaoquan act-xsend orgDocLink"
+                        data-index='10'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;15&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;a39785ac27284b73f3425095&quot;, &quot;index&quot;:&quot;10&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;}]'>
+<em>�ְ�</em>����_Сѧ���꼶400��_�ٶȹ������ķ���ר�� 
+</a>
+</p>
+<p class="fr">
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%B8%89%E5%B9%B4%E7%BA%A7&fr=search"
+                                    target="_blank">���꼶</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">������<em>�ְ�</em>�Ļ���,����<em>�ְ�</em>�����İ�ο,�Ҿ��������ر���ů�� �о�����д��:������ֻ�������,�����<em>����</em>�����������������˵:�����ϻ���<em>�ְ�</em>��,�аֵ�<em>����</em>Ҳ��������� ���꼶:���Ž� ��  ����һƪ <em>�ְ�</em>...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2016-05-25
+<i>|</i>��1ҳ<i>|</i>6������<i>|</i>
+0����ȯ<i>|</i>
+�����ߣ�<a href="/org/view?org=zuowenbao&uname=���Ĵ��ȫ&oid="
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+���ı�
+</a>
+<span class="wenku-verify-org">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/org/view?org=zuowenbao&uname=���Ĵ��ȫ&oid=" target="_blank" class="org-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/78310a55b319ebc4efe0dde48426cffc1e171636.jpg" width="60" height="24"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/org/view?org=zuowenbao&uname=���Ĵ��ȫ&oid=" target="_blank">
+
+</a>
+<b class="vicon yicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A">
+0.0
+</p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/e6207928f41fb7360b4c2e3f5727a5e9846a2795.html?fr=search-4-X-income11&amp;fixfr=D2KZn%2FXGEo0UK4lcWoXz%2BA%3D%3D"
+                        data-flag = "28"
+                        title="���׽�����"
+                        target="_blank"
+                        data-docid="12299921255"
+                        data-edocid="e6207928f41fb7360b4c2e3f5727a5e9846a2795"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='11'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;e6207928f41fb7360b4c2e3f5727a5e9846a2795&quot;, &quot;index&quot;:&quot;11&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+<em>����</em>������_ͼ�� - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E7%88%B6%E4%BA%B2%E8%8A%82&fr=search"
+                                    target="_blank">���׽�</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21"><em>����</em>������_������<em>����</em> <em>����</em>������ ���µ�����,�ܻ���һЩ΢���Ļ���,���˼�����������Ժ���ĵ��ε�, �����ǾɵıʼǱ��е�һ�λ�,�������Ѿ����Ƶ���Ƭ.������,Զ����������� <em>����</em>! ǰ����,���������ҵĳ���ʱ,ͻȻ����һ...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2021-04-14
+<i>|</i>��2ҳ<i>|</i>0������<i>|</i>
+�����ߣ�<a href="/p/haptory?uid=7fbadf32cfc789eb172dc8d6"
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+л����
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/haptory" target="_blank" class="user-img fl">
+<img src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/img/iknow/wenku/ugc/topic/default130X130.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/haptory" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<dl>
+<dt class="logFirstClickTime mb6 clearfix">
+<p class="fl">
+<span title="doc" class="ic ic-doc"></span>
+<a href="https://wenku.baidu.com/view/32f3d29df4335a8102d276a20029bd64793e6289.html?fr=search-4-X&amp;fixfr=3GYSJErIH9b0wFGvj%2F4K4A%3D%3D"
+                        data-flag = "28"
+                        title="�ҵİְ�����"
+                        target="_blank"
+                        data-docid="8519867644"
+                        data-edocid="32f3d29df4335a8102d276a20029bd64793e6289"
+                        class="log-xsend tiaoquan act-xsend"
+                        data-index='12'
+                        data-logxsend='[1, 100055, {&quot;pcSearchRebuild&quot;: &quot;&quot;,&quot;smallflowTestId&quot;: &quot;&quot;, &quot;screenTestType&quot;: &quot;0&quot;, &quot;score_mode&quot;: &quot;4&quot;, &quot;price_data&quot;: &quot;28&quot;, &quot;pcSearchStyleTestType&quot;: &quot;0&quot;, &quot;doc_id&quot;: &quot;32f3d29df4335a8102d276a20029bd64793e6289&quot;, &quot;index&quot;:&quot;12&quot;, &quot;page_number&quot;:&quot;1&quot;, &quot;small_flow_flag&quot;: &quot;4&quot;, &quot;isVip&quot;:&quot;&quot;, &quot;jingpin_vip_test&quot;: &quot;&quot;, &quot;qualityScoreFlow&quot;: &quot;&quot;, &quot;pn&quot;: &quot;1&quot;,&quot;professionalDoc&quot;: 1}]'>
+�ҵ�<em>�ְ�</em>����_ͼ�� - �ٶ��Ŀ�
+</a>
+<a href="/cashier/browse/vipcashier?cashier_code=vipzhuanxiang_joinvip">
+<span class="ico-vip">VIP</span>
+</a>
+</p>
+<p class="fr">
+<span class="ib">����</span>
+<span class="fc99 f18 pr2 ib" >
+4.1
+</span>
+<span class="ib score">��</span>
+</p>
+</dt>
+<dd class="tag-tips">
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E6%88%91%E7%9A%84%E7%88%B8%E7%88%B8&fr=search"
+                                    target="_blank">�ҵİְ�</a>
+<a class="log-xsend" data-logxsend="[1, 102185, {index: 'click'}]" href="/search?word=%E4%BD%9C%E6%96%87&fr=search"
+                                    target="_blank">����</a>
+</dd>
+<dd class="clearfix">
+<div class="summary-box fl">
+<p class="summary lh21">ƾ���ڹ���ѧ�������,<em>�ְ�</em>���� �ҵ�<em>�ְ�</em>���� Newly compiled on November 23, 2020 �ҵ�<em>�ְ�</em>�ҵ�<em>�ְ�</em>�㽭ʡ�����������������ѧУСѧ 411 �������<em>�ְ�</em>�����г����¸��ˡ�һ������,��һ�仰Ҳ��˵,�������Դ����������Ҳ����Ȱ...</p>
+<div class="detail lh21">
+<div class="detail-info">
+2020-11-26
+<i>|</i>��3ҳ<i>|</i>0������<i>|</i>
+�����ߣ�<a href="/p/�������¸ҵ�01?uid="
+                                        data-logSend="{'send':['view','user',{l:''}]}"
+                                        class="Author logSend"
+                                        target="_blank">
+�鸣��
+</a>
+<span class="wenku-verify-user">
+<div class="info-box hide">
+<div class="info-box-top mb12 clearfix">
+<a href="/p/�������¸ҵ�01" target="_blank" class="user-img fl">
+<img src="https://wkphoto.cdn.bcebos.com/0ff41bd5ad6eddc46baa0fa036dbb6fd5266331f.jpg" width="54" height="54"/>
+</a>
+<div class="fl w135">
+<p>
+<a href="/p/�������¸ҵ�01" target="_blank">
+
+</a>
+<b class="vicon gicon"></b>
+</p>
+<p class="fc9 lh16 mt3"></p>
+</div>
+</div>
+<div class="info-box-bottom clearfix">
+<ul>
+<li class="w59">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�ĵ���</p>
+</li>
+<li class="w86">
+<p class="fc9A"></p>
+<p class="fc5 mt6">�������</p>
+</li>
+<li>
+<p class="fc9A"></p>
+<p class="fc5 mt6">������</p>
+</li>
+</ul>
+</div>
+</div>
+</span>
+</div>
+<div class="summary-recommend clearfix"></div>
+</div>
+</div>
+</dd>
+</dl>
+<div class="footer-box-recommend clearfix "></div>
+<div class="clearfix">
+ <span class="nums">�ҵ�����ĵ�Լ1,158,786ƪ</span>
+<div class="page-nav page-center" alog-group="search.result.pager">
+<div class="page-inner">
+<div class="page-content "><span class="cur no1">1</span><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=10" class="no1">2</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=20" class="no1">3</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=30" class="no1">4</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=40" class="no1">5</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=50" class="no1">6</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=60" class="no1">7</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=70" class="no1">8</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=80" class="no1">9</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=90" class="no2">10</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=10" class="next">��һҳ&nbsp;&gt;</a><a href="?word=%B0%D6%B0%D6%D3%EA%D6%D0%D1%B5%B6%F9%D7%D3%C9%A1%C8%B4%B3%C5%D4%DA%B6%F9%D7%D3%CD%B7%C9%CF&org=0&fd=0&lm=0&od=0&ie=gbk&pn=750" class="last">βҳ</a></div>
+</div>
+</div>
+</div>
+<p class="mt10">
+<a href="http://www.baidu.com/s?cl=2&ct=1&rn=20&sp=hotquery&tn=SE_hldp07401_sbrattt0"
+                        data-word="�ְ�����ѵ����ɡȴ���ڶ���ͷ��"
+                        data-logxsend="[1,100160]" target="_blank"
+                        class="ps-link log-xsend"
+                    >
+<b class="ic ic-baidu"></b>ȥ��ҳ������<em>�ְ�����ѵ����ɡȴ���ڶ���ͷ��</em>
+</a>
+</p>
+
+<div id="wkad5" style="margin-top: 30px; width: 750px; height: auto; overflow: hidden;"></div>
+<a class="ad-vip-close-bottom"></a>
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+<div id="ft">
+
+<div class="footer">
+<p>
+<span class="cr">&copy;2021&nbsp;Baidu</span>&nbsp;<span>|&nbsp;��&nbsp;�ٶ�������&nbsp;�ṩ�������</span>&nbsp;|&nbsp;<a href="http://www.baidu.com/duty/" class="Bidu" target="_blank">ʹ�ðٶ�ǰ�ض�</a>&nbsp;|&nbsp;<a href="https://wenku.baidu.com/portal/browse/help#help/24" class="Xieyi" target="_blank">�Ŀ�Э��</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/brand_promotion" class="Xieyi" target="_blank">������</a>&nbsp;|&nbsp;<a href="https://jiaoyu.baidu.com/topic/bsplatform/institutional_database" class="Xieyi" target="_blank">��ҵ�Ŀ�</a>&nbsp;|&nbsp;<a href="/portal/browse/websitemap" class="Xieyi" target="_blank">��վ��ͼ</a>&nbsp;|&nbsp;<a href="https://e.baidu.com/ebaidu/home?refer=140" class="Xieyi" target="_blank">�ٶ�Ӫ��</a>
+</p>
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fd8bfb560f8d03bbefc9bdecafc4a4bf6' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+
+<script type="text/javascript">
+        var docId_list = [];
+                                    docId_list.push("6017617a03d276a20029bd64783e0912a3167c4e");
+                                                docId_list.push("deb400fd66ec102de2bd960590c69ec3d4bbdbe1");
+                                                                                                            docId_list.push("f528bb4268dc5022aaea998fcc22bcd127ff4295");
+                                                                                        docId_list.push("6017617a03d276a20029bd64783e0912a3167c4e");
+                                                                                                        </script>
+<link rel="stylesheet" href="//edu-wenku.bdimg.com/v1/gbk/orion-pc-bizui-v1-1-159/search/css/index.css">
+<script type="text/javascript" src="//edu-wenku.bdimg.com/v1/gbk/orion-pc-bizui-v1-1-159/search/index.js"></script>
+
+<script type="text/javascript" src="https://edu-wenku.bdimg.com/v1/pc/browserdata/fixSearch.js"></script>
+
+
+
+
+<script>alog && alog('speed.set', 'drt', +new Date);</script>
+
+<script>
+    if (window.viewTime && window.viewTime.t) {
+        // body ��Ⱦ���ʱ��
+        window.viewTime.bt = new Date().getTime();
+    }
+    void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</body><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/modjs/mod_2cc47b9.js"></script><script type="text/javascript">require.resourceMap({"res":{"wkcore:widget\/ui\/handlelog\/handlelog.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/ui\/handlelog\/handlelog_3654baf.js","deps":["wkcommon:widget\/ui\/js_core\/widget\/widget.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcore:widget\/node_modules\/@baidu\/wenku-pc-components\/dist\/index.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/node_modules\/@baidu\/wenku-pc-components\/dist\/index_931f290.js","deps":["wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/js_core\/login\/login.js"]},"wkcore:widget\/adKnowledge\/log.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/adKnowledge\/log_38a3c4e.js","deps":["wkcommon:widget\/ui\/js_core\/log\/scrollLog.js"]},"wkcore:widget\/adKnowledge\/getData.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/adKnowledge\/getData_c074b80.js","deps":["wkcommon:widget\/lib\/fis\/data\/data.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ess\/getEssQuery.js","wkcommon:widget\/ui\/lib\/ABTestTool\/ABTestTool.js","wkcore:widget\/adKnowledge\/log.js"]},"wkcore:widget\/adPz\/model.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/adPz\/model_aa5ae6f.js"},"wkcore:widget\/adControl\/adControl.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/adControl\/adControl_39f2bf7.js","deps":["wkcommon:widget\/vipNoAdDialog\/vipNoAdDialog.js","wkcommon:widget\/ui\/js_core\/log\/log.js","wkcommon:widget\/ui\/lib\/hxABtest\/hxABtest.js","wkcommon:widget\/belongToTob\/channel_entrance_logger\/logger.js","wkcore:widget\/adKnowledge\/getData.js","wkcommon:widget\/ui\/lib\/date\/date.js","wkcore:widget\/libs\/doT.min.js","wkcommon:widget\/lib\/fis\/data\/data.js","wkcore:widget\/adPz\/model.js"]},"wkcore:widget\/node_modules\/@baidu\/orion-monitor\/dist\/orion-monitor.umd.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/node_modules\/@baidu\/orion-monitor\/dist\/orion-monitor.umd_d7118a8.js"},"wkcommon:widget\/onElVisible\/common.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcommon\/widget\/onElVisible\/common_359dd31.js","deps":["wkcommon:widget\/ui\/lib\/jquery\/jquery.js","wkcommon:widget\/ui\/js_core\/log\/log.js"]},"wkcore:widget\/ui\/nsTypeMap\/nsTypeMap.js":{"url":"\/\/wkstatic.bdimg.com\/static\/wkcore\/widget\/ui\/nsTypeMap\/nsTypeMap_2b326f4.js","deps":["wkcommon:widget\/lib\/fis\/data\/data.js"]}},"pkg":[]});</script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ess/getEssQuery_6c107b8.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_npm_9cc6154.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_first_paint_cfdfaa7.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_index_cfae1d1.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/lib/ABTestTool/ABTestTool_4dba424.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_base_fadb04b.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/pkg/pkg_wkcommon_lib_76573a0.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/libs/doT.min_85676c7.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/lib/hxABtest/hxABtest_39c798e.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/commerce/fengchao/modelSearchTop_a64e214.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/node_modules/@baidu/el-visible/index_78461c4.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/belongToTob/channel_entrance_logger/logger_eead8a6.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/lib/ad/idMap_a6c5022.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/ui/lib/ad/dsp_ae8817b.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/node_modules/@baidu/orion-log/dist/orion-log.umd_f5826b7.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/pkg/pkg_search_d68b6b2.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/tb/ipDialog/ipDialog_9dfb11e.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcommon/widget/study/studyPopup/studyPopup_5508833.js"></script><script type="text/javascript" src="//wkstatic.bdimg.com/static/wkcore/widget/studyPopup/studyPopup_ce24d7f.js"></script><script type="text/javascript">
+!function(){            //service worker���ͳ��
+            require.async(['wkcommon:widget/ui/js_core/log/log.js'],function(Log){
+                try {
+                    function testMime (key, value) {
+                        var mimeTypes = navigator.mimeTypes;
+                        for (var i in mimeTypes) {
+                        if (mimeTypes[i][key] === value) {
+                            return true;
+                        }
+                        }
+                        return false;
+                    }
+                    if (navigator.userAgent.indexOf('Chrome') !== -1) {
+                        Log.xsend(1, 101033);
+                        if (navigator.mimeTypes) {
+                            if (testMime('type', 'application/vnd.chromium.remoting-viewer')) {
+                                Log.xsend(1, 101032);
+                            }
+                        }
+                    }
+                    if ('serviceWorker' in navigator && 'PushManager' in window) {
+                        Log.xsend(1, 101034);
+                    }
+                } catch (e) {
+
+                }
+            });
+        }();
+!function(){    var $ = require('wkcommon:widget/ui/lib/jquery/jquery.js');
+    var sessionX = require('wkcommon:widget/sessionX/sessionX.js');
+    var sessionXMgr = sessionX.sessionXMgr;
+    var urlParam = sessionXMgr.getUrlParam();
+    window.wkCommonLogParam = typeof window.wkCommonLogParam === 'object'
+        ? window.wkCommonLogParam : {};
+    $.extend(true, window.wkCommonLogParam, {
+        '_sessionx_url_param': JSON.stringify(urlParam),
+        // wutao06 t1272
+        t1272: '',
+        vip_type: '',
+                    is_vip: 0
+            });
+            }();
+!function(){require.async(['wkcommon:widget/lib/fis/data/data.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/user_bar/user_bar.js'], function(Data, $){
+    Data.set('isPgcPop', '');
+    $( '#reg' ).attr( 'href', 'https://passport.baidu.com/v2/?reg&tpl=do&u=' + encodeURIComponent( location.href ) );
+});
+}();
+!function(){    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/lib/fis/data/data.js', 'wkcore:widget/search/header/header.js'], function(T, Data){
+
+        var hotword = T.json.parse('[{\x22content\x22:\x22PPT\\u6a21\\u677f\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u7b80\\u5386\\u6a21\\u677f\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u623f\\u5c4b\\u79df\\u8d41\\u5408\\u540c\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u65b0\\u51a0\\u75ab\\u82d7\\u63a5\\u79cd\\u5fc5\\u5907\\u624b\\u518c\x22,\x22isnew\x22:\x220\x22},{\x22content\x22:\x22\\u6838\\u8f90\\u5c04\\u9632\\u62a4\\u77e5\\u8bc6\x22},{\x22content\x22:\x22\\u52b3\\u52a8\\u8282\x22}]');
+        Data.set('hotword', hotword);
+        var wkAdMid = '{\x22knowAd\x22:\x22100\x22,\x22ad\x22:\x22100\x22,\x22zyStr\x22:\x225\x22,\x22searchNewStyleStr\x22:\x220\x22,\x22viewFcReqStr\x22:\x22100\x22,\x22searchFcReqStr\x22:\x22100\x22,\x22newHxReqStr\x22:\x22100\x22,\x22viewToSearchReqStr\x22:\x22100\x22,\x22vipNoAd\x22:{\x22vipNoAd\x22:{\x22time\x22:\x220\x22},\x22vipNoAdDuiZhao\x22:{\x22flow\x22:\x220\\\/1\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\\\/8\\\/9\\\/10\x22,\x22time\x22:\x221440\x22}},\x22zhishiReqStr\x22:\x22100\x22,\x22zhishiSearchReqStr\x22:\x22100\x22,\x22zhishiView\x22:{\x22oldView\x22:{\x22flow\x22:\x221\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\\\/8\\\/9\\\/10\x22}},\x22searchAdTime\x22:{\x22together\x22:{\x22flow\x22:\x221\\\/15\x22},\x22adAfter\x22:{\x22flow\x22:\x2285\\\/100\x22}},\x22searchAdSwitch\x22:\x221\x22,\x22searchTopBottomAd\x22:{\x22top\x22:{\x22flow\x22:\x221\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\x22},\x22bottom\x22:{\x22flow\x22:\x228\\\/9\\\/10\x22}},\x22guid_to_university_na\x22:{\x22isopen\x22:\x22\x22}}';
+        var WkInfo = Data.get('WkInfo') || {};
+        WkInfo.WkAdInfo = WkInfo.WkAdInfo || {};
+        WkInfo.WkAdInfo.jiaoyuVipStime = +'';
+        WkInfo.WkAdInfo.wkAdMid = wkAdMid;
+        WkInfo.PageInfo = WkInfo.PageInfo || {};
+        WkInfo.PageInfo.pageNumber = +'1';
+    });
+}();
+!function(){    require.async('wkcore:widget/search/docToolPop/docToolPop.js', function (docToolPop) {
+        docToolPop('.doc-tool-pop-wrap');
+    });
+}();
+!function(){    require.async(['wkcore:widget/search/toolBox/toolBox.js'], function (toolBox) {
+        toolBox.init({
+            ele: '#tool-box',
+            searchQuery: $('#kw').val()
+        });
+
+    });
+
+}();
+!function(){    require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/js_core/login/login.js", "wkcommon:widget/ui/js_core/log/log.js"],function(n,e,o){e.login;o.xsend(1,"102950",{index:1}),n.event.on("upload","click",function(o){n.event.stop(o),e.login.verlogin(function(){location.href="/new?fr=search"},null,null,{fromMod:"upload"})}),$(".time-btn").on("click",function(){$(this).hasClass("time-btn-all")?($(this).removeClass("time-btn-all"),$(this).text("\u5168\u90e8\u5c55\u5f00>>"),$(".exam-time-box").css("height","171px")):($(this).text("\u5168\u90e8\u6536\u8d77>>"),$(this).addClass("time-btn-all"),$(".exam-time-box").css("height","451px"))
+});var i=$(".new-upload-btns");$(".upbox .content .upload").hover(function(){i.show()},function(){i.hide()}),i.hover(function(){i.show()},function(){i.hide()}),n.lang.eventCenter.addEventListener("syncUserInfo",function(e,o){var i=n.json.parse(o.data),s=i.data;if(0===i.status.code){var t=s.userInfo;t.isBusinessUser||$(".create-doc").css("display","inline-block"),t.isVideoProvider&&$(".upload-course").css("display","inline-block")}})});;
+}();
+!function(){    require.async('wkcore:widget/search/relateKnowledge/relateKnowledge.js', function (relateKnowledge) {
+        relateKnowledge.init({
+            ele: '.relate-knowledge',
+            searchQuery: $('#kw').val()
+        });
+    });
+}();
+!function(){    require.async(['wkcommon:widget/feedback/feedback.js'],function(feedback) {
+        $('.help-feedback').on('click', function () {
+            feedback.loadRightBar();
+        });
+    });
+}();
+!function(){        require.async('wkcore:widget/search/filterInner/filter.js');
+    }();
+!function(){    var query = '�ְ�����ѵ����ɡȴ���ڶ���ͷ��';
+    var wk_small = [];
+    var reg = new RegExp('(^|&)test_id=([^&]*)(&|$)');
+    var r = window.location.search.substr(1).match(reg);
+    if(r !== null) {
+        var testId = r[2];
+    }
+    var wkAdMid = '0';
+    var startTime = new Date().getTime();
+
+    // PCվ��ҳ��Ⱦ�߼�С���� С����������ģ������102745��λ�µ�
+    require.async(['wkcommon:widget/ui/lib/ABTestTool/ABTestTool.js', 'wkcommon:widget/ui/js_core/log/log.js'], function(ABtestTool, log){
+        try {
+            $('body').on('click', '.search-result > dl a', function (e) {
+                var resultIndex = $(e.target).data('index') || $(e.target).parent('a').data('index');
+                if (resultIndex || resultIndex === 0) {
+                    log.xsend(1, 102745, {
+                        type: 'click',
+                        uid: userId,
+                        index: resultIndex
+                    });
+                }
+            })
+            var wkAdMidJson = '{\x22knowAd\x22:\x22100\x22,\x22ad\x22:\x22100\x22,\x22zyStr\x22:\x225\x22,\x22searchNewStyleStr\x22:\x220\x22,\x22viewFcReqStr\x22:\x22100\x22,\x22searchFcReqStr\x22:\x22100\x22,\x22newHxReqStr\x22:\x22100\x22,\x22viewToSearchReqStr\x22:\x22100\x22,\x22vipNoAd\x22:{\x22vipNoAd\x22:{\x22time\x22:\x220\x22},\x22vipNoAdDuiZhao\x22:{\x22flow\x22:\x220\\\/1\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\\\/8\\\/9\\\/10\x22,\x22time\x22:\x221440\x22}},\x22zhishiReqStr\x22:\x22100\x22,\x22zhishiSearchReqStr\x22:\x22100\x22,\x22zhishiView\x22:{\x22oldView\x22:{\x22flow\x22:\x221\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\\\/8\\\/9\\\/10\x22}},\x22searchAdTime\x22:{\x22together\x22:{\x22flow\x22:\x221\\\/15\x22},\x22adAfter\x22:{\x22flow\x22:\x2285\\\/100\x22}},\x22searchAdSwitch\x22:\x221\x22,\x22searchTopBottomAd\x22:{\x22top\x22:{\x22flow\x22:\x221\\\/2\\\/3\\\/4\\\/5\\\/6\\\/7\x22},\x22bottom\x22:{\x22flow\x22:\x228\\\/9\\\/10\x22}},\x22guid_to_university_na\x22:{\x22isopen\x22:\x22\x22}}';
+            wkAdMidJson = (wkAdMidJson && JSON.parse(wkAdMidJson)) || {};
+            var searchAdTime = wkAdMidJson.searchAdTime;
+            var renderShiyan = searchAdTime && searchAdTime.together && searchAdTime.together.flow;
+            var userId = ABtestTool.getTestBaiDuID(100);
+            if (renderShiyan && +userId >= +renderShiyan.split('/')[0]
+                && +userId <= +renderShiyan.split('/')[1]) {
+            }
+            else {
+                $('.search-result').show();
+                var endTime = new Date().getTime();
+                log.xsend(1, 102745, {
+                    type: 'show',
+                    uid: userId,
+                    renderTime: endTime - startTime,
+                });
+            }
+        } catch (error) {
+            $('.search-result').show();
+            var endTime = new Date().getTime();
+            log.xsend(1, 102745, {
+                type: 'show',
+                uid: userId,
+                renderTime: endTime - startTime,
+            });
+        }
+    });
+
+    require.async(["wkcommon:widget/ui/lib/jquery/jquery.js", "wkcore:widget/search/fengchao/monitor.js", 'wkcore:widget/search/fengchao/dsp.js'], function($, M, dsp){
+
+        var ele = '#fengchaoad';
+        dsp.dspData(M, query, startTime, wk_small);
+    });
+}();
+!function(){    require.async('wkcore:widget/search/woniuCard/woniuCard.js', function (WoniuCard) {
+        new WoniuCard();
+    });
+}();
+!function(){	require.async(['wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/ui/js_core/log/log.js'],function($, log){
+		
+		log.xsend(1, 100162);
+
+		// ����ж��Ƿ�ΪƵ��ҳ����ӵ��ͳ��
+		// ƥ��adurl��"fr=2"�ֶΣ����ֶ�Ϊ��Ӫ����urlʱ��ӵ�Ƶ��ҳ��Դ���
+		var channelUrlReg = /adurl=[^&]*fr%3D2/;
+
+		$('body').on('click', '.topicLog', function(){
+			log.xsend(1, 100163);
+		});
+		$('body').on('click', '.topicTitle', function(){
+			log.xsend(1, 101068, {'searchQuery': '�ְ�����ѵ����ɡȴ���ڶ���ͷ��'});
+			if (('' + $(this).attr('href')).match(channelUrlReg)) {
+				log.xsend(1, 101137, {
+					index: 2
+				});
+			}
+		});
+		$('body').on('click', '.topicTag', function(){
+			log.xsend(1, 100164);
+			if (('' + $(this).attr('href')).match(channelUrlReg)) {
+				log.xsend(1, 101137, {
+					index: 3
+				});
+			}
+		});
+		
+	});
+}();
+!function(){    var query = '�ְ�����ѵ����ɡȴ���ڶ���ͷ��';
+    require.async(["wkcommon:widget/ui/js_core/log/log.js", "wkcommon:widget/ui/lib/jquery/jquery.js", "wkcore:widget/node_modules/@baidu/el-visible/index.js", 'wkcore:widget/libs/doT.min.js', 'wkcore:widget/search/topRecommendAd/dspTestAd/dspTestAd.js'], function(log, $, elVisible, doT, topRecommendAd){
+        var ele = '#top-recommend-dsp-ad';
+        var slotId = '47';
+        // DSPǨ���ڼ䣬����xpage��棬�滻�˹��λ
+        topRecommendAd(log, $, elVisible, doT, topRecommendAd, ele, slotId);
+    });
+}();
+!function(){    // �ĵ���ǩչʾ��� wkcommon ��suggestion.js�Ѿ�ע�ᣬֱ�Ӵ����Ϳ���
+    require.async(['wkcommon:widget/lib/tangram/base/base.js', 'wkcommon:widget/onElVisible/common.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcommon:widget/ui/js_core/log/log.js'], function (T, Common, $, Log) {
+        var tagArr = [];
+        var docIdArr = [];
+                                docIdArr.push('8509924501');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('�ҵİְ�');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('7654336570');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('�ְ�����');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('6497945775');
+                                docIdArr.push('9665345557');
+                                docIdArr.push('9680773087');
+                                docIdArr.push('8359367341');
+                                docIdArr.push('7690333976');
+                                docIdArr.push('7068443203');
+                                docIdArr.push('8509924501');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('�ְ�����');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('6708262642');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('���꼶');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('3521232582');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('���׽�');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('12299921255');
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('�ҵİְ�');
+                        }
+                                                                                if (tagArr.length < 15) {
+                            tagArr.push('����');
+                        }
+                                                            docIdArr.push('8519867644');
+                var getPn = function() {
+            var ret = /pn=([^&]*)/.exec(location.href);
+            if (!ret || !ret[1] || +ret[1] === 0 || ret[1] % 10 !== 0 || isNaN(ret[1] / 10)) {
+                return 1;
+            }
+            return (ret[1] / 10) + 1;
+        };
+        var getChannel = function(url) {
+            var ret =  /fr=([^&]*)/.exec(url);
+            var fr = ret && ret[1] || '';
+            var arr = fr.split('-');
+            var from = arr.length > 0 && arr[2] || 'ps';
+            return from.indexOf('income') < 0 ? from : 'ps';
+        }
+        $(window).load(function () {
+            T.lang.eventCenter.dispatchEvent('tagShowLog', {
+                data: tagArr,
+                lodActId: 101030,
+                index: 9
+            });
+            $('.logFirstClickTime .act-xsend', $('.main')).each(function (index, el) {
+                var paramObj = {};
+                if ($(this).data('edocid')) {
+                    paramObj['docId'] = $(el).data('edocid');
+                }
+                paramObj['page_number'] = '1';
+                paramObj['small_flow_flag'] = '4';
+                paramObj['index'] = index;
+                paramObj['price_data'] = $(el).data('flag');
+                paramObj['screenTestType'] = '0';
+                paramObj['smallflowTestId'] = '';
+                paramObj['pcSearchRebuild'] = '';
+                paramObj['pcSearchStyleTestType'] = '0';
+                paramObj['searchQuery'] = encodeURIComponent( '�ְ�����ѵ����ɡȴ���ڶ���ͷ��' );
+                var docUrl = $(el).attr('href') || '';
+                paramObj['from'] = getChannel(docUrl);
+                paramObj['pn'] = getPn();
+                paramObj['doc_series'] = $(el).closest('dl').find('.att-doc').length;
+                paramObj['qualityScoreFlow'] = '';
+                var totalFlag = 0;
+                                    totalFlag = 1;
+                                paramObj['totalFlag'] = totalFlag;
+                Common.onAutoActElVisibleParams(this, 101774, paramObj);
+                if (totalFlag) {
+                    Log.xsend(1, 102935, paramObj);
+                }
+                Log.xsend(1, 102961, paramObj);
+            });
+            // ��������б�ǩ��VIP ר���չ��PV/UV
+            $('.ico-vip-special').each(function (index, el) {
+                Common.onAutoActElVisibleParams(this, 101875, {index: index});
+                // ��������б�ǩ��VIP ר������ PV/UV
+                $(el).on('click', function () {
+                    Log.xsend(1, 101876, {index: index});
+                });
+            });
+            // ��������б�ǩ�����ҡ�չ��PV/UV
+            $('.ico-excl').each(function (index, el) {
+                Common.onAutoActElVisibleParams(this, 102803, {index: index});
+                // ��������б�ǩ�����ҡ���� PV/UV
+                $(el).on('click', function () {
+                    Log.xsend(1, 102807, {index: index});
+                });
+            });
+            // ��������б�ǩ��VIP��ѡ�չ��PV/UV
+            $('.ico-vip').each(function (index, el) {
+                Common.onAutoActElVisibleParams(this, 102804, {index: index});
+                // ��������б�ǩ��VIP��ѡ���� PV/UV
+                $(el).on('click', function () {
+                    Log.xsend(1, 102806, {index: index});
+                });
+            });
+        });
+        Log.xsend(1, 102185, {
+            index: 'show',
+            item: +'1',
+            hasAnyTagShowedInSearch: +'1'
+        });
+        // �ļ����ͳ��
+        (function() {
+            var $docpack = $('.wj-tip-wrap');
+            var docpack = [];
+            function visible(el) {
+                var rect = el.getBoundingClientRect();
+                var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+                console.log(rect.bottom, rect.top);
+                return !(rect.bottom < 0 || rect.top - viewHeight >= 0);
+            }
+
+            var watch = function() {
+                for (var i = 0; i < docpack.length; i++) {
+                    if (docpack[i].show) {
+                        continue;
+                    }
+                    var $item = $(docpack[i].dom);
+                    if (visible($item[0])) {
+                        docpack[i].show = true;
+                        Log.xsend(1, 102620, {
+                            type: 'show',
+                            pn: getPn(),
+                            packId: $item.data('packId'),
+                            index:  $item.data('index')
+                        });
+                    }
+                }
+            };
+
+            $docpack.on('click', function() {
+                var $target = $(this);
+                Log.xsend(1, 102620, {
+                    type: 'click',
+                    pn: getPn(),
+                    packId: $target.data('packId'),
+                    index:  $target.data('index')
+                });
+            });
+
+            $(window).on('scroll', watch);
+
+            for (var i = 0; i < $docpack.length; i++) {
+                docpack.push({
+                    show: false,
+                    dom: $docpack[i]
+                });
+            }
+            watch();
+        })();
+    });
+
+    require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/lib/jquery/jquery.js", "wkcommon:widget/ui/js_core/log/log.js", "wkcommon:widget/ui/lib/cookie/cookie.js", "wkcommon:widget/lib/doT/doT.min.js", "wkcommon:widget/ui/js_core/xform/xform.js", "wkcommon:widget/lib/fis/data/data.js", "wkcommon:widget/ui/js_core/login/login.js"],function(e,n,a,s,i,t,r,o){var c="�ְ�����ѵ����ɡȴ���ڶ���ͷ��";t.getJSON("wenku_search_mode_2019",{success:function(e){if(e&&(e.cardone||e.cardtwo)){var s=!1;if(n(document).on("click",".search-card-link",function(){var e=n(".search-card-link").attr("data-logid");
+a.xsend(1,102020,{index:e})}),e.cardone&&e.cardone.length)for(var t=0;t<e.cardone.length;t++)for(var r=e.cardone[t].query.split(","),o=0;o<r.length;o++)if(r[o]===c)return n(".search-mode-wrap").html(i.template('<div class="mode-wrap01 clearfix">\n<a href="{{= it.link01}}" class="search-card-link" data-logid="{{= it.logid}}" target="_blank">\n<div class="searchMode01">\n<span class="banner01"><img src="{{= it.picUrl01}}"/></span>\n<h3 class="title-01">{{= it.header01}}</h3>\n<p class="text-info-01">{{= it.info01}}</p>\n<span class="btn-more-01">\u4e86\u89e3\u670d\u52a1</span>\n<span class="user-number-01">{{= it.number01}}</span>\n</div>\n</a>\n</div>')({picUrl01:e.cardone[t].picurl,header01:e.cardone[t].header,info01:e.cardone[t].info,number01:e.cardone[t].number,link01:e.cardone[t].link,logid:e.cardone[t].logid})),a.xsend(1,102019,{index:e.cardone[t].logid}),s=!0,!1;
+if(!s&&e.cardtwo&&e.cardtwo.length)for(var l=0;l<e.cardtwo.length;l++)for(var d=e.cardtwo[l].query.split(","),u=0;u<d.length;u++)if(d[u]===c)return n(".search-mode-wrap").html(i.template('<div class="mode-wrap02 clearfix">\n<a href="{{= it.link02}}" class="search-card-link" data-logid="{{= it.logid}}" target="_blank">\n<div class="searchMode02">\n<h3 class="h3"><span class="group-icon"></span><span class="yellow">\u767e\u5ea6\u6587\u5e93VIP\u4e13\u5c5e</span><span class="blue">-{{= it.header02}}</span></h3>\n<div class="banner02"><img src="{{= it.picUrl02}}"/></div>\n<a class="link-address" href="{{= it.link02}}" target="_blank">{{= it.more}}></a>\n</div>\n</a>\n</div>')({picUrl02:e.cardtwo[l].picurl,header02:e.cardtwo[l].header,link02:e.cardtwo[l].link,logid:e.cardtwo[l].logid,more:e.cardtwo[l].more})),a.xsend(1,102019,{index:e.cardtwo[l].logid}),s=!0,!1
+}}}),n(".search-result").delegate(".ico-convert","click",function(){var e=n(this),s="https://wenku.baidu.com/cashier/browse/jiaoyuvipcashier?cashier_code=tagsearch_convert",i=r.get("WkInfo"),t=i.PageInfo;if(a.xsend(1,102068,{}),t.isLogin){var c=window.wenkuDatavipInfo||{};window.open(c.isVip?"/view/"+e.data("edocid")+".html?fr=search&isbtn=1&convert=1":s)}else o.login.verlogin(function(){})});var l="",d="";+l>0&&a.xsend(1,100099,{num:l});var u="0";
+1===+u&&a.xsend(1,100106);var p=function(){var e=/pn=([^&]*)/.exec(location.href);return e&&e[1]&&0!==+e[1]&&e[1]%10===0&&!isNaN(e[1]/10)?e[1]/10+1:1};a.xsend(1,100140,{hitQueryOptFirst:"",optFirstType:"",testId:"",searchQuery:encodeURIComponent("�ְ�����ѵ����ɡȴ���ڶ���ͷ��"),pn:p(),smallflowTestId:"",pcSearchRebuild:"",screenTestType:"0",pcSearchStyleTestType:"0"}),n(".search-result").delegate(".toggle-more","click",function(){var e=n(this),s=e.html(),i=e.siblings(".att-doc-list"),t=i.find("ul").height()+6;
+return e.hasClass("toggle-more-up")?(e.removeClass("toggle-more-up").html(s.replace("\u5168\u90e8\u6536\u8d77","\u67e5\u770b\u5168\u90e8")),i.animate({height:"75px"},260),a.xsend(1,100100,{index:-2,act:"toggle"})):(e.addClass("toggle-more-up").html(s.replace("\u67e5\u770b\u5168\u90e8","\u5168\u90e8\u6536\u8d77")),i.animate({height:t+"px"},260),a.xsend(1,100100,{index:-1,act:"toggle"})),!1}),n(".import-log").on("click",function(){var e=n(this).attr("data-source")-2;a.xsend(1,100088,{index:e});var s=+n(this).attr("data-index")+1;
+a.xsend(1,100089,{index:s})}),n(".searchAdvLink").on("click",function(){var e="0";701===+e?a.xsend(1,100154,{index:+n(this).attr("data-index")+1}):702===+e?a.xsend(1,100155,{index:+n(this).attr("data-index")+1}):a.xsend(1,100156,{index:+n(this).attr("data-index")+1})}),n(".searchTopic").on("click",function(){a.xsend(1,100165,{index:+n(this).attr("data-index")+1})}),n(".org_search").on("click",function(){a.xsend(1,100341)}),n(".gongwen").length&&a.xsend(1,100231),n(".gongwen").on("click",function(){a.xsend(1,100232)
+});var h=location.href.split("&");h.length>1&&(h=h[h.length-1],h=h.split("="),h="pn"===h[0]?+h[h.length-1]:0),n(".orgDocLink").length&&0===h&&a.xsend(1,100255),n(".orgDocLink").on("click",function(){0===h&&a.xsend(1,100256,{index:+n(this).attr("data-index")+1})}),n(".video-ad").on("click",function(){n.ajax({type:"get",url:"//wenku.baidu.com/org/interface/setnativeadcount?ad_id="+d,dataType:"json",success:function(){}})});var f=n(".onlydoc_log");f.on("mousedown",function(){a.xsend(1,100176,{query:encodeURIComponent("�ְ�����ѵ����ɡȴ���ڶ���ͷ��"),only:0,plan:1})
+}),f.length&&a.xsend(1,100177,{query:encodeURIComponent("�ְ�����ѵ����ɡȴ���ڶ���ͷ��"),only:0});var g={init:function(e){var a=this,s=e?e:a.getQueryString("word"),i=n(".search-result dl").eq(3),t=n(".search-result dl").eq(-1),r=[i,t];a.getVideoInfo({word:s},a.insertBeforeDom(r,a.getVideoTpl)),a.initEvent()},initEvent:function(){n(".search-result").on("click",".show-allvideos",function(e){var a=n(e.target),s=a.closest(".allvideos");n(".video-thelast",s).slideToggle(function(){var e=n(".show-allvideos",s);e.is(".on")?e.text("\u67e5\u770b\u5168\u90e8").removeClass("on").addClass("off"):e.text("\u6536\u8d77").removeClass("off").addClass("on")
+})})},getQueryString:function(e){var n=new RegExp("(^|&)"+e+"=([^&]*)(&|$)","i"),a=window.location.search.substr(1).match(n);return null!=a?unescape(a[2]):null},getVideoInfo:function(e,a){n.ajax({url:"/search/wenkuvideosearch",data:e}).then(a)},insertBeforeDom:function(e,a){return function(s){if(0===+s.status.code&&0!==s.data.length){var i=s.data;n.each(i,function(n,s){e[n]&&e[n].before(a(s))})}}},getVideoTpl:function(e){var a=e.qualityScore>4?"fc99":"";return["<dl>",'<dt class="logFirstClickTime mb6 clearfix">','<p class="fl">','<span title="doc" class="ic ic-video"></span>',"<a",' href="'+e.url+'?from=search"',' title="'+e.title+'"',' target="_blank"',' data-docid=""',' class="log-xsend tiaoquan  searchAdvLink orgDocLink"',' data-index="4"',' data-logxsend="[1, 100055, {}]"',">",e.title,"</a>","</p>",'<p class="fr quality-score">',function(){return e.qualityScore?['<span class="ib">\u8d28\u91cf</span>','<span class="value f18 pr2 ib '+a+'">'+e.qualityScore+"</span>",'<span class="ib score">\u5206</span>'].join(""):['<span class="score">\u6682\u65e0\u8bc4\u5206</span>'].join("")
+}(),"</p>","</dt>",'<dd class="clearfix">','<div class="summary-box video fl">','<a class="videlImg fl mr14" href="'+e.url+'">','<img src="'+e.thumbImg+'" alt="'+e.title+'" width="120" height="82">',"</a>",'<div class="detail fl lh21 detail-video">',"<p>",'<span class="under-none c0000cc ml-6 tag-video" href="'+e.url+'">\u3010\u89c6\u9891\u3011</span>','<span class="c15">\u65f6\u957f: '+e.duration+"</span>",function(){return e.courseList.length>0?['<span class="ce3 ml8 bde3 course-duration">'+e.courseNum+"\u8bfe\u65f6</span>"].join(""):void 0
+}(),"</p>",'<p class="c555 h44 mt5">',function(){if(e.description)return e.description;var a=[];return n.each(e.crumbs,function(e,n){a.push(n.name)}),a.join('<span class="divider-arrow">></span>')}(),"</p>",'<p class="lh1">',function(){return 0===e.courseList.length?["<span>"+e.courseNum+"\u8bfe\u65f6</span> | "].join(""):void 0}(),"<span>"+e.playTimes+"\u4eba\u89c2\u770b</span><i>&nbsp;|&nbsp;</i>","<span>\u8d21\u732e\u673a\u6784: </span>",'<span href="">'+e.orgName+"</span>","</p>","</div>","</div>","</dd>",function(){return e.courseList.length>0?['<dd class="clearfix">','<div class="allvideos mt20 fs14">','<p class="fs14">\u5168\u5957\u89c6\u9891</p>',"<ul>",function(){var a=[];
+return n.each(e.courseList,function(e,n){e>=3||a.push(['<li class="clearfix lh1 mt14">','<a class="fl c0000cc" href="'+n.url+'">',n.title,"</a>",'<span class="fr course-duration">',n.duration,"</span>","</li>"].join(""))}),a.join("")}(),"</ul>",'<ul class="video-thelast">',function(){var a=[];return n.each(e.courseList,function(e,n){e>=3&&a.push(['<li class="clearfix lh1 mt14">','<a class="fl c0000cc" href="'+n.url+'">',n.title,"</a>",'<span class="fr course-duration">',n.duration,"</span>","</li>"].join(""))
+}),a.join("")}(),"</ul>",'<p class="mt14 c999">','<span class="show-allvideos off">\u67e5\u770b\u5168\u90e8</span>',"</p>","</div>","</dd>"].join(""):void 0}(),"</dl>"].join("")}};g.init("�ְ�����ѵ����ɡȴ���ڶ���ͷ��"),n(".search-result").on("mousedown","dl .search-download",function(){var e={page:"search",pos:"non-first"};a.xsend(101592,e)})});;
+
+}();
+!function(){    require.async(["wkcommon:widget/ui/lib/jquery/jquery.js", "wkcommon:widget/ui/js_core/log/log.js", "wkcommon:widget/feedback/feedback.js", "wkcommon:widget/ui/lib/cookie/cookie.js"],function(e,o,n,i){var c=i.get("wk_searchAdv");e(".help-feedback-js").on("click",function(){n.loadRightBar()}),e(".page-content a").on("click",function(n){n.preventDefault(),o.xsend(1,100141),1===c&&o.xsend(1,100130),2===c&&o.xsend(1,100132);var i=location.host+location.pathname+e(this).attr("href");i="//"+i,setTimeout(function(){window.location.href=i
+},100)})});;
+}();
+!function(){                require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/js_core/log/log.js"],function(e,n){var r=e.dom,t=e.dom.q("logFirstClickTime"),o=!0,i=new Date;e.array.each(t,function(r){e.event.on(r,"click",function(){o&&(n.send("search","firstClickTime",{time:new Date-i}),o=!1)})}),e.array.each(r.query('.filter .order-type[order-vlaue="0"]'),function(n){var r="0";4>+r&&e.event.on(n,"click",function(n){e.event.preventDefault(n)})})});;
+            }();
+!function(){    require.async(['wkcore:widget/studyPopup/studyPopup.js'], function (studyPopup) {
+        studyPopup.init({
+            'orgid': '',
+            'orgname': '',
+            'shouldpop': +'',
+            'docid': '',
+            'pagetype': 'search',
+            'xpageSwitch': +'1'
+        });
+    });
+}();
+!function(){        require.async(["wkcommon:widget/lib/tangram/base/base.js", "wkcommon:widget/ui/js_core/log/log.js", "wkcommon:widget/ui/lib/jquery/jquery.js"],function(o,e,t){var n=o.dom.g("leadToPs");n&&o.event.on("leadToPs","click",function(){e.send("search","go_ps_search",{subType:"outsite"})});var i="0";i>=3&&e.xsend(1,100087),t(".filter-btn").on("click",function(){var o=this;e.xsend(1,100090),setTimeout(function(){location.href="http://"+location.host+t(o).attr("log-info")},100)})});;
+    }();
+!function(){    require.async(["wkcommon:widget/360tip/360tip.js"],function(e){var r=e.showTopTip,t={referer:""};new r(t).create()});;
+}();
+!function(){        var perf = require('wkcommon:widget/performance/performance.js');
+        perf.sendPerformanceLog({
+            index: 'search'
+        });
+        window.wkCommonLogParam = typeof window.wkCommonLogParam === 'object'
+            ? window.wkCommonLogParam : {};
+        window.relatedKnowledge = '1';
+        $.extend(true, window.wkCommonLogParam, {
+            page: 'search'
+        });
+    }();
+!function(){        require.async(['wkcommon:widget/ui/js_core/log/log.js', 'wkcommon:widget/ui/lib/jquery/jquery.js', 'wkcore:widget/ui/nsTypeMap/nsTypeMap.js', 'wkcore:widget/search/adaptWideScreen/adaptWideScreen.js', 'wkcommon:widget/vipNoAdDialog/vipNoAdDialog.js', 'wkcommon:widget/ui/lib/cookie/cookie.js'], function (log, $, n, adaptWideScreen, NoAdDialog, Cookies) {
+            if ($('.ad-vip-close-bottom').length > 0) {
+                $('.ad-vip-close-bottom').on('click', function () {
+                    new NoAdDialog();
+                });
+            }
+            var getPn = function() {
+                var ret = /pn=([^&]*)/.exec(location.href);
+                if (!ret || !ret[1] || +ret[1] === 0 || ret[1] % 10 !== 0 || isNaN(ret[1] / 10)) {
+                    return 1;
+                }
+                return (ret[1] / 10) + 1;
+            };
+            // �����Ƽ�ʵ��չ�� PV/UV
+            log.xsend(1, 102954, {
+                index: '',
+                type: '',
+                qualityScoreFlow: '',
+                pn: getPn(),
+                relatedKnowledge: '1',
+                showVipIcon: ''
+            });
+            var vipTest = '' || '';
+            var userInfo = JSON.parse('{\x22uid\x22:\x220\x22,\x22isVip\x22:\x22\x22,\x22is_edu_vip\x22:\x220\x22,\x22is_jiaoyu_vip\x22:\x220\x22,\x22enterprise_type\x22:\x228\x22,\x22isBusinessUser\x22:\x220\x22,\x22smallFlowProfessionalDoc\x22:\x221\x22,\x22sf_svip\x22:\x222111\x22}');
+            var isVip = 0;
+            if (userInfo.isVip
+                || userInfo.is_edu_vip === '1'
+                || userInfo.is_jiaoyu_vip === '1') {
+                isVip = 1;
+            }
+            // ����ɸѡ�VIP ר���չ�� PV/UV
+            log.xsend(1, 101873, {
+                jingpin_vip_test: vipTest,
+                isVip: isVip
+            });
+            adaptWideScreen.run();
+            // ҳ��չ��pv����KPI
+            log.send('key', 'view', {
+                page: 'search',
+                action: 'pc_pv'
+            });
+            
+            if ($('.hoilday-search').length) {
+                log.xsend(1, 100612);
+            }
+            var $overnight = $('.overnight');
+            if ($overnight.length > 0) {
+                log.xsend(1, 101010, {
+                    index: 0
+                });
+            }
+
+            $('.overnight a').on('click', function () {
+                log.xsend(1, 101010, {
+                    index: 1
+                });
+            });
+        });
+        // �������Ա����
+                    require.async(['wkcore:widget/search/searchAdv/searchAdv.js']);
+        
+        // ����ʶͫ
+        window['__abbaidu_2030_subidgetf'] = function () {
+            var subid = 'wenkucps'; // ���Ȳ�����40���ַ�����
+            return subid;
+        };
+        window['__abbaidu_2030_cb'] = function (data) {
+            // �������ݽ����ʹ����
+            var obj = $.parseJSON(data);
+            Cookies.set('bcat', obj.data, {
+                path: '/'
+            });
+        };
+        $.getScript('https://dlswbr.baidu.com/heicha/mw/abclite-2030-s.js');
+    }();
+</script></html>
