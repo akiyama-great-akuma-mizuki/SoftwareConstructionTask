@@ -1,0 +1,11 @@
+C:\Users\84125\source\repos\homework8\homework8\bin\Debug\homework8.exe.config
+C:\Users\84125\source\repos\homework8\homework8\bin\Debug\homework8.exe
+C:\Users\84125\source\repos\homework8\homework8\bin\Debug\homework8.pdb
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.Form1.resources
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.Properties.Resources.resources
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.exe
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.pdb
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.CreateOrder.resources
+C:\Users\84125\source\repos\homework8\homework8\obj\Debug\homework8.ModifyOrder.resources
