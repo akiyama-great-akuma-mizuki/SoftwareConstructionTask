@@ -1,0 +1,58 @@
+<html !DOCTYPE>
+<head>
+    <meta charset="GBK">
+    <title>order management</title>
+</head>
+<body>
+
+    <h1>欢迎！</h1>
+    <h1>Welcome!</h1>
+    <h1>ようこそ！</h1>
+    <h3>Get</h3>
+    <ul>
+        <li>'https://localhost:5001/api/order/' + 'OrderID'</li>
+        <li>'https://localhost:5001/api/order?' + 'user = xxx'</li>
+    </ul>
+    <h3>Post</h3>
+    <ul>
+        <li>'https://localhost:5001/api/order/'</li>
+    </ul>
+    <pre><code>
+            {
+                "Id":*,
+                "User":
+                    {
+                        "Name" : *,
+                        "Address" : *
+                    },
+                "OrderDetails":
+                    [
+                        {
+                            "OrderDetailsId" : *,
+                            "OrderId" : *,
+                            "PId" : *,
+                            "Count" : *,
+                            "info" : *
+                        }
+                    ]
+            }
+        </code></pre>
+    <h3>Put</h3>
+    <ul>
+        <li>'https://localhost:5001/api/order/' + 'OrderId'</li>
+    </ul>
+    <pre><code>
+            {
+                "OrderDetailsId" : *,
+                "OrderId" : *,
+                "PId" : *,
+                "Count" : *,
+                "info" : *
+            }
+</code></pre>
+    <h3>Delete</h3>
+    <ul>
+        <li>'https://localhost:5001/api/order/' + 'OrderId'</li>
+    </ul>
+</body>
+</html>
